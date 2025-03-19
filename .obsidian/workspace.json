@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Niềm tin, diễn ngôn/Phải nghe hết hai chiều đã.md",
+                "file": "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Thông tin cho đại lý.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Phải nghe hết hai chiều đã"
+              "title": "Thông tin cho đại lý"
             }
           },
           {
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "058d2be84526927e",
@@ -301,9 +302,11 @@
   },
   "active": "e56a6dc808a0c07a",
   "lastOpenFiles": [
+    "📜Tài nguyên/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Niềm tin, diễn ngôn.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Phải nghe hết hai chiều đã.md",
     "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo tính chất công việc/~syncthing~Làm trực tuyến.md.tmp",
     "📜Tài nguyên/Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Phải nghe hết hai chiều đã.md",
     "📜Tài nguyên/Các công ty không kiểm tra được mình có đi làm ở công ty khác không.md",
     "📜Tài nguyên/Đối thoại với doanh nghiệp.md",
     "📜Tài nguyên/~syncthing~Đối thoại với doanh nghiệp.md.tmp",
@@ -330,13 +333,11 @@
     "⚡Hiểu biết sâu/❓Tại sao các công ty không giúp người bán hàng phát triển.md",
     "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Bảo Việt.md",
     "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay không điểm tín dụng (app đen)/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
     "~syncthing~Không xem đây là đe dọa, mà là đánh vào nỗi sợ.md.tmp",
     "📐Dự án/Chạy chỉ tiêu/Sàn thương mại",
     "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md.tmp",
     "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~template.md.tmp",
     "📐Dự án/Chạy chỉ tiêu/~syncthing~Chạy chỉ tiêu.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Thông tin cho người cho vay.md.tmp",
     "Ξ Thiết lập/Ảnh/Đặc điểm của TVV mới.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250122171929.png",
     "Ξ Thiết lập/Ảnh/Tháp áp lực, tháp huy động, tháp người thân.png",

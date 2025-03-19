@@ -15,3 +15,14 @@
 	    at async verifyRateLimitAPI (plugin:obsidian-mkdocs-publisher:27:85666)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:212:1220)
 
+3/19/2025, 3:23:00 PM [debug]: 
+	[object Object]
+
+3/19/2025, 3:23:01 PM [error]: 
+	Cannot read properties of undefined (reading 'status')
+		Type    at GithubBranch.checkRepository (plugin:obsidian-mkdocs-publisher:52:30766)
+	    at async checkRepositoryValidityWithProperties (plugin:obsidian-mkdocs-publisher:27:84470)
+	    at async shareAllEditedNotes (plugin:obsidian-mkdocs-publisher:52:42932)
+	    at async uploadAllEditedNotes (plugin:obsidian-mkdocs-publisher:52:42001)
+	    at async Object.callback (plugin:obsidian-mkdocs-publisher:52:41786)
+
