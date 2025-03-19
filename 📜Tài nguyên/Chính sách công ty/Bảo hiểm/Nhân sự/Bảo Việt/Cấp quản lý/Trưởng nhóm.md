@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2024-12-03T13:54
-updated: 2025-01-11T12:43
+updated: 2025-02-11T14:41
 ---
 ## Tuyển luyện trưởng nhóm
-| IP của TVV m tại tháng xét | Tỷ lệ (× FYC TVVm tại tháng xet) |
+| IP của TVV m tại tháng xét | Tỷ lệ (× FYC TVVm tại tháng xét) | 
 | -------------------------- | -------------------------------- |
 | ≥ 24 tr                    | 25%                              |
-| 12 - 24 tr                 | 20%                                 |
+| 12 - 24 tr                 | 20%                              |
 
 Thù lao tối thiểu 1 tr/TVVm
 
@@ -36,3 +36,6 @@ Nếu tvv mình tuyển trực tiếp thì được nhận 100%. Nếu là do tt
 | 100            | 18%   |
 | 50             | 15%   |
 | < 50 tr        | 10%   |
+
+## Ví dụ
+Tháng 2 có 4 tvv

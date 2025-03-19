@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-16T21:10
-updated: 2025-01-14T17:09
+updated: 2025-01-23T08:35
 ---
 Tiêu chí của việc chọn đồ ăn là ngon, bổ, rẻ. Tuy nhiên không có thứ nào có được cả 3, mà ta thường chỉ chọn được 2. Trong trường hợp tạo ra sản phẩm thì ngon, bổ, rẻ sẽ là:
 - tiết kiệm thời gian,
@@ -15,3 +15,4 @@ Trong trường hợp đang phải vay nợ thì sẽ không có nhiều tiền 
 [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên]]
 
 Sự huy động năng lượng chỉ hữu ích trong một thời gian ngắn, chứ không phải là cảnh cortisol thường xuyên
+[[Áp lực giết chết sự sáng tạo]]

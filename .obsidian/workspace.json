@@ -4,67 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "6361962a79f12067",
+        "id": "6aec87068bc80ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "384cecbbe1919f8c",
+            "id": "9cd99bef1f42a67c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô.md",
+                "file": "📜Tài nguyên/Đối thoại với doanh nghiệp.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô"
+              "title": "Đối thoại với doanh nghiệp"
             }
           },
           {
-            "id": "58fbf5cfe69e5923",
+            "id": "616c670c3c7c0c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-                "mode": "preview",
+                "file": "📜Tài nguyên/Các công ty không kiểm tra được mình có đi làm ở công ty khác không.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "3 Ý tưởng"
+              "title": "Các công ty không kiểm tra được mình có đi làm ở công ty khác không"
             }
           },
           {
-            "id": "5bed76f41b1841c1",
+            "id": "e262da8a703beccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Quản lý nhà nước/Bảo hiểm/Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm.md",
+                "file": "📜Tài nguyên/Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm"
+              "title": "Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc"
             }
           },
           {
-            "id": "15d0068efe9e9b06",
+            "id": "e56a6dc808a0c07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng.md",
+                "file": "📜Tài nguyên/Niềm tin, diễn ngôn/Phải nghe hết hai chiều đã.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Tổ chức tín dụng"
+              "title": "Phải nghe hết hai chiều đã"
+            }
+          },
+          {
+            "id": "3c244712634d0ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Chạy chỉ tiêu/Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình"
+            }
+          },
+          {
+            "id": "0f886291f74beb0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/động lực ép chỉ tiêu của ác công ty.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "động lực ép chỉ tiêu của ác công ty"
             }
           }
         ],
@@ -87,7 +171,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -99,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hệ thống chồng chéo lên nhau.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,6 +286,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,54 +299,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15d0068efe9e9b06",
+  "active": "e56a6dc808a0c07a",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Vay có điểm tín dụng (công ty tài chính).md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Bên cho vay sẽ có bảo hiểm cho vay.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Các công ty có nhiều cách để trốn thuế.md",
-    "📜Tài nguyên/Quản lý nhà nước/Bảo hiểm/Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Lừa đảo hội lừa đảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo tính chất công việc/Làm trực tuyến.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng/Biết lập trình.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Ngân hàng, điểm tín dụng/Điểm tín dụng/Việc cấp thẻ tín dụng phụ thuộc vào việc có bảo hiểm xã hội hoặc bảo hiểm nhân thọ hay không, chứ không phải là bảng lương.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng (công ty tài chính)/Cho vay ngang hàng kết nối trực tiếp người đi vay với người cho vay mà không thông qua các tổ chức trung gian tài chính.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng (công ty tài chính)/Bên cho vay sẽ có bảo hiểm cho vay.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Cho vay theo nhóm đảm bảo không bị quịt hơn.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Cho vay theo nhóm đảm bảo không bị quịt hơn.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Luật/Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Luật/Lách luật là phạm luật một cách đúng luật.md",
-    "📜Tài nguyên/Chính sách công ty/Thu hồi nợ/Khách mời ra cà phê thì sợ người nhà biết. Khách mời vào nhà nhưng nói nhỏ nhẹ thì sợ hàng xóm biết. Khách làm nghề giáo, công an thì sợ cơ quan biết.md",
-    "📜Tài nguyên/Cảnh giác lừa đảo/Gọi món ăn đắt.md",
-    "📜Tài nguyên/Cảnh giác lừa đảo/Cảnh giác lừa đảo.md",
-    "📜Tài nguyên/Cảnh giác lừa đảo",
-    "📜Tài nguyên/New folder",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo tính chất công việc/~syncthing~Làm trực tuyến.md.tmp",
+    "📜Tài nguyên/Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Phải nghe hết hai chiều đã.md",
+    "📜Tài nguyên/Các công ty không kiểm tra được mình có đi làm ở công ty khác không.md",
+    "📜Tài nguyên/Đối thoại với doanh nghiệp.md",
+    "📜Tài nguyên/~syncthing~Đối thoại với doanh nghiệp.md.tmp",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu, lợi ích của khách hàng/CEO của một công ty bảo hiểm ở Mỹ bị bắn chết. Hung thủ trở thành anh hùng của nhân dân.md",
+    "📜Tài nguyên/Quà tặng/Đối thoại với doanh nghiệp.md",
+    "📜Tài nguyên/Quà tặng/~syncthing~Đối thoại với doanh nghiệp.md.tmp",
+    "📜Tài nguyên/Quà tặng/Untitled.sync-conflict-20250318-220809-KEIORUM.md",
+    "📜Tài nguyên/Quà tặng/~syncthing~Untitled.sync-conflict-20250318-220809-KEIORUM.md.tmp",
+    "📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Kế hoạch/Untitled.md",
+    "📜Tài nguyên/Quà tặng/~syncthing~Untitled.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Tuyển luyện tính theo số thưởng cho tvv mới.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/động lực ép chỉ tiêu của ác công ty.md",
+    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Bảo Việt.md",
+    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Prudential.md",
+    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Thông tin cho đại lý.md",
+    "⚡Hiểu biết sâu/Kinh tế/Người không được đáp ứng nhu cầu sẽ không function tốt trong xã hội.md",
+    "⚡Hiểu biết sâu/Kinh tế/Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ  tạo ra cầu.md",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Smartpay/Quản lý/RSM chỉ gây áp lực mồm cho ASM về việc ngăn nhân viên chạy ảo, chứ không gây áp lực qua KPI.md",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Smartpay làm ảo tốt hơn. VNPAY làm thiệt tốt hơn.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Giữ tiền hộ.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
+    "📜Tài nguyên/Quản lý nhà nước/Luật cấm rút tiền mặt tại cửa hàng để tránh việc rửa tiền.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
+    "⚡Hiểu biết sâu/❓Tại sao các công ty không giúp người bán hàng phát triển.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Bảo Việt.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay không điểm tín dụng (app đen)/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+    "~syncthing~Không xem đây là đe dọa, mà là đánh vào nỗi sợ.md.tmp",
+    "📐Dự án/Chạy chỉ tiêu/Sàn thương mại",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~template.md.tmp",
+    "📐Dự án/Chạy chỉ tiêu/~syncthing~Chạy chỉ tiêu.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Thông tin cho người cho vay.md.tmp",
+    "Ξ Thiết lập/Ảnh/Đặc điểm của TVV mới.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250122171929.png",
+    "Ξ Thiết lập/Ảnh/Tháp áp lực, tháp huy động, tháp người thân.png",
+    "Ξ Thiết lập/Ảnh/Phân tích, làm rõ, cô lập, phản hồi.png",
     "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/ca1ac4d9-6ebf-457d-8d19-fd62e7e6577d.jpg",
     "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/a25ebc40-2bfb-462d-a8e8-42b9cc3ae76f.jpg",
     "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
     "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
     "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
     "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0b29df8d-d8b2-4699-933e-a6e82bc1621f.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang",
-    "Ξ Thiết lập/Ảnh/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
-    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
-    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
-    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
-    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang",
-    "Ξ Thiết lập/Ảnh/New folder",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Chính sách cho đại lý/2024",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Chính sách cho đại lý/New folder",
-    "Ξ Thiết lập/PDF/Đáp án các bài kiểm tra của FE.xlsx",
-    "Ξ Thiết lập/PDF/Testbank - PROBATION (1).xlsx",
-    "Ξ Thiết lập/Ảnh/Bảo hiểm/Thịnh An Phát",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

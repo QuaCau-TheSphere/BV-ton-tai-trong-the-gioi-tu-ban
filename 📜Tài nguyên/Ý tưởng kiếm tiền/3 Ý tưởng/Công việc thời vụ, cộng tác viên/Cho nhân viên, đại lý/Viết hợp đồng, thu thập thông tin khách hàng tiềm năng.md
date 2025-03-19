@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-27T16:34
+updated: 2025-02-11T23:15
 ---
-Liên hệ:: [[Nguyễn Hữu Lộc|Nguyễn Hữu Lộc – 0783865410]]
+Yêu cầu đầu vào:: [[Làm trực tuyến]]
+Hình thức:: [[Việc làm thời vụ, theo dự án]]
 ## Viết hợp đồng
 ## Dò sđt cửa hàng trong app 
 - **Yêu cầu:** ghi thông tin cửa hàng ra theo mẫu có sẵn

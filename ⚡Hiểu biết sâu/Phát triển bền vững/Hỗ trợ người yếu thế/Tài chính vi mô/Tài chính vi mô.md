@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2025-01-15T23:25
+updated: 2025-01-29T18:26
 alias: quỹ tín dụng vi mô
 ---
 Khái niệm:: 

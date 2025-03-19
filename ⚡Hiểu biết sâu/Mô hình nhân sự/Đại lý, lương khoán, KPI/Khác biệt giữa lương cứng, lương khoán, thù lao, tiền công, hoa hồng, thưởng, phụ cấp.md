@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-01T22:58
-updated: 2025-01-11T14:36
+updated: 2025-02-11T14:57
 alias: Các hình thức trả tiền cho lao động
 ---
 |                     | Lương cứng | Lương khoán | Thù lao, tiền công                                                                            | Hoa hồng         | Thưởng | Phụ cấp |

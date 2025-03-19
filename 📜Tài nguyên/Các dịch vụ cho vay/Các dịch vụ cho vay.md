@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-01-14T18:51
+updated: 2025-01-29T18:25
 ---
 Nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này.
 
@@ -9,11 +9,10 @@ Nếu bạn tìm được một người có thể đưa tiền cho bạn mượ
 Bài chi tiết:: [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
 
 ## Từ tổ chức
-### Vì người yếu thế
-Cơ bản đây là các [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô|quỹ tín dụng vi mô]]:
-- [[Quỹ Tình Thân]]           
-- [[CEP]]                     
-- [[Ngân hàng chính sách xã hội]] 
+### Vì người yếu thế (các [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô|quỹ tín dụng vi mô]])
+- [[Quỹ Tình Thân]]
+- [[CEP]]
+- [[Ngân hàng chính sách xã hội]]
 
 ### Ví trả sau
 |           | Số tiền rút lần đầu | Điều kiện |
@@ -27,17 +26,17 @@ Cơ bản đây là các [[Huy động nguồn tiền nhàn rỗi, lập quỹ t
 ### Tổ chức tài chính
 Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa chỉ thủ công. Đã nhập rồi nhưng vẫn cứ phải làm lại
 
-|             | Số tiền rút lần đầu | Lãi | Thời hạn |
-| ----------- | ------------------- | --- | -------- |
-| FE Credit   |                     |     |          |
-| Home Credit |                     |     |          |
-| Fundiin     |                     |     |          |
-| TNEX        |                     |     |          |
-| Kredivo     |                     |     |          |
-| EasyCredit  |                     |     |          |
-| Mcredit     |                     |     |          |
-| Cake        |                     |     |          |
-| HDSaison    |                     |     |          |
+|               | Số tiền rút lần đầu | Lãi | Thời hạn |
+| ------------- | ------------------- | --- | -------- |
+| [[FE Credit]] |                     | 55% |          |
+| Home Credit   |                     |     |          |
+| Fundiin       |                     |     |          |
+| TNEX          |                     |     |          |
+| Kredivo       |                     |     |          |
+| EasyCredit    |                     |     |          |
+| Mcredit       |                     |     |          |
+| Cake          |                     |     |          |
+| HDSaison      |                     |     |          |
 
 - Khi bị app từ chối duyệt thì phải đợi mấy tháng mới cho nộp lại
 - Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [[Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel]]

@@ -1,11 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-<<<<<<< HEAD
-updated: 2025-01-11T12:34
-=======
-updated: 2024-11-18T23:33
->>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
+updated: 2025-02-24T14:43
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -46,7 +42,7 @@ Giờ thì khoẻ, ổng mới mệt.
 Nghèo đa chiều, ko phải là VN không ai chết đói, chỉ là nghèo đa chiều.
 Ba anh còn từng đưa người nghèo ra nước ngoài. Hát ko phải là vui, vì đó là cách giải quyết của họ. Ko tiếp cận được yoga, chánh niệm. Người làng mai chưa chắc là giàu. 
 làm với người nghèo kinh doanh ko đc đâu
-[[Vì người yếu thế]], ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai bão lũ, khẩn cấp thì phải giao về mặt trận tổ quốc
+[[Vì người yếu thế|Dịch vụ cho vay vì người yếu thế]], ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai bão lũ, khẩn cấp thì phải giao về mặt trận tổ quốc
 Người mượn quỹ CEP 
 
 Nếu họ có bằng đại học và trên 26 tuổi thì càng tốt. Nếu họ không muốn đi bán hợp đồng thì họ sẽ được đẩy hợp đồng xuống và được trả thù lao 10 tr/tháng. Cơ bản thì đây là một hình thức tuyển dụng đại lý ảo đã có từ lâu và em thấy có lợi cho tất cả các bên. Qua thảo luận thì em thấy những người có tiềm năng tham gia nhất là những người nghèo. Anh nghĩ sao về điều này?

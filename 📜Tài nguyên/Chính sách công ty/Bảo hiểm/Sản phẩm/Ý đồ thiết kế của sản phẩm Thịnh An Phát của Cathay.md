@@ -3,7 +3,7 @@ share: true
 created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 alias: Thịnh An Phát
-updated: 2025-01-17T22:21
+updated: 2025-01-19T22:50
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -20,11 +20,11 @@ Số tiền bạn đóng vào tối thiểu là 30 triệu, tối đa là 10 t�
 
 ## Ý đồ thiết kế 
 ### Giúp nhà đầu tư trữ tiền chờ đầu tư
-- Linh hoạt hơn ngân hàng
+- Linh hoạt như ngân hàng
 - Lãi gần bằng ngân hàng 
-- An toàn hơn ngân hàng
+- An toàn như ngân hàng
 
-#### Linh hoạt hơn ngân hàng
+#### Linh hoạt như ngân hàng
 Đáo hạn từ 3 đến 5 năm khá là bất bình thường. Làm gì có cái sản phẩm bảo hiểm nhân thọ nào đáo hạn nhanh đến thế? Bạn có thể kiểm chứng điều này trên [TheBank](https://thebank.vn/bao-hiem-nhan-tho.html), trang liệt kê các sản phẩm tài chính đang có ở Việt Nam. Cái này giống như một cuốn sổ tiết kiệm thì đúng hơn; bạn quăng vào một cục tiền, tới lúc đáo hạn thì cầm về, cộng với một chút lãi để bù cho lạm phát.
 
 Nhưng nó hơn sổ tiết kiệm thật ở chỗ bạn không bị khoá sổ. Giả sử ban đầu bạn có một số tiền và bạn muốn sinh lời từ nó sau 3 năm:
@@ -38,7 +38,7 @@ Còn với sản phẩm này thì bạn vẫn có thể **vay lại đến 85% m
 
 Chính vì điều này nên nó sẽ tối ưu cho những ai muốn dùng tiền để đầu tư cho những việc khác. Bạn không bị chôn tiền ở đây. Nó có tính thanh khoản. 
 
-Tất nhiên, bạn cũng có thể tránh việc chôn tiền khi mở sổ tiết kiệm bằng cách tạo thẻ tín dụng liên kết với sổ. Tuy nhiên lãi của thẻ tín dụng sẽ cao hơn, và cũng không chắc bạn được cấp hạn mức 85% tiền gốc như ở đây. Bạn cũng có thể xào thẻ hoặc dùng dịch vụ đảo nợ để tận dụng khoảng thời gian miễn lãi 30 ngày đầu cho những đợt đảo nợ, tuy nhiên bạn sẽ cần có nhiều thẻ hoặc chịu phí 2%.
+Tất nhiên, bạn cũng có thể tránh việc chôn tiền khi mở sổ tiết kiệm bằng cách tạo thẻ tín dụng liên kết với sổ. Một số ngân hàng chắc chắn sẽ cấp thẻ cho bạn với hạn mức đến 90% số tiền trong sổ. Tuy nhiên lãi của thẻ tín dụng sẽ cao hơn. Để tận dụng khoảng thời gian miễn lãi 30 ngày đầu, bạn cũng có thể xào thẻ hoặc dùng dịch vụ đảo nợ, tuy nhiên bạn sẽ cần có nhiều thẻ hoặc chịu phí 2%.
 
 #### Lãi gần bằng ngân hàng 
 ##### Khi chưa có khuyến mãi
@@ -65,8 +65,13 @@ Tại sao con số 250 triệu lại được chọn? Vì ở mức này thì kh
 
 Hay nói cách khác, bạn sẽ được nhận một phần lãi ngay lập tức sau khi mua. (Thực ra là sau 3 tuần đến 1 tháng, nhưng cũng có thể xem là ngay lập tức.)
 
-#### An toàn hơn ngân hàng
-Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+### An toàn như ngân hàng
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([[Ngân hàng không thể nào sụp, vì nếu một ngân hàng sụp thì nó làm mất uy tín của cả ngành|dù điều đó là không thể]]), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+
+
+
+
+
 
 ### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
 Bài chi tiết: [[Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm|Tại sao doanh nghiệp khi mua bảo hiểm nohân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?]].
@@ -104,11 +109,15 @@ Không lẽ anh Nguyên Ngọc chịu mất tiền?
 Một bạn nhắn: Trường hợp của bác Nguyên Ngọc, hãy liên hệ vp công chứng nơi bác đang ở làm thủ tục khai nhận di sản và nhờ họ làm văn bản xác minh tình trạng hôn nhân, nhân thân như mẫu này là được ạ. Thông tin bình luận trên trang cá nhân có thể do chưa hiểu quy định, chưa biết cách làm (kể cả cơ quan nhà nước) dẫn đến tiêu cực.
 
 
-<div id="main" style="width: 100%; height: 500px"></div>
 ## Phản hồi với một số lập luận giới thiệu
-> Đây là cánh cửa duy nhất để những người có vấn đề sức khoẻ được mua bảo hiểm
-
+### Đây là cánh cửa duy nhất để những người có vấn đề sức khoẻ được mua bảo hiểm?
 Cathay vẫn có những sản phẩm nhân thọ không cần đi khám
+
+### An toàn hơn ngân hàng?
+[[Ngân hàng không thể nào sụp, vì nếu một ngân hàng sụp thì nó làm mất uy tín của cả ngành]]
+
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+
 
 
 Bạn **không cần khám sức khoẻ** khi mua gói này. Gói này được thiết kế để giống như sổ tiết kiệm, mà bạn đâu cần đi khám sức khoẻ mới được làm sổ. Điều này khiến nó trở thành 

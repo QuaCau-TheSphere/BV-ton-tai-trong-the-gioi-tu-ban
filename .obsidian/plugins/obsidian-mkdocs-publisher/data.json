@@ -37,11 +37,11 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 5000
+        "rateLimit": 0
       }
     ],
     "verifiedRepo": true,
-    "rateLimit": 4414
+    "rateLimit": 0
   },
   "upload": {
     "behavior": "obsidian",
