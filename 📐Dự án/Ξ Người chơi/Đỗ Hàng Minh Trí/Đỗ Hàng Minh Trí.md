@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T23:01
-updated: 2025-01-22T17:05
+updated: 2025-03-22T23:29
 ---
 ## Tại sao bạn bị nợ? 
 Tin tưởng một người nên đứng ra vay cho họ. Họ mất khả năng trả nên không trả mình. Nhưng vẫn muốn trả cho người khác
@@ -86,7 +86,7 @@ Lúc đó sẽ bị trách là chỉ nghĩ cho bản thân, hoặc nhân danh
 
 Trong lúc cần kíp như này thì sao ko làm giống cathay? Khi nào tạm ổn thì quay lại việc gặp người khác có chất lượng hơn? 
 
-Nếu [[Áp lực tạo nên kim cương]], thì Tại sao lại phải nhờ tới anh? 
+Nếu [[Áp lực tạo kim cương]], thì Tại sao lại phải nhờ tới anh? 
 Tại sao lại bảo hết tháng 11 không được thì phải về? 
 
 ## [[📐Dự án/Ξ Người chơi/Đỗ Hàng Minh Trí/Văn phòng HCM1]]

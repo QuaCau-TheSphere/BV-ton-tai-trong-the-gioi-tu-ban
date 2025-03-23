@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T13:36
-updated: 2024-11-13T18:28
+updated: 2025-03-22T18:13
 filename: Tỉ lệ khuyết tật của người 16 tuổi trở lên là 5.59％ ở thành thị, 8.36％ ở nông thôn
 ---
 

@@ -1,28 +1,9 @@
-3/19/2025, 9:52:07 AM [info]: 
-	[Obsidian Enveloppe] v.7.5.0 (lang: en) loaded.
-	* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
-	* See here: https://developer.chrome.com/docs/devtools/console/reference#network
-
-3/19/2025, 9:52:07 AM [error]: 
+3/24/2025, 3:29:49 PM [error]: 
 	Cannot read properties of undefined (reading 'length')
-		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:27:82834)
-	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:27:83967)
-	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:212:1137)
+		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:37:9602)
+	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:37:10843)
+	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:220:1172)
 
-3/19/2025, 9:52:08 AM [error]: 
-	Bad credentials - https://docs.github.com/rest
-		Http    at fetchWrapper (plugin:obsidian-mkdocs-publisher:22:30072)
-	    at async verifyRateLimitAPI (plugin:obsidian-mkdocs-publisher:27:85666)
-	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:212:1220)
-
-3/19/2025, 3:23:00 PM [debug]: 
-	[object Object]
-
-3/19/2025, 3:23:01 PM [error]: 
-	Cannot read properties of undefined (reading 'status')
-		Type    at GithubBranch.checkRepository (plugin:obsidian-mkdocs-publisher:52:30766)
-	    at async checkRepositoryValidityWithProperties (plugin:obsidian-mkdocs-publisher:27:84470)
-	    at async shareAllEditedNotes (plugin:obsidian-mkdocs-publisher:52:42932)
-	    at async uploadAllEditedNotes (plugin:obsidian-mkdocs-publisher:52:42001)
-	    at async Object.callback (plugin:obsidian-mkdocs-publisher:52:41786)
+3/24/2025, 3:29:49 PM [info]: 
+	You are not rate limited. You can make 3936 requests before the limit is reset at 4:05:41 PM.
 

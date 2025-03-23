@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-11T10:17
-updated: 2024-09-16T00:05
+updated: 2025-03-22T21:54
 ---
 Một tổ chức đáng làm là một tổ chức tạo được động lực nội sinh ở nhân viên, chứ không phải dùng động lực ngoại sinh để thúc đẩy hoạt động (tạo động lực thông qua thưởng/phạt). Một người sẽ có động lực nội sinh khi:
 
@@ -13,3 +13,4 @@ Nguồn:: [Mô hình động lực của Daniel Pink](https://www.gamehoa.org/p/
 Câu hỏi:: [[❓Tại sao một công việc có ý nghĩa là không đủ để một người quyết định sẽ làm, mà còn phải có cả việc tự quyết định và thấy mình tiến bộ hơn]]
 
 [[Một nhóm đáng tin là nhóm mà các thành viên có thể nói lên sai lầm của mình]]
+[[❓Nếu công việc có ý nghĩa cho mình và mọi người lại là điều kiện cần để có động lực nội sinh, thì tại sao các nhà tư bản lại có động lực đó]]

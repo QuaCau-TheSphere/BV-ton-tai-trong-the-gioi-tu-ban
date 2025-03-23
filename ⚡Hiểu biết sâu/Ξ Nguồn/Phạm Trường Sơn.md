@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-02-24T14:43
+updated: 2025-03-22T18:11
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
-2. Kiểm định các [[Giả thiết về nguồn tuyển dụng]] (nghe ý kiến về phần đầu tiên của câu hỏi)
+2. Kiểm định các [[Giả thiết về nguồn tuyển dụng cho Cathay]] (nghe ý kiến về phần đầu tiên của câu hỏi)
 3. Kiểm định các [[Giả thiết về nguồn khách hàng tiềm năng]] (nghe ý kiến về phần tiếp theo của câu hỏi)
 4. Hiểu về các nhu cầu phát sinh trong quá trình vận hành SNPO
 5. Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
@@ -27,7 +27,7 @@ nên cũng ko còn mặn mà. Tụi em còn trẻ chứ anh thì già rồi. Có
 các bạn mời anh thì tham gia thôi
 chung sống thì phỏng vấn. anh ko tổ chức gì hết. MLUTV nằm trong hộ đồng cố vấn
 
-### Kiểm định các [[Giả thiết về nguồn tuyển dụng]] (nghe ý kiến về phần đầu tiên của câu hỏi)
+### Kiểm định các [[Giả thiết về nguồn tuyển dụng cho Cathay]] (nghe ý kiến về phần đầu tiên của câu hỏi)
 Vấn đề hiện tại của bọn em là hiện tại có một số người làm vị trí quản lý trong ngành bảo hiểm muốn nhờ em giúp tuyển dụng những người sẵn sàng:
 - Tham gia các lớp học về bảo hiểm (có trả thù lao 1 tr sau tháng làm việc đầu tiên) và thi đậu chứng chỉ đại lý bảo hiểm đầu vào
 - Đi chấm công buổi sáng trên công ty liên tục trong 3 tháng
