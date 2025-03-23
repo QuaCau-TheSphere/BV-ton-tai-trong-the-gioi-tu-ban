@@ -1,11 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-<<<<<<< HEAD
-updated: 2025-01-11T12:34
-=======
-updated: 2024-12-24T22:34
->>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
+updated: 2025-03-22T16:57
 ---
 Khái niệm:: 
 

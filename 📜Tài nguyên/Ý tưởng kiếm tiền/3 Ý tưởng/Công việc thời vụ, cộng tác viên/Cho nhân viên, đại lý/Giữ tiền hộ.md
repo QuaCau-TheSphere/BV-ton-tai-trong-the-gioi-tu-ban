@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-02-03T12:27
-updated: 2025-02-12T12:48
+updated: 2025-03-20T14:48
+alias: chạy ảo GM Mall
 ---
 Yêu cầu đầu vào:: [[Có tài khoản ngân hàng]], [[Làm trực tuyến]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]

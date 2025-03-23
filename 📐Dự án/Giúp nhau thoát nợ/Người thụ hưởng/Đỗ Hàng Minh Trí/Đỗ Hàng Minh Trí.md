@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T23:01
-updated: 2025-01-22T17:05
+updated: 2025-03-22T23:29
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -27,7 +27,11 @@ Phải [[App vay nóng|vay nóng]]
 
 ## Các cách xoay sở
 ### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
-Đa
+Hiện tại đang làm [[Đại lý bán hàng]] cho Cathay. Công việc 
+[[Tuyển dụng cho Cathay]]
+[[Giả thiết về nguồn tuyển dụng cho Cathay]]
+
+Các ý tưởng khác đều có thứ bị mắc kẹt
 ### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
 ### Bạn đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
 ### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ app đen]] không? Vì sao?
@@ -43,7 +47,7 @@ Phải [[App vay nóng|vay nóng]]
 ### Bạn đã nhận được những sự hỗ trợ nào rồi?
 
 ## Năng lực xoay sở
-### Bạn nghĩ sao về quan điểm [[áp lực tạo nên kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
+### Bạn nghĩ sao về quan điểm [[Áp lực tạo kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
 ### Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?
 ### Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
 
@@ -54,9 +58,6 @@ Phải [[App vay nóng|vay nóng]]
 ### Bạn có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô]] không?
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
-
-[[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
-
 
 [kendy.blog](https://dohangminhtri.com/)
 

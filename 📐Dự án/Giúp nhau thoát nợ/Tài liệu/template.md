@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:27
-updated: 2025-01-22T17:05
+updated: 2025-03-22T23:29
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -22,7 +22,7 @@ updated: 2025-01-22T17:05
 ### Bạn có chấp nhận ra khỏi thành phố sống không? Vì sao?
 
 ## Năng lực xoay sở
-### Bạn nghĩ sao về quan điểm [[áp lực tạo nên kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
+### Bạn nghĩ sao về quan điểm [[Áp lực tạo kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
 ### Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?
 ### Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
 

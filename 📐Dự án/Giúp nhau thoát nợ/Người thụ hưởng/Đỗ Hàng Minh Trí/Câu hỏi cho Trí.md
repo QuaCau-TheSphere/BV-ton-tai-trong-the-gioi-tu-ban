@@ -1,8 +1,8 @@
 ---
 created: 2025-01-14T18:40
-updated: 2025-01-27T00:12
+updated: 2025-03-22T23:29
 ---
-Nếu không phải là cho vay nặng lãi thì sao lại sợ bị kiện? 
+Nếu không phải là cho vay nặng lãi thì sao lại sợ việc kiện họ? 
 
 Tại sao xem là họ lừa mình?
 
@@ -55,7 +55,7 @@ Lúc đó sẽ bị trách là chỉ nghĩ cho bản thân, hoặc nhân danh
 
 Trong lúc cần kíp như này thì sao ko làm giống cathay? Khi nào tạm ổn thì quay lại việc gặp người khác có chất lượng hơn? 
 
-Nếu [[Áp lực tạo nên kim cương]], thì Tại sao lại phải nhờ tới anh? 
+Nếu [[Áp lực tạo kim cương]], thì Tại sao lại phải nhờ tới anh? 
 Tại sao lại bảo hết tháng 11 không được thì phải về? 
 
 

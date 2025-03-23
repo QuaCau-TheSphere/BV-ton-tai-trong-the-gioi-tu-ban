@@ -1,11 +1,7 @@
 ---
 share: true
 created: 2024-09-30T21:05
-<<<<<<< HEAD
-updated: 2025-01-11T12:34
-=======
-updated: 2024-12-09T20:33
->>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
+updated: 2025-03-22T16:39
 ---
 Khái niệm:: 
 Cùng với một khoảng thời gian, nếu làm thật sẽ kiếm được nhiều tiền hơn.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6aec87068bc80ee0",
+        "id": "3b3ab4fa7988feb4",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd99bef1f42a67c",
+            "id": "a452b12fcdf8a460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Đối thoại với doanh nghiệp.md",
+                "file": "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Đối thoại với doanh nghiệp"
-            }
-          },
-          {
-            "id": "616c670c3c7c0c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Các công ty không kiểm tra được mình có đi làm ở công ty khác không.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Các công ty không kiểm tra được mình có đi làm ở công ty khác không"
-            }
-          },
-          {
-            "id": "e262da8a703beccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc"
-            }
-          },
-          {
-            "id": "e56a6dc808a0c07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Thông tin cho đại lý.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thông tin cho đại lý"
-            }
-          },
-          {
-            "id": "3c244712634d0ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình"
-            }
-          },
-          {
-            "id": "0f886291f74beb0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/động lực ép chỉ tiêu của ác công ty.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "động lực ép chỉ tiêu của ác công ty"
+              "title": "Chạy chỉ tiêu"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hệ thống chồng chéo lên nhau.",
+                "query": "airtab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "058d2be84526927e",
@@ -287,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -296,58 +175,57 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "open-vscode:VSCode": false
     }
   },
-  "active": "e56a6dc808a0c07a",
+  "active": "a452b12fcdf8a460",
   "lastOpenFiles": [
-    "📜Tài nguyên/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Niềm tin, diễn ngôn.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Phải nghe hết hai chiều đã.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo tính chất công việc/~syncthing~Làm trực tuyến.md.tmp",
-    "📜Tài nguyên/Việc tẩy chay của tôi không phải là một phép tính kinh tế, mà là một cách tự bảo vệ về mặt cảm xúc.md",
-    "📜Tài nguyên/Các công ty không kiểm tra được mình có đi làm ở công ty khác không.md",
-    "📜Tài nguyên/Đối thoại với doanh nghiệp.md",
-    "📜Tài nguyên/~syncthing~Đối thoại với doanh nghiệp.md.tmp",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu, lợi ích của khách hàng/CEO của một công ty bảo hiểm ở Mỹ bị bắn chết. Hung thủ trở thành anh hùng của nhân dân.md",
-    "📜Tài nguyên/Quà tặng/Đối thoại với doanh nghiệp.md",
-    "📜Tài nguyên/Quà tặng/~syncthing~Đối thoại với doanh nghiệp.md.tmp",
-    "📜Tài nguyên/Quà tặng/Untitled.sync-conflict-20250318-220809-KEIORUM.md",
-    "📜Tài nguyên/Quà tặng/~syncthing~Untitled.sync-conflict-20250318-220809-KEIORUM.md.tmp",
-    "📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Kế hoạch/Untitled.md",
-    "📜Tài nguyên/Quà tặng/~syncthing~Untitled.md.tmp",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Tuyển luyện tính theo số thưởng cho tvv mới.md",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/động lực ép chỉ tiêu của ác công ty.md",
-    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Bảo Việt.md",
-    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Prudential.md",
-    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Thông tin cho đại lý.md",
-    "⚡Hiểu biết sâu/Kinh tế/Người không được đáp ứng nhu cầu sẽ không function tốt trong xã hội.md",
-    "⚡Hiểu biết sâu/Kinh tế/Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ  tạo ra cầu.md",
-    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Smartpay/Quản lý/RSM chỉ gây áp lực mồm cho ASM về việc ngăn nhân viên chạy ảo, chứ không gây áp lực qua KPI.md",
-    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Smartpay làm ảo tốt hơn. VNPAY làm thiệt tốt hơn.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Giữ tiền hộ.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
-    "📜Tài nguyên/Quản lý nhà nước/Luật cấm rút tiền mặt tại cửa hàng để tránh việc rửa tiền.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
-    "⚡Hiểu biết sâu/❓Tại sao các công ty không giúp người bán hàng phát triển.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Bảo Việt.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
-    "~syncthing~Không xem đây là đe dọa, mà là đánh vào nỗi sợ.md.tmp",
-    "📐Dự án/Chạy chỉ tiêu/Sàn thương mại",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~template.md.tmp",
-    "📐Dự án/Chạy chỉ tiêu/~syncthing~Chạy chỉ tiêu.md.tmp",
-    "Ξ Thiết lập/Ảnh/Đặc điểm của TVV mới.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250122171929.png",
-    "Ξ Thiết lập/Ảnh/Tháp áp lực, tháp huy động, tháp người thân.png",
-    "Ξ Thiết lập/Ảnh/Phân tích, làm rõ, cô lập, phản hồi.png",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/ca1ac4d9-6ebf-457d-8d19-fd62e7e6577d.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/a25ebc40-2bfb-462d-a8e8-42b9cc3ae76f.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0b29df8d-d8b2-4699-933e-a6e82bc1621f.jpg",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình.md",
+    "📐Dự án/Giúp nhau thoát nợ/Giúp nhau thoát nợ.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bản câu hỏi cho người muốn người giới thiệu ngồi cùng với chứ không phải chỉ là giới thiệu.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Kế hoạch/Kế hoạch.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Bảo hiểm.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Làm nhân sự ảo.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Bản câu hỏi cho người cần được hỗ trợ thoát nợ.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Nhà đầu tư cho các công ty tài chính cần tiền được lưu thông.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Chỉ có những ai không tìm được công việc khác thì mới muốn nhận nghề bán hàng, chứ những nghề khác hấp dẫn hơn.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Giả thiết/Giả thiết về nguồn tuyển dụng cho Cathay.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển dụng cho Cathay.md",
+    "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân viên.md",
+    "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Áp lực doanh số.md",
+    "📜Tài nguyên/Quà tặng/Bao nuôi.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Trung gian tài chính/Quẹt dơ/Câu hỏi thường gặp.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Công ty ra chính sách khó không đơn thuần là vì tham tiền, mà còn có thể vì muốn rửa tiền.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Câu hỏi thường gặp.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Thu hồi nợ/FE Credit/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Thu hồi nợ/FE Credit/❓Nếu khách thiện chí đóng 100k thì thế nào.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Tín dụng phi ngân hàng/FE.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Công ty, đại lý, hợp đồng/❓Ngay cả chính các công ty bảo hiểm cũng không dùng bảo hiểm để làm phúc lợi cho nhân viên của mình.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Trung gian tài chính/Quẹt dơ/Script.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Trung gian tài chính/Quẹt dơ",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Trung gian tài chính",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân viên thật/New folder",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Sàn thương mại",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân viên thật/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Kiếm khách",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Nghiên cứu người dùng/Người khuyết tật",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Nghiên cứu người dùng",
+    "Ξ Thiết lập/Ảnh/photo_4_2025-03-22_19-46-34.jpg",
+    "Ξ Thiết lập/Ảnh/photo_3_2025-03-22_19-46-34.jpg",
+    "Ξ Thiết lập/Ảnh/photo_2_2025-03-22_19-46-34.jpg",
+    "Ξ Thiết lập/Ảnh/photo_1_2025-03-22_19-46-34.jpg",
+    "Ξ Thiết lập/Ảnh/photo_3_2025-03-22_19-44-52.jpg",
+    "Ξ Thiết lập/Ảnh/photo_2_2025-03-22_19-44-52.jpg",
+    "Ξ Thiết lập/Ảnh/photo_1_2025-03-22_19-44-52.jpg",
+    "Ξ Thiết lập/Ảnh/1705770381055.png",
+    "Ξ Thiết lập/Ảnh/1705770374571.png",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/0566 396 858/Nguyễn Hữu Hào/photo_4_2025-03-21_22-50-19.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]
