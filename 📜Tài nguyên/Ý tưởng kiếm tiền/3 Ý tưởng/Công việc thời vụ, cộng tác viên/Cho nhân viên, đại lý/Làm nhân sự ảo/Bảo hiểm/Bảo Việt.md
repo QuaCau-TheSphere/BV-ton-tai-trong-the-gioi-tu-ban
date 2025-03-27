@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2025-03-23T23:09
+updated: 2025-03-25T22:39
 ---
+# Làm đại lý ảo Bảo Việt
 ## Học 
 - [ ] Học cơ bản: 5 buổi trong 3 ngày
 - [ ] Học sản phẩm: 4 buổi trong 2 ngày
@@ -23,4 +24,4 @@ Xem thêm:: [[Đại lý]]
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa
 - [[📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/Bảo hiểm/Thông tin cho đại lý]]
 
-Bài chi tiết: [[Làm đại lý bảo hiểm ảo]]
+Bài chi tiết: [[📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm]]

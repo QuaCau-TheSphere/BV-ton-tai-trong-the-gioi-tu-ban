@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2025-03-23T18:02
+updated: 2025-03-25T22:40
 alias:
   - Kiếm tiền nhanh
   - Kiếm dự án thuê ngoài
@@ -25,6 +25,7 @@ title: Một số ý tưởng kiếm tiền
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
 FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên" 
 WHERE file.name != this.file.name
+WHERE !contains(file.folder, "ảo" )
 ```
 
 ## Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện

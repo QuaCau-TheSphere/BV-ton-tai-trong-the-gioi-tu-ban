@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-03-23T18:37
+updated: 2025-03-25T23:59
 alias:
   - Nhóm chạy chỉ tiêu (KPI) cho nhân sự
   - Nhóm thuê ngoài (outsource) cho nhân sự
@@ -16,14 +16,13 @@ alias:
 
 Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân sự", "nhóm thuê ngoài (outsource) cho nhân sự", "nhóm làm các công việc thời vụ (freelancer)", "nhóm cộng tác viên cho nhân sự", "nhóm nhân sự ảo", "nhóm trợ lý cho nhân sự" đều được. Nhóm chuyên làm những việc sau:
 
-- Bảo hiểm:
-    - [[Tuyển dụng cho Cathay]]
-    - [[Kiếm khách]]
-- Trung gian thanh toán:
-    - [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo]]
-    - [[Viết hợp đồng, thu thập thông tin khách hàng tiềm năng]]
-    - [[Đổi tiền, chụp hình biển hiệu, dán mã QR]]
-
+Danh sách các công việc:
+```dataview
+LIST rows.file.link
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý"
+GROUP BY split(file.folder, "/")[5]
+WHERE file.name != this.file.name
+```
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
 Bài chi tiết:: [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
 

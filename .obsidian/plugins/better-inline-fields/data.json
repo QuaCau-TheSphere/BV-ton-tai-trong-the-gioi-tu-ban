@@ -63,6 +63,10 @@
     {
       "field": "SĐT",
       "folder": "📜Tài nguyên/Tài nguyên chạy ảo/SĐT"
+    },
+    {
+      "field": "Ngân hàng",
+      "folder": "📜Tài nguyên/Tài nguyên chạy ảo/Ngân hàng"
     }
   ],
   "regexpTrigger": "/",

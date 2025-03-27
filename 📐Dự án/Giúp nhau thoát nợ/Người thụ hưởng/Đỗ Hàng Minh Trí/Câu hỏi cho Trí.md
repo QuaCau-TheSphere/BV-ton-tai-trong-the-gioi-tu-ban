@@ -1,7 +1,10 @@
 ---
 created: 2025-01-14T18:40
-updated: 2025-03-22T23:29
+updated: 2025-03-25T16:11
 ---
+Tại sao thấy việc tiếp tục đầu tư vào cathay có lợi lâu dài hơn? 
+
+
 Nếu không phải là cho vay nặng lãi thì sao lại sợ việc kiện họ? 
 
 Tại sao xem là họ lừa mình?

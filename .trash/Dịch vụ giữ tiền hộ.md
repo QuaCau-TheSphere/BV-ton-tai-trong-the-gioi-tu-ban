@@ -1,12 +1,11 @@
 ---
 share: true
 created: 2025-02-03T12:27
-updated: 2025-02-06T14:48
+updated: 2025-03-25T22:23
 ---
 Yêu cầu đầu vào:: [[Có tài khoản ngân hàng]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
 
-Mô tả chung: 
 Với mỗi tài khoản ngân hàng bạn có, bạn sẽ kiếm được 100k. Vào ngày làm việc bạn sẽ nhận được tiền chuyển khoản từ công ty GM Mall. Công việc của bạn là chuyển lại vào tài khoản sau: 19730326507 - TPBANK - LAM THI OANH. Đến cuối ngày tiền công 100k sẽ được trả lại liền.
 
 Thông tin khác:

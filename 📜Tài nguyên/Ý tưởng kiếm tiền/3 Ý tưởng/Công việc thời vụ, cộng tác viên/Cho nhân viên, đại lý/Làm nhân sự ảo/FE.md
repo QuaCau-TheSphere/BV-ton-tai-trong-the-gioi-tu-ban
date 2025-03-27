@@ -1,15 +1,17 @@
 ---
 share: true
 created: 2025-01-01T22:31
-updated: 2025-03-23T23:09
-description: Thu nhập 6tr/tháng
+updated: 2025-03-26T00:17
+description: "Số tiền kiếm được: 6tr/tháng"
 ---
 # Làm nhân viên ảo FE
-Thu nhập: 6tr/tháng. Nếu bạn làm ở [[Nhóm Bình Dương 1]] thì sẽ được [[Bao nuôi]].
+Số tiền kiếm được:: 6tr/tháng
+
+Nếu bạn làm ở [[Nhóm Bình Dương 1]] thì sẽ được [[Bao nuôi]].
 
 ## Mô tả công việc
 ### Chuẩn bị
-- Mở tài khoản ngân hàng VPbank: 5 phút 
+- Mở tài khoản ngân hàng [[VPBank]]: 5 phút 
 - Đi phỏng vấn: 30 phút
 - Học online: 2 ngày
 - Hướng dẫn trực tiếp: 1 tiếng

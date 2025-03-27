@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-12T22:24
-updated: 2025-03-23T23:09
+updated: 2025-03-25T22:39
 ---
-Bài chi tiết: [[Làm đại lý bảo hiểm ảo]]
+# Làm đại lý ảo Prudential
 ## Học
 - [ ] Học cơ bản: 5 buổi trong 3 ngày
 - [ ] Học sản phẩm: 4 buổi trong 2 ngày

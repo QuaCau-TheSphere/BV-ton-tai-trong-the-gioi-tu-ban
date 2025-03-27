@@ -1,13 +1,15 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-27T16:34
+updated: 2025-03-25T23:50
+description: Thù lao 250k/4h
 ---
 Yêu cầu đầu vào:: [[Làm ngoài đường]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
 
-Liên hệ:: [[Nguyễn Hữu Lộc|Nguyễn Hữu Lộc – 0783865410]]
-- **Tiền công:** 250k/4h
+Cùng với [[VNPAY|Làm nhân viên ảo VNPAY]] và [[Viết hợp đồng, thu thập thông tin khách hàng tiềm năng]], các công việc ở đây là một phần của [[Chạy chỉ tiêu|nhóm chạy chỉ tiêu (KPI) cho nhân sự]].
+
+- **Thù lao:** 250k/4h
 
 ## Dán mã QR
 Ví dụ, các công ty trung gian thanh toán như Momo, VNPAY, ZaloPay, SmartPay cần người đi chào hàng và dán mã QR. Mình có thể đi một lần và dán tất cả các công ty này cùng lúc để nhận lương của các bên. 

@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b3ab4fa7988feb4",
+        "id": "b994f85d7276b01c",
         "type": "tabs",
         "children": [
           {
-            "id": "739f5f1163cce115",
+            "id": "f0f60a94b282f250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Tài khoản ngân hàng.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tài khoản ngân hàng"
-            }
-          },
-          {
-            "id": "d01f4598f0ddedab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/GM Mall.md",
+                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Việc chính thức trong công ty/Đại lý bán hàng.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GM Mall"
+              "title": "Đại lý bán hàng"
             }
           },
           {
-            "id": "9d3afef22e658743",
+            "id": "30f5be8f5096accf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Trần Thanh Tú.md",
+                "file": "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Sinh viên sắp ra trường.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,23 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trần Thanh Tú"
+              "title": "Sinh viên sắp ra trường"
             }
           },
           {
-            "id": "4dea67465d4eae23",
+            "id": "0a0102d5ec8c3149",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/0566 394 401/Vi Mạnh Hưng/Pasted image 20250324161818.png"
+                "file": "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/GM Mall giống như một cái siêu thị hàng TQ.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250324161818"
+              "icon": "lucide-file",
+              "title": "GM Mall giống như một cái siêu thị hàng TQ"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,13 +133,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "058d2be84526927e",
@@ -241,53 +227,54 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "4dea67465d4eae23",
+  "active": "30f5be8f5096accf",
   "lastOpenFiles": [
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Vi Mạnh Hưng.md",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/0566 394 401/Vi Mạnh Hưng/Pasted image 20250324161818.png",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Trần Thanh Tú.md",
-    "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/GM Mall.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Tài khoản ngân hàng.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Phan Trường Vũ.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Nguyễn Hữu Hào.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Đào Mạnh Sáng.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/SĐT/0566 394 401.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Nguyễn Hoàng Duy.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Nguyễn Duy Dự.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Nhóm hỗ trợ khách hàng.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Đi xe buýt chậm.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Bùi Thị Hương.md",
-    "Ξ Thiết lập/Templates/Tài khoản ngân hàng.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Thông tin cho đại lý.md",
-    "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng/Huỳnh Ngọc Ngà.md",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/0566 389 657/Nguyễn Duy Dự/photo_4_2025-03-21_21-44-03.jpg",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/0566 389 657/Nguyễn Duy Dự/~hoto_3_2025-03-21_21-44-03.tmp",
-    "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/Tài sản xã giao sinh lợi.md",
-    "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/~syncthing~Tài sản xã giao sinh lợi.md.tmp",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Kim cương không thực sự khan hiếm.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bản câu hỏi cho người muốn người giới thiệu ngồi cùng với chứ không phải chỉ là giới thiệu.md",
-    "📐Dự án/Mạng kết nối nhu cầu/Người khuyết tật/Tạo nhận thức cho các công ty bảo hiểm nhân thọ về lợi ích khi tương tác với người khuyết tật.md",
-    "📐Dự án/Mạng kết nối nhu cầu/Người khuyết tật/Các câu hỏi về người khuyết tật.md",
-    "📐Dự án/Mạng kết nối nhu cầu/Người khuyết tật",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Phí và quỹ/Phí ban đầu trong năm đầu tiên sẽ cao, còn các năm sau sẽ thấp, vì nó được dùng để trả cho việc bán hàng.md",
-    "📐Dự án/Chạy chỉ tiêu/Kế hoạch.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Công ty, đại lý, hợp đồng/Thưởng, hoa hồng/3 tháng đầu có thưởng hấp dẫn là để người mới vét cạn các mối quan hệ của mình. Sau 3 tháng thì coi như là đã vét hết vốn tự có.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Phí và quỹ/Phí quản lý hợp đồng  và phí bảo hiểm rủi ro hàng năm đều tăng.md",
-    "📐Dự án/Mạng kết nối nhu cầu/~syncthing~Làm sao để đại lý bán hàng thấy công việc có ý nghĩa.md.tmp",
-    "📜Tài nguyên/~syncthing~Ý tưởng tiết kiệm.md.tmp",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Trung gian tài chính/Quẹt dơ",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Trung gian tài chính",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân viên thật/New folder",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Sàn thương mại",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân viên thật/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo",
-    "Ξ Thiết lập/Ảnh/photo_4_2025-03-22_19-46-34.jpg",
-    "Ξ Thiết lập/Ảnh/photo_3_2025-03-22_19-46-34.jpg",
-    "Ξ Thiết lập/Ảnh/photo_2_2025-03-22_19-46-34.jpg",
-    "Ξ Thiết lập/Ảnh/photo_1_2025-03-22_19-46-34.jpg",
-    "Ξ Thiết lập/Ảnh/photo_3_2025-03-22_19-44-52.jpg",
-    "Ξ Thiết lập/Ảnh/photo_2_2025-03-22_19-44-52.jpg",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng/Trả số tiền tối thiểu thì không bị phạt trả trễ, nhưng sẽ tính lãi trên tổng dư nợ.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Sinh viên sắp ra trường.md",
+    "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/GM Mall giống như một cái siêu thị hàng TQ.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Việc chính thức trong công ty/Đại lý bán hàng.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Sàn thương mại/Lý do không tham gia GM Mall.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển dụng cho Cathay.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Gom lịch vào Google Calendar.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/GM Mall.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/VNPAY.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/FE.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Prudential.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Cathay.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Bảo Việt.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Làm nhân sự ảo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho công ty/Shipper, telesale, trợ lý giám đốc, lễ tân, bồi bàn.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho công ty/Nhập liệu, dán nhãn dữ liệu, BPO.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Giữ tiền hộ, gom nhóm.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Lừa đảo hội lừa đảo.md",
+    "📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/CEP.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Làm nhân sự ảo.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/Quỹ Tình Thân.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/Ngân hàng chính sách xã hội.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Tài liệu cho từng công ty",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/New folder",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Khác",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/New folder",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Tín dụng phi ngân hàng",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Trung gian tài chính",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/New folder",
+    "Ξ Thiết lập/Ảnh/photo_4_2025-03-25_21-56-22.jpg",
+    "Ξ Thiết lập/Ảnh/photo_1_2025-03-25_21-40-04.jpg",
     "Ξ Thiết lập/Ảnh/photo_1_2025-03-22_19-44-52.jpg",
-    "Ξ Thiết lập/Ảnh/1705770381055.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
+    "Ξ Thiết lập/Ảnh/photo_5_2025-03-25_21-56-22.jpg",
+    "Ξ Thiết lập/Ảnh/photo_3_2025-03-25_21-56-22.jpg",
+    "Ξ Thiết lập/Ảnh/photo_2_2025-03-25_21-56-22.jpg",
+    "Ξ Thiết lập/Ảnh/photo_1_2025-03-25_21-56-22.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]
