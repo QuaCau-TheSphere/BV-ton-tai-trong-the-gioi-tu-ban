@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:32
-updated: 2025-03-25T23:25
+updated: 2025-04-01T14:46
 ---
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 
@@ -20,6 +20,6 @@ Bị người chạy thật nhắc khi đang làm việc khác
 
 ```dataview
 LIST rows.file.link
-FROM "📐Dự án/Chạy chỉ tiêu/Làm nhân viên ảo"
+FROM "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo"
 GROUP BY split(file.folder, "/")[3]
 ```

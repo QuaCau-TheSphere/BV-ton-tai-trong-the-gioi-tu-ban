@@ -328,14 +328,7 @@
       "key": "F5"
     }
   ],
-  "obsidian-another-quick-switcher:move": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
+  "obsidian-another-quick-switcher:move": [],
   "obsidian-discord-share:discord:share-embed": [
     {
       "modifiers": [
@@ -535,6 +528,22 @@
         "Alt"
       ],
       "key": "U"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "file-diff:find-sync-conflicts-and-merge": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }

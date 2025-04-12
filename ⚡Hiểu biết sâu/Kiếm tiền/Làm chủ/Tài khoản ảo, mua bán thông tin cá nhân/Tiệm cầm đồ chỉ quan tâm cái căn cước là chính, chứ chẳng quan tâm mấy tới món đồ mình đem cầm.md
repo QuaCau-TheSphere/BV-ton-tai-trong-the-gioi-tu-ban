@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-17T15:00
+updated: 2025-04-12T15:50
 ---
 a sẽ ko vay được gì cao với cái cà vẹt xe cả, dù nó là chính chủ anh đi nữa, vì nó ko care đâu và khi a cầm đồ cavet xe ntn a có hiểu tại sao nó trả 2-3tr ko, vì nó sẽ dùng infor đó để bán infor reg acc
 
@@ -22,3 +22,4 @@ cầm giấy tờ
 đã vậy còn lãi sau bao nhiêu ngày
 
 [[Thông tin bán được sẽ được dùng để tạo tài khoản ngân hàng ảo]] 
+[[Tài sản thế chấp thanh khoản càng cao thì lãi vay càng thấp]]

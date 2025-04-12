@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-01-01T22:31
-updated: 2025-03-26T00:17
+updated: 2025-04-01T14:47
 description: "Số tiền kiếm được: 6tr/tháng"
+alias: Làm nhân viên ảo FE
 ---
 # Làm nhân viên ảo FE
 Số tiền kiếm được:: 6tr/tháng

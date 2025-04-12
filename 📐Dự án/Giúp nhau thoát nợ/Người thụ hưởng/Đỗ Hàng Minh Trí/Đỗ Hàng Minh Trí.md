@@ -1,9 +1,14 @@
 ---
+share: true
 created: 2024-09-14T23:01
-updated: 2025-03-22T23:29
+updated: 2025-04-12T10:53
+description: Các thông tin để bạn thẩm định việc cho Trí vay
 ---
+# Hồ sơ của Đỗ Hàng Minh Trí
+[kendy.blog](https://dohangminhtri.com/)
+
 ## Tình hình chung
-### Tại sao bạn bị nợ? 
+### Tại sao Trí bị nợ? 
 Tin tưởng một người nên đứng ra vay cho họ. Người này cuối cùng mất khả năng trả nên không trả mình. Nhưng vẫn muốn trả cho những người mình đã vay.
 
 ### Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
@@ -11,54 +16,74 @@ Gom hết tất cả các khoản nợ vào một người cô, lãi vài triệ
 
 Phải [[App vay nóng|vay nóng]]
 
-### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-### Chi phí sinh hoạt của bạn hiện nay như thế nào?
+### Cuộc sống của Trí đã thay đổi thế nào từ lúc có nợ?
+### Chi phí sinh hoạt của Trí hiện nay như thế nào?
 2 vợ chồng chia ra. Phần vợ là để lo cho việc ăn uống và cũng đã sát rồi, không nên đụng vào.
 
-| Chi phí                | Số tiền (triệu đồng) | Hạn chót           |
-| ---------------------- | -------------------- | ------------------ |
-| Tiền nhà               | 5.5                  | Ngày 15 hàng tháng |
-| Tiền điện nước quản lý | 1.5                  | Ngày 15 hàng tháng |
-| Tiền xoay hợp đồng     | 1.6 × 3              |                    |
-| Tiền học cho con       | 5.3                  |                    |
-| Tiền lãi               | 1.3                  | Ngày 15 hàng tháng |
+| Chi phí                   | Số tiền  | Hạn chót           | Lý do                                                                       |
+| ------------------------- | -------- | ------------------ | --------------------------------------------------------------------------- |
+| Tiền nhà                  | 5tr5     | Ngày 15 hàng tháng |                                                                             |
+| Tiền điện nước quản lý    | 1tr5     | Ngày 15 hàng tháng |                                                                             |
+| Tiền xoay hợp đồng        | 1tr6 × 3 |                    | Chạy chỉ tiêu để có lương. Khi nghỉ rồi thì vẫn muốn giữ lời hứa đóng 1 năm |
+| Tiền học mẫu giáo cho con | 5tr3     |                    | Trường có cam để yên tâm về con                                             |
 
-### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
+App đen:
+- 15tr [[Moneyveo]]
+- 14tr vayvnd
+- 4tr moneycat
+
+### Trí đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
 
 ## Các cách xoay sở
-### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
+### Trí đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 Hiện tại đang làm [[Đại lý bán hàng]] cho Cathay. Công việc 
-[[Tuyển dụng cho Cathay]]
+[[Yêu cầu tuyển dụng của Cathay]]
 [[Giả thiết về nguồn tuyển dụng cho Cathay]]
 
 Các ý tưởng khác đều có thứ bị mắc kẹt
-### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
-### Bạn đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
-### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ app đen]] không? Vì sao?
-Đã làm
+### Trí nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
+### Trí đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với Trí?
+### Trí có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ app đen]] không? Vì sao?
+Đã chấp nhận vỡ nợ trên ngân hàng, bị ghi nợ xấu trên CIC. Không dám xù nợ app đen vì sợ ảnh hưởng đến công việc, gia đình. (Đã đưa thông tin thật về chỗ làm việc, tạm trú để có được hạn mức lớn)
 
-### Bạn có chấp nhận ra khỏi thành phố sống không? Vì sao?
+### Trí có chấp nhận ra khỏi thành phố sống không? Vì sao?
+Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
+- Tất cả ở quê
+- Vợ và các con ở quê, một mình Trí ở trên thành phố
+- Tất cả ở trên thành phố
+
+#### Tất cả ở quê
+[[Ra khỏi thành phố sống]]
+#### Vợ và các con ở quê, một mình Trí ở trên thành phố
+- Công việc của vợ ở TP đang có lương 15tr, về quê thì không còn nhiều được như vậy
+- Ông bà chửi thề
+- Ông bà xem thường mình vì không làm ra tiền
+- Tranh chấp tài sản trong gia đình
+- Con nhỏ phá đồ
+- Ông bà không đi làm được
+
+## Tất cả ở trên thành phố
+
 | Tình huống          | Lý do không muốn                                                   |
 | ------------------- | ------------------------------------------------------------------ |
 | Về quê một mình     | Muốn con luôn có một người cha ở bên. Lo lắng về hôn nhân của mình |
 | Về quê cùng với con | Thấy ở quê không giúp con phát triển                               |
 
 
-### Bạn đã nhận được những sự hỗ trợ nào rồi?
+### Trí đã nhận được những sự hỗ trợ nào rồi?
 
 ## Năng lực xoay sở
-### Bạn nghĩ sao về quan điểm [[Áp lực tạo kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
+### Trí nghĩ sao về quan điểm [[Áp lực tạo kim cương]]? Trí có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì Trí sẽ làm được những điều đến chính Trí cũng ngạc nhiên]]?
 ### Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?
-### Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
+### Tại sao Trí chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu Trí thừa nhận việc đó?
 
 ## Làm việc với người hỗ trợ
-### Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
-### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
-### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-### Bạn có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô]] không?
+### Lý do nên giúp Trí hơn những người khác?
+### Quan điểm về sự giải trình và minh bạch
+### Mức độ bí mật của những thông tin chia sẻ ở đây
+### Trí có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô]] không?
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
 
-[kendy.blog](https://dohangminhtri.com/)
 
 [[Câu hỏi cho Trí]]

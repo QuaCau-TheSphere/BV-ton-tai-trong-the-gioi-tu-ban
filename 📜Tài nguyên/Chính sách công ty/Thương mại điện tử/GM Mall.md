@@ -1,14 +1,48 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-03-26T00:04
+updated: 2025-04-12T11:18
 title: Chính sách công ty GM Mall
 ---
-Khách hàng hiệu quả là khách hàng đạt thu nhập gom nhóm cá nhân ít nhất 100k/ ngày và có nhóm zalo. Nếu có 2 khách đạt 30k đến dưới 100k/ ngày nhưng có mở nhóm zalo và tích cực chia sẻ sản phẩm thì cũng được tính là 1 khách hàng hiệu quả
+## Chính sách cho khách
+Mỗi ngày được hoàn 0.05% giá trị sản phẩm
 
-Thẻ thành viên/thẻ vip
+- Nếu không được chọn: nhận lại tiền gốc + 1% lời
+- Nếu được chọn: có thể chọn nhận hàng hoặc  + 3%, nhưng bị giam tiền trong 3 ngày
 
-- 15 tv tích cực nghĩa là mình mở mới cho kh là mỗi ng thu nhập gom nhóm 1 ngày trên 200k thì tính là tv tích cực hả anh? Mà nếu mình mở cho khách rồi khách đó mở cho khách khác thì khách khác đó thu nhập gom nhóm trên 200k có tính user hiệu quả cho mình ko anh?
-- với 5 thẻ tv mỗi thẻ 700k ngoài quyền lợi mua sắm voucher còn nạp card mỗi tháng 100k 1 năm 1tr2 là kh lời 500k card hả anh?
-- thưởng thị trường có 1 ngày đạt 100k em nghe Lộc nói là tức là tính tổng tiền lời từ việc gom nhóm từ v1 v2 v3 của mình trong 1 ngày đó phải ko anh? Và mình thì đc 2% trong đó Nếu vậy thì em thấy cao quá thuyết phục khách nạp vô nhiều vậy hơi khó em thuyết phục người nhà em cũng ko đủ tại vì muốn thu nhập gom nhóm cao thì tiền vốn bỏ ra phải lớn lắm
-- tổng thưởng thị trường trong tháng đạt 500k thì tức là nếu làm đều đặn mỗi ngày thu nhập gom nhóm của em cũng phải gần 1 triệu mà em thấy thu nhập gom nhóm nó cao quá thì ý là 2 cái bên dưới có cách nào đạt đc hiệu quả ko anh
+| Cấp bậc           | 1/4 |
+| ----------------- | --- |
+| Người dùng thường | 1%  |
+| Trưởng nhóm       | 3%  |
+
+Thẻ thành viên/thẻ vip: Bỏ 700k mua thẻ thì sẽ được voucher mua sắm, mỗi tháng được 100k tiền điện thoại
+
+Hoa hồng cho việc giới thiệu:
+- Cấp 1 : 10% 
+- Cấp 2: 5% 
+- Cấp 3: 2% 
+
+Thời gian chờ từ lúc nhận yêu cầu rút đến khi tiền về là 2 tiếng. Chỉ nhận yêu cầu trong giờ làm việc. Phí rút tiền là 3%. 
+
+## Chính sách cho nhân viên
+Được tính là có một khách hàng hiệu quả khi:
+- Có 1 khách đạt thu nhập gom nhóm cá nhân trung bình ít nhất 100k/ngày (chia cho chu kì tính đến ngày chốt lương) và có nhóm Zalo
+- Có 2 khách đạt 30k - 100k/ngày và có nhóm Zalo
+
+Nhóm Zalo là nhóm chia sẻ sản phẩm đúng cú pháp, có 10 thành viên trở lên.
+
+Khách hoạt động trên 5 ngày từ lúc đạt 100k lần đầu tiên mới được tính.
+
+Từ 5 khách hiệu quả trở lên mới có lương.
+
+Được 2% tổng thu nhập từ tất cả thành viên các cấp phía dưới.
+
+### Lương
+|              | Nhân viên | Trưởng nhóm | Giám đốc thị trường |
+| ------------ | --------- | ----------- | ------------------- |
+| Lương cơ bản | 15tr      | 20tr        | 25tr                |
+|              |           |             |                     |
+
+## Giám đốc thị trường  
+
+Sếp đi công tác duyệt lương chậm

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-11T13:25
-updated: 2025-03-23T18:32
+updated: 2025-03-31T12:12
 ---
 ## Kịch bản gọi là gì?
 ## Họ có muốn nghe về điều đó không
@@ -11,3 +11,5 @@ bạn cũng thấy sản phẩm này ok với người đang đầu tư hay ti�
 
 [[Có người giới thiệu về vấn đề có lẽ là cách duy nhất để làm được những thứ mình muốn làm nhưng không khẩn cấp]]
 [[Bản câu hỏi cho người muốn người giới thiệu ngồi cùng với chứ không phải chỉ là giới thiệu]]
+
+Đến lúc chạy số thì sẽ nhờ lung tung lên

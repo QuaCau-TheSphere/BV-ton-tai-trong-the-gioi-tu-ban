@@ -6,3 +6,5 @@ updated: 2024-11-17T22:22
 Khái niệm:: [[Dòng tiền]]
 [[Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể]]
 [[Thu nhập thụ động là biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền là không đảm bảo ngày nào tiền đi, ngày nào tiền về và bao nhiêu tiền]]
+[[Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền]]
+[[Chính phủ muốn kiểm soát dòng tiền]]

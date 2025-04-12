@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-01T19:38
-updated: 2025-03-22T18:15
+updated: 2025-04-05T02:17
 alias: Câu hỏi thu thập ý kiến
 description: Về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng
 ---
@@ -28,6 +28,5 @@ Sẽ có nhiều cách gọi tên cho ý tưởng này:
 - Với người tham gia workshop:
 
 [[Giả thiết về nguồn tuyển dụng cho Cathay]]
-[[Tuyển dụng cho Cathay]]
+[[Yêu cầu tuyển dụng của Cathay]]
 [[Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên]]
-

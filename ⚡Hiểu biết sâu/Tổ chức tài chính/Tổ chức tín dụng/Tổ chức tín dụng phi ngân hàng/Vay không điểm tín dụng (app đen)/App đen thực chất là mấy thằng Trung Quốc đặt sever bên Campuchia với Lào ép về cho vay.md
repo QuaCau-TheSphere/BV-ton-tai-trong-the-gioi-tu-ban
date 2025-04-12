@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-02-24T13:07
+updated: 2025-04-11T21:31
 ---
+Khái niệm:: [[App đen, vay nóng]]
+
 thoát tội cho vay nặng lãi
 có ai cho vay mà lãi 4000%/ năm ko
 

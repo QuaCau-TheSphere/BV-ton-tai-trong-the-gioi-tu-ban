@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-27T13:04
+updated: 2025-04-03T15:21
 ---
 Khái niệm:: [[Tiền]], [[Động lực]]
 Vì [[Tiền có nhiệm vụ làm trung gian cho việc trao đổi nhu cầu]], nên [[Tiền là một động lực ngoại sinh cực kỳ tốt]]

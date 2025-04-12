@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:39
-updated: 2025-03-25T23:07
+updated: 2025-04-04T23:58
 ---
 # Làm đại lý ảo Cathay
 Tiền công: 
@@ -21,13 +21,4 @@ Ghi chú:
 > [!NOTE] Cân nhắc
 > [[Việc phải lên công ty hàng ngày khiến cho mình thấy ráng chạy thật sẽ có lợi hơn]], vì đằng nào cũng mất nửa ngày trên công ty, và cũng không đảm bảo các buổi chiều không phải làm. Nếu làm thì được nhiều tiền hơn. Hơn nữa, [[Chờ cho người khác chạy số cho mình sẽ bấp bênh vì họ phải chạy cho bản thân trước]]
 
-Tham khảo:: [[Tuyển dụng cho Cathay]], [[📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm]], [[Kiếm khách]]
-[[Kế hoạch tuyển người mới, tìm nguồn tuyển dụng]]
-
 ![GIỚI THIỆU CÔNG TY CATHAY LIFE VIETNAM - YouTube](https://youtu.be/rMHMd7s8XQI?si=4ekxgFnTmyx8la6x)
-
-250tr để set target về lại 10tr/tháng
-mất hỗ trợ tài chính
-Có danh tiếng, dễ bán hàng
-ngày làm có 1 ca và đc 36tr
-Phải có 2 người level 3 thì mới được lên. Muốn lên level 3 thì trong 3 tháng phải đạt 150%

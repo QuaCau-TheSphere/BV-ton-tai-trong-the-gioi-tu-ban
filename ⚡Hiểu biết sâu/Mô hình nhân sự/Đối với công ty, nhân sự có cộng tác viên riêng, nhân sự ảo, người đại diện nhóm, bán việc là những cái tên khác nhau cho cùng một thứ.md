@@ -1,18 +1,18 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-03-23T23:09
+updated: 2025-04-04T17:48
 ---
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 
 Gọi A là người nộp đơn xin việc vào một công ty và đậu phỏng vấn, và B là người không làm điều đó. Điều này khiến cho A là nhân sự của công ty còn B thì không.
 
-## Nhân viên có cộng tác viên riêng ≈ nhân sự ảo
+## Nhân sự có cộng tác viên riêng ≈ nhân sự ảo
 Đầu tiên ta xét hai trường hợp sau:
 
 | Trường hợp       | Người được công ty biết đến | Người làm phần việc quan trọng | Người làm phần việc phụ | A được gọi là…                 |
-| ---------------- | --------------------------- | ------------------------------ | ----------------------- | -------------------------------- |
-| A trả công cho B | A                           | A                              | B                       | Nhân viên có cộng tác viên riêng |
+| ---------------- | --------------------------- | ------------------------------ | ----------------------- | ------------------------------ |
+| A trả công cho B | A                           | A                              | B                       | Nhân sự có cộng tác viên riêng |
 | B trả công cho A | A                           | B                              | B                       | Nhân sự ảo                     |
 
 Như vậy, sự khác biệt giữa nhân sự có cộng tác viên riêng và nhân sự ảo chỉ là ai là người làm phần việc quan trọng mà thôi. Mà nếu trong khối công việc không có phần việc nào đặc biệt quan trọng hơn các việc khác (khối lượng các tác vụ xêm xêm nhau), thì ranh giới này bị xoá mờ. Ta có:

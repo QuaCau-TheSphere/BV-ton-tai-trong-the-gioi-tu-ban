@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b994f85d7276b01c",
+        "id": "68f3511d12fdf21d",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f60a94b282f250",
+            "id": "d2d2fe6901b651cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Việc chính thức trong công ty/Đại lý bán hàng.md",
+                "file": "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/TNEX.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Đại lý bán hàng"
-            }
-          },
-          {
-            "id": "30f5be8f5096accf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Sinh viên sắp ra trường.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sinh viên sắp ra trường"
-            }
-          },
-          {
-            "id": "0a0102d5ec8c3149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/GM Mall giống như một cái siêu thị hàng TQ.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GM Mall giống như một cái siêu thị hàng TQ"
+              "title": "TNEX"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ">>>",
+                "query": "consequnetialism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Làm nhân viên ảo/FE.md",
+                "file": "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/Liệu GM có rửa tiền không.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của FE"
+              "title": "Backlinks for Liệu GM có rửa tiền không"
             }
           },
           {
@@ -214,67 +165,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "30f5be8f5096accf",
+  "active": "d2d2fe6901b651cb",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng/Trả số tiền tối thiểu thì không bị phạt trả trễ, nhưng sẽ tính lãi trên tổng dư nợ.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Sinh viên sắp ra trường.md",
-    "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/GM Mall giống như một cái siêu thị hàng TQ.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Việc chính thức trong công ty/Đại lý bán hàng.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Sàn thương mại/Lý do không tham gia GM Mall.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển dụng cho Cathay.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Gom lịch vào Google Calendar.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/GM Mall.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/VNPAY.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/FE.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Prudential.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Cathay.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Bảo Việt.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Làm nhân sự ảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho công ty/Shipper, telesale, trợ lý giám đốc, lễ tân, bồi bàn.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho công ty/Nhập liệu, dán nhãn dữ liệu, BPO.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Giữ tiền hộ, gom nhóm.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Lừa đảo hội lừa đảo.md",
-    "📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/CEP.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Làm nhân sự ảo.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/Quỹ Tình Thân.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/Ngân hàng chính sách xã hội.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Vì người yếu thế/Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Tài liệu cho từng công ty",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/New folder",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Khác",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/New folder",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Tín dụng phi ngân hàng",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Trung gian tài chính",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/New folder",
-    "Ξ Thiết lập/Ảnh/photo_4_2025-03-25_21-56-22.jpg",
-    "Ξ Thiết lập/Ảnh/photo_1_2025-03-25_21-40-04.jpg",
-    "Ξ Thiết lập/Ảnh/photo_1_2025-03-22_19-44-52.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
-    "Ξ Thiết lập/Ảnh/photo_5_2025-03-25_21-56-22.jpg",
-    "Ξ Thiết lập/Ảnh/photo_3_2025-03-25_21-56-22.jpg",
-    "Ξ Thiết lập/Ảnh/photo_2_2025-03-25_21-56-22.jpg",
-    "Ξ Thiết lập/Ảnh/photo_1_2025-03-25_21-56-22.jpg",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Lãi suất tính trên dư nợ gốc giảm dần.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Cách thu tiền.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Các loại phí.md",
+    "📜Tài nguyên/Các dịch vụ cho vay.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App vay nóng/Jeff chỉ là cái app để chuyển sang các app cho vay nóng khác.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App vay nóng/DoctorDong là bên mở màn cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/Thuật ngữ.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/Không xem đánh vào nỗi sợ là đe dọa.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/❓Nếu khách thiện chí đóng 100k thì thế nào.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Đóng BHXH ngay đầu tháng.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Vấn đề của hệ thống thông tin (iCollect).md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Thẻ tín dụng.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Sẽ là sai khi nói người thân có trách nhiệm.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Quá hạn hơn 90 ngày thì được giảm lãi.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Phân tích, làm rõ, cô lập, phản hồi.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Newtopup thì 1 cái 100% target Newtopup = 20% kpi tổng ,5 cái 100% kpi tổng.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE lặp lại rất nhiều là mình không đòi nợ mà chỉ kiện ra toà.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE có vốn điều lệ hơn 10 ngàn tỷ đồng. Xếp hàng thứ 2 là 3 ngàn tỷ.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE Credit.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Bài học nào của bên nhân sự thì khi kiểm tra sẽ cho biết đáp án. Bài nào của bên đào tạo thì không.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/70 - 80% hợp đồng vay là qua thẻ.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit",
+    "📜Tài nguyên/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Vì người yếu thế/Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Vì người yếu thế/Quỹ Tình Thân.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Vì người yếu thế",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Thẻ tín dụng",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App vay nóng",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty cho vay/FE Credit",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty cho vay",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/New folder",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App đen",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/xiaowei.png",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_4_2025-04-10_13-14-21.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_3_2025-04-10_13-14-21.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_2_2025-04-10_13-14-21.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_1_2025-04-10_13-14-21.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_4_2025-04-10_13-10-40.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_3_2025-04-10_13-10-40.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_2_2025-04-10_13-10-40.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_1_2025-04-10_13-10-40.jpg",
+    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lương Văn Quỳnh/photo_4_2025-04-10_13-05-05.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

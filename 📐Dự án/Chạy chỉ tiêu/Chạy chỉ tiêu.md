@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-03-25T23:59
+updated: 2025-04-04T15:47
 alias:
-  - Nhóm chạy chỉ tiêu (KPI) cho nhân sự
+  - Nhóm chạy chỉ tiêu cho nhân sự
   - Nhóm thuê ngoài (outsource) cho nhân sự
   - Nhóm làm các công việc thời vụ (freelancer)
   - Nhóm cộng tác viên cho nhân sự
@@ -16,7 +16,6 @@ alias:
 
 Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân sự", "nhóm thuê ngoài (outsource) cho nhân sự", "nhóm làm các công việc thời vụ (freelancer)", "nhóm cộng tác viên cho nhân sự", "nhóm nhân sự ảo", "nhóm trợ lý cho nhân sự" đều được. Nhóm chuyên làm những việc sau:
 
-Danh sách các công việc:
 ```dataview
 LIST rows.file.link
 FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý"
@@ -25,10 +24,7 @@ WHERE file.name != this.file.name
 ```
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
 Bài chi tiết:: [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
-
-
-Cộng đồng làm nhiều công ty cùng lúc bằng tiếng Anh:
-- [Overemployed](https://www.reddit.com/r/overemployed/)
-- [Overemployed ® - Work Two Remote Jobs, Reach Financial Freedom](https://overemployed.com/ "Overemployed ® - Work Two Remote Jobs, Reach Financial Freedom")
+Hiện tại trong nhóm đã có 5 người làm chung.
+[[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
 
 [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]. [[Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-04T20:01
-updated: 2025-01-17T14:55
+updated: 2025-04-06T14:12
 ---
 Có hợp đồng lao động, được đóng bhxh?
 Phải làm đc tháng đầu 

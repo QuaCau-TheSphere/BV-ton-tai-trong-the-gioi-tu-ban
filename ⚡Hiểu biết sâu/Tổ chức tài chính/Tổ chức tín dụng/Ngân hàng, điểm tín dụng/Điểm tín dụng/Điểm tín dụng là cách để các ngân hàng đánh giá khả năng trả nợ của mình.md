@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-11T12:43
+updated: 2025-04-11T21:27
 ---
-Khái niệm:: [[Nợ]], [[Điểm tín dụng]]
+Khái niệm:: [[Nợ]], [[Điểm tín dụng, CIC]]
 [[Có những người dù thực sự thấy không có khả năng trả nợ vẫn chấp nhận vay app đen còn hơn mất điểm tín dụng]]
 
 Nguồn:: 

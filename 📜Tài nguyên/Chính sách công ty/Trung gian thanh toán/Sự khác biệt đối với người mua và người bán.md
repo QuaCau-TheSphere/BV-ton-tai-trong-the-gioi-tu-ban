@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-04T23:52
-updated: 2024-09-30T12:40
+updated: 2025-04-11T21:59
 ---
 
 ## Khác biệt về sản phẩm
@@ -15,14 +15,14 @@ Ko chỉ Vnpay, cả momo, zalopay, smartpay, eco đều có máy pos, ngân hà
 
 ~~Chính vì Momo không có máy POS còn VNPAY có máy POS~~, nên Momo tập trung vào sự tiện lợi với người mua hàng, còn VNPAY tập trung vào sự tiện lợi với người bán hàng. [[VNPAY tập trung vào những cửa hàng lớn đủ để có nhu cầu dùng máy POS]]
 
-## Khác biệt đối với người mua hàng
+## Khác biệt đối với khách mua hàng
 Momo có nhiều ưu đãi, khuyến mãi, dịch vụ hơn:
 - Từ thiện
 - Phân loại thu chi
 - Giáo dục tài chính
 - Ví trả sau ([[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng]]) 
 
-## Khác biệt đối với người bán hàng
+## Khác biệt đối với chủ cửa hàng
 Các công ty đều có tặng loa
 
 | Sản phẩm | Máy cà thẻ | Chương trình quản lý giao dịch | Phí rút tiền về ngân hàng                      | Đặc điểm khác                                                                                                                                                                                                          | Ai có lợi nhất?                                                                                       |
@@ -31,4 +31,5 @@ Các công ty đều có tặng loa
 | VNPAY    | ✔          | ✔                              | 0.88%                                          | <li>Không cần tạo tài khoản gì cả</li><li>Hỗ trợ tạo Google Maps cho cửa hàng</li><li>Tiền thấy ngay trong app. Sau 1 ngày thì tiền tự động về tài khoản ngân hàng</li><li>Liên thông được dữ liệu giữa QR và POS</li> | [[VNPAY tập trung vào những cửa hàng lớn đủ để có nhu cầu dùng máy POS\|Cửa hàng có nhiều nhân viên]] |
 | Smartpay |            |                                |                                                |                                                                                                                                                                                                                        |                                                                                                       |
 | Ecopay   |            |                                |                                                |                                                                                                                                                                                                                        |                                                                                                       |
-Bản chất của cả Momo và VNPAY là đều cần căn cước + SĐT của người bán. Nhưng Momo hướng tới những người đã tạo app rồi, nên với những người này họ không thấy là mình phải đưa thông tin cá nhân khi đăng ký mở cửa hàng. Chứ thật ra Momo đã biết thông tin cá nhân của họ rồi.
+
+Momo và VNPAY là đều cần căn cước + SĐT của người chủ cửa hàng. Nhưng Momo hướng tới những người đã tạo app rồi, nên với những người này họ không thấy là mình phải đưa thông tin cá nhân khi đăng ký mở cửa hàng. Chứ thật ra Momo đã biết thông tin cá nhân của họ rồi. Chính vì như vậy, nên [[Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn|nhân viên VNPAY nói mình là nhân viên Momo sẽ dễ hơn]]

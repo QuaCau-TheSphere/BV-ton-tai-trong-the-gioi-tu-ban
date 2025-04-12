@@ -34,5 +34,6 @@
   "open-vscode",
   "obsidian-excalidraw-plugin",
   "folder-notes",
-  "image-to-text-ocr"
+  "image-to-text-ocr",
+  "dataview-autocompletion"
 ]

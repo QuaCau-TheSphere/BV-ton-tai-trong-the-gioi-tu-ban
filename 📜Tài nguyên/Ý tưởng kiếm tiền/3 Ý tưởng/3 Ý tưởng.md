@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2025-03-25T22:40
+updated: 2025-04-07T22:26
 alias:
   - Kiếm tiền nhanh
   - Kiếm dự án thuê ngoài
@@ -17,9 +17,9 @@ title: Một số ý tưởng kiếm tiền
 ---
 [How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
 
-> [!tip] Bạn cũng có thể thử [[Bao nuôi|dịch vụ bao nuôi]] này
 
 ## Công việc thời vụ
+> [!tip] Bạn cũng có thể thử [[Ở TP.HCM|Dịch vụ bao nuôi ở TP.HCM]] này
 
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"

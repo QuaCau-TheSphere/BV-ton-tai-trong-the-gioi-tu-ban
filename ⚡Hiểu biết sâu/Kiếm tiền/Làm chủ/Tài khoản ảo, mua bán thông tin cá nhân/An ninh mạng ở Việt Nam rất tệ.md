@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T21:29
-updated: 2025-03-22T17:39
+updated: 2025-04-11T21:33
 ---
 Trong hai năm qua, tôi đã cùng với các chuyên gia trong và ngoài nước nhiều lần xâm nhập hạ tầng mạng máy tính trọng yếu của Việt Nam, với sự đồng ý của đơn vị chủ quản.
 

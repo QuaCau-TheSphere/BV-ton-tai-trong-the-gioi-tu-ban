@@ -9,7 +9,7 @@ updated: 2024-12-24T22:36
 ---
 ASM là viết tắt của *area sale manager*, nghĩa là *quản lý bán hàng khu vực*.
 RSM là viết tắt của *regional sale manager*, nghĩa là *giám đốc kinh doanh vùng*.
-[[📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thuật ngữ]]
+[[Thuật ngữ, viết tắt]]
 ```dataviewjs
 const đdGhiChúThưMục = dv.current().file.path
 const thưMụcHiệnTại = dv.current().file.folder

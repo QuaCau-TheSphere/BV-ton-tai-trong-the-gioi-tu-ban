@@ -1,8 +1,14 @@
 ---
 share: true
-created: 2025-01-01T12:25
-updated: 2025-03-19T16:41
+created: 2025-03-27T17:13
+updated: 2025-04-07T22:26
 ---
-Khái niệm:: 
+Yêu cầu đầu vào:: [[Biết tiếng Anh]]
+Hình thức:: 
 
-Nguồn:: 
+Mô tả công việc:: 
+Số tiền kiếm được:: 
+
+## Mô tả chi tiết
+## Thông tin thêm
+## Nơi thảo luận

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:12
-updated: 2025-01-14T19:18
+updated: 2025-04-05T00:26
 ---
 ah, sàn với broker cấp API cho mình viết bot chứ. Nhưng cái đội lái giá thì tụi nó ko có chạy bằng bot
 
@@ -21,7 +21,7 @@ họ dành thời gian ăn chơi tận hưởng, đi du lịch chứ như em mà
 
 em nói thật mà. mấy cái mastery tricks, emotion management,... nó tự hình thành suốt từ nhỏ tới lớn, họ cứ lôi ra xài thôi
 
-nh để ý như sếp em có bao giờ phải thò tay làm ko, hay là quăng cho em ![:v](https://static.xx.fbcdn.net/images/emoji.php/v9/e31/1/16/PACMAN.png) 
+nh để ý như sếp em có bao giờ phải thò tay làm ko, hay là quăng cho em :v
 hmm, mấy cty khác có sợ bọn dev chôm code hoặc ý tưởng để lúc nghỉ thì tách ra làm riêng ko?
 
 cty nào cũng sợ hết anh

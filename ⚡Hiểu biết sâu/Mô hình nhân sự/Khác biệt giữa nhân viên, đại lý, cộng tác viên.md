@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-02-25T14:43
+updated: 2025-04-03T15:57
 ---
 | Loại hình                            | Nhân viên                        | Đại lý                              | Cộng tác viên cho công ty        | Cộng tác viên cho nhân viên/đại lý |
 | ------------------------------------ | -------------------------------- | ----------------------------------- | -------------------------------- | ---------------------------------- |
@@ -12,7 +12,8 @@ updated: 2025-02-25T14:43
 | Ưu đãi khác từ công ty               | ✔                                | ✔                                   | ❌                               | ❌                                 |
 | Không chịu áp lực doanh số mỗi tháng | ❌                               | ❌                                  | ✔                                | ✔                                  |
 | Thời gian làm tự do                  | ❌                               | ✔                                   | ✔                                | ✔                                  |
-
-Xem thêm:: [[Chạy chỉ tiêu|Nhóm cộng tác viên cho nhân viên]]
 Xem thêm:: [[Khác biệt giữa lương cứng, lương khoán, thù lao, tiền công, hoa hồng, thưởng, phụ cấp]]
+
+[[Tháng nhiều ngày nghỉ nhân viên không bị mất lương, nhưng đại lý thì mất thu nhập]]
 [[Đại lý là người được công ty uỷ quyền, và chỉ được ăn tiền ở đúng công ty đó. Môi giới là người làm cho khách hàng, và có thể ăn tiền từ nhiều công ty]]
+Xem thêm:: [[Chạy chỉ tiêu|Nhóm cộng tác viên cho nhân viên]]
