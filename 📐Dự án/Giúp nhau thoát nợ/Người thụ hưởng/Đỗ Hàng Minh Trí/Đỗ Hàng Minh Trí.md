@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-04-12T10:53
+updated: 2025-04-12T17:23
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 ---
 # Hồ sơ của Đỗ Hàng Minh Trí
@@ -9,8 +9,9 @@ description: Các thông tin để bạn thẩm định việc cho Trí vay
 
 ## Tình hình chung
 ### Tại sao Trí bị nợ? 
-Tin tưởng một người nên đứng ra vay cho họ. Người này cuối cùng mất khả năng trả nên không trả mình. Nhưng vẫn muốn trả cho những người mình đã vay.
+Tin tưởng một người nên đứng ra vay cho họ. Người này cuối cùng mất khả năng trả nên không trả Trí. Xuống tận nhà đòi nợ thì nghe bảo là chây ì. Nhưng vẫn muốn trả cho những người mình đã vay.
 
+[[Lý do bị nợ]]
 ### Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 Gom hết tất cả các khoản nợ vào một người cô, lãi vài triệu/tháng. 
 
@@ -81,7 +82,7 @@ Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
 ### Lý do nên giúp Trí hơn những người khác?
 ### Quan điểm về sự giải trình và minh bạch
 ### Mức độ bí mật của những thông tin chia sẻ ở đây
-### Trí có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô]] không?
+### Trí có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi]] không?
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
 

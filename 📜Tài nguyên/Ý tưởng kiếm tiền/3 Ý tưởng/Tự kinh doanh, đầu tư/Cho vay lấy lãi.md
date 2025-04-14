@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-15T23:23
+updated: 2025-04-13T21:12
 ---
 Yêu cầu đầu vào:: [[Vốn]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
@@ -15,7 +15,7 @@ WHERE file.name != this.file.name
 ```
 
 ### Ăn chênh lệch
-- [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô]]
-- [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô]]
+- [[Huy động nguồn tiền nhàn rỗi]]
+- [[Huy động nguồn tiền nhàn rỗi]]
 
-[[Cho vay theo nhóm đảm bảo không bị quịt hơn]]
+[[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn]]

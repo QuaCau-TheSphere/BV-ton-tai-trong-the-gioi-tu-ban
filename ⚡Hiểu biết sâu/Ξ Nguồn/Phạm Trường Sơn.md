@@ -1,7 +1,6 @@
 ---
-share: true
 created: 2023-09-05T16:17
-updated: 2025-03-22T18:11
+updated: 2025-04-14T17:30
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -42,7 +41,7 @@ Giờ thì khoẻ, ổng mới mệt.
 Nghèo đa chiều, ko phải là VN không ai chết đói, chỉ là nghèo đa chiều.
 Ba anh còn từng đưa người nghèo ra nước ngoài. Hát ko phải là vui, vì đó là cách giải quyết của họ. Ko tiếp cận được yoga, chánh niệm. Người làng mai chưa chắc là giàu. 
 làm với người nghèo kinh doanh ko đc đâu
-[[Vì người yếu thế|Dịch vụ cho vay vì người yếu thế]], ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai bão lũ, khẩn cấp thì phải giao về mặt trận tổ quốc
+[[Tổ chức tài chính vi mô|Dịch vụ cho vay vì người yếu thế]], ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. [[Đóng góp từ thiện cho thiên tai bão lũ, khẩn cấp phải được giao về Mặt trận Tổ quốc Việt Nam]]
 Người mượn quỹ CEP 
 
 Nếu họ có bằng đại học và trên 26 tuổi thì càng tốt. Nếu họ không muốn đi bán hợp đồng thì họ sẽ được đẩy hợp đồng xuống và được trả thù lao 10 tr/tháng. Cơ bản thì đây là một hình thức tuyển dụng đại lý ảo đã có từ lâu và em thấy có lợi cho tất cả các bên. Qua thảo luận thì em thấy những người có tiềm năng tham gia nhất là những người nghèo. Anh nghĩ sao về điều này?
@@ -76,7 +75,7 @@ SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, d
 - [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
 - [[Các dịch vụ cho vay]]
 - [[Niềm tin, diễn ngôn]]
-- [[Quỹ Tình Thân]]
+- [[Tình Thân]]
 - Nơi gặp mặt
 - Nhu cầu công việc và nhu cầu công nghệ
 
@@ -99,3 +98,5 @@ Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất l
 ## Làm sao có thể huy động tiền vốn để có thể cho vay vi mô? Gõ cửa từng nhà?
 
 ## anh đăng bài trên Facebook và LinkedIn thế nào?
+## [[Ngân hàng Chính sách xã hội cũng là từ thiện]]. Nó có tài trợ cho cái nào khác ko?
+[[PTS]]

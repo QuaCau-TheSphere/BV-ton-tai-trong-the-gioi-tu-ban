@@ -4,7 +4,7 @@ created: 2023-09-05T16:17
 aliases:
   - Làm danh tính khác của nhân sự thật
   - Danh sách công việc làm ảo
-updated: 2025-04-04T15:28
+updated: 2025-04-12T16:40
 ---
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 Yêu cầu đầu vào:: [[Mỗi tuần lên công ty một buổi]], [[Sắp xếp theo lịch được cho trước]]
@@ -15,7 +15,7 @@ Nhân sự ảo tức là có nhân sự thật làm giùm. Nói cách khác b�
 Một số công ty có người cần tuyển nhân sự ảo:
 - Bảo hiểm: [[Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Cathay]]
 - Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/VNPAY/Làm nhân viên ảo]]
-- Tín dụng: [[FE]]
+- Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/FE Credit]]
 - Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo|GM Mall]]
 
 ## Nơi thảo luận

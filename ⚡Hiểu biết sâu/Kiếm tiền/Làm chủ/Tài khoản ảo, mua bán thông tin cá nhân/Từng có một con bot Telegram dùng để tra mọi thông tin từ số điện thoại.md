@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T17:29
-updated: 2025-04-12T15:18
+updated: 2025-04-12T19:58
 ---
 Đầu năm 2024 có một con bot Telegram [App](https://voz.vn/t/gia-cong-an-phuong-goi-lua-cap-nhat-can-cuoc-cong-dan.910543/). Nó cho ra toàn bộ thông tin của bạn từ CMND đến CCCD đã cập nhật. Facebook, email trả ra luôn. Không chỉ là số của một nhà mạng mà nhiều nhà mạng luôn.
 ![[1705770374571.png]]![[1705770381055.png]]
@@ -69,4 +69,4 @@ Này thì tra cứu nên á như vậy chỉ còn khuôn mặt nữa là xong
 mà cái này là tự bán, chứ nếu mà tính đến lỗ hổng bảo mật thì còn kinh hơn 
 [[An ninh mạng ở Việt Nam rất tệ]]
 [[❓App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu]]
-[[Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel]]
+[[Rất nhiều các công ty tài chính tiêu dùng lấy dữ liệu từ Viettel]]

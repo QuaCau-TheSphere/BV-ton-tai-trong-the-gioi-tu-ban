@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-11T18:55
+updated: 2025-04-12T17:23
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -32,7 +32,7 @@ updated: 2025-04-11T18:55
 - Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 - Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-- Bạn có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô|xây dựng quỹ tín dụng vi mô]] với bọn mình để việc hỗ trợ người mang nợ dễ dàng hơn không?
+- Bạn có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi|xây dựng quỹ tín dụng vi mô]] với bọn mình để việc hỗ trợ người mang nợ dễ dàng hơn không?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

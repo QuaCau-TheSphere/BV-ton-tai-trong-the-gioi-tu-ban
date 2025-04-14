@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-11T12:43
+updated: 2025-04-12T20:38
 ---
 tín dụng là cho vay dựa trên uy tín cá nhân
 

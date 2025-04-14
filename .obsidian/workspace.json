@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68f3511d12fdf21d",
+        "id": "127f14714e2febe0",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d2fe6901b651cb",
+            "id": "4f764d769d5f362c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/TNEX.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TNEX"
+              "title": "Quỹ tín dụng Quả Cầu"
+            }
+          },
+          {
+            "id": "499efc2f6bf1721b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Ngân hàng chính sách xã hội.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ngân hàng chính sách xã hội"
+            }
+          },
+          {
+            "id": "4dfb5e5e966e45af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phạm Trường Sơn"
+            }
+          },
+          {
+            "id": "c74d2d3a2276979d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quỹ tín dụng Quả Cầu"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consequnetialism",
+                "query": "\"đô thị\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,44 +252,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2d2fe6901b651cb",
+  "active": "c74d2d3a2276979d",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Lãi suất tính trên dư nợ gốc giảm dần.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Cách thu tiền.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Các loại phí.md",
-    "📜Tài nguyên/Các dịch vụ cho vay.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App vay nóng/Jeff chỉ là cái app để chuyển sang các app cho vay nóng khác.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App vay nóng/DoctorDong là bên mở màn cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/Thuật ngữ.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/Không xem đánh vào nỗi sợ là đe dọa.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/❓Nếu khách thiện chí đóng 100k thì thế nào.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Đóng BHXH ngay đầu tháng.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Vấn đề của hệ thống thông tin (iCollect).md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Thẻ tín dụng.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Sẽ là sai khi nói người thân có trách nhiệm.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Quá hạn hơn 90 ngày thì được giảm lãi.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Phân tích, làm rõ, cô lập, phản hồi.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Newtopup thì 1 cái 100% target Newtopup = 20% kpi tổng ,5 cái 100% kpi tổng.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE lặp lại rất nhiều là mình không đòi nợ mà chỉ kiện ra toà.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE có vốn điều lệ hơn 10 ngàn tỷ đồng. Xếp hàng thứ 2 là 3 ngàn tỷ.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE Credit.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Bài học nào của bên nhân sự thì khi kiểm tra sẽ cho biết đáp án. Bài nào của bên đào tạo thì không.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/70 - 80% hợp đồng vay là qua thẻ.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit",
-    "📜Tài nguyên/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Vì người yếu thế/Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Vì người yếu thế/Quỹ Tình Thân.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Vì người yếu thế",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Thẻ tín dụng",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng/FE",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty tài chính tiêu dùng",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App vay nóng",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty cho vay/FE Credit",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/Công ty cho vay",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/New folder",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Phi ngân hàng/App đen",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
+    "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/PTS.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Tổ chức tài chính vi mô.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng Chính sách xã hội cũng là từ thiện.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Ngân hàng chính sách xã hội.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/Tài chính toàn diện thúc đẩy 7 SDG.md",
+    "Ξ Thiết lập/PDF/Tài chính vi mô/Ảnh hưởng của các tổ chức tài chính vi mô đối với tài chính toàn diện.pdf",
+    "Ξ Thiết lập/PDF/Tài chính vi mô/Khuôn khổ pháp lý cho hoạt động tài chính vi mô.pdf",
+    "Ξ Thiết lập/PDF/Tài chính vi mô",
+    "Ξ Thiết lập/PDF/New folder",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Cuộc sống/Kinh doanh không phải từ thiện.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Điểm tín dụng/Việc chấp nhận giao dịch bằng thẻ khiến cho khách hàng dùng tiền mặt phải trả chi phí.md",
+    "⚡Hiểu biết sâu/Kinh tế/Các loại hình kinh tế mới/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/Các tổ chức quốc tế chỉ hướng đến xoá đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi.md",
+    "📜Tài nguyên/Dịch thuật ngữ.md",
+    "📜Tài nguyên/Ngôn ngữ/Dịch thuật ngữ.md",
+    "📜Tài nguyên/Ngôn ngữ/Cách viết tắt các đơn vị tiền Việt (k, tr, tỉ).md",
+    "📜Tài nguyên/Ngôn ngữ",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/❓Chính phủ không nên làm các chương trình hỗ trợ người lao động.md",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Chính phủ làm từ thiện thì được, chứ không nên thúc đẩy xã hội.md",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Luật pháp chỉ hiểu về kinh doanh, chứ không hiểu về phi lợi nhuận.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/Chính thức hoá khi lập quỹ là chết với luật tín dụng.md",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Chỉ có các tổ chức tài chính vi mô chính thức mới được phép huy động tiền gửi tiết kiệm tự nguyện, còn bán chính thức và phi chính thức thì bị hạn chế.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Luật pháp chỉ hiểu về kinh doanh, chứ không phải là phi lợi nhuận.md",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Đóng góp từ thiện cho thiên tai bão lũ, khẩn cấp phải được giao về Mặt trận Tổ quốc Việt Nam.md",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế",
+    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/New folder",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tín dụng phi ngân hàng/New folder",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Công ty tài chính tiêu dùng/FE Credit/Sản phẩm",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/xiaowei.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_4_2025-04-10_13-14-21.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_3_2025-04-10_13-14-21.jpg",

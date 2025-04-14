@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2025-04-11T21:38
+updated: 2025-04-13T14:14
 ---
 Khái niệm:: [[Nợ xấu]]
 [[CIC mất vài ngày để cập nhật]]
@@ -58,4 +58,4 @@ cần biết cụ thể mỗi tháng bao nhiêu lãi. Khó khăn:
 
 [[Xù nợ ngân hàng]]
 [[Xù nợ app đen]]
-[[Có những người dù thực sự thấy không có khả năng trả nợ vẫn chấp nhận vay app đen còn hơn mất điểm tín dụng]]
+[[Có những người dù thực sự thấy không có khả năng trả nợ vẫn chấp nhận vay nặng lại còn hơn mất điểm tín dụng]]

@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2025-01-24T17:42
+updated: 2025-04-12T16:51
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -29,12 +29,8 @@ Nền kinh tế vừa đủ
 ## [[⚡Hiểu biết sâu]]
 - Lợi ích, động cơ của những người bên liên quan
 ## [[📜Tài nguyên]]
-Nghiệp vụ, chính sách 
+- Nghiệp vụ, chính sách 
+- Thực tế áp dụng ở VN
 ## [[📐Dự án]]
 
-|                     | Khách hàng | Người bán, nhân viên |
-| ------------------- | ---------- | -------------------- |
-| [[⚡Hiểu biết sâu]] |            |                      |
-| [[📜Tài nguyên]]    |            | Nghiệp vụ                     |
-| [[📐Dự án]]         |            |                      |
 Tuy nhiên nếu có thể kết hợp nó thành động cơ của bên liên quan thì sẽ cố gắng chuyển đổi

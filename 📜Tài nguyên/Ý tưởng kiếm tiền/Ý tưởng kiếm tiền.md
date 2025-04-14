@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2023-09-05T16:17
-updated: 2025-04-04T22:11
+created: 2025-01-14T18:54
+updated: 2025-04-12T21:29
 description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
@@ -30,3 +30,6 @@ from "📜Tài nguyên/Ý tưởng kiếm tiền"
 group by split(file.folder, "/" )[3] 
 ```
 
+Khái niệm:: 
+
+Nguồn:: 

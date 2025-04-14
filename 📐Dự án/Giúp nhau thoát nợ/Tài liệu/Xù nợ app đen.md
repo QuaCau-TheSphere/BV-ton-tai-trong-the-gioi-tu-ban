@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-04-11T21:35
+updated: 2025-04-12T16:12
 alias: Giảm thiệt hại khi quyết định xù nợ app đen
 ---
 Khái niệm:: [[App đen, vay nóng]]
@@ -15,4 +15,4 @@ Khái niệm:: [[App đen, vay nóng]]
 
 [[❓App đen không có số của người thân mình]]
 [[❓App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu]]
-[[❓App đen không cần biết thông tin người thân của mình vì có thể mua từ các công ty cho vay khác]]
+[[❓App đen không cần biết thông tin người thân của mình vì có thể mua từ các công ty tài chính tiêu dùng]]
