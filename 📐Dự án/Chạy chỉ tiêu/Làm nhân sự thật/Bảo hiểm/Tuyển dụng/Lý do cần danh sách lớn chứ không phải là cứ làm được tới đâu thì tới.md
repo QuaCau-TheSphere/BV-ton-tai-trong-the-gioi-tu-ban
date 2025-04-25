@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-03T14:33
-updated: 2025-04-05T00:01
+updated: 2025-04-24T21:32
 ---
 Khái niệm:: 
 
@@ -9,7 +9,7 @@ Nguồn::
 
 Duy trì. Khả năng trụ lại. Nếu 
 
-[[📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Quản lý nhân sự/Thà ảo là ảo ngay từ đầu, chứ ảo cho người thật thì sẽ tạo tiền đề để nhân sự không ở trong trạng thái nỗ lực tối đa]]
+[[Thà ảo là ảo ngay từ đầu, chứ ảo cho người thật thì sẽ tạo tiền đề để nhân sự không ở trong trạng thái nỗ lực tối đa]]
 [[70 - 80% hợp đồng ủng hộ sẽ bị cắt ngang khi tvv nghỉ]]
 [[Công việc khốc liệt, nhưng lại không có bảo hiểm xã hội]]
 

@@ -1,11 +1,10 @@
 ---
 share: true
 created: 2025-04-05T15:11
-updated: 2025-04-05T15:11
+updated: 2025-04-20T19:33
 ---
 ## FAQ
-### Bọn mình đi tìm khách vậy có thấy ổn không? Nếu có gì bọn mình là người bị ảnh hưởng uy tín 
-Bạn có thể nghĩ là những thành viên trong nhóm không phải là người bạn duy nhất tui giúp. Tui cũng phải giúp bà không bị lợi dụng nữa
+### Bọn mình đi tìm khách vậy có thấy ổn không? 
 Thực ra là mặc dù đúng tui đang được giao nhiệm vụ giới thiệu sp, nhưng đó chỉ là phần nổi. Phần chìm là:
 - Giúp Trí thoát nợ
 - Xây dựng hệ thống thông tin để mọi người, đặc biệt là những người yếu thế được hưởng lợi. Trong đó có việc hạn chế tình trạng bát nháo, ém thông tin, thiên lệch từ phía người bán 

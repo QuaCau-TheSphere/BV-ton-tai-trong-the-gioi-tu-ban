@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-25T15:33
-updated: 2024-10-01T14:27
+updated: 2025-04-15T00:48
 alias:
   - Đi năn nỉ
 ---
@@ -19,4 +19,6 @@ Về cơ bản, trong giai đoạn tìm hiểu người làm công việc này s
 
 [(Trong tiếng Anh, nghĩa gốc của *amateur (nghiệp dư)* là những người làm vì đam mê, chứ không phải là trình độ còn non)](https://obsidian.quảcầu.cc/⚡Hiểu%20biết%20sâu/Kinh%20tế.%20Tâm%20lý%20học%20quản%20lý%20và%20lao%20động/Kinh%20tế/Lịch%20sử,%20triết%20học,%20chính%20trị,%20xã%20hội%20học%20trong%20kinh%20tế/Trong%20tiếng%20Anh,%20nghĩa%20gốc%20của%20amateur%20(nghiệp%20dư)%20là%20những%20người%20làm%20vì%20đam%20mê,%20chứ%20không%20phải%20là%20trình%20độ%20còn%20non?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Tài+nguyên)&utm_medium=Vault&utm_campaign=C1&utm_content=&utm_term=)
 
-Người điều hành [Quỹ Tình Thân](https://www.facebook.com/profile.php?id=100077601589557&v=timeline&lst=100038413598261%3A100077601589557%3A1684514892&eav=AfZ-gv2lqyQB0Aq69YPKH02KBMzxO_jh4u9moWoAnA8pDhYcwmMc0rLzR_dOt0o4jOQ&refid=17&paipv=0 "Facebook"), anh [[Phạm Trường Sơn]], là một nhà công tác xã hội và có nhiều kinh nghiệm làm việc với dân xã hội đen. Nếu bạn có nhu cầu bọn mình có thể kết nối với ảnh.
+Người điều hành [[Tình Thân]] là một nhà công tác xã hội và có nhiều kinh nghiệm làm việc với dân xã hội đen. Nếu bạn có nhu cầu bọn mình có thể kết nối với ảnh.
+
+Xem thêm:: [[Xù nợ vay nóng]]

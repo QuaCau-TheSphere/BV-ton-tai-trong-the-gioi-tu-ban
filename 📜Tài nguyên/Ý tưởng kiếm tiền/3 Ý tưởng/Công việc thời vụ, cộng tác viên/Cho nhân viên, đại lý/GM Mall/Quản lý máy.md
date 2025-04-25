@@ -2,9 +2,9 @@
 share: true
 description: "Số tiền kiếm được: 5 tr/tháng"
 created: 2025-04-04T14:21
-updated: 2025-04-12T15:18
+updated: 2025-04-24T21:30
 ---
-Số tiền kiếm được:: 5 tr/tháng + quà tặng rất thường xuyên
+Số tiền kiếm được:: 5tr/tháng + quà tặng rất thường xuyên
 Mô tả công việc:: Quản lý phonefarm gồm 60 - 80 cái điện thoại 
 
 ## Mô tả chi tiết

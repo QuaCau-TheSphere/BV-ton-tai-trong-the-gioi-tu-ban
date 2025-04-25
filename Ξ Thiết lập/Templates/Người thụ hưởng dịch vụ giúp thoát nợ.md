@@ -18,7 +18,7 @@ updated: 2025-03-22T23:29
 ### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 ### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
 ### Bạn đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
-### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ app đen]] không? Vì sao?
+### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ vay nóng]] không? Vì sao?
 ### Bạn có chấp nhận ra khỏi thành phố sống không? Vì sao?
 
 ## Năng lực xoay sở
@@ -30,6 +30,6 @@ updated: 2025-03-22T23:29
 ### Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 ### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
 ### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-### Bạn có sẵn sàng tham gia công việc [[Huy động nguồn tiền nhàn rỗi]] không?
+### Bạn có sẵn sàng tham gia công việc [[Quỹ tín dụng Quả Cầu|xây dựng quỹ tín dụng vi mô]] không?
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

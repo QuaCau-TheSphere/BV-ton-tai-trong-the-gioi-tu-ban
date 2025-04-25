@@ -2,7 +2,7 @@
 share: true
 created: 2024-08-13T17:19
 description: không cần điểm tín dụng
-updated: 2025-04-13T21:38
+updated: 2025-04-15T00:25
 ---
 Khái niệm:: [[App đen, vay nóng]]
 
@@ -19,4 +19,4 @@ FROM "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ
 WHERE file.name != this.file.name
 ```
 - [[Những bên cho vay lãi quá rẻ thực ra là để mình chịu làm KYC để người khác tạo tài khoản ảo bằng tên của mình]]
-[[Xù nợ app đen]]
+[[Xù nợ vay nóng]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:24
-updated: 2025-04-14T15:18
+updated: 2025-04-20T17:37
 ---
 Thường hay trong trạng thái không sẵn sàng để hỏi mượn, vì điều đó có thể làm khó xử cho các bên. Và cũng chỉ được có một vài lần
 

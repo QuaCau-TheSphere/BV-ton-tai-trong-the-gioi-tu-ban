@@ -1,20 +1,23 @@
 ---
 share: true
-description: "Số tiền được nhận: 50 k/tài khoản tạo mới"
+description:
+  - Số tiền đầu tư: 390k
+  - Số tiền được nhận: 50k/tài khoản tạo mới
 created: 2025-04-03T14:15
-updated: 2025-04-04T16:38
+updated: 2025-04-15T20:26
 ---
 Yêu cầu đầu vào:: [[Có tài khoản ngân hàng]], [[Làm trực tuyến]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
 
 Mô tả công việc:: Tải app GM Mall, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền
-Số tiền kiếm được:: 50 k/tài khoản tạo mới
-
+Số tiền kiếm được:: 50k/tài khoản tạo mới
+Số tiền đầu tư:: 390k
 ## Mô tả chi tiết
 App hoạt động bằng cách gom nhóm chung. Bạn mua một món hàng bằng việc tham gia một nhóm. Khi nhóm đủ số lượng người đăng ký thì một người ngẫu nhiên sẽ được mua hàng, những người còn lại sẽ được trả tiền. Người được chọn có thể chọn nhận hàng, hoặc bán lại hàng cho app. Tiền hàng sẽ được trả lại sau 3 ngày.
 
 ### B1. Tải app GM Mall
 [![Download on the App Store|150](https://e7.pngegg.com/pngimages/718/1015/png-clipart-app-store-apple-google-play-apple-text-logo-thumbnail.png)](https://apps.apple.com/vn/app/gm-mall/id6475560388) [![Get it on Google Play|150](https://e7.pngegg.com/pngimages/733/638/png-clipart-google-play-text-google-play-android-app-store-google-play-text-logo-thumbnail.png)](https://play.google.com/store/apps/details?id=app.globalmall.vn&hl=vi&pli=1)
+
 ### B2. Đăng ký và nhập mã giới thiệu
 ![[B2. Đăng ký.png]]
 Bạn phải nhập một trong các mã giới thiệu này thì mới có tiền lời. Nếu không nhập thì có khi còn lỗ.
@@ -49,6 +52,7 @@ Bạn vào mục `Mẹ & Bé`, gom nhóm các đơn có giá 439k. Nếu bạn k
 - Nếu bạn muốn **rút lại tiền ngay** thì hãy gom đơn khăn giấy 40k đến khi có chữ "mua lại" ở mục `Chờ lấy hàng` thì nhấn vào "mua lại" là có thể rút tiền ra. Bạn sẽ rút được tầm 400k và có quà tặng
 - Nếu bạn muốn **rút được nhiều tiền hơn** thì hãy tiếp tục gom các đơn 439k đến khi có chữ "mua lại" ở mục `Chờ lấy hàng` thì nhấn vào "mua lại".  3 ngày sau (chỉ tính giờ hành chính) là có thể rút tiền ra. Trong thời gian đó bọn mình sẽ gửi bạn thêm mã lì xì 30k. Bạn sẽ rút được tầm 460 và quà tặng
 
+Trường hợp muốn rút lại tiền ngay thì số tiền lời không nhiều, nhưng nó sẽ hữu ích cho việc kiểm tra cách app hoạt động ma
 ![[B5. Gom nhóm (1).jpg]]
 ![[B5. Gom nhóm (2).jpg]]
 ![[B5. Gom nhóm (3).jpg]]

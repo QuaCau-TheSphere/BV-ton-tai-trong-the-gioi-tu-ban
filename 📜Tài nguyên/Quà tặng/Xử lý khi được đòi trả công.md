@@ -1,8 +1,6 @@
 ---
 share: true
 created: 2025-01-30T20:53
-updated: 2025-04-10T21:21
+updated: 2025-04-21T15:06
 ---
-Khái niệm:: 
-
-Nguồn:: 
+Xem thêm:: [[Phải trả ơn]]

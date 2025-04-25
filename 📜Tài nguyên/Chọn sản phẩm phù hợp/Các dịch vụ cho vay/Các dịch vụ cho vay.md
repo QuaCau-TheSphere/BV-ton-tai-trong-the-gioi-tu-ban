@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-04-14T13:45
+updated: 2025-04-20T17:37
 ---
 Vay ở đây là vay tín chấp, không phải thế chấp.
 
 ## Từ cá nhân
 Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này. Nhưng có thể nếu bạn làm một hồ sơ vay bằng cách trả lời các câu hỏi trong [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] thì bạn sẽ dễ vay được hơn.
 
-[[Huy động nguồn tiền nhàn rỗi]]
+[[Quỹ tín dụng Quả Cầu|xây dựng quỹ tín dụng vi mô]]
 
 ## Từ tổ chức
 | Hình thức                                                                            | Ghi chú                       | Ví dụ                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -66,5 +66,6 @@ Cao nhất là có lợi nhất.
 - [[App vay nóng]]
 - Tiệm cầm đồ 
 - Chơi hụi, bóc họ
+
 ## Nơi thảo luận
 ![](https://i.imgur.com/OtW4epu.png)

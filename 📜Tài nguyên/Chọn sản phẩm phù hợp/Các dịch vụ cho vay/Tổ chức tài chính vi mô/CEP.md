@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-14T12:53
+updated: 2025-04-20T18:22
 ---
 URL:: https://cep.org.vn
 Nếu vay 20tr thì lãi 500k/tháng 
@@ -32,5 +32,5 @@ Nếu không phải là thành viên công đoàn:
 [Trợ vốn giúp người nghèo: Những món tiền nhỏ đẩy lùi nạn cho vay nặng lãi - Tuổi Trẻ Online](https://tuoitre.vn/tro-von-giup-nguoi-ngheo-nhung-mon-tien-nho-day-lui-nan-cho-vay-nang-lai-20220612094859913.htm)
 
 ![[Pasted image 20240620101103.png]]
-[[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn]]
+[[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]]
 [[Tổ chức tài chính vi mô]]

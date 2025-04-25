@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-04-13T14:12
+updated: 2025-04-25T16:57
 ---
 Khái niệm:: [[App đen, vay nóng]]
 
@@ -22,7 +22,6 @@ OCB
 a thấy mấy số tài khoản nó nhận thuộc ngân hàng nào ko
 OCB, SHB
 tụi nó chính là tụi góp tiền cho vay nóng đấy
-
 vãi
 ocb, shb là cái bị tóm đó hả?
 
@@ -46,3 +45,9 @@ nó chỉ tóm khi nào a cúng tiền ko thoả nó thôi
 chứ toàn nuôi béo rồi thịt để lấy thành tích
 
 [laodong.vn/kinh-te/vay-tien-qua-app-tin-dung-den-lai-cat-co-vi-sao-bung-phat-tai-viet-nam-808348.ldo](https://laodong.vn/kinh-te/vay-tien-qua-app-tin-dung-den-lai-cat-co-vi-sao-bung-phat-tai-viet-nam-808348.ldo)
+
+[[4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân]]
+
+![Vì Sao Campuchia Trở Thành "THIÊN ĐƯỜNG Việc Nhẹ Volt Cao?" - YouTube](https://youtu.be/JW9AMuUAsRg?si=o93PPSU6qcaHOsXD)
+![Người Việt thoát kiếp 'nô lệ' khi bị lừa sang Campuchia ra sao? - YouTube](https://youtu.be/2oEzo2vFfHg?si=lPnA-EhY9aPsPyXN)
+![Kế hoạch tẩu thoát khỏi "địa ngục" ở bên kia biên giới \| VTV đặc biệt BẪY - YouTube](https://youtu.be/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr)

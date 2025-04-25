@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f764d769d5f362c",
+            "id": "9e788f50c32ac0da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Quỹ tín dụng Quả Cầu"
-            }
-          },
-          {
-            "id": "499efc2f6bf1721b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Ngân hàng chính sách xã hội.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ngân hàng chính sách xã hội"
-            }
-          },
-          {
-            "id": "4dfb5e5e966e45af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
+                "file": "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Phạm Trường Sơn"
+              "title": "Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự"
             }
           },
           {
-            "id": "c74d2d3a2276979d",
+            "id": "3c2784d142319af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md",
+                "file": "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự"
+            }
+          },
+          {
+            "id": "6527da8bc3c05eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Quỹ tín dụng Quả Cầu"
+              "title": "Săn người"
+            }
+          },
+          {
+            "id": "89b5dea7327d1908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay"
+            }
+          },
+          {
+            "id": "d262e31153b2172f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Làm nhân viên ảo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"đô thị\" ",
+                "query": "dì bà",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,57 +262,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "open-vscode:VSCode": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c74d2d3a2276979d",
+  "active": "3c2784d142319af6",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
-    "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/PTS.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Tổ chức tài chính vi mô.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng Chính sách xã hội cũng là từ thiện.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Ngân hàng chính sách xã hội.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/Tài chính toàn diện thúc đẩy 7 SDG.md",
-    "Ξ Thiết lập/PDF/Tài chính vi mô/Ảnh hưởng của các tổ chức tài chính vi mô đối với tài chính toàn diện.pdf",
-    "Ξ Thiết lập/PDF/Tài chính vi mô/Khuôn khổ pháp lý cho hoạt động tài chính vi mô.pdf",
-    "Ξ Thiết lập/PDF/Tài chính vi mô",
-    "Ξ Thiết lập/PDF/New folder",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Cuộc sống/Kinh doanh không phải từ thiện.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Điểm tín dụng/Việc chấp nhận giao dịch bằng thẻ khiến cho khách hàng dùng tiền mặt phải trả chi phí.md",
-    "⚡Hiểu biết sâu/Kinh tế/Các loại hình kinh tế mới/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/Các tổ chức quốc tế chỉ hướng đến xoá đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi.md",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi.md",
-    "📜Tài nguyên/Dịch thuật ngữ.md",
-    "📜Tài nguyên/Ngôn ngữ/Dịch thuật ngữ.md",
-    "📜Tài nguyên/Ngôn ngữ/Cách viết tắt các đơn vị tiền Việt (k, tr, tỉ).md",
-    "📜Tài nguyên/Ngôn ngữ",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/❓Chính phủ không nên làm các chương trình hỗ trợ người lao động.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Chính phủ làm từ thiện thì được, chứ không nên thúc đẩy xã hội.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Luật pháp chỉ hiểu về kinh doanh, chứ không hiểu về phi lợi nhuận.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Tài chính vi mô/Chính thức hoá khi lập quỹ là chết với luật tín dụng.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Chỉ có các tổ chức tài chính vi mô chính thức mới được phép huy động tiền gửi tiết kiệm tự nguyện, còn bán chính thức và phi chính thức thì bị hạn chế.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Luật pháp chỉ hiểu về kinh doanh, chứ không phải là phi lợi nhuận.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế/Đóng góp từ thiện cho thiên tai bão lũ, khẩn cấp phải được giao về Mặt trận Tổ quốc Việt Nam.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/Vì người yếu thế",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tiền tệ, ngân hàng/New folder",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tín dụng phi ngân hàng/New folder",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Công ty tài chính tiêu dùng/FE Credit/Sản phẩm",
+    "📐Dự án/Đối thoại với tư bản/Làm sao để nhân viên bán hàng muốn tư vấn điều tốt nhất cho mình, kể cả khi nó đi ngược lại lợi ích của họ.md",
+    "📐Dự án/📐Dự án.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Bảo Việt đuổi việc người làm lộ URL nội bộ.md",
+    "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
+    "📐Dự án/Chạy chỉ tiêu/Nháp.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Làm nhân sự ảo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/GM Mall.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md",
+    "📐Dự án/Ξ Kết quả truyền thông/Các nhóm kiếm việc nhanh.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Cá nhân/Không nuôi được con thì đừng sinh con.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Cá nhân/Bản chất con người là tham lam.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Đi xe buýt thì tới bao giờ mới tới.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Untitled.md",
+    "📐Dự án/Ξ Kết quả truyền thông",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Tài liệu cho từng công ty/Tài liệu cho nhân viên ảo GM Mall.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế học tâm lý/Việc khuyến mãi không chỉ giảm tiền, mà còn giảm tội lỗi.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tuyển dụng/Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md",
+    "📐Dự án/Đối thoại với tư bản/Làm sao để tuyển và giữ được người.md",
+    "📐Dự án/Đối thoại với tư bản/Góc nhìn phản tư bản cho nhóm chạy chỉ tiêu.md",
+    "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Tư bản, tân tự do/Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào.md",
+    "📐Dự án/Chạy chỉ tiêu/~syncthing~Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md.tmp",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~9141f702736aa8ffd983dd5ecf6b060cc1eeaa45eccb37f4d7ca0efacb2a6072.tmp",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md.tmp",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền.md.tmp",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Đầu tư/~syncthing~Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch.md.tmp",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~Cái cần không phải là có tiền, mà là có dòng tiền.md.tmp",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/~syncthing~Dòng tiền.md.tmp",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/~syncthing~Chính phủ muốn kiểm soát dòng tiền.md.tmp",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~aa38c341c2a51a11eb2efd2584b1117a0c25953702804bc64a7eb66f10401066.tmp",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250424164930.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/xiaowei.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_4_2025-04-10_13-14-21.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_3_2025-04-10_13-14-21.jpg",
@@ -299,7 +325,6 @@
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_3_2025-04-10_13-10-40.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_2_2025-04-10_13-10-40.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_1_2025-04-10_13-10-40.jpg",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lương Văn Quỳnh/photo_4_2025-04-10_13-05-05.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

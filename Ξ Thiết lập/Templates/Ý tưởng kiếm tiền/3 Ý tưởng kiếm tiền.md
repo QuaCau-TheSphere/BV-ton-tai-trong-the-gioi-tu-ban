@@ -7,6 +7,7 @@ Hình thức::
 
 Mô tả công việc:: 
 Số tiền kiếm được:: 
+Số tiền đầu tư:: 
 Số người cần tuyển:: 
 
 ## Mô tả chi tiết

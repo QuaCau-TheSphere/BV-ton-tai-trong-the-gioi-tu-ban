@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-04-14T17:30
+updated: 2025-04-22T12:40
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -85,18 +85,26 @@ WHERE contains(hỏi-thêm, [[]])
 ```
 
 ## Phân biệt nghèo, cận nghèo, thu nhập trung bình có ý nghĩa gì? Mindset sẽ khác nhau? 
-Có phải tất cả những người nghèo đa chiều đều có tư duy giống như trong sách? 
-Khi hết nghèo rồi thì người ta có thay đổi tư duy hay ko? 
-Những nhà ở khu vực đó anh thấy vẫn nghèo ntn
-Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
+## Có phải tất cả những người nghèo đa chiều đều có tư duy giống như trong sách "Hiểu nghèo thoát nghèo"? 
+## Khi hết nghèo rồi thì người ta có thay đổi tư duy hay ko? 
+## Những nhà ở khu vực đó anh thấy vẫn nghèo ntn
+## Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
+## Anh có nói SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Anh có thể nói thêm về vấn đề này ko?
+## Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ, như Thảo Đàn, IECD, MLUTV hoạt động được vì nhỏ. Ở mức độ nào mới bị để ý? Ví dụ như nhóm của bà Tôn Nữ Thị Ninh thì thế nào mà chính quyền chẳng biết?
 
-## Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ, như Thảo Đàn, IECD, MLUTV hoạt động được vì nhỏ. Ở mức độ nào mới bị để ý? Vì như nhóm của bà Tôn Nữ Thị Ninh thì thế nào mà chính quyền chẳng biết?
-
-## Vì sao không ai tương tác? Vì sao anh like?
 ## Tại sao ba anh không tập trung giải quyết nghèo cho một hộ cụ thể?
 
 ## Làm sao có thể huy động tiền vốn để có thể cho vay vi mô? Gõ cửa từng nhà?
 
-## anh đăng bài trên Facebook và LinkedIn thế nào?
+## Anh có biết những tổ chức tài chính vi mô nào khác? 
+## Anh có biết đến microfinance.com.vn?
+## Vì sao anh ko tham gia cái khảo sát của họ
 ## [[Ngân hàng Chính sách xã hội cũng là từ thiện]]. Nó có tài trợ cho cái nào khác ko?
-[[PTS]]
+
+## Đã có những nỗ lực nào để nói về lợi ích của việc làm dựa trên cộng đồng cho những người làm từ thiện nổi tiếng? Vẫn có những tổ chức mời người nổi tiếng làm đại sứ mà? Vai trò của UN ở đâu?
+
+## Các trung tâm công tác xã hội có cập nhật kiến thức mới không, hay là cũng chỉ là từ thiện? Nếu là từ thiện thì lý do là gì?
+
+## Sinh viên anh thường làm những gì?
+## Anh hướng đến nền kinh tế vừa đủ. Anh sẽ nói thế nào với những người đang muốn bám trụ ở thành phố?
+## anh đăng bài trên Facebook và LinkedIn thế nào?

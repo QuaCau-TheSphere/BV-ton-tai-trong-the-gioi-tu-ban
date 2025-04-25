@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-01T15:57
-updated: 2024-09-30T12:37
+updated: 2025-04-15T23:54
 ---
 Đây là những đối tượng:
 - Có nhiều nhân viên
@@ -9,3 +9,6 @@ updated: 2024-09-30T12:37
 - Thấy phí 0.8% không quan trọng bằng việc nhàn
 
 [[Mở quán mà dưới 100 khách một ngày là dẹp tiệm]]
+
+
+qr là 0,88% phí, pos là cỡ 18 triệu phí (vì phí mặc định là 1.8%, phí VNPAY hỗ trợ là 0.8%/1.8 tỷ)

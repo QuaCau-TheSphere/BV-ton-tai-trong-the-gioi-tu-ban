@@ -1,11 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-12T17:23
+updated: 2025-04-20T16:50
 ---
+```dataview
+LIST rows.file.link
+FROM "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng"
+GROUP BY split(file.folder, "/")[4]
+WHERE file.name != this.file.name
+```
 ## Nơi thảo luận
 ![](https://i.imgur.com/OtW4epu.png)
-
-[[Huy động nguồn tiền nhàn rỗi]]
-[[Cho vay lấy lãi]]
-[[Các dịch vụ cho vay]]  

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-04-14T12:53
+updated: 2025-04-20T18:22
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -16,7 +16,7 @@ URL:: https://www.facebook.com/profile.php?id=100077601589557
 Lần 1: 2tr
 ```
 
-[[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn]]
+[[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]]
 [[Tổ chức tài chính vi mô]]
 
 tỉ lệ mất tiền là 5%

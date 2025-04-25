@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2025-04-24T14:59
 ---
 [[Để xác định xem cái gì nên và không nên được mua bằng tiền, cần phải xác định được những giá trị nào chi phối các lĩnh vực khác nhau trong đời sống cá nhân và xã hội]]
 Nguồn:: [[Tiền không mua được gì]]

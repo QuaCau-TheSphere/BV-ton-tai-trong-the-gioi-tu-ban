@@ -1,0 +1,17 @@
+---
+share: true
+created: 2025-04-24T14:55
+updated: 2025-04-24T21:03
+---
+Khái niệm:: 
+Nhân viên bán hàng của các công ty thường được áp đặt chỉ tiêu (KPI). Khi các công ty, tập đoàn đặt việc tối đa hoá lợi nhuận lên hàng đầu, [[Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình|họ sẽ thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình]], và áp đặt các chỉ tiêu (KPI) hằng tháng, và dùng hoa hồng để tạo động lực. Bởi vì, [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]], nên các nhân viên bán hàng được đào tạo với các tình huống khác nhau để gỡ bỏ sự từ chối. Nên để kiếm được đồng tiền, họ không còn cách nào khác là từ bỏ vai trò là người nâng đỡ suy nghĩ lý tính của khách hàng nữa, mà chỉ còn [[Người bán hàng giống như giao diện giọng nói của một cái máy hơn là một con người thật|giao diện giọng nói của một cái máy hơn là một con người thật]]. Và họ phải xem điều mình làm [[Bán hàng bằng sự sợ hãi, nhưng lại xem đó là giọt mồ hôi quý giá|là giọt mồ hôi quý giá, là ý nghĩa của việc lao động]]. [[Để kiếm được đồng tiền, người bán hàng phải ráng chen vào chỗ đã có người đáp ứng nhu cầu rồi. Phải cạnh tranh với những người giống mình]]. [[Các từ khách hàng, chăm sóc, tư vấn, quà tặng vốn không có nghĩa là họ phải theo mình, nhưng thực chất lại được dùng như vậy trong quá trình bán hàng]]
+
+Cách tốt nhất để giúp họ là khiến cho các công việc nâng cao nhận thức kia kiếm được nhiều tiền hơn, hoặc khiến cho các công ty chuyển đổi sang mô hình không áp chỉ tiêu, hoặc đáp ứng các nhu cầu của họ mà không cần tới tiền. Những cách khác như [[Làm sao để một người thấy công việc hấp dẫn hơn|Tạo thêm sự hấp dẫn cho công việc bán hàng]] chỉ là sự thoả hiệp với sự cấp bách, chứ không đả động gì tới lý do chính yếu. Nhưng ý tưởng tốt hơn nữa là làm cho người bán [[Các tập đoàn là hình thức của các chế độ độc tài có thứ bậc|có tiếng nói về cách họ sản xuất, những gì họ sản xuất và lợi nhuận mà họ tạo ra được sử dụng như thế nào]]. Đi một hồi thì sẽ thành chống chủ nghĩa tư bản, tham gia các phong trào chủ nghĩa xã hội.
+
+Những người đến với nơi này đa phần không có nhiều đầu óc để bàn chuyện thế sự. Đồng ý là còn rất nhiều người đang có cuộc sống lắt léo hơn, bị từ chối những nhu cầu cơ bản hơn, nhưng 
+Không có đầu óc để nghĩ về điều đó. Nó cần đáp ứng nhu cầu của những người đang sử dụng nó trước tiên ở Việt Nam, trong đô thị, không phải là công nhân
+Điều này cũng có nghĩa là nơi này không, vì nó cần đáp ứng các nhu cầu của những người xung quanh. Đã có rất nhiều tổ chức chống tư bản rồi, làm thêm một cái chắc cũng không có nhiều ý nghĩa lắm
+
+Những người đến với nơi này đầu tiên không phải là công nhân mà đa phần là làm trong ngành tài chính. Một số thì không nhận thức được về sự bóc lột, số khác thì hiểu rõ về nó
+
+Lý luận của những người ở đây còn rất non yếu, và chắc cũng có thể nói là không đủ sức để quan tâm tới những thứ vĩ mô

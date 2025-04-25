@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-04-12T17:45
+updated: 2025-04-21T10:42
 ---
 ## Tiết kiệm tiền mua đồ ăn
 - Đến các nhà hàng tiệc cưới đóng hộp đồ ăn thừa 
@@ -12,7 +12,7 @@ updated: 2025-04-12T17:45
 
 ## Tiết kiệm tiền sinh hoạt
 - 3G: Xem coi sđt của bạn có được đăng ký gói cước giá rẻ hay không. Ví dụ như Vinaphone có gói FHAPPY. Gửi 900 để đăng ký [3FHAPPY](https://digishop.vnpt.vn/di-dong/3fhappy/326). Các gói BIG là ai cũng làm được. Đầu 900 là cho gói thuê bao, đầu 888 là cho gói dữ liệu
-- [[Xem phim]]
+- [[Vé xem phim, ca nhạc, ăn uống]]
 - Dùng ắc quy và pin mặt trời
 
 ## Ra các thành phố khác để sống

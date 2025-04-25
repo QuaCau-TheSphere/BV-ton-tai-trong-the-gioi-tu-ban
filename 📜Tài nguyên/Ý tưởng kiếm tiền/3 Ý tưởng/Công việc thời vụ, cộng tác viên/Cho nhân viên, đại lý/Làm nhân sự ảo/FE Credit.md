@@ -1,11 +1,10 @@
 ---
 share: true
 created: 2025-01-01T22:31
-updated: 2025-04-12T16:40
+updated: 2025-04-24T16:13
 description: "Số tiền kiếm được: 6tr/tháng"
-alias: Làm nhân viên ảo FE Credit
+title: Làm nhân viên ảo FE Credit
 ---
-# Làm nhân viên ảo FE Credit
 Số tiền kiếm được:: 6tr/tháng
 
 Nếu bạn làm ở [[Nhóm Bình Dương 1]] thì sẽ được [[Bao nuôi]].

@@ -1,14 +1,13 @@
 ---
 share: true
 created: 2024-09-27T13:06
-updated: 2025-04-08T22:42
+updated: 2025-04-24T20:50
 ---
-Khái niệm:: 
+Khái niệm:: [[Rửa tiền]]
 
 Thì hệ thống chồng chéo lên nhau. 
 Bữa nói ngay ông giám đốc cũng chửi bên quản lý rủi ro vụ quán karaoke quét pos 50tr nhiều lần buổi tối nên tụi nó khóa máy kìa
 
-Nói rồi mà
 Tức là 1 bộ phận để, 1 bộ phận ko muốn,chồng chéo lên nhau kiểu vậy
 
 Thì cái này ý nói là ở cấp lãnh đạo thôi
@@ -76,3 +75,4 @@ Hỏi biết momo hỏi biết shopee biết tiktok ko hồi mới ra momo giớ
 Ko có gì khó hiểu cả gm mall đang nhiều kol pr cho cái này rồi
 [[Cái cần không phải là có tiền, mà là có dòng tiền]]
 [[Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào]]
+[[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]]

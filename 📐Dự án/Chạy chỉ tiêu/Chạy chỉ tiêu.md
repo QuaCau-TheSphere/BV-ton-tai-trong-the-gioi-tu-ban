@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-04-04T15:47
+updated: 2025-04-24T20:59
 alias:
   - Nhóm chạy chỉ tiêu cho nhân sự
   - Nhóm thuê ngoài (outsource) cho nhân sự
@@ -9,8 +9,8 @@ alias:
   - Nhóm cộng tác viên cho nhân sự
   - Nhóm nhân sự ảo
   - Nhóm trợ lý cho nhân sự
+title: Nhóm chạy chỉ tiêu cho nhân sự
 ---
-# Nhóm chạy chỉ tiêu cho nhân sự
 > [!NOTE] Bài chi tiết
 > [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
 
@@ -23,8 +23,7 @@ GROUP BY split(file.folder, "/")[5]
 WHERE file.name != this.file.name
 ```
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
-Bài chi tiết:: [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
-Hiện tại trong nhóm đã có 5 người làm chung.
+
 [[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
 
 [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]. [[Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ]]
