@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-04-22T12:40
+updated: 2025-05-04T16:45
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -84,27 +84,60 @@ LIST
 WHERE contains(hỏi-thêm, [[]])
 ```
 
-## Phân biệt nghèo, cận nghèo, thu nhập trung bình có ý nghĩa gì? Mindset sẽ khác nhau? 
-## Có phải tất cả những người nghèo đa chiều đều có tư duy giống như trong sách "Hiểu nghèo thoát nghèo"? 
-## Khi hết nghèo rồi thì người ta có thay đổi tư duy hay ko? 
-## Những nhà ở khu vực đó anh thấy vẫn nghèo ntn
-## Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
-## Anh có nói SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Anh có thể nói thêm về vấn đề này ko?
-## Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ, như Thảo Đàn, IECD, MLUTV hoạt động được vì nhỏ. Ở mức độ nào mới bị để ý? Ví dụ như nhóm của bà Tôn Nữ Thị Ninh thì thế nào mà chính quyền chẳng biết?
+Tự nhận mình chỉ chuyên về thiện nguyện. Tuy là người điều hành [[Tình Thân]] nhưng không tìm hiểu nhiều
+Tại sao anh không tìm hiểu về tài chính vi mô nhiều?
+## Tài chính vi mô
+### Anh có biết những tổ chức tài chính vi mô nào khác không? 
+chương trình của chính phủ thì 
+tổ  chức quốc tế dariu.
+Gọi là  tiết kiệm tín dụng cho người nghèo hiểu
+có kiện hayko thì công an mới bắt
+### Anh có biết đến microfinance.com.vn không?
 
-## Tại sao ba anh không tập trung giải quyết nghèo cho một hộ cụ thể?
+### Vì sao anh ko tham gia cái khảo sát của họ?
+### Sao anh không lập ra một quỹ khác?
+### Sinh viên anh thường làm những gì?
+### Anh hướng đến nền kinh tế vừa đủ. Anh sẽ nói thế nào với những người đang muốn bám trụ ở thành phố?
+### Điều gì khiến anh chưa muốn ủng hộ lúc này?
 
-## Làm sao có thể huy động tiền vốn để có thể cho vay vi mô? Gõ cửa từng nhà?
+### [[Ngân hàng Chính sách xã hội cũng là từ thiện]]. Nó có tài trợ cho cái nào khác ko?
+### Tại sao ba anh không tập trung giải quyết nghèo cho một hộ cụ thể?
+### Làm sao có thể huy động tiền vốn để có thể cho vay vi mô? Gõ cửa từng nhà?
+### Anh có biết những ai cũng làm giống em không? 
+### Anh Nguyễn Minh Nhật
 
-## Anh có biết những tổ chức tài chính vi mô nào khác? 
-## Anh có biết đến microfinance.com.vn?
-## Vì sao anh ko tham gia cái khảo sát của họ
-## [[Ngân hàng Chính sách xã hội cũng là từ thiện]]. Nó có tài trợ cho cái nào khác ko?
+chỉ có fintech mới cho mượn trước để kiếm người dùng
 
-## Đã có những nỗ lực nào để nói về lợi ích của việc làm dựa trên cộng đồng cho những người làm từ thiện nổi tiếng? Vẫn có những tổ chức mời người nổi tiếng làm đại sứ mà? Vai trò của UN ở đâu?
+mô hình dễ chạy
+kkeer câu chuyện sao để 
+Nghiên cứu 
+Khách hàng là quan trọng nhất
 
-## Các trung tâm công tác xã hội có cập nhật kiến thức mới không, hay là cũng chỉ là từ thiện? Nếu là từ thiện thì lý do là gì?
+## Tình hình các tổ chức
+### Anh có nói SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Anh có thể nói thêm về vấn đề này ko?
+### Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ như Thảo Đàn, IECD tuy quy mô nhân sự chỉ có vài người nhưng số lượng người thụ hưởng lớn. 
+tổ chức quốc tế lớn nhất hiện tại
+vina capital, oxfam
+### Đã có những nỗ lực nào để nói về lợi ích của việc làm dựa trên cộng đồng cho những người làm từ thiện nổi tiếng? Vẫn có những tổ chức mời người nổi tiếng làm đại sứ mà? Vai trò của UN ở đâu?
+### Các trung tâm công tác xã hội của nhà nước có cập nhật kiến thức mới không, hay là cũng chỉ là từ thiện? Nếu là từ thiện thì lý do là gì?
+Từ thiện không cần học. CTXH  thanh nhiên thành phố
+trung tâm an sinh của MTTQ
+### Vai trò của SDRC
+với các tổ chức đó là gì? 
+nguyễn sĩ dũng chuyên nghiên cứu về tổ chức
+### Anh biết có những nguồn quỹ nào cho việc xây dựng cộng đồng không? Tại sao nhà nước không có những khoản đó? 
+### Em muốn làm LIN 2 thì anh có cho lời khuyên nào không? 
+### Bùi Quang Tinh Tú. 
 
-## Sinh viên anh thường làm những gì?
-## Anh hướng đến nền kinh tế vừa đủ. Anh sẽ nói thế nào với những người đang muốn bám trụ ở thành phố?
-## anh đăng bài trên Facebook và LinkedIn thế nào?
+## Hệ thống thông tin
+### anh đăng bài trên Facebook và LinkedIn thế nào?
+### Nếu có lý do để không sử dụng app thiện nguyện thì đó là lý do gì? 
+
+## Người nghèo
+### Phân biệt nghèo, cận nghèo, thu nhập trung bình có ý nghĩa gì? Mindset sẽ khác nhau? 
+### Có phải tất cả những người nghèo đa chiều đều có tư duy giống như trong sách "Hiểu nghèo thoát nghèo"? 
+### Khi hết nghèo rồi thì người ta có thay đổi tư duy hay ko? 
+### Những nhà ở khu vực đó anh thấy vẫn nghèo ntn
+### Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
+### Sao thấy anh ko làm nhiều về hướng chống tư bản? 
+### Vì sao anh không hỗ trợ họ tiếp cận các dịch vụ tài chính chính thức?

@@ -1,10 +1,8 @@
 ---
 created: 2024-09-14T23:01
-updated: 2025-04-20T23:10
+updated: 2025-04-27T11:11
 ---
 ## Cách trả nợ
-[[Các chỗ đáo ngại JCB vì phí cao và dễ bị theo dõi máy pos]]
-
 Tại sao ko muốn có thêm nợ? Dù sao thì cũng ko có dòng tiền ngay mà chỉ có những hạn chót cần phải trả
 
 ## Hệ thống niềm tin
@@ -39,12 +37,3 @@ Sợ bị đi tù là sao?
 Đã được bao nhiêu hợp đồng rồi? 
 Vì sao cần cái thay đổi định kỳ đóng phí gấp đến như vậy khi chỉ cần làm thủ công mỗi tháng một lần và cũng ko có bao nhiêu hợp đồng? 
 Tại sao thấy việc tiếp tục đầu tư vào cathay có lợi lâu dài hơn? 
-
-
-## [[Cào sự kiện trên mạng lên Google Calendar]]
-Các sự kiện trên fb event nó ko thuần tuý là 1 events như dạng ticketbox mà nó giống quảng bá hơn. Cần ticketbox hơn vì nó là dạng bán vé ở cấp độ chuyên nghiệp hơn, nội dung và giá trị đc chỉnh chu hơn. Tại sao fb ko chuyên nghiệp và chỉnh chu?
-
-
-Các sự kiện trên fb event nó ko thuần tuý là 1 events như dạng ticketbox mà nó giống quảng bá hơn
-
-Cần ticketbox hơn vì nó là dạng bán vé ở cấp độ chuyên nghiệp hơn, nội dung và giá trị đc chỉnh chu hơn. VD, em ko fai fan hài kịch, nhưng e biết đc có các loại hình hài kịch: standup comedy, hài bài banrm, sân khấu kịch, các vở kịch về các câu chuyện sắp tới, khiến e có thể cân nhắc tham gia để hiểu biết hơn. Hoặc nếu e thấy toàn workshop về bánh và mùa thu → e có thể cân nhắc viết content hay các bài viết về topic này. vậy rộng hơn đây, e thấy có water show: ah e có thể cân nhắc dẫn con em đi xem, hoặc workshop yêu hoà bình, e sẽ xem có gì relevant ko mà lại làm topic này tại thời điểm này, nghĩa là nội title của có thể hint cho em nhiều thứ

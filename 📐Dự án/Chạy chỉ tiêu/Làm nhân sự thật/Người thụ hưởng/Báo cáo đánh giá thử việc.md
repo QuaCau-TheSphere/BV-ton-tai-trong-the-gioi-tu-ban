@@ -1,6 +1,6 @@
 ---
 created: 2025-01-26T23:16
-updated: 2025-01-28T22:55
+updated: 2025-04-26T20:18
 cssClass: wide-table
 ---
 # Báo cáo đánh giá thử việc 
@@ -55,4 +55,4 @@ Nhân viên: Lý Minh Nhật
 ## Kế hoạch tác động
 Kế hoạch tác động lại sẽ được triển khai vào tháng tới, nhờ sự hỗ trợ của anh em như Tuấn và Lộc, hoặc nhờ anh em ở khu vực Dĩ An nếu khách hàng hứa thanh toán nhưng không thực hiện. Cố gắng đến ngày 13 để hoàn thành việc đi vòng cuốn chiếu hết các khách hàng, đồng thời kết hợp lên thêm bốn hồ sơ topup mới cho khu vực Thuận An.
 
-[[Nhóm Bình Dương 1]]
+[[Nhóm Bình Dương 1, FE Credit]]

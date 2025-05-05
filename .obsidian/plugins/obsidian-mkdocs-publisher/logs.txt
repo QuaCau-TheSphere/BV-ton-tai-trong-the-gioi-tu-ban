@@ -1,288 +1,30 @@
-4/25/2025, 2:50:14 PM [error]: 
+5/5/2025, 2:32:18 PM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:37:9602)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:37:10843)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:220:1172)
 
-4/25/2025, 2:50:15 PM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 3:50:15 PM.
+5/5/2025, 2:32:19 PM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 3:32:23 PM.
 
-4/25/2025, 4:49:23 PM [debug]: 
-	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md / Fri Apr 25 2025 02:07:36 GMT+0700 (Indochina Time) vs Thu Apr 24 2025 21:33:31 GMT+0700 (Indochina Time)
+5/5/2025, 11:17:20 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Trục lợi sàn.md / Tue Apr 29 2025 17:30:19 GMT+0700 (Indochina Time) vs Tue Apr 29 2025 11:22:38 GMT+0700 (Indochina Time)
 
-4/25/2025, 4:49:33 PM [debug]: 
-	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md / Thu Apr 24 2025 21:30:10 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 23:41:38 GMT+0700 (Indochina Time)
+5/5/2025, 11:17:38 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Việc làm thời vụ, theo dự án.md / Mon May 05 2025 20:07:51 GMT+0700 (Indochina Time) vs Sat Apr 05 2025 00:44:46 GMT+0700 (Indochina Time)
 
-4/25/2025, 4:49:34 PM [debug]: 
-	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md / Fri Apr 25 2025 15:32:16 GMT+0700 (Indochina Time) vs Thu Apr 24 2025 21:33:31 GMT+0700 (Indochina Time)
+5/5/2025, 11:18:26 PM [debug]: 
+	edited file : 📜Tài nguyên/Quà tặng/Bao nuôi/Ở Thuận An, Bình Dương.md / Mon May 05 2025 19:49:19 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 23:41:38 GMT+0700 (Indochina Time)
 
-4/25/2025, 4:49:35 PM [debug]: 
-	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/GM Mall.md / Fri Apr 25 2025 16:48:46 GMT+0700 (Indochina Time) vs Thu Apr 24 2025 21:33:31 GMT+0700 (Indochina Time)
+5/5/2025, 11:18:33 PM [debug]: 
+	edited file : 📜Tài nguyên/Niềm tin, diễn ngôn/Đánh giá/Phải nghe hết hai chiều đã.md / Sun May 04 2025 09:18:20 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 11:07:24 GMT+0700 (Indochina Time)
 
-4/25/2025, 4:53:19 PM [debug]: 
-	edited file : 📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Nhân sự/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md / Tue Apr 22 2025 18:46:51 GMT+0700 (Indochina Time) vs Mon Apr 14 2025 18:03:32 GMT+0700 (Indochina Time)
+5/5/2025, 11:19:44 PM [debug]: 
+	edited file : 📜Tài nguyên/Cảnh giác lừa đảo/Gọi món ăn đắt.md / Fri May 02 2025 18:52:46 GMT+0700 (Indochina Time) vs Tue Apr 01 2025 21:17:32 GMT+0700 (Indochina Time)
 
-4/25/2025, 4:55:47 PM [debug]: 
-	edited file : 📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nhật ký/Mắt nhắm mắt mở.md / Tue Apr 22 2025 18:40:50 GMT+0700 (Indochina Time) vs Sun Apr 06 2025 14:17:30 GMT+0700 (Indochina Time)
+5/5/2025, 11:19:47 PM [debug]: 
+	edited file : 📜Tài nguyên/Cảnh giác lừa đảo/Giả danh toà án.md / Fri May 02 2025 18:52:15 GMT+0700 (Indochina Time) vs Tue Apr 01 2025 21:17:32 GMT+0700 (Indochina Time)
 
-4/25/2025, 4:56:02 PM [debug]: 
-	edited file : 📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md / Thu Apr 24 2025 22:31:42 GMT+0700 (Indochina Time) vs Thu Apr 24 2025 21:33:31 GMT+0700 (Indochina Time)
-
-4/25/2025, 4:56:13 PM [debug]: 
-	edited file : 📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md / Fri Apr 25 2025 16:34:23 GMT+0700 (Indochina Time) vs Thu Apr 24 2025 21:33:31 GMT+0700 (Indochina Time)
-
-4/25/2025, 4:56:17 PM [debug]: 
-	edited file : 📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tuyển dụng/Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md / Thu Apr 24 2025 21:32:40 GMT+0700 (Indochina Time) vs Sat Apr 05 2025 00:44:46 GMT+0700 (Indochina Time)
-
-4/25/2025, 4:57:53 PM [debug]: 
-	edited file : ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md / Fri Apr 25 2025 16:57:10 GMT+0700 (Indochina Time) vs Wed Apr 23 2025 00:13:35 GMT+0700 (Indochina Time)
-
-4/25/2025, 4:58:05 PM [debug]: 
-	edited file : ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Thấu chi là việc vay mà có thể chủ động việc lúc nào mình vay.md / Tue Apr 22 2025 18:49:46 GMT+0700 (Indochina Time) vs Mon Apr 21 2025 13:33:41 GMT+0700 (Indochina Time)
-
-4/25/2025, 4:58:18 PM [debug]: 
-	edited file : ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md / Tue Apr 22 2025 18:40:49 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 23:41:38 GMT+0700 (Indochina Time)
-
-4/25/2025, 5:04:05 PM [debug]: 
-	Creating branch with, [object Object], B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:06 PM [info]: 
-	Branch successfully created (status: 201) on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban
-
-4/25/2025, 5:04:06 PM [debug]: 
-	Publishing file: 📐Dự án/Ξ Kết quả truyền thông/Các nhóm kiếm việc nhanh.md
-
-4/25/2025, 5:04:06 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md
-
-4/25/2025, 5:04:06 PM [debug]: 
-	Publishing Các nhóm kiếm việc nhanh.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:06 PM [debug]: 
-	Upload Các nhóm kiếm việc nhanh.md:docs/📐Dự án/Ξ Kết quả truyền thông/Các nhóm kiếm việc nhanh.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:07 PM [debug]: 
-	The 404 error is normal ! It means that the file does not exist yet. Don't worry ❤.
-
-4/25/2025, 5:04:08 PM [debug]: 
-	Publishing file: ⚡Hiểu biết sâu/Kinh tế/Kinh tế học tâm lý/Việc khuyến mãi không chỉ giảm tiền, mà còn giảm tội lỗi.md
-
-4/25/2025, 5:04:08 PM [debug]: 
-	Publishing Việc khuyến mãi không chỉ giảm tiền, mà còn giảm tội lỗi.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:08 PM [debug]: 
-	Upload Việc khuyến mãi không chỉ giảm tiền, mà còn giảm tội lỗi.md:docs/⚡Hiểu biết sâu/Kinh tế/Kinh tế học tâm lý/Việc khuyến mãi không chỉ giảm tiền, mà còn giảm tội lỗi.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:09 PM [debug]: 
-	The 404 error is normal ! It means that the file does not exist yet. Don't worry ❤.
-
-4/25/2025, 5:04:10 PM [debug]: 
-	Publishing file: 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md
-
-4/25/2025, 5:04:10 PM [debug]: 
-	Publishing Săn hội thảo cần lấp người tham dự.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:10 PM [debug]: 
-	Upload Săn hội thảo cần lấp người tham dự.md:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:11 PM [debug]: 
-	Publishing file: 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md
-
-4/25/2025, 5:04:11 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Gom nhóm.md
-
-4/25/2025, 5:04:11 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/GM Mall.md
-
-4/25/2025, 5:04:11 PM [debug]: 
-	Shared: false for Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/xiaowei.png
-
-4/25/2025, 5:04:11 PM [debug]: 
-	Publishing Quản lý máy.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:13 PM [debug]: 
-	xiaowei.png already exists.
-
-4/25/2025, 5:04:13 PM [debug]: 
-	Upload Quản lý máy.md:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:15 PM [debug]: 
-	Publishing file: 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md
-
-4/25/2025, 5:04:15 PM [debug]: 
-	Shared: true for 📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Tài liệu cho từng công ty/Tài liệu cho nhân viên ảo GM Mall.md
-
-4/25/2025, 5:04:15 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/GM Mall.md
-
-4/25/2025, 5:04:15 PM [debug]: 
-	Shared: true for 📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md
-
-4/25/2025, 5:04:15 PM [debug]: 
-	Publishing Làm nhân viên ảo.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:15 PM [debug]: 
-	Upload Làm nhân viên ảo.md:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Publishing file: 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/GM Mall.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo tính chất công việc/Làm trực tuyến.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Ứng biến.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Việc làm thời vụ, theo dự án.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Chính sách công ty/Sàn thương mại điện tử/GM Mall/GM Mall giống như một cái siêu thị hàng TQ.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Chính sách công ty/Sàn thương mại điện tử/GM Mall/GM Mall.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for ⚡Hiểu biết sâu/Tổ chức tài chính/Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for ⚡Hiểu biết sâu/Mô hình nhân sự/Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Gom nhóm.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Giữ tiền hộ.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Publishing GM Mall.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:17 PM [debug]: 
-	Upload GM Mall.md:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/index.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:19 PM [debug]: 
-	Publishing file: 📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Nhân sự/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md
-
-4/25/2025, 5:04:19 PM [debug]: 
-	Publishing Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:19 PM [debug]: 
-	Upload Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md:docs/📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Nhân sự/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:21 PM [debug]: 
-	Publishing file: 📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nhật ký/Mắt nhắm mắt mở.md
-
-4/25/2025, 5:04:21 PM [debug]: 
-	Publishing Mắt nhắm mắt mở.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:21 PM [debug]: 
-	Upload Mắt nhắm mắt mở.md:docs/📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nhật ký/Mắt nhắm mắt mở.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Publishing file: 📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for ⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Tư bản, tân tự do/Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for 📐Dự án/Đối thoại với tư bản/Góc nhìn phản tư bản cho nhóm chạy chỉ tiêu.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for 📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng Quả Cầu.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/Xây dựng thương hiệu, mở rộng mối quan hệ.md
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Publishing Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:22 PM [debug]: 
-	Upload Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md:docs/📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:24 PM [debug]: 
-	Publishing file: 📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md
-
-4/25/2025, 5:04:24 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md
-
-4/25/2025, 5:04:24 PM [debug]: 
-	Publishing Săn người.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:24 PM [debug]: 
-	Upload Săn người.md:docs/📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:26 PM [debug]: 
-	Publishing file: 📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tuyển dụng/Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md
-
-4/25/2025, 5:04:26 PM [debug]: 
-	Shared: true for 📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Quản lý nhân sự/Thà ảo là ảo ngay từ đầu, chứ ảo cho người thật thì sẽ tạo tiền đề để nhân sự không ở trong trạng thái nỗ lực tối đa.md
-
-4/25/2025, 5:04:26 PM [debug]: 
-	Shared: true for ⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu, lợi ích của khách hàng/70 - 80% hợp đồng ủng hộ sẽ bị cắt ngang khi tvv nghỉ.md
-
-4/25/2025, 5:04:26 PM [debug]: 
-	Shared: true for 📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Quản lý nhân sự/Công việc khốc liệt, nhưng lại không có bảo hiểm xã hội.md
-
-4/25/2025, 5:04:26 PM [debug]: 
-	Publishing Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:26 PM [debug]: 
-	Upload Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md:docs/📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tuyển dụng/Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:28 PM [debug]: 
-	Publishing file: ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md
-
-4/25/2025, 5:04:28 PM [debug]: 
-	Shared: true for ⚡Hiểu biết sâu/Ξ Khái niệm/Vay, nợ/App đen, vay nóng.md
-
-4/25/2025, 5:04:28 PM [debug]: 
-	Shared: true for 📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng/4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân.md
-
-4/25/2025, 5:04:28 PM [debug]: 
-	Publishing App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:28 PM [debug]: 
-	Upload App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md:docs/⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:30 PM [debug]: 
-	Publishing file: ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Thấu chi là việc vay mà có thể chủ động việc lúc nào mình vay.md
-
-4/25/2025, 5:04:30 PM [debug]: 
-	Shared: true for ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại.md
-
-4/25/2025, 5:04:30 PM [debug]: 
-	Publishing Thấu chi là việc vay mà có thể chủ động việc lúc nào mình vay.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:30 PM [debug]: 
-	Upload Thấu chi là việc vay mà có thể chủ động việc lúc nào mình vay.md:docs/⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Thấu chi là việc vay mà có thể chủ động việc lúc nào mình vay.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:32 PM [debug]: 
-	Publishing file: ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md
-
-4/25/2025, 5:04:32 PM [debug]: 
-	Publishing Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
-
-4/25/2025, 5:04:32 PM [debug]: 
-	Upload Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md:docs/⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-4-25-2025
-
-4/25/2025, 5:04:35 PM [debug]: 
-	trying to delete file : docs/📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Đi xe buýt chậm.md from QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban
+5/5/2025, 11:19:48 PM [debug]: 
+	edited file : 📜Tài nguyên/Cảnh giác lừa đảo/Cảnh giác lừa đảo.md / Fri May 02 2025 18:52:54 GMT+0700 (Indochina Time) vs Wed Apr 23 2025 00:13:35 GMT+0700 (Indochina Time)
 

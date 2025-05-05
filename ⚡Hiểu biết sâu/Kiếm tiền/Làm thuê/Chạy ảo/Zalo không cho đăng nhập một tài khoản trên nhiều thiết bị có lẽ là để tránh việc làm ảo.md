@@ -1,8 +1,9 @@
 ---
 share: true
-created: 2025-03-23T15:36
-updated: 2025-03-23T23:09
+created: 2025-05-03T16:17
+updated: 2025-05-03T16:19
 ---
 Khái niệm:: 
-
-Nguồn:: 
+Zalo không cho đăng nhập một tài khoản trên nhiều thiết bị có lẽ là để tránh việc làm ảo
+Zalo không kiểm tra sđt đăng ký có chính chủ hay không
+Có thể tự đổi tên mà không lưu lịch sử

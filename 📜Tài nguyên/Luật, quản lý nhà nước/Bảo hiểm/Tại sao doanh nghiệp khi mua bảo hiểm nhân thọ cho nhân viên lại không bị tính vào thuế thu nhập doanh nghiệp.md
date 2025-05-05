@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-23T15:09
-updated: 2025-04-11T19:06
+updated: 2025-04-25T21:50
 title: Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
 description: Thâm cung bí sử của Thịnh An Phát
 ---
@@ -18,7 +18,7 @@ Hãy quay lại cách một công ty bảo hiểm được thành lập. Để m
 
 Cần nhớ rằng sản phẩm này được bán một cách đường hoàng, đúng luật chứ không phải là bán chui. Có doanh nghiệp mua một lần 16 cái hợp đồng như vậy. Tháng vừa qua Cathay về rất nhiều hợp đồng này dù chưa tới chương trình tặng vàng, vì nhiều công ty cần tất toán thuế cuối năm, chứ mấy chỉ vàng khuyến mãi chẳng đáng là bao. Và tại sao chương trình khuyến mãi lại chạy đến hết tháng 2? Vì tháng 3 là hạn chót để doanh nghiệp quyết toán thuế. 
 
-Vậy thì mấy chỉ vàng này dùng để làm gì? Để cắt hoa hồng cho khách. Có thể dùng nó để hối lộ kế toán, để kế toán thuyết phục giám đốc quyết định mua sản phẩm này. [[Luật cấm đại lý trích hoa hồng để giảm giá]], nhưng ai kiểm tra được điều này.
+Vậy thì mấy chỉ vàng này dùng để làm gì? Để cắt hoa hồng cho khách. Có thể dùng nó để hối lộ kế toán, để kế toán thuyết phục giám đốc quyết định mua sản phẩm này. [[Cấm đại lý trích hoa hồng để giảm giá|Luật cấm đại lý trích hoa hồng để giảm giá]], nhưng ai kiểm tra được điều này?
 
 Những ai làm doanh nghiệp chắc cũng ít khi nghe thấy quảng cáo sản phẩm này. Tại sao Cathay không quảng cáo nhiều hơn? Vì vốn dĩ cái này chỉ dành cho ai có tiền, mà người có tiền người ta không cần nghe quảng cáo. Người ta cần thấy lợi ích. Hơn nữa quảng cáo cần phải dễ hiểu, nghe cái biết mình có cần hay không. Còn với những thứ phức tạp thì cần đại lý đi tiếp thị. 
 

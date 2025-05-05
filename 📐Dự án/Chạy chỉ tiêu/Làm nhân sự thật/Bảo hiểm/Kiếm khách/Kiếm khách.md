@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2025-04-04T23:59
+updated: 2025-04-29T00:05
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 ---
@@ -12,7 +12,7 @@ description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn
 
 ## Công việc 
 Kiểm tra [[Giả thiết về tỉ lệ chuyển đổi]]
-[[📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/Xây dựng thương hiệu trên MXH]]
+[[📐Dự án/Tự động hoá/Xây dựng thương hiệu trên MXH]]
 Đến [[Những nơi giúp mở rộng mối quan hệ với doanh nghiệp]], 
 [[Kế hoạch bán bảo hiểm cho cá nhân]]
 ### Làm cho khách hàng tin mình

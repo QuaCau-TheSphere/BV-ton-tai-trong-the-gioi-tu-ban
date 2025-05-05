@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e788f50c32ac0da",
+            "id": "e9002b791c12a4da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự"
-            }
-          },
-          {
-            "id": "3c2784d142319af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự"
-            }
-          },
-          {
-            "id": "6527da8bc3c05eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md",
+                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Kulavietnam.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Săn người"
+              "title": "Kulavietnam"
             }
           },
           {
-            "id": "89b5dea7327d1908",
+            "id": "80f38852aed62c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+                "file": "📜Tài nguyên/Ý tưởng tiết kiệm.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay"
-            }
-          },
-          {
-            "id": "d262e31153b2172f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Làm nhân viên ảo"
+              "title": "Ý tưởng tiết kiệm"
             }
           }
         ],
@@ -277,44 +205,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c2784d142319af6",
+  "active": "80f38852aed62c97",
   "lastOpenFiles": [
-    "📐Dự án/Đối thoại với tư bản/Làm sao để nhân viên bán hàng muốn tư vấn điều tốt nhất cho mình, kể cả khi nó đi ngược lại lợi ích của họ.md",
-    "📐Dự án/📐Dự án.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Bảo Việt đuổi việc người làm lộ URL nội bộ.md",
-    "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
-    "📐Dự án/Chạy chỉ tiêu/Nháp.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/Làm nhân sự ảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/GM Mall.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Săn người.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Kulavietnam.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Tổ chức tài chính vi mô.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md",
     "📐Dự án/Ξ Kết quả truyền thông/Các nhóm kiếm việc nhanh.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Cá nhân/Không nuôi được con thì đừng sinh con.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Cá nhân/Bản chất con người là tham lam.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Đi xe buýt thì tới bao giờ mới tới.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Untitled.md",
-    "📐Dự án/Ξ Kết quả truyền thông",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Tài liệu cho từng công ty/Tài liệu cho nhân viên ảo GM Mall.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế học tâm lý/Việc khuyến mãi không chỉ giảm tiền, mà còn giảm tội lỗi.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tuyển dụng/Lý do cần danh sách lớn chứ không phải là cứ làm được tới đâu thì tới.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/GM Mall/Quản lý máy.md",
+    "📐Dự án/Chạy chỉ tiêu/Tuyển dụng.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu khác/Ξ Kết quả truyền thông.md",
     "📐Dự án/Đối thoại với tư bản/Làm sao để tuyển và giữ được người.md",
-    "📐Dự án/Đối thoại với tư bản/Góc nhìn phản tư bản cho nhóm chạy chỉ tiêu.md",
+    "📐Dự án/Đối thoại với tư bản/Những thứ từ tệ đến tốt.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Làm nhân sự ảo.md",
+    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Câu hỏi thường gặp.md",
     "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Tư bản, tân tự do/Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Prudential.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Hiểu nghèo thoát nghèo.md",
+    "📜Tài nguyên/Vì người yếu thế/Vì người lao động/Công việc vô nghĩa, tổ chức vô lý.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Cướp biển hoạt động bằng thương hiệu. Việc đánh nhau làm thiệt chúng nhiều hơn, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Công cụ là vấn đề, chứ không phải con người.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Bởi vì không ai quản trị một mình, nên người cấp trên luôn cần đảm bảo lợi ích cho những người cấp dưới.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro/Nếu công việc ít rủi ro hoặc nếu việc bỏ trốn hoặc vi phạm khó thoát khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro/Chờ cho người khác chạy số cho mình sẽ bấp bênh vì họ phải chạy cho bản thân trước.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/Đẩy doanh số/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/Đẩy doanh số/Nếu công việc ít rủi ro hoặc nếu việc bỏ trốn hoặc vi phạm khó thoát khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Nếu công việc ít rủi ro hoặc nếu việc bỏ trốn hoặc vi phạm khó thoát khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Bán hàng/Chỉ có những ai không tìm được công việc khác thì mới muốn nhận nghề bán hàng, chứ những nghề khác hấp dẫn hơn.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Bán hàng/Việc có được khách hàng mới có thể tốn kém hơn từ 5 đến 25 lần so với việc giữ chân một khách hàng hiện có.md",
+    "📜Tài nguyên/Vì người yếu thế/Vì người lao động",
+    "📜Tài nguyên/Vì người yếu thế",
+    "📐Dự án/Đối thoại với tư bản/~syncthing~Làm người muốn né tránh trao đổi với mình.md.tmp",
+    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.md.tmp",
+    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan  hệ",
+    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/~syncthing~Xây dựng thương hiệu trên MXH.md.tmp",
+    "📐Dự án/Ξ Kết quả truyền thông",
     "📐Dự án/Chạy chỉ tiêu/~syncthing~Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md.tmp",
     "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~9141f702736aa8ffd983dd5ecf6b060cc1eeaa45eccb37f4d7ca0efacb2a6072.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền.md.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Đầu tư/~syncthing~Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch.md.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~Cái cần không phải là có tiền, mà là có dòng tiền.md.tmp",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/~syncthing~Dòng tiền.md.tmp",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/~syncthing~Chính phủ muốn kiểm soát dòng tiền.md.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~aa38c341c2a51a11eb2efd2584b1117a0c25953702804bc64a7eb66f10401066.tmp",
     "Ξ Thiết lập/Ảnh/Pasted image 20250424164930.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/xiaowei.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_4_2025-04-10_13-14-21.jpg",

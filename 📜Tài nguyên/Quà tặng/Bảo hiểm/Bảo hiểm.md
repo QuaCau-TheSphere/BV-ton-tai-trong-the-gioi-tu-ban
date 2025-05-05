@@ -1,11 +1,10 @@
 ---
 share: true
 created: 2024-10-09T21:14
-alias: Tại sao nên mua bảo hiểm từ Quả Cầu?
+title: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-updated: 2025-03-31T09:46
+updated: 2025-04-25T21:46
 ---
-# Tại sao nên mua bảo hiểm từ Quả Cầu?
 - Bọn mình đứng về người yếu thế
 - Bọn mình chỉ muốn nâng đỡ lý tính bạn
 - Bạn không phải trả tiền hoa hồng cho bọn mình
@@ -41,7 +40,7 @@ Vì số tiền hoa hồng từ phí bạn đóng cả năm chỉ đủ để tr
 Hiện tại bọn mình có làm cho FWD và Cathay. Với FWD bạn sẽ được [[FWD|một hợp đồng giống như vậy]]. Với Cathay bạn sẽ được chọn sản phẩm theo đúng nhu cầu của mình, chứ bọn mình không mặc định sản phẩm rẻ nhất chỉ để chạy doanh số.
 
 > [!attention] Không tiết lộ với công ty về việc bạn được giảm giá
-> Luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách. Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. 
+> [[Cấm đại lý trích hoa hồng để giảm giá|Luật quy định đại lý không được cắt hoa hồng để giảm giá cho khách]]. Mục tiêu có lẽ là để không bị phá giá. Nhưng đó là vì lợi ích của các công ty, không phải vì lợi ích của bạn. 
 > 
 > Hay nói cách khác, bạn đừng tiết lộ là bạn biết tới bọn mình. 
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-23T22:03
-updated: 2025-04-24T21:18
+updated: 2025-05-05T22:16
 ---
 Khái niệm:: 
 [[Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên]], chứ không phải dùng động lực ngoại sinh để thúc đẩy hoạt động (tạo động lực thông qua thưởng/phạt). Một người sẽ có động lực nội sinh khi:
@@ -11,4 +11,4 @@ Khái niệm::
 - Công việc đang tạo nên một điều gì đó **có ý nghĩa** cho mình và mọi người (meaningful)
 
 Nguồn:: [Mô hình động lực của Daniel Pink](https://www.gamehoa.org/p/dong-luc-daniel-pink)
-[[Săn người]]
+[[📐Dự án/Chạy chỉ tiêu/Tuyển dụng]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T00:04
-updated: 2025-03-23T23:26
+updated: 2025-04-29T15:00
 ---
 > [''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html) 
 > — Võ Hoàng Yến
@@ -32,7 +32,7 @@ Các công ty bảo hiểm hay có các sự kiện để thu hút khách hàng 
 
 ## Hành động
 Kêu gọi các công ty bảo hiểm tạo động lực để NKT muốn đóng góp cho họ, kể cả khi họ đã bị từ chối bảo hiểm:
-- Trong [[Mục đích của OPP|các buổi OPP]] như xem phim, dã ngoại, giải chạy, từ thiện, v.v., ghi thêm vào các sản phẩm truyền thông rằng họ mời cả NKT tham gia
+- Trong [[Các buổi sự kiện mời khách công ty (OPP) không chỉ để dễ chốt hợp đồng, mà còn để đánh giá đại lý và tập cho họ khả năng tự tổ chức các buổi của riêng mình|các buổi OPP]] như xem phim, dã ngoại, giải chạy, từ thiện, v.v., ghi thêm vào các sản phẩm truyền thông rằng họ mời cả NKT tham gia
 - Tham gia vào các buổi sinh hoạt, buổi chia sẻ, chương trình, dự án do các tổ chức hỗ trợ NKT tổ chức
 - Tổ chức các buổi OPP có trọng tâm về NKT:
     - triển lãm các tác phẩm nghệ thuật của các tác giả NKT

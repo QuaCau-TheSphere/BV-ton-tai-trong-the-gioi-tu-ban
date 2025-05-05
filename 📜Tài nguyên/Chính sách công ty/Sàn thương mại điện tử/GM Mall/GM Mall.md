@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-04-23T17:17
+updated: 2025-05-03T10:36
 title: Chính sách công ty GM Mall
 ---
 ## Chính sách cho khách
@@ -26,8 +26,10 @@ Thời gian chờ từ lúc nhận yêu cầu rút đến khi tiền về là 2 
 
 [[Do phí rút tiền bằng với tiền lời khi nhận được hàng, nên cơ bản khách sẽ không thể dùng GM Mall làm nơi để kiếm lời được. Chỉ có các cấp phía trên khách mới được hưởng lợi]]
 
+Câu hỏi:: khách muốn mua sản phẩm từ một cửa hàng cụ thể thì công ty có mua ko?
+
 ## Chính sách cho nhân viên
-Lương nhân viên bao gồm:
+Nhân viên ăn lương từ hai đầu:
 - 1tr/khách hàng hiệu quả
 - 2% từ tất cả các cấp khách hàng, hoặc nhân viên là F1
 
@@ -91,3 +93,5 @@ Nếu F3 mua 1tr:
 
 Nhân viên không được tuyển người mới. Chỉ có giám đốc thị trường mới được tuyển
 [[Nhân sự khi thăng tiến sẽ làm hụt chỉ tiêu nhân sự của quản lý]]
+
+trưởng nhóm thì  phải gom nhóm 500k, nhưng 200k là có thể xin 

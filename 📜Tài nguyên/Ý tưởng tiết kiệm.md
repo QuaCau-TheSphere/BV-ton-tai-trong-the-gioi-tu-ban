@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-04-21T10:42
+updated: 2025-05-05T23:19
 ---
 ## Tiết kiệm tiền mua đồ ăn
 - Đến các nhà hàng tiệc cưới đóng hộp đồ ăn thừa 
@@ -21,3 +21,5 @@ Bài chi tiết:: [[Ra khỏi thành phố sống]]
 ## Cộng đồng
 - [Live With A Lower Impact](https://www.reddit.com/r/ZeroWaste)  
 - [Frugal Living: Waste Less, Gain More!](https://www.reddit.com/r/Frugal/wiki/index)  
+
+git add-commit -m "struct: đổi tên ❝Đạo đức, pháp luật. Chủ nghĩa tân tự do❞ trong ❝⚡Hiểu biết sâu❞ thành ❝Đạo đức, pháp luật. Kinh tế chính trị❞. Thêm ❝Vì người yếu thế❞ trong ❝📜Tài nguyên❞

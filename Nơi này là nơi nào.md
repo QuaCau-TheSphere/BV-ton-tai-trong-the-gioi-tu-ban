@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2025-04-15T16:24
+updated: 2025-04-27T20:48
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -28,6 +28,11 @@ Nền kinh tế vừa đủ
 
 ## [[⚡Hiểu biết sâu]]
 - Lợi ích, động cơ của những người bên liên quan
+- Bối cảnh thực tế, áp dụng ở VN:
+	- [[Cứ 10 người tìm việc thì có 6 người có bằng đại học, nhưng nhu cầu tuyển dụng chỉ cần có 2]]
+	- [[6 tháng đầu năm 2024 có hơn 5 ngàn người chết, gần 10 ngàn người bị thương do tai nạn giao thông]]
+	- [[An ninh mạng ở Việt Nam rất tệ]]
+
 ## [[📜Tài nguyên]]
 - Nghiệp vụ, chính sách của một công ty cụ thể
 - Bối cảnh thực tế, áp dụng ở VN
