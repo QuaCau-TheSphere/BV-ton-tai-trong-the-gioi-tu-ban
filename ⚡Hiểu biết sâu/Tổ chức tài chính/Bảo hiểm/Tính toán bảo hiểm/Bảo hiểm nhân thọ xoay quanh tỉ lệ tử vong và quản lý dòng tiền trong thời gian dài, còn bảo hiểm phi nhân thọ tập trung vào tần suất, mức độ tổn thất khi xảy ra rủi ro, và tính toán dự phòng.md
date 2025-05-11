@@ -1,14 +1,10 @@
 ---
 share: true
 created: 2024-09-13T23:29
-<<<<<<< HEAD
-updated: 2025-01-11T12:34
-=======
-updated: 2024-12-22T08:06
->>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
 alias:
   - Bảo hiểm nhân thọ xoay quanh tỉ lệ tử vong và quản lý dòng tiền trong thời gian dài
   - Bảo hiểm phi nhân thọ tập trung vào tần suất, mức độ tổn thất khi xảy ra rủi ro, và tính toán dự phòng
+updated: 2025-05-06T01:28
 ---
 Khái niệm:: 
 

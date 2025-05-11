@@ -1,24 +1,23 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-05-05T20:26
+updated: 2025-05-11T02:23
 alias:
-  - Nhóm chạy chỉ tiêu cho nhân sự
-  - Nhóm thuê ngoài (outsource) cho nhân sự
+  - Nhóm chạy chỉ tiêu
+  - Nhóm thuê ngoài (outsource)
   - Nhóm làm các công việc thời vụ (freelancer)
-  - Nhóm cộng tác viên cho nhân sự
-  - Nhóm nhân sự ảo
-  - Nhóm trợ lý cho nhân sự
-title: Nhóm chạy chỉ tiêu cho nhân sự
+  - Nhóm cộng tác viên
+  - Nhóm trợ lý
+title: Nhóm chạy chỉ tiêu
 ---
 > [!NOTE] Bài chi tiết
 > [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
 
-Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân sự", "nhóm thuê ngoài (outsource) cho nhân sự", "nhóm làm các công việc thời vụ (freelancer)", "nhóm cộng tác viên cho nhân sự", "nhóm nhân sự ảo", "nhóm trợ lý cho nhân sự" đều được. Đây là những công việc nhóm có làm:
+Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI)", "nhóm thuê ngoài (outsource)", "nhóm làm các công việc thời vụ (freelancer)", "nhóm cộng tác viên", "nhóm nhân sự ảo", "nhóm trợ lý" đều được. Đây là những công việc nhóm có làm:
 
 ```dataview
 LIST rows.file.link
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu"
 GROUP BY split(file.folder, "/")[5]
 WHERE file.name != this.file.name
 ```

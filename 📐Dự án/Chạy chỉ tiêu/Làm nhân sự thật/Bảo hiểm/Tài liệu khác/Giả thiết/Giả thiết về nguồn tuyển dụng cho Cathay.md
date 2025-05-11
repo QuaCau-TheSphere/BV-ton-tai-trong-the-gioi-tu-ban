@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-26T21:32
-updated: 2025-04-05T00:03
+updated: 2025-05-11T00:01
 alias: Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người?
 ---
 ## Các ràng buộc
@@ -42,7 +42,7 @@ Người nghèo tưởng là phù hợp nhưng thực ra là không.
 Con nợ 
 
 Khó khăn:: Họ có nhiều mối quan hệ để có thể làm tốt không? Nếu đã có nhiều mối quan hệ thì tại sao lại không thể mượn được?
-[[Xây dựng thương hiệu, mở rộng mối quan hệ]]
+[[Mở rộng mối quan hệ]]
 
 ### Người thuộc dạng làm được nhưng hay bị nản, cần người cùng đồng hành
 [[Chủ quản bị rà soát rất gắt gao trong việc đào tạo và hỗ trợ người mới]]

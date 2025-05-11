@@ -104,7 +104,6 @@ có kiện hayko thì công an mới bắt
 ### Tại sao ba anh không tập trung giải quyết nghèo cho một hộ cụ thể?
 ### Làm sao có thể huy động tiền vốn để có thể cho vay vi mô? Gõ cửa từng nhà?
 ### Anh có biết những ai cũng làm giống em không? 
-### Anh Nguyễn Minh Nhật
 
 chỉ có fintech mới cho mượn trước để kiếm người dùng
 
@@ -114,7 +113,7 @@ Nghiên cứu
 Khách hàng là quan trọng nhất
 
 ## Tình hình các tổ chức
-### Anh có nói SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Anh có thể nói thêm về vấn đề này ko?
+### Anh có nói SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Nhưng em thấy mọi người vẫn họp giỗ bà Oanh. Anh có thể nói thêm về vấn đề này ko?
 ### Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ như Thảo Đàn, IECD tuy quy mô nhân sự chỉ có vài người nhưng số lượng người thụ hưởng lớn. 
 tổ chức quốc tế lớn nhất hiện tại
 vina capital, oxfam
@@ -141,3 +140,5 @@ nguyễn sĩ dũng chuyên nghiên cứu về tổ chức
 ### Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
 ### Sao thấy anh ko làm nhiều về hướng chống tư bản? 
 ### Vì sao anh không hỗ trợ họ tiếp cận các dịch vụ tài chính chính thức?
+### Tại sao các tổ chức ctxh anh tham gia như scdr ko tạo một quỹ vi mô? 
+### 

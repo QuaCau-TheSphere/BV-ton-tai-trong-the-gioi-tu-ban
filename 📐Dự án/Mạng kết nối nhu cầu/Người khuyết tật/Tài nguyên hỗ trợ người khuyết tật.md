@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-11-06T11:56
-updated: 2025-04-04T23:54
+updated: 2025-05-06T02:04
 ---
-[Fetching Title#tw65](https://www.drdvietnam.org/vi/accessibility/bai-viet/11233-cam-nang-cho-nguoi-khuyet-tat.html)
+[DRD Việt Nam - Trung tâm Nghiên cứu và Phát triển Năng lực Người khuyết tật](https://www.drdvietnam.org/vi/accessibility/bai-viet/11233-cam-nang-cho-nguoi-khuyet-tat.html)
 - Các trường giáo dục người khuyết tật, giáo dục nghề nghiệp hoà nhập
 - Các công ty nhận người khuyết tật
 - Theo dõi Facebook các tổ chức hỗ trợ người khuyết tật như:

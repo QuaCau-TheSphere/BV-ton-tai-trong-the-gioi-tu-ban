@@ -1,30 +1,9 @@
-5/5/2025, 2:32:18 PM [error]: 
+5/11/2025, 2:55:17 PM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:37:9602)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:37:10843)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:220:1172)
 
-5/5/2025, 2:32:19 PM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 3:32:23 PM.
-
-5/5/2025, 11:17:20 PM [debug]: 
-	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Trục lợi sàn.md / Tue Apr 29 2025 17:30:19 GMT+0700 (Indochina Time) vs Tue Apr 29 2025 11:22:38 GMT+0700 (Indochina Time)
-
-5/5/2025, 11:17:38 PM [debug]: 
-	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Việc làm thời vụ, theo dự án.md / Mon May 05 2025 20:07:51 GMT+0700 (Indochina Time) vs Sat Apr 05 2025 00:44:46 GMT+0700 (Indochina Time)
-
-5/5/2025, 11:18:26 PM [debug]: 
-	edited file : 📜Tài nguyên/Quà tặng/Bao nuôi/Ở Thuận An, Bình Dương.md / Mon May 05 2025 19:49:19 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 23:41:38 GMT+0700 (Indochina Time)
-
-5/5/2025, 11:18:33 PM [debug]: 
-	edited file : 📜Tài nguyên/Niềm tin, diễn ngôn/Đánh giá/Phải nghe hết hai chiều đã.md / Sun May 04 2025 09:18:20 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 11:07:24 GMT+0700 (Indochina Time)
-
-5/5/2025, 11:19:44 PM [debug]: 
-	edited file : 📜Tài nguyên/Cảnh giác lừa đảo/Gọi món ăn đắt.md / Fri May 02 2025 18:52:46 GMT+0700 (Indochina Time) vs Tue Apr 01 2025 21:17:32 GMT+0700 (Indochina Time)
-
-5/5/2025, 11:19:47 PM [debug]: 
-	edited file : 📜Tài nguyên/Cảnh giác lừa đảo/Giả danh toà án.md / Fri May 02 2025 18:52:15 GMT+0700 (Indochina Time) vs Tue Apr 01 2025 21:17:32 GMT+0700 (Indochina Time)
-
-5/5/2025, 11:19:48 PM [debug]: 
-	edited file : 📜Tài nguyên/Cảnh giác lừa đảo/Cảnh giác lừa đảo.md / Fri May 02 2025 18:52:54 GMT+0700 (Indochina Time) vs Wed Apr 23 2025 00:13:35 GMT+0700 (Indochina Time)
+5/11/2025, 2:55:18 PM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 3:55:19 PM.
 

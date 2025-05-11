@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:10
+updated: 2025-05-09T22:03
 ---
-Yêu cầu đầu vào:: [[Biết lập trình]]
+Tính chất công việc:: [[Cần biết lập trình]]
 Hình thức:: [[Gia công giải pháp]]
 
 Biết được vì sao [[Web dev, GA, Ads, SEO, MMO]], [[📐 Dự án/Ξ Kết quả truyền thông/Nơi đăng/Nhóm Facebook/Nghề nghiệp/Marketing|Marketing]] không ai quan tâm không?

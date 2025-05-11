@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-19T11:24
-updated: 2025-04-10T14:18
+updated: 2025-05-07T17:30
 Alias: tìm hiểu 2 bên
 ---
 Khái niệm:: 
@@ -12,3 +12,5 @@ những lập luận phản biện cho cuốn [[ABC về chủ nghĩa xã hội]
 Người theo bên này cũng không phải là chưa tìm hiểu quan điểm của phía bên kia
 
 Khả năng cao là bên kia không nói gì và chỉ phớt lờ
+
+Tại sao không giao phó việc nghe hai chiều cho người mình tin là đã nghe hai chiều rồi? 

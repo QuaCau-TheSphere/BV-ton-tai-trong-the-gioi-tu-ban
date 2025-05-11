@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9002b791c12a4da",
+            "id": "c057c8600be4ebea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Kulavietnam.md",
-                "mode": "source",
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Cướp biển hoạt động bằng thương hiệu. Việc đánh nhau làm thiệt chúng nhiều hơn, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kulavietnam"
-            }
-          },
-          {
-            "id": "80f38852aed62c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Ý tưởng tiết kiệm.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ý tưởng tiết kiệm"
+              "title": "Cướp biển hoạt động bằng thương hiệu. Việc đánh nhau làm thiệt chúng nhiều hơn, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dì bà",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,54 +180,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80f38852aed62c97",
+  "active": "c057c8600be4ebea",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Kulavietnam.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Tổ chức tài chính vi mô.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo.md",
-    "📐Dự án/Ξ Kết quả truyền thông/Các nhóm kiếm việc nhanh.md",
-    "📐Dự án/Chạy chỉ tiêu/Tuyển dụng.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự thật/Bảo hiểm/Tài liệu khác/Ξ Kết quả truyền thông.md",
-    "📐Dự án/Đối thoại với tư bản/Làm sao để tuyển và giữ được người.md",
-    "📐Dự án/Đối thoại với tư bản/Những thứ từ tệ đến tốt.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Làm nhân sự ảo.md",
-    "📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Câu hỏi thường gặp.md",
-    "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Prudential.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Hiểu nghèo thoát nghèo.md",
-    "📜Tài nguyên/Vì người yếu thế/Vì người lao động/Công việc vô nghĩa, tổ chức vô lý.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Cướp biển hoạt động bằng thương hiệu. Việc đánh nhau làm thiệt chúng nhiều hơn, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Công cụ là vấn đề, chứ không phải con người.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Bởi vì không ai quản trị một mình, nên người cấp trên luôn cần đảm bảo lợi ích cho những người cấp dưới.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro/Nếu công việc ít rủi ro hoặc nếu việc bỏ trốn hoặc vi phạm khó thoát khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro/Chờ cho người khác chạy số cho mình sẽ bấp bênh vì họ phải chạy cho bản thân trước.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/An toàn, rủi ro",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Đẩy doanh số/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Đẩy doanh số/Nếu công việc ít rủi ro hoặc nếu việc bỏ trốn hoặc vi phạm khó thoát khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Nếu công việc ít rủi ro hoặc nếu việc bỏ trốn hoặc vi phạm khó thoát khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Bán hàng/Chỉ có những ai không tìm được công việc khác thì mới muốn nhận nghề bán hàng, chứ những nghề khác hấp dẫn hơn.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Bán hàng/Việc có được khách hàng mới có thể tốn kém hơn từ 5 đến 25 lần so với việc giữ chân một khách hàng hiện có.md",
-    "📜Tài nguyên/Vì người yếu thế/Vì người lao động",
-    "📜Tài nguyên/Vì người yếu thế",
-    "📐Dự án/Đối thoại với tư bản/~syncthing~Làm người muốn né tránh trao đổi với mình.md.tmp",
-    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.md.tmp",
-    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan  hệ",
-    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/~syncthing~Xây dựng thương hiệu trên MXH.md.tmp",
-    "📐Dự án/Ξ Kết quả truyền thông",
-    "📐Dự án/Chạy chỉ tiêu/~syncthing~Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/~syncthing~9141f702736aa8ffd983dd5ecf6b060cc1eeaa45eccb37f4d7ca0efacb2a6072.tmp",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Chủ nghĩa tiêu thụ/Hạn sử dụng không chỉ là để tránh thực phẩm biến chất, mà còn có thể khiến cho người dùng mua hàng mới khi hàng cũ còn dùng được.md",
+    "📐Dự án/Tự động hoá/Xây dựng thương hiệu trên MXH.md",
+    "📜Tài nguyên/Mở rộng mối quan hệ/Tặng quà.md",
+    "📜Tài nguyên/Mở rộng mối quan hệ/❓Việc xây dựng thương hiệu không tạo ảnh hưởng bằng việc tìm người cần mình.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Kiếm tiền trực tuyến (MMO)/Phone farm dùng để tăng tương tác.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Chủ nghĩa tiêu thụ",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Kiếm tiền trực tuyến (MMO)/Dùng facebook của mình đăng kí hack like thì facebook của bạn sẽ được nhiều người like và ngược lại facebook của bạn cũng sẽ đi like facebook của người khác.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Kiếm tiền trực tuyến (MMO)/Via là tài khoản đã được xác thực.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Kiếm tiền trực tuyến (MMO)/Content farm dùng để tăng SEO.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Kiếm tiền trực tuyến (MMO)/Airdrop là việc thu thập khuyến mãi của dịch vụ và bán cho người khác.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Mua bán thông tin cá nhân/Giá tài khoản ngân hàng được tạo từ thông tin đánh cắp được bán tuỳ vào mức độ quét.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Mua bán thông tin cá nhân/Tài khoản ngân hàng ảo dùng được vài tiếng là vì kyc bằng AI.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Mua bán thông tin cá nhân/Những bên cho vay lãi quá rẻ thực ra là để mình chịu làm KYC để người khác tạo tài khoản ảo bằng tên của mình.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Mua bán thông tin cá nhân/An ninh mạng ở Việt Nam rất tệ.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Mua bán thông tin cá nhân/Thông tin cá nhân con.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Mua bán thông tin cá nhân/Tiệm cầm đồ chỉ quan tâm cái căn cước là chính, chứ chẳng quan tâm mấy tới món đồ mình đem cầm.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội/Cướp biển hoạt động bằng thương hiệu. Việc đánh nhau làm thiệt chúng nhiều hơn, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Cái cần không phải là có tiền, mà là có dòng tiền.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Các startup được đầu tư hay tạo cảm giác lùa gà.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Các công ty có nhiều cách để trốn thuế.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Làm nhân viên ảo khác với làm số liệu ảo.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Làm ảo cần giống làm thật để không tạo ra sự mất cân bằng trong hệ thống và để người làm thật không cảm thấy bất công.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Chạy ảo làm ảnh hưởng tới chỉ tiêu nhóm.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Bán hàng/❓Hệ thống thông tin cần dễ hiểu cho cả những người không rành công nghệ.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Bán hàng",
+    "📐Dự án/Tự động hoá/~syncthing~Xây dựng thương hiệu trên MXH.md.tmp",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250510190248.png",
+    "Ξ Thiết lập/PDF/[Ebook] Social engineeing Tam ly hoc va cach thuc tan cong.pdf",
+    "⚡Hiểu biết sâu/Kiếm tiền/Phạm tội",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250510161903.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250510160341.png",
+    "📜Tài nguyên/Vì người yếu thế/Vì người nghèo/Untitled",
+    "📜Tài nguyên/Vì người yếu thế/Vì người nghèo",
+    "📜Tài nguyên/Chính sách công ty/Sàn thương mại điện tử/GM Mall/Khách hàng",
+    "📜Tài nguyên/Chính sách công ty/Sàn thương mại điện tử/GM Mall/New folder",
+    "📜Tài nguyên/Chính sách công ty/Sàn thương mại điện tử/GM Mall/Nhân sự",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250508135916.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250424164930.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/xiaowei.png",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_4_2025-04-10_13-14-21.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_3_2025-04-10_13-14-21.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_2_2025-04-10_13-14-21.jpg",
     "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Hoàng Trường Giang/photo_1_2025-04-10_13-14-21.jpg",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_4_2025-04-10_13-10-40.jpg",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_3_2025-04-10_13-10-40.jpg",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_2_2025-04-10_13-10-40.jpg",
-    "Ξ Thiết lập/Ảnh/Tài nguyên chạy ảo/2025-04-09/Lữ Minh Ngọc/photo_1_2025-04-10_13-10-40.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

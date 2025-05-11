@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2025-04-01T14:55
-updated: 2025-04-07T22:35
-alias: Làm nhân sự ảo Cathay
+updated: 2025-05-10T22:24
 ---
-# Làm nhân sự ảo Cathay
 250tr để set target về lại 10tr/tháng
 mất hỗ trợ tài chính
 Có danh tiếng, dễ bán hàng

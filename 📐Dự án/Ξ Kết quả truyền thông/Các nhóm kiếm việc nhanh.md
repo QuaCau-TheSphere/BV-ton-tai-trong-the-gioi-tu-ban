@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-04-25T16:35
-updated: 2025-05-05T19:49
+updated: 2025-05-10T22:13
 ---
 
-## [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo|Làm nhân viên ảo GM Mall]]
+## [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/Làm nhân viên ảo|Làm nhân viên ảo GM Mall]]
 ### [[24-04-2025]]
 22:56 [Profile](https://www.facebook.com/qua.cau.the.sphere/posts/pfbid02pgkTzWTpwdkxQCBdBS8s5Az2ibsphKeWxUYYRr2dFzV8QjbSx2bEwCFrruKhtGYXl)
 23:10 Hoàng Nhi like
@@ -22,3 +22,6 @@ updated: 2025-05-05T19:49
 [[03-05-2025]] 16:36 3 like
 #### Khác
 02:04 [Log in to Facebook](https://www.facebook.com/groups/1085777964949551/pending_posts/2639247499602582/)
+
+### [[06-05-2025]]
+01:59 [việc làm lương liền \| # Tuyển nhân viên ảo \| Facebook](https://www.facebook.com/groups/216042540029525/posts/1038770124423425/)

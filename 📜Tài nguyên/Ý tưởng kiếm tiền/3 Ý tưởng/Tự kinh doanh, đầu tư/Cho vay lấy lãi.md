@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-20T17:37
+updated: 2025-05-08T23:09
 ---
-Yêu cầu đầu vào:: [[Vốn]]
+Tính chất công việc:: [[Vốn]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 
 ## Mục đích vay

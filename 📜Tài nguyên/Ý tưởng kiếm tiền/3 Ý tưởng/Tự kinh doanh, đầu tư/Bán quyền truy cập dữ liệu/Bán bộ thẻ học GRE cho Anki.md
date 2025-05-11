@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:10
+updated: 2025-05-09T22:03
 ---
-Yêu cầu đầu vào:: [[Biết lập trình]]
+Tính chất công việc:: [[Cần biết lập trình]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 
 [[13-08]] 28630 lượt tải, 3177 ngày, 9 lần tải/ngày

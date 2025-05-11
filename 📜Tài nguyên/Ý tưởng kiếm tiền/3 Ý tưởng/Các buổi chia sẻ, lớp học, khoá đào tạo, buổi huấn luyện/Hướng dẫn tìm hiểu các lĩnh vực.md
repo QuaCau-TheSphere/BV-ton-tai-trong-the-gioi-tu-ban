@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-07-30T13:32
-updated: 2024-10-09T22:39
+updated: 2025-05-09T22:02
 ---
-Yêu cầu đầu vào:: [[Có tên tuổi, uy tín, chứng nhận]]
+Tính chất công việc:: [[Cần tên tuổi, uy tín, chứng nhận]]
 Hình thức:: [[Chia sẻ, đào tạo, huấn luyện]]
 
 Nếu bạn kiếm được người sẵn sàng trả tiền để được có người cùng thảo luận những chủ đề này thì bạn sẽ được nhận toàn bộ số tiền họ trả.

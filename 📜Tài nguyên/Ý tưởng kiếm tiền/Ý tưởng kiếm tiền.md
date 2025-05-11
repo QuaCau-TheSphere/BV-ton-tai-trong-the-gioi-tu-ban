@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:54
-updated: 2025-04-12T21:29
+updated: 2025-05-08T23:09
 description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
@@ -14,9 +14,9 @@ cssClass: wide-table
 ## Mối quan hệ giữa các khái niệm
 ```mermaid
 flowchart LR
-	1["1 Yêu cầu đầu vào"]
-	2["2 Hình thức"]
-	3["3 Ý tưởng"]
+	1["1\. Tính chất công việc"]
+	2["2\. Hình thức"]
+	3["3\. Ý tưởng"]
 
 3-->1
 3-->2
@@ -29,7 +29,3 @@ list rows.file.link
 from "📜Tài nguyên/Ý tưởng kiếm tiền"   
 group by split(file.folder, "/" )[3] 
 ```
-
-Khái niệm:: 
-
-Nguồn:: 

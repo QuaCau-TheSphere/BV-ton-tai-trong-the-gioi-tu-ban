@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-05-05T23:19
+updated: 2025-05-11T02:22
 ---
 ## Tiết kiệm tiền mua đồ ăn
-- Đến các nhà hàng tiệc cưới đóng hộp đồ ăn thừa 
+- Lẻn vào các tiệc cưới, tiệc công ty, có thể đóng hộp đồ ăn thừa 
 - Mua đồ ăn ở chợ đầu mối
 - Đến những nơi [[Tặng đồ đạc, thức ăn]]
 - Búp phê giá rẻ
@@ -22,4 +22,7 @@ Bài chi tiết:: [[Ra khỏi thành phố sống]]
 - [Live With A Lower Impact](https://www.reddit.com/r/ZeroWaste)  
 - [Frugal Living: Waste Less, Gain More!](https://www.reddit.com/r/Frugal/wiki/index)  
 
-git add-commit -m "struct: đổi tên ❝Đạo đức, pháp luật. Chủ nghĩa tân tự do❞ trong ❝⚡Hiểu biết sâu❞ thành ❝Đạo đức, pháp luật. Kinh tế chính trị❞. Thêm ❝Vì người yếu thế❞ trong ❝📜Tài nguyên❞
+[VÉN KHÉO \| Facebook](https://www.facebook.com/groups/1658624727884777/?action_source=group_mall_recommendation_affordance)
+chotot.vn
+Cũng có nhiều người thực ra bán hàng
+

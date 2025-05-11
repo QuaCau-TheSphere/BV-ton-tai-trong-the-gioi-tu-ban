@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-26T20:18
+updated: 2025-05-08T23:09
 ---
-Yêu cầu đầu vào:: [[Hiểu về hệ thống]]
+Tính chất công việc:: [[Hiểu về hệ thống]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 
 ## Các phần mềm hiện tại chỉ giúp lập lá số, chứ không luận hạn được

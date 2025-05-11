@@ -1,12 +1,8 @@
 ---
 share: true
 created: 2024-09-06T14:35
-<<<<<<< HEAD:⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro.md
-updated: 2025-01-11T12:35
 alias: "Số đông: Số đông bù cho số ít"
-=======
-updated: 2024-12-22T08:06
->>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞):⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro, lấy số đông may mắn bù cho số ít xui xẻo.md
+updated: 2025-05-06T01:28
 ---
 Khái niệm:: 
 [[Bồi thường là trả tiền trên hoá đơn thực tế. Khoán là do người mua tự định giá của sinh mạng mình ngay từ đầu]]

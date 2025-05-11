@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-07-30T13:32
-updated: 2024-09-16T20:47
+updated: 2025-05-09T22:03
 ---
-Yêu cầu đầu vào:: [[Có tên tuổi, uy tín, chứng nhận]]
-Yêu cầu đầu vào:: [[Biết lập trình]]
+Tính chất công việc:: [[Cần tên tuổi, uy tín, chứng nhận]]
+Tính chất công việc:: [[Cần biết lập trình]]
 Hình thức:: [[Chia sẻ, đào tạo, huấn luyện]]
 
 Nếu bạn kiếm được người sẵn sàng trả tiền để được hướng dẫn học cách làm những cái này thì bạn sẽ được nhận toàn bộ số tiền họ trả.

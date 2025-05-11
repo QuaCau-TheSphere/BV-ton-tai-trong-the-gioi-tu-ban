@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2024-10-30T14:11
-updated: 2025-04-05T00:12
+updated: 2025-05-06T01:59
 ---
 [[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
 [[Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
-[[Ξ Kết quả truyền thông]]
+[[📐Dự án/Ξ Kết quả truyền thông/Bảo hiểm]]
 
 ## Kế hoạch chiến lược
 - [ ] Xác định thái độ khi đọc bài [[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]

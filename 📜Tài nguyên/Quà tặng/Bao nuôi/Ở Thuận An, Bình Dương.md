@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-05-05T19:49
+updated: 2025-05-10T22:13
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 alias: Dịch vụ bao nuôi ở Thuận An, Bình Dương
 ---
@@ -12,7 +12,7 @@ Với dịch vụ này, bạn:
 - Có tiền xăng xe, cà phê nếu có công việc cần chạy về TP.HCM
 - [[Đóng BHXH ngay đầu tháng|Được đóng bảo hiểm xã hội ngay đầu tháng]]
 
- Công việc của bạn sẽ là [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/FE Credit|làm nhân viên ảo FE]], mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
+ Công việc của bạn sẽ là [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|làm nhân viên ảo FE]], mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
 
 ## Mô tả nơi ở
 Phòng trọ 15 m², một trệt một lửng. 

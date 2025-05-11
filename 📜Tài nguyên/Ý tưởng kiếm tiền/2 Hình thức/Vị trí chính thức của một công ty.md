@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-03-23T17:41
+updated: 2025-05-10T15:26
 ---
 
 Nếu cần Nhật có thể [[📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Làm nhân sự ảo]] trong công ty, còn bạn thì làm những công việc công ty giao cho Nhật. Có thể CV của Nhật sẽ giúp tăng khả năng nhận được việc.

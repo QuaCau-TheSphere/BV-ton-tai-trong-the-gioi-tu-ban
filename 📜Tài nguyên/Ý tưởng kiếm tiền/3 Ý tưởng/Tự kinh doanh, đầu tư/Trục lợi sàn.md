@@ -2,11 +2,11 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-26T20:17
-updated: 2025-04-29T17:30
+updated: 2025-05-10T15:32
 ---
 
-Yêu cầu đầu vào:: [[Nắm được nhu cầu doanh nghiệp]]
-Hình thức:: [[Việc làm thời vụ, theo dự án]]
+Tính chất công việc:: [[Cần nắm được nhu cầu doanh nghiệp]]
+Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
 Mô tả công việc:: Tuyển dụng nhân sự ảo, đầu tư tài nguyên
 Số tiền kiếm được:: 

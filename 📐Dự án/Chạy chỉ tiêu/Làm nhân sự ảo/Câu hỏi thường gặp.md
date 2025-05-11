@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-05T20:21
+updated: 2025-05-06T01:55
 title: Câu hỏi thường gặp cho công việc làm nhân sự ảo
 ---
 ## Tôi cần chuẩn bị gì?
@@ -19,7 +19,7 @@ Bị người chạy thật nhắc khi đang làm việc khác
 
 
 
-> [!NOTE] Bạn có biết?
+> [!NOTE] Mở rộng
 > Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận (consequentialism) và đạo nghĩa luận (deontology).
 
 ## Tôi thấy lừa dối người không có lợi dụng tôi là điều không nên
@@ -41,5 +41,4 @@ Cần sự thiếu bằng chứng để có thể tự thuyết phục bản th�
 [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]. [[Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ]]
 
 
-## Tôi không chắc mình có thể xử lý linh hoạt khi 
-
+## Tôi không chắc mình có thể xử lý linh hoạt khi bị hỏi đến

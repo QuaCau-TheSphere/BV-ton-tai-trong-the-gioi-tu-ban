@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-16T00:13
+updated: 2025-05-09T22:03
 ---
-Yêu cầu đầu vào:: [[Biết cách ẩn danh]]
-Yêu cầu đầu vào:: [[Biết lập trình]]
-Yêu cầu đầu vào:: [[Có nguồn nguyên liệu lớn với giá rẻ]]
-Yêu cầu đầu vào:: [[Vốn]]
+Tính chất công việc:: [[Cần biết cách ẩn danh]]
+Tính chất công việc:: [[Cần biết lập trình]]
+Tính chất công việc:: [[Cần nguồn nguyên liệu lớn với giá rẻ]]
+Tính chất công việc:: [[Vốn]]
 
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-04-20T17:37
+updated: 2025-05-10T22:03
 ---
 Vay ở đây là vay tín chấp, không phải thế chấp.
 
@@ -18,7 +18,7 @@ Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng n�
 | [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]] |                               |                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [[Ví trả sau]]                                                                           |                               | Momo, ZaloPay, Shopee, ShopeePay, Lazada                                                                                                                                                                                                                                                                                                                                                                                |
 | Ngân hàng (thẻ tín dụng)                                                             | Bảng lương                    |                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng]]                                                      |                               | [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison                                                                                                                                                                                                 |
+| [[Công ty tài chính tiêu dùng]]                                                      |                               | [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison                                                                                                                                                                                                 |
 
 ## Bảng xếp hạng
 %%Sẽ chuyển dần thành bảng sau. Để dạng này để nhỡ còn bổ sung thêm gì thì di chuyển các dòng cho dễ%%
@@ -30,12 +30,12 @@ Cao nhất là có lợi nhất.
 3. [[Ví trả sau]]                                                                          
 4. Quỹ tín dụng nhân dân                                                               
 5. Ngân hàng (thẻ tín dụng)                                                            
-6. [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng]]                                                     
+6. [[Công ty tài chính tiêu dùng]]
 7. [[App vay nóng]]
 
 ### Theo hạn mức
 1. Ngân hàng (thẻ tín dụng)                                                            
-2. [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng]]                                                     
+2. [[Công ty tài chính tiêu dùng]]
 3. Quỹ tín dụng nhân dân                                                               
 4. [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]
 5. [[Ví trả sau]]                                                                          
@@ -48,13 +48,13 @@ Cao nhất là có lợi nhất.
 3. Quỹ tín dụng nhân dân                                                               
 4. [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]
 5. [[Ví trả sau]]                                                                          
-6. [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng]]                                                     
+6. [[Công ty tài chính tiêu dùng]]                                                     
 7. Ngân hàng (thẻ tín dụng)                              
 
 ### Theo thời gian giải ngân
 1. [[Ví trả sau]]                                                                          
 2. [[App vay nóng]]
-3. [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng]]                                                     
+3. [[Công ty tài chính tiêu dùng]]                                                     
 4. [[Tổ chức tài chính vi mô]]                                                                     
 5. Quỹ tín dụng nhân dân                                                               
 6. [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]
