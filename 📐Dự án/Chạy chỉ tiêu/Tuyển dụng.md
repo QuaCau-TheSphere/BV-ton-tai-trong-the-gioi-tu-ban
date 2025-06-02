@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-04-24T14:51
-updated: 2025-05-10T21:51
+updated: 2025-05-15T15:47
 alias: Săn người, săn nhân sự
 ---
 Tạo phiếu đăng ký để được nhận suất khảo sát sẽ khiến họ thấy mình xứng đáng có nó, nhưng mình lại có dữ liệu để lọc
-[[Săn hội thảo cần lấp người tham dự]]
+[[Săn sự kiện cần lấp người khán giả, phỏng vấn cần tìm đáp viên]]
 Mua nhóm zalo
 Chạy quảng cáo
 

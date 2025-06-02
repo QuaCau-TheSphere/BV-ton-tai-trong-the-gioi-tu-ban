@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2025-05-08T17:04
+updated: 2025-05-19T15:58
 alias: được và mất, cân nhắc lợi hại
 ---
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào.
@@ -70,7 +70,7 @@ VD:
 - Phải vào quán nước nói chuyện cho đàng hoàng chứ không ngồi ngoài đường hoặc công viên được
 - [[Không nuôi được con thì đừng sinh con|Vẫn muốn sinh con khi đang nợ]]
 - Không muốn minh bạch việc mượn nợ vì thấy mình không có tư cách mượn quỹ
-- Nói lên gặp mặt mẹ thì nhất định không chịu
+- Nói lên gặp mặt người chấp nhận cho vay thì nhất định không chịu
 
 ❓Khi nào thì việc tôn trọng người khác bằng việc giữ hình ảnh bản thân là cần thiết?
 ❓Khi nào thì một người từ chối nhưng vẫn sẵn sàng để mình thảo luận tiếp?
@@ -80,11 +80,11 @@ VD:
 - Mục tiêu là giúp con người cụ thể này, hay mục tiêu là để không ai phải có hoàn cảnh như thế này? Mỗi ngày có cả trăm người chết vì nợ. Thêm một người nữa thì khác gì?
 - Vay đầu này đắp đầu kia là không ổn, mà cần dứt điểm trả hết lãi. 
 - Thấy việc gõ cửa hỏi từng người không bằng làm được thứ khiến họ muốn giúp mình
-- [[Có những lúc người được giúp lại chỉ trả lời những câu hỏi chất vấn họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ|Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn]]
+- [[Có những lúc người được giúp lại chỉ trả lời những câu hỏi chất vấn họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ|Khi được hỏi về những lý do dẫn tới tình hình hiện tại và quyết định của họ thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn]]
     - Thực ra không hẳn chỉ là không có thời gian, mà là không chịu trả lời luôn
         - Không chịu đặt câu hỏi, mà cũng không chịu trả lời khi được hỏi
-không chịu đi vào chi tiết vì thấy không giúp ích được gì
-Có rất nhiều thứ dí nên rất overwhelm
+		- Không chịu đi vào chi tiết vì thấy không giúp ích được gì
+	- Có rất nhiều thứ dí nên rất overwhelm
 ❓Bắt đầu làm từ cái nhỏ, cái xung quanh mình tới cái vĩ mô, cái trừu tượng
     - Điều đó chỉ đúng khi cái nhỏ không cản trở cái lớn. Trong việc này thì làm cái ngắn hạn thực sự gây cản trở đến việc làm cái dài hạn
         - Nếu làm điều mình thấy là dài hạn thì sẽ bị trách móc rằng chỉ biết nghĩ cho bản thân, rằng chỉ đang nhân danh sự giúp đỡ. 

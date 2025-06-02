@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2025-04-27T20:48
+updated: 2025-05-26T19:47
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -10,7 +10,7 @@ Tiêu chí lựa chọn:
 
 Những kiểu nói văn vẻ để trông không quá áp lực hoặc được nhiều quyền lợi
 Thừa nhận là có nhiều cái 
-Tạo Nguồn dữ liệu thông tin cá nhân uy tín, được sự cho phép của, phù hợp với các mong đợi về đạo đức
+Tạo nguồn dữ liệu thông tin cá nhân uy tín, được sự cho phép của, phù hợp với các mong đợi về đạo đức
 
 Có những người đến nơi này còn đang ở trạng thái dằn vặt lương tâm, có những người đã chấp nhận để có thể tồn tại. 
 

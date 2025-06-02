@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2025-05-10T22:25
+updated: 2025-05-15T15:02
 title: Làm đại lý ảo Bảo Việt
 ---
 ## Học 
@@ -22,6 +22,6 @@ Xem thêm:: [[Đại lý]]
 ## Ghi chú
 - Một bài thi thử đạt từ 34 điểm sẽ được thưởng thêm 20k. Tối đa thưởng 200k.
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa
-- [[📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/Bảo hiểm/Thông tin cho đại lý]]
 
-Bài chi tiết: [[📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm]]
+> [!important] Nhìn toàn cảnh
+> Công việc này là một phần của [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự|Nhóm chạy chỉ tiêu cho nhân sự]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn

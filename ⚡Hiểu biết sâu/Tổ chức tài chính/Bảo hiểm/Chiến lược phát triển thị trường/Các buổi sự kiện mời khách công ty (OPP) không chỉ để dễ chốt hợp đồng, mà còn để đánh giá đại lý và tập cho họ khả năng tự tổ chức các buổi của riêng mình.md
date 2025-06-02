@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2024-11-10T17:09
-updated: 2025-04-29T14:56
+updated: 2025-05-12T21:40
 ---
+OPP là viết tắt của opportunity presentation 
+
 - kiểm tra khả năng kiếm khách từ người lạ chứ không phải là người quen của đại lý 
 - xem ai năng nổ, 
 - tập cho đại lý tự tổ chức các buổi

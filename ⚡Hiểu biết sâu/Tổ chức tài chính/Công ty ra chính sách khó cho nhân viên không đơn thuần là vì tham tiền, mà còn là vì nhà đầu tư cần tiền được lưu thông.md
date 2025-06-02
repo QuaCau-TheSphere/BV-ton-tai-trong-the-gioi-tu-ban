@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:06
-updated: 2025-04-24T20:50
+updated: 2025-05-15T13:16
 ---
 Khái niệm:: [[Rửa tiền]]
 
@@ -74,5 +74,5 @@ Hỏi biết momo hỏi biết shopee biết tiktok ko hồi mới ra momo giớ
 
 Ko có gì khó hiểu cả gm mall đang nhiều kol pr cho cái này rồi
 [[Cái cần không phải là có tiền, mà là có dòng tiền]]
-[[Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào]]
+[[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được]]
 [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]]

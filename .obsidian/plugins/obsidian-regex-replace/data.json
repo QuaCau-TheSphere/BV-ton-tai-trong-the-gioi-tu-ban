@@ -1,6 +1,6 @@
 {
-  "findText": "\\n\\n(\\d)",
-  "replaceText": ": $1",
+  "findText": "^- ",
+  "replaceText": "### ",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

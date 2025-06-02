@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-05-10T22:13
+updated: 2025-05-30T11:17
 description: Cung cấp địa chỉ để được nhận hàng miễn phí
 ---
 Tính chất công việc:: [[Không cần độ tập trung cao]], [[Làm trực tuyến]]
@@ -17,8 +17,8 @@ Nhân viên các sàn thương mại điện tử khi hoạt động các tài k
 
 ## Thông tin thêm
 - Quà tặng thường là nồi chiên không dầu, quạt cầm tay, cân điện tử, thẻ điện thoại 20k, cáp sạc 3 trong 1, túi xách mini, sữa tắm, v.v. Lâu lâu có cả những thứ mấy triệu.
-- Bạn có thể cung cấp nhiều địa chỉ khác nhau nhưng trong bán kính giao hàng để được nhận nhiều hơn
+- Những bạn ở gần bùng binh, vòng xoay sẽ có lợi vì có thể cung cấp nhiều địa chỉ khác nhau
 
 ## Nơi thảo luận
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[GM Mall|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]]. Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc thêm về [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]] để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
+> Công việc này là một phần của [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]]. Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc thêm về [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]] để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn

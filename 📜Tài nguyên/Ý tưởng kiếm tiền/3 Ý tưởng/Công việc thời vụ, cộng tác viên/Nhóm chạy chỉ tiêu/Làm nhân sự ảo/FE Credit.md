@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-01-01T22:31
-updated: 2025-05-08T23:09
+updated: 2025-06-02T13:22
 description: "Số tiền kiếm được: 6tr/tháng"
 title: Làm nhân viên ảo FE Credit
 ---
 Số tiền kiếm được:: 6tr/tháng
 
-Nếu bạn làm ở [[Nhóm Bình Dương 1, FE Credit]] thì sẽ được [[Ở Thuận An, Bình Dương|Dịch vụ bao nuôi ở Thuận An|Bao nuôi]].
+Nếu bạn làm ở [[Nhóm Bình Dương 1]] thì sẽ được [[Ở Thuận An, Bình Dương|Dịch vụ bao nuôi ở Thuận An|Bao nuôi]].
 
 ## Mô tả công việc
 ### Chuẩn bị

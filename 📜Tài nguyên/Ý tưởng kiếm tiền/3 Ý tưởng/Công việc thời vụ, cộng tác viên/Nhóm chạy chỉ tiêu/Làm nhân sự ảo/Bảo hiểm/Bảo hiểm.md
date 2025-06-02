@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T22:49
+updated: 2025-06-02T13:17
 alias: Làm tư vấn viên bảo hiểm ảo
 title: Làm đại lý bảo hiểm ảo
 ---
@@ -12,7 +12,7 @@ Bài chi tiết:: [[Làm nhân sự ảo|Làm nhân viên ảo là làm gì?]]
 Đây là một số công ty có đại lý thật muốn tuyển đại lý ảo mà bọn mình biết:
 - [[Bảo Việt|Bảo Việt]]
 - [[Prudential]]
-- [[Cathay|Cathay]]
+- [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
 
 Để được làm đại lý, bạn cần tham dự các buổi học kiến thức cơ bản về bảo hiểm và các buổi học sản phẩm. Học cơ bản là để thi đậu chứng chỉ đại lý của Bộ Tài chính. Sau khi thi đậu thì sẽ học sản phẩm của công ty. Tất cả các buổi học đều có điểm danh.
 

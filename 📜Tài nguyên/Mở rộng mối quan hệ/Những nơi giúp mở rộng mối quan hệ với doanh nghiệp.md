@@ -1,17 +1,21 @@
 ---
 share: true
 created: 2024-10-27T13:04
-updated: 2025-04-05T02:21
+updated: 2025-05-17T20:44
 ---
 [[Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất]]. Nếu bạn chưa có nhiều mối quan hệ sẵn có, đây là những nơi giúp bạn tiếp cận được người khác mà họ không cảm thấy phí thời gian, đồng thời có thêm thông tin
 
 ## Chủ doanh nghiệp
 ### Các nhóm học viên các chương trình đào tạo về kinh doanh, lãnh đạo
 - ABG Alumni: [Facebook](https://www.facebook.com/ABGAlumni/), [Website](https://abgalumni.com)
+- Cấy Nền
+
 ### CLB các doanh nghiệp
 - [CLB Doanh Nghiệp Việt Nam (VEC)](https://clbdoanhnghiepvietnam.com/thau-hieu-nhu-cau-ho-tro-doanh-nghiep-phat-trien-ben-vung/), 
 - [Cộng đồng các nhà lãnh đạo CNTT - CIO Vietnam](http://ciovn.org/)
 - [Các CLB giám đốc](https://www.google.com/search?q=clb%20giám%20đốc&ie=utf-8&oe=utf-8&client=firefox-b-m)
+- [Trang chủ \| CEO Club Vietnam](https://ceoclub.com.vn/vi/trang-chu/)
+- [Câu Lạc Bộ Doanh Nhân C&D Tp.HCM](https://cdclub.vn/)
 - Hội chợ
 
 ### Danh sách các công ty

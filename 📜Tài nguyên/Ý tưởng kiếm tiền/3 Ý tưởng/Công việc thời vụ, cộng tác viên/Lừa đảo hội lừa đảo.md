@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T15:32
+updated: 2025-05-31T13:28
 ---
 Tính chất công việc:: [[Cần biết cách ẩn danh]], [[Làm trực tuyến]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
@@ -15,3 +15,6 @@ Những hình thức lừa đảo trên telegram xưa giờ là không mới. G�
 [Bẫy tuyển dụng online lừa đảo người tìm việc - Kỳ 2: Chiêu trò lừa đảo trên Telegram - Tuổi Trẻ Online](https://tuoitre.vn/bay-tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-2-chieu-tro-lua-dao-tren-telegram-2023083010523942.htm)
 
 [[Cảnh giác lừa đảo]]
+
+## Nơi thảo luận
+![[Pasted image 20250531132835.png]]

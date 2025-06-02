@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-04-21T10:50
-updated: 2025-04-24T12:28
+updated: 2025-05-12T22:44
 ---
 Khái niệm:: 
 [UrBox: Giải pháp quà tặng điện tử toàn diện cho doanh nghiệp](https://urbox.vn/)
-Xem thêm:: [[Săn voucher, airdrop]]
+Xem thêm:: [[Săn phiếu giảm giá, airdrop]]
 Khuyến khích việc khai thác, không phải khuyến khích việc quan tâm lại
 
 Giảm giá không phải là quà, vì quà thì không cần phải đáp ứng ngược lại gì 

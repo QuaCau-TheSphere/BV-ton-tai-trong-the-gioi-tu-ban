@@ -1,15 +1,22 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-04-24T15:36
+updated: 2025-05-31T09:57
 alias: Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
 ## Khó khăn của người cần vay
 - Không có thời gian giải thích
-- Không biết người sẵn sàng giúp
+- Nhiều mối quan hệ nhưng lại không biết ai sẵn sàng giúp
 - Xấu hổ khi phải kể về thất bại của mình
 - [[Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền|Sợ bị nghĩ là mình vòi tiền]]
 - Sợ làm mối quan hệ trở nên khó xử, đặc biệt là khi có cơ sở để thấy bị từ chối
+
+## Khó khăn của người hỗ trợ người cần vay
+- Không có thời gian giải thích
+- Nhiều mối quan hệ nhưng lại không biết ai sẵn sàng giúp
+- Nhức đầu vì phải chuyển lời giữa người cần vay và người được hỏi vay
+- Đã hỏi giùm cho người khác rồi. Sợ họ lại bị phiền
+- Gặp lời khuyên rằng mình cũng không nên giúp
 
 ## Lý do từ chối cho vay
 ### Lý do về tiền

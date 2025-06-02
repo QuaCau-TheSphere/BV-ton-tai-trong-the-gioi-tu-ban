@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-08T23:09
+updated: 2025-05-19T15:06
 ---
-Tính chất công việc:: [[Vốn]]
+Tính chất công việc:: [[Cần có vốn]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 
 ## Mục đích vay
@@ -15,4 +15,4 @@ WHERE file.name != this.file.name
 ```
 
 ### Ăn chênh lệch
-- [[Quỹ tín dụng Quả Cầu|Xây dựng quỹ tín dụng vi mô]]
+- [[Quỹ tín dụng vi mô Quả Cầu|Xây dựng quỹ tín dụng vi mô]]

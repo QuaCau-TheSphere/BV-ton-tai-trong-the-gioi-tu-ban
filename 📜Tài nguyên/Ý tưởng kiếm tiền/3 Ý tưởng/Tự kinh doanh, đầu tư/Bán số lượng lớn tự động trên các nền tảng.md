@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-09T22:03
+updated: 2025-05-11T16:02
 ---
 Tính chất công việc:: [[Cần biết cách ẩn danh]]
 Tính chất công việc:: [[Cần biết lập trình]]
 Tính chất công việc:: [[Cần nguồn nguyên liệu lớn với giá rẻ]]
-Tính chất công việc:: [[Vốn]]
+Tính chất công việc:: [[Cần có vốn]]
 
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 

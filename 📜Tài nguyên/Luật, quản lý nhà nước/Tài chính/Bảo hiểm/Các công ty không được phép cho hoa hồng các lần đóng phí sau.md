@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2024-12-30T10:23
-updated: 2025-05-08T14:27
+updated: 2025-05-12T01:20
 ---
-**Xử phạt như thế nào đối với hành vi vi phạm hoa hồng bảo hiểm? Xin chào Ban biên tập Thư Ký Luật. Tôi tên là Dương Đại. Tôi đang làm việc công ty cổ phần bảo hiểm ở TPHCM. Vì tính chất công việc, tôi có thắc mắc muốn nhờ Ban biên tâp tư vấn giúp tôi, cụ thể là những hành vi vi phạm hoa hồng bảo hiểm sẽ bị xử lý như thế nào? Văn bản pháp luật nào quy định vấn đề này? Tôi mong Ban biên tập có thể tư vấn giúp tôi. Tôi xin chân thành cám ơn Ban biên tập Thư Ký Luật! (0165\*\*\*)** 
-
 Xử phạt đối với hành vi vi phạm hoa hồng bảo hiểm được quy định tại Khoản 4, 5 và Khoản 6 Điều 18 Nghị định 98/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực kinh doanh bảo hiểm, kinh doanh xổ số như sau:
 
 4\. Phạt tiền từ 90.000.000 đồng đến 100.000.000 đồng đối với doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài trả hoa hồng bảo hiểm cao hơn tỷ lệ, trả hoa hồng bảo hiểm không đúng đối tượng hoặc nghiệp vụ theo quy định của pháp luật.

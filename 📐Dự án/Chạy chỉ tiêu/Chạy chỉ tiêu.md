@@ -1,33 +1,41 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-05-11T02:23
+updated: 2025-06-02T13:51
 alias:
-  - Nhóm chạy chỉ tiêu
-  - Nhóm thuê ngoài (outsource)
-  - Nhóm làm các công việc thời vụ (freelancer)
-  - Nhóm cộng tác viên
-  - Nhóm trợ lý
+  - Công việc của nhóm chạy chỉ tiêu
+  - chạy chỉ tiêu,thuê ngoài (outsource), các công việc thời vụ (freelancer), cộng tác viên
 title: Nhóm chạy chỉ tiêu
 ---
-> [!NOTE] Bài chi tiết
-> [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
+> [!NOTE] Đọc trước bài [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]] để biết thêm chi tiết
 
-Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI)", "nhóm thuê ngoài (outsource)", "nhóm làm các công việc thời vụ (freelancer)", "nhóm cộng tác viên", "nhóm nhân sự ảo", "nhóm trợ lý" đều được. Đây là những công việc nhóm có làm:
+Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI)", "nhóm thuê ngoài (outsource)", "nhóm làm các công việc thời vụ (freelancer)", "nhóm cộng tác viên", "nhóm chơi chính sách" đều được. Đây là những công việc nhóm có làm:
 
+
+### Công việc trong [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall|GM Mall]]
 ```dataview
-LIST rows.file.link
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu"
-GROUP BY split(file.folder, "/")[5]
+table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall"
 WHERE file.name != this.file.name
+WHERE !contains(file.name, "GM Mall" )
 ```
 
-## Tiêu chí
-- Có nền tảng
-- Đối thoại
+### Công việc trong [[VNPAY|VNPAY]]
+```dataview
+table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY"
+WHERE file.name != this.file.name
+WHERE !contains(file.name, "VNPAY" )
+```
 
-Câu hỏi: Có nên buộc họ cam kết phải thảo luận, hay là cứ để họ chừng nào muốn thảo luận thì thảo luận? Vì nếu không thì họ sẽ muốn theo đuổi những thách thức mới hơn là muốn thảo luận. Có thể sẽ luôn thấy còn những nhu cầu khác cần được đáp ứng
+### Công việc tìm người
+```dataview
+table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Tìm người"
+WHERE file.name != this.file.name
+WHERE !contains(file.name, "Tuyển dụng" )
+```
 
-
-[[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
-[[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]. [[Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ]]
+### Công việc [[làm nhân sự ảo]] khác
+- [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm|Làm đại lý bảo hiểm ảo]]
+- [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|Làm nhân viên ảo FE Credit]]

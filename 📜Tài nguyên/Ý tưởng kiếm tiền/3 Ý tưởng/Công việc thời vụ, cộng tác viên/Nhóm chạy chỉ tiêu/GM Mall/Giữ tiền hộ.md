@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-02-03T12:27
-updated: 2025-05-10T22:13
+updated: 2025-05-30T11:17
 description: "Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác. Số tiền kiếm được: 60k/stk ngân hàng"
 alias: Nhận tiền hộ
 ---
@@ -27,4 +27,4 @@ Ngày bắt đầu làm bạn sẽ nhận được tiền chuyển khoản vào 
 - [[Công việc nhận tiền hộ không phải là thuê tài khoản, vì không phải đăng nhập vào tài khoản người dùng]]
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[GM Mall|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]]. Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v.
+> Công việc này là một phần của [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]]. Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v.

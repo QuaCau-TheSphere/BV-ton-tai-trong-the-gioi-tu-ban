@@ -1,9 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T15:26
+updated: 2025-05-19T16:35
 ---
-Khái niệm:: 
+
+[[Nhà nước tăng thêm thuế nghĩa là ngân sách đang cạn]]. [[Giá vàng tăng là dấu hiệu của bất ổn]]
+
+Không ôm hàng → không sản xuất mà chỉ làm trung gian, hoặc làm các hàng hoá vô hình. [[Hàng hoá vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]
 
 Nguồn:: 
 

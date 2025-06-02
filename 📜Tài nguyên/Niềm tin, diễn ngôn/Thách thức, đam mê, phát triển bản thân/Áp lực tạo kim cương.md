@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-16T21:10
-updated: 2025-04-24T15:36
+updated: 2025-05-30T13:37
 ---
 Tiêu chí của việc chọn đồ ăn là ngon, bổ, rẻ. Tuy nhiên không có thứ nào có được cả 3, mà ta thường chỉ chọn được 2. Trong trường hợp tạo ra sản phẩm thì ngon, bổ, rẻ sẽ là:
 - tiết kiệm thời gian,
@@ -12,7 +12,8 @@ Kim cương ở đây là chất lượng. Mình đã chọn 1, nên có thể �
 
 Trong trường hợp đang phải vay nợ thì sẽ không có nhiều tiền và thời gian. Nghĩa là chất lượng sẽ thấp.
 
-[[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên]]
-
 Sự huy động năng lượng chỉ hữu ích trong một thời gian ngắn, chứ không phải là cảnh cortisol thường xuyên
+
 [[Áp lực giết chết sự sáng tạo]]
+[[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên]]
+[[Người vững vàng là người không cần phụ thuộc vào người khác]]

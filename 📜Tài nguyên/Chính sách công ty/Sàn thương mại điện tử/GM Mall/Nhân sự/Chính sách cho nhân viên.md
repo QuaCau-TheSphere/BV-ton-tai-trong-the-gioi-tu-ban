@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-05-08T23:01
+updated: 2025-05-19T16:16
 title: Chính sách nhân viên GM Mall
 ---
 Nhân viên ăn lương từ hai đầu:
@@ -10,28 +10,15 @@ Nhân viên ăn lương từ hai đầu:
 
 Từ 5 khách hàng hiệu quả trở lên mới có lương. 
 
-Mỗi người có một ngày xét khác nhau
+Mỗi người có một ngày xét khác nhau. Trưởng nhóm sẽ quyết định ngày xét lương của bạn.
 
 ## Khách hàng hiệu quả
-Nhân viên được tính là có một khách hàng hiệu quả khi:
-- Có 1 khách đạt thu nhập gom nhóm cá nhân trung bình ít nhất 100k/ngày (chia cho chu kì tính đến ngày chốt lương) và có nhóm Zalo
-- Có 2 khách đạt 30k - 100k/ngày và có nhóm Zalo
+Xem bài chi tiết:: [[Quy định nhóm Zalo và định nghĩa khách hàng tích cực]]
 
-Khách hoạt động trên 5 ngày từ lúc đạt 100k lần đầu tiên mới được tính.
+Mà lại còn bị dọa:
+1. Cho sa thải nếu ko đủ đơn phúc lợi
+2. Khi sa thải hoặc tự nghỉ thì khóa tk k rút đc
 
-## Quy định nhóm Zalo
-Nhóm Zalo là nhóm chia sẻ sản phẩm. Sẽ có thêm nhân viên công ty, mỗi ngày sẽ được đăng sản phẩm mới.
-
-Một nhóm đúng quy định là nhóm thoả những điều kiện sau:
-- Tên nhóm đúng cú pháp
-- 10 thành viên trở lên
-- Không trùng trưởng nhóm (có thể tạo rồi chuyển quyền trưởng nhóm cho khách hàng). Trong trường hợp kiểm tra ra là đổi tên nhóm sẽ ko được tính 
-
-Khách hàng nhóm trưởng là khách hàng:
-- Mở nhóm Zalo chia sẻ sản phẩm
-- Thu nhập gom nhóm trung bình 200k/ngày, tương đương 6tr/tháng
-
-[[Kế hoạch 2025 đạt 3tr người dùng, 300k nhóm Zalo]]
 ## Minh hoạ
 Giả sử bạn giới thiệu được một người. Người đó gọi là F1. F1 giới thiệu F2, F2 giới thiệu F3. Bản thân bạn được một nhân viên giới thiệu:
 ```
@@ -49,3 +36,5 @@ Nếu F3 mua 1tr:
 | 5 - 9        | 5tr   |
 | 10 - 14      | 10tr  |
 | > 15         | 15tr  |
+
+Sau khi nghỉ việc sẽ bị vô hiệu hoá tài khoản vĩnh viễn (xoá tài khoản)
