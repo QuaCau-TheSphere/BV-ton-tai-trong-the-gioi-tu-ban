@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-05-19T15:06
+updated: 2025-06-19T13:31
 ---
 Vay ở đây là vay tín chấp, không phải thế chấp.
 
@@ -9,6 +9,8 @@ Vay ở đây là vay tín chấp, không phải thế chấp.
 Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này. Nhưng có thể nếu bạn làm một hồ sơ vay bằng cách trả lời các câu hỏi trong [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] thì bạn sẽ dễ vay được hơn.
 
 [[Quỹ tín dụng vi mô Quả Cầu|xây dựng quỹ tín dụng vi mô]]
+
+[cic.gov.vn/#/](https://cic.gov.vn/#/)
 
 ## Từ tổ chức
 | Hình thức                                                                            | Ghi chú                       | Ví dụ                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -64,6 +66,8 @@ Cao nhất là có lợi nhất.
 1. [[Ví trả sau]], [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]: không đòi gì
 2. [[Tổ chức tài chính vi mô]], Quỹ tín dụng nhân dân: chỉ đến nhà nhắc nhở
 3. [[Công ty tài chính tiêu dùng]], Ngân hàng (thẻ tín dụng), [[App vay nóng]]: chỉ gọi điện hoặc đến nhà nhắc nhở. Có thể làm dữ ngay cả với người thân, nhưng không được đòi họ trả tiền
+
+momo bảo chứng sẽ đáng tin hơn fe, vì fe ko biết anh là ai, nhưng momo thì có đủ số liệu dòng tiền
 
 ### Các hình thức khác
 Đa phần đều có lãi cao, nếu không trả kịp thì bị làm phiền

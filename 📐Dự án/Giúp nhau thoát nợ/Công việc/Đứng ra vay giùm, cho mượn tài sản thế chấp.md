@@ -1,8 +1,21 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-05-15T21:48
+updated: 2025-06-16T20:30
 ---
+
+Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau
+Nhờ vả chỉ được ít. 
+
+Khó khăn với người đứng ra vay giùm:
+- Một cái tốn 2, 3 tiếng làm. Làm thủ tục lắt nhắt, phải đi làm suốt, chưa chắc có được hay ko
+
+Rủi ro với người được cho vay giùm:
+- Bị động khi bán tài sản
+
+Công việc: GM Mallb
+
+
 Có một tình huống thế này: có một anh kia có cha mẹ cần vay tiền sửa nhà. Cha mẹ có nguồn tiền để trả nợ, nhưng lại nằm ngoài độ tuổi được vay. Anh đứng ra vay giùm, lấy nhà của cha mẹ làm tài sản thế chấp. Tuy nhiên nguồn tiền của cha mẹ có vấn đề, thành ra anh này phải è cổ ra gánh. Ảnh dễ 
 
 Khi chủ thể đứng vay và chủ tài sản đảm bảo là khác nhau, thì khi có trục trặc gì sẽ có người thấy mình không có làm gì sai:

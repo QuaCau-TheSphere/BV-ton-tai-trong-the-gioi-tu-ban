@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:22
-updated: 2025-04-12T16:23
+updated: 2025-06-17T20:48
 ---
 94QĐ-VH.19 09122019
 ![[Screen Shot 2024-12-30 at 10.41.29.png]]
@@ -30,3 +30,7 @@ Nếu chưa phát sinh lãi, phí, phạt thì khi thanh toán sẽ trừ vào g
 
 [[📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/Thu hồi nợ/FE|Làm nhân viên ảo FE]]
 
+Phúc lợi:
+- Thử việc 100% lương, 80% KPI
+- Thử việc được đóng BHXH - BHYT - BHNT 
+- Bảo hiểm chăm sóc sức khoẻ 24/7 Bảo Việt

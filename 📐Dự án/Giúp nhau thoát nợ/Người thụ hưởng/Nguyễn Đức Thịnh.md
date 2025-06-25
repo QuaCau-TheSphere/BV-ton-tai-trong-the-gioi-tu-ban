@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2025-06-01T12:16
+updated: 2025-06-21T00:38
 ---
 ## Đề xuất vay
 Phương án tối ưu:
@@ -108,9 +108,21 @@ Cho nên những người nhận được thông tin này có thể chia sẻ ch
 
 Một khi đã biết mục tiêu cho vay để làm gì là phải tìm hiểu
 Thấy bị can thiệp vào mqh. Bị phiền 
-Không có sao kê? 
+- Không có sao kê? 
+- Tại sao lại cần lý do nếu người ta muốn ẩn danh? 
+- Tại sao thảo luận với nhau thì không vấn đề gì, nhưng đăng hồ sơ lên cho coi thì lại ko đc? 
+- nếu làm với ai chỉ biết người đó thì coi như một người đại diện ra là được? 
+- Làm vì người khác. Thêm giới thiệu chương trình sẽ giúp họ vì người khác hơn? 
 ### Bạn có sẵn sàng tham gia vào các công việc [giúp nhau thoát nợ](https://kiếmtiền.quảcầu.cc/📐Dự%20án/Giúp%20nhau%20thoát%20nợ?utm_source=Hồ+sơ+vay+nợ+của+Thịnh+(Năng+lực+xoay+sở)&utm_medium=Tập+tin&utm_campaign=B2&utm_content=&utm_term=) để việc hỗ trợ người mang nợ dễ dàng hơn không?
 Sẽ cân nhắc
 
+
 ---
 Nhật chép lại từ lời Thịnh
+
+## Nhật biết người này như thế nào? 
+## Nhật có thể trả nợ giúp người này khi họ mất khả năng trả không? Nếu có thì là bao nhiêu và lúc nào? 
+## Điều gì khiến Nhật tin rằng người này sẽ trả được nợ? 
+## Tại sao Nhật lại muốn giúp người này hơn những những người khác?
+## Tại sao Nhật lại muốn bằng cách thức này hơn những những cách thức khác?
+Đây có phải là từ thiện ko? 

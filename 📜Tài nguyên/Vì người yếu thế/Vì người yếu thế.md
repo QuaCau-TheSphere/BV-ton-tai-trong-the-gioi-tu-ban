@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-10-17T14:50
-updated: 2025-05-26T19:42
+updated: 2025-06-17T22:48
 ---
+
 ```dataview
 LIST rows.file.link
 FROM "📜Tài nguyên/Vì người yếu thế" 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-02-03T23:56
+updated: 2025-06-16T20:30
 ---
 ## Mô tả chung
 - **Nhu cầu:** thử nghiệm thị trường cho [[Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ]]
@@ -48,7 +48,7 @@ Thời gian hoàn thành dự kiến (giả sử ngày làm 10 tiếng):
 > - [Hãy nhắm còn đủ tiền cho khoảng 20 đến 30 lần thất bại]()
  
 ## Cách thức trao đổi nhu cầu
-Đáp ứng được các mục tiêu của [[Nhật]], [[📐Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Kendy cần gì|Trí]] và [[Thịnh]]. Nếu không thì giá để Nhật làm là 200k/giờ hoặc $1000/tháng.
+Đáp ứng được các mục tiêu của [[📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Đội ngũ/Nhật]], [[📐Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Kendy cần gì|Trí]] và [[Thịnh]]. Nếu không thì giá để Nhật làm là 200k/giờ hoặc $1000/tháng.
 
 Xem thêm:: [[Lý do viết Trấn Kỳ]]
 

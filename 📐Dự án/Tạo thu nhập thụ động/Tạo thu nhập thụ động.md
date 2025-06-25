@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-18T13:26
-updated: 2025-06-02T13:34
+updated: 2025-06-11T20:19
 ---
 [[Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không]]
 
@@ -12,5 +12,6 @@ updated: 2025-06-02T13:34
 
 Nếu không có thì chắc chỉ là bào lại tiền của tư bản? Nó quay lại câu chuyện [[Chơi chính sách]]
 
+đủ để cân bằng với việc trả lãi nợ
 
 [Đáy xã hội - Rat race: Làm thế nào để thoát ra?](https://bachhoavienvong.substack.com/p/ay-xa-hoi-rat-race-lam-the-nao-e)

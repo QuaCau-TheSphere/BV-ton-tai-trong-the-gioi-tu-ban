@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2025-05-19T18:26
+updated: 2025-06-16T14:06
 alias:
   - Kiếm tiền nhanh
   - Kiếm dự án thuê ngoài
@@ -12,6 +12,7 @@ alias:
   - Một số ý tưởng kiếm tiền
   - Tạo sinh kế, thu nhập, dòng tiền
   - So sánh các yêu cầu đầu vào của các ý tưởng kiếm tiền
+  - Các ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---

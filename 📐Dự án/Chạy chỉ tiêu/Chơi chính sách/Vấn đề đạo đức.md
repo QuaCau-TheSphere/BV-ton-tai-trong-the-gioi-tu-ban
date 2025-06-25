@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-06-02T13:33
+updated: 2025-06-21T00:58
 title: Vấn đề đạo đức khi làm ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
@@ -12,6 +12,9 @@ Thực ra miễn là số liệu của bạn được làm một cách hữu cơ
 - Hướng đến sự liêm chính: nếu tôi cũng làm giống như họ thì tôi không có tư cách để phê phán họ
 
 Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận (consequentialism) và đạo nghĩa luận (deontology). Những người theo các trường phái này đã tranh luận nhiều lần nhưng vẫn chưa thể thuyết phục được trường phái kia thấy mình sai. Nếu bạn hướng đến sự liêm chính thì cũng không sao. Nhưng có lẽ bạn cũng sẽ khó khiến cho những người hướng đến sự công bằng thấy họ đang sai.
+
+Điều này cũng giống như việc [[Lừa đảo hội lừa đảo]] vậy. Hai cái sai không làm nên cái đúng, 
+Xem thêm:: [[Lách luật là phạm luật một cách đúng luật]]
 
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên
 Quản lý cũng chỉ là người làm công ăn lương chứ không phải là cổ đông, nên về cơ bản họ cũng chịu sự bóc lột của tư bản. Đáng lẽ nạn nhân thì cần đoàn kết với nhau chứ không phải là lừa dối nhau chứ? Mà sự đoàn kết đòi hỏi sự thành thật. Đặc biệt là với các quản lý thể hiện sự quan tâm thực sự với nhân viên của mình. Cảm giác phải lừa dối người thực sự có quan tâm mình rất là khó chịu.
@@ -24,8 +27,12 @@ Chia sẻ rủi ro không đồng đều. Bạn bị phát hiện là chạy kh�
 [[Làm kết quả ảo cần giống làm thật để không tạo ra sự mất cân bằng trong hệ thống và để người làm thật không cảm thấy bất công]]
 
 ## Khi nào thì tôi có thể chấm dứt chuyện phải giả tạo và lợi dụng nhau thế này? 
-Khi lập được công đoàn có tiếng nói, đảm bảo rằng việc họ tham gia không làm họ mất việc. 
+Khi [[Xây dựng công đoàn|lập được công đoàn có tiếng nói]], đảm bảo rằng việc họ tham gia không làm họ mất việc. 
 
-Xem thêm:: [[Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH]]
+## Xem thêm
+- [[Vấn đề rủi ro]]
+- [[Công việc vô nghĩa, tổ chức vô lý]]
+- [[Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu]]
+- [[Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH]]
 
 [[Công việc vô nghĩa, tổ chức vô lý]]
