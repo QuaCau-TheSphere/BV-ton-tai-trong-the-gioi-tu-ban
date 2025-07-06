@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-04T23:52
-updated: 2025-04-11T21:59
+updated: 2025-06-28T14:17
 ---
 
 ## Khác biệt về sản phẩm
@@ -21,6 +21,8 @@ Momo có nhiều ưu đãi, khuyến mãi, dịch vụ hơn:
 - Phân loại thu chi
 - Giáo dục tài chính
 - Ví trả sau ([[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng]]) 
+
+nhưng chính vì momo tiện lợi như vậy nên nếu xét trên phương diện phản đối chủ nghĩa tiêu thụ thì nó cũng tệ hơn. Cạm bẫy vay nhanh, mua trước trả sau khá là nhiều
 
 ## Khác biệt đối với chủ cửa hàng
 Các công ty đều có tặng loa

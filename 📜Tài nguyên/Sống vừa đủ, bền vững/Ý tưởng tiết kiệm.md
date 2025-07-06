@@ -18,6 +18,7 @@ updated: 2025-06-25T13:44
 
 - [VÉN KHÉO \| Facebook](https://www.facebook.com/groups/1658624727884777/?action_source=group_mall_recommendation_affordance)
 - [Chợ Tốt - Website Mua Bán, Rao Vặt Trực Tuyến Hàng Đầu Của Người Việt](https://www.chotot.com/)
+- pass đồ
 Cũng có nhiều người tham gia trong các nhóm này thực ra chỉ để bán hàng
 
 ## Tiết kiệm tiền nhà

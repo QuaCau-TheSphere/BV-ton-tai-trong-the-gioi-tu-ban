@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:27
-updated: 2025-05-19T15:06
+updated: 2025-07-03T16:50
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -17,7 +17,7 @@ updated: 2025-05-19T15:06
 ## Các cách xoay sở
 ### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 ### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
-### Bạn đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
+### Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 ### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ vay nóng]] không? Vì sao?
 ### Bạn có chấp nhận ra khỏi thành phố sống không? Vì sao?
 

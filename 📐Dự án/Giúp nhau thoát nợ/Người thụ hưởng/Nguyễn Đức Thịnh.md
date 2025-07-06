@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2025-06-21T00:38
+updated: 2025-07-03T00:13
 ---
 ## Đề xuất vay
 Phương án tối ưu:
@@ -49,6 +49,7 @@ Xếp theo thời hạn trả
 | Mẹ Tuyên             | 8tr                   | 0                 | 0                             | Mua đt mới                                                                                           |
 | Nhật                 | 1tr495 + nửa chỉ vàng | 0                 | 0                             | Sinh hoạt                                                                                            |
 
+![[t2mg4ncI.jpg]]
 ### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
 Trở thành địa ngục
 

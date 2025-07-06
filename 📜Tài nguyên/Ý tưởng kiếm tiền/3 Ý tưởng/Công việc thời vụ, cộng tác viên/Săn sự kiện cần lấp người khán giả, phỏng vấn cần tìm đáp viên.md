@@ -2,9 +2,9 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-05-15T15:47
+updated: 2025-07-07T00:16
 ---
-Tính chất công việc:: [[Sắp xếp theo lịch được cho trước]]
+Tính chất công việc:: [[Lịch không phải lúc nào cũng biết trước được]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
 Mô tả công việc:: 

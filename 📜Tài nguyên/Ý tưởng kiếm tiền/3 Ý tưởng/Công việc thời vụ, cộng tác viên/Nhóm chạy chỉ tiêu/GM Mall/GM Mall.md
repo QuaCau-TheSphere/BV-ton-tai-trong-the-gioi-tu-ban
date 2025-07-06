@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-05-19T18:29
+updated: 2025-07-03T00:38
 title: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
 alias: Công việc trong GM Mall
 ---
@@ -26,27 +26,18 @@ Về chính sách, xem bài chi tiết:: [[Chính sách cho nhân viên|Chính s
 ### Sao kiếm tiền dễ vậy? Nó có phải là lừa đảo, rửa tiền hay đa cấp gì không?
 Công ty có giấy phép kinh doanh số 0318163736 do sở KH & ĐT TP.HCM cấp ngày 14/11/2023, và đã mở 18 văn phòng đại diện ở khắp cả nước với hơn 1000 nhân viên. Nên có vẻ nó an toàn về mặt pháp luật. 
 
-Trên [thuvienphapluat.vn](https://thuvienphapluat.vn/ma-so-thue/cong-ty-tnhh-thuong-mai-dien-tu-gm-viet-nam-mst-0318163736.html) thì ghi thông tin là:
-- Tên tiếng Anh: Gm Viet Nam Electronic Trading Company Limited
-- Địa chỉ trụ sở: Tầng 2, Số 456 Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam
-- Đại diện pháp luật: Nguyễn Mạnh Đạt (giám đốc) 
-
-Tuy nhiên:
-- Địa chỉ trụ sở hiện tại tại Q2. Trụ sở trước thì ở Pearl Plaza, 561A Điện Biên Phủ
-- Đại diện pháp luật theo bọn mình biết thì Trần Tiểu Kiệt
-- Theo Wikipedia thì [electronic trading](https://en.wikipedia.org/wiki/Electronic_trading) chỉ là về giao dịch chứng khoán thôi
-
-Có khả năng chỉ là không cập nhật thông tin mà thôi?
-
-Tìm trên YouTube, TikTok về GM Mall lừa đảo cũng chưa có ca nào bị quỵt (nếu có hãy báo cho bọn mình). Còn có phải là rửa tiền hay không thì chưa thấy có dấu hiệu.
+Công ty hiện đang có [[Phốt GM|phốt]], nhưng có vẻ là bất khả kháng chứ không phải là cố ý quỵt. Còn có phải là rửa tiền hay không thì chưa thấy có dấu hiệu.
 
 Bài chi tiết:: [[Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào|Liệu GM Mall có đang lừa đảo, rửa tiền không?]]
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@globalmall.vn/video/7489348272704867639" data-video-id="7489348272704867639" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@globalmall.vn" href="https://www.tiktok.com/@globalmall.vn?refer=embed">@globalmall.vn</a> ✨ Hành trình mới – Thành công mới! ✨ Chính thức khai trương văn phòng tổng, đánh dấu một bước tiến lớn. Cùng nhau chinh phục những đỉnh cao mới! 🚀 <a title="globalmall" target="_blank" href="https://www.tiktok.com/tag/globalmall?refer=embed">#globalmall</a> <a title="gmmall" target="_blank" href="https://www.tiktok.com/tag/gmmall?refer=embed">#gmmall</a> <a title="khaitruong" target="_blank" href="https://www.tiktok.com/tag/khaitruong?refer=embed">#khaitruong</a> <a target="_blank" title="♬ nhạc nền  - GM Hàng Giá Tốt" href="https://www.tiktok.com/music/nhạc-nền-GM-Hàng-Giá-Tốt-7489348297455799046?refer=embed">♬ nhạc nền  - GM Hàng Giá Tốt</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+([Hình ảnh văn phòng Biên Hoà](https://www.tiktok.com/@globalmall.vn/video/7494869145012489479))
+
 ### Bị công ty phát hiện thì sao?
 Chỉ có những ai làm nhân viên thì mới phải chịu trách nhiệm, cùng lắm là bị đuổi việc. Còn những người khác thì sẽ không vấn đề gì.
 
+Xem thêm:: [[Vấn đề rủi ro]]
 Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
 
 ## Nơi thảo luận

@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-06-25T01:41
+updated: 2025-07-03T16:50
 ---
-Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
+- Theo bạn đâu là cách để giúp bạn bền vững?
+- Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
 
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -32,7 +33,7 @@ Bạn nghĩ mình cần làm những gì để kiếm được một người c�
 ## Các cách xoay sở bạn đã áp dụng
 - Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 - Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
-- Bạn đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
+- Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
 - Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? Bạn đã nhận được những sự hỗ trợ nào từ họ?
@@ -53,7 +54,7 @@ Bạn nghĩ mình cần làm những gì để kiếm được một người c�
 ## Làm việc với người hỗ trợ
 - Bạn cần hỗ trợ những gì?
 - Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
-- Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
+- Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, nhất là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
 - Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
 - Người giúp bạn có thể nói chuyện với những người giúp khác không?
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
@@ -61,7 +62,6 @@ Bạn nghĩ mình cần làm những gì để kiếm được một người c�
 	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
 - Bạn có sẵn sàng tham gia công việc [[Giúp nhau thoát nợ]] để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
 - Việc họ nghĩ là cần hay 
-- Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn muốn ai sẽ hỗ trợ bạn?
 
 ## Sự đảm bảo từ những người hỗ trợ

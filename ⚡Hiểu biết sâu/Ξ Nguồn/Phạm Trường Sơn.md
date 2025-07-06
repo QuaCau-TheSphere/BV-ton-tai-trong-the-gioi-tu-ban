@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-05-27T21:56
+updated: 2025-07-03T16:50
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -73,7 +73,7 @@ SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, d
 
 ### Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
 - [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
-- [[Các dịch vụ cho vay]]
+- [[Các dịch vụ cho vay tín chấp]]
 - [[Niềm tin, diễn ngôn]]
 - [[Tình Thân]]
 - Nơi gặp mặt

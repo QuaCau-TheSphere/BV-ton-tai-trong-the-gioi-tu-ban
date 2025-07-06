@@ -1,18 +1,21 @@
 ---
 share: true
 created: 2023-09-05T16:17
+updated: 2025-07-07T00:16
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
   - Danh sách công việc làm nhân sự ảo
   - Làm danh tính khác của nhân sự thật
   - Làm hình nhân thế mạng
-updated: 2025-06-02T13:21
+  - điểm danh hộ, họp hộ, giữ tiền hộ
 ---
 ## Mô tả công việc
 Nhân sự ảo tức là có nhân sự thật làm giùm. Ví dụ, Cueball và Megan cùng vào làm trong một công ty. Nhưng Megan làm cả phần việc của Cueball. Việc của Cueball chỉ là lên công ty điểm danh chấm công mà thôi. Nói cách khác, Cueball là một danh tính khác của Megan trong công ty. Công ty thấy rằng Cueball lên công ty làm việc chăm chỉ và có kết quả thì sẽ trả lương cho Cueball. Sau đó Cueball đưa lại một phần lương cho Megan. Có thể xem theo một cách khác là Cueball bán việc lại cho Megan.
 
-Bài chi tiết:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]].
+Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]].
+
+Các tên khác cho công việc này: điểm danh hộ, họp hộ, [[giữ tiền hộ]]
 
 ### Lợi ích cho mỗi bên
 Với Megan:
@@ -29,7 +32,7 @@ Với Cueball:
 
 ### Rủi ro cho mỗi bên
 Với Megan: 
-- Phải tin được là Cueball sẽ trả tiền lại cho mình
+- Phải tin được là Cueball sẽ trả tiền lại cho mình. Có nơi sẽ yêu cầu Cueball mở một tài khoản ngân hàng riêng rồi cho mình đăng nhập vào đó. Tuy nhiên cần nhớ là [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]].
 
 Với Cueball:
 - Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được
@@ -48,7 +51,7 @@ Xem thêm:: [[Bao nuôi]]
 > Công việc này là một phần của [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự|Nhóm chạy chỉ tiêu cho nhân sự]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Bạn có thể xem thêm [[công việc thời vụ, cộng tác viên]] và [[Làm trực tuyến|công việc làm online]]
 
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
-Yêu cầu đầu vào:: [[Mỗi tuần lên công ty một buổi]], [[Sắp xếp theo lịch được cho trước]]
+Yêu cầu đầu vào:: [[Mỗi tuần lên công ty một buổi]], [[Lịch không phải lúc nào cũng biết trước được]]
 Hình thức:: [[Vị trí chính thức của một công ty]], [[Công việc thời vụ, cộng tác viên]]
 
 ## Nơi thảo luận

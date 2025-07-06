@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6c24a015f142da",
+        "id": "c4754e0ff06b0e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb9daa72f082132",
+            "id": "dcf5a8bfc8fddd63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Bản câu hỏi cho người cần được hỗ trợ thoát nợ.md",
+                "file": "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Cứ gọi điện cho đến khi người ta ngại.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bản câu hỏi cho người cần được hỗ trợ thoát nợ"
+              "title": "Cứ gọi điện cho đến khi người ta ngại"
             }
           },
           {
-            "id": "2948390045e36cde",
+            "id": "63d3fc548b3f6f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Cội nguồn mọi cuộc khủng hoảng tiền tệ ở Việt Nam đều chỉ có duy nhất một nguyên nhân, đó là sở hữu chéo.md",
+                "file": "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác và vượt qua thiết kế trục lợi/Chặn rác và vượt qua thiết kế trục lợi.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,107 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cội nguồn mọi cuộc khủng hoảng tiền tệ ở Việt Nam đều chỉ có duy nhất một nguyên nhân, đó là sở hữu chéo"
-            }
-          },
-          {
-            "id": "a2c62c57f81575ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Sống vừa đủ, bền vững/Ý tưởng tiết kiệm.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ý tưởng tiết kiệm"
-            }
-          },
-          {
-            "id": "23d0247a0e3285f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Sống vừa đủ, bền vững/Ý tưởng tiết kiệm.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ý tưởng tiết kiệm"
-            }
-          },
-          {
-            "id": "37b6baa33cf33157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Sống vừa đủ, bền vững/Lương thực.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lương thực"
-            }
-          },
-          {
-            "id": "4f3bd2f18d9ff6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Sống vừa đủ, bền vững/Sống vừa đủ, bền vững.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sống vừa đủ, bền vững"
+              "title": "Chặn rác và vượt qua thiết kế trục lợi"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ocb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -301,54 +205,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37b6baa33cf33157",
+  "active": "63d3fc548b3f6f9b",
   "lastOpenFiles": [
-    "📜Tài nguyên/Sống vừa đủ, bền vững/Ý tưởng tiết kiệm.md",
-    "📜Tài nguyên/Sống vừa đủ, bền vững/Lương thực.md",
-    "📜Tài nguyên/Sống vừa đủ, bền vững/Sống vừa đủ, bền vững.md",
-    "📜Tài nguyên/Sống vừa đủ, bền vững/Nhà cửa.md",
-    "⚡Hiểu biết sâu/Các công ty bất động sản thà bỏ thêm tiền để giải toả hẳn khu tái định cư, vì để ở kế bên thì làm mất giá.md",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Bất động sản.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/ESG.md",
-    "📜Tài nguyên/Ý tưởng tiết kiệm.md",
-    "📜Tài nguyên/Sống vừa đủ, bền vững",
-    "📜Tài nguyên/New folder",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Sản phẩm nông nghiệp là theo quy luật tự nhiên, có thời hạn ngắn, nên không thể phù hợp với chủ nghĩa tư bản.md",
-    "📜Tài nguyên/Luật, quản lý nhà nước/Tài chính/Tiền tệ, ngân hàng/Cổ đông chỉ được hưởng tối đa 10% cổ phần. Cổ đông nắm trên 1% phải được công khai.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Cội nguồn mọi cuộc khủng hoảng tiền tệ ở Việt Nam đều chỉ có duy nhất một nguyên nhân, đó là sở hữu chéo.md",
-    "📐Dự án/Giúp nhau thoát nợ/Bản câu hỏi cho người cần được hỗ trợ thoát nợ.md",
-    "📐Dự án/Giúp nhau thoát nợ/Quỹ tín dụng vi mô Quả Cầu.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Các khoản tài sản và khoản vay Nhật đứng tên.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Người khôn ko làm kinh tế được, chỉ có người ngu mới làm được.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro, lấy số đông may mắn bù cho số ít xui xẻo.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Đỗ Hàng Minh Trí/Đỗ Hàng Minh Trí.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Đỗ Hàng Minh Trí/Lý do bị nợ.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Thiết kế thao túng.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Các cửa hàng drive-through để người đến lượt gọi bị áp lực phải gọi món nhanh để còn nhường chỗ cho người khác.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn..md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Cứ gọi điện cho đến khi người ta ngại.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Hạn sử dụng không chỉ là để tránh thực phẩm biến chất, mà còn có thể khiến cho người dùng mua hàng mới khi hàng cũ còn dùng được.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Người bán hàng giống như giao diện giọng nói của một cái máy hơn là một con người thật.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Trung thực/Khi hỏi là nói dối thế nào thì họ sẽ bí, nhưng không làm mất đi cảm giác là đã bị nói dối.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Chủ nghĩa tối giản tạo ra để chống chủ nghĩa tiêu thụ nhưng có vẻ chỉ có người trung lưu trở lên mới thực hiện..md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Đăng ký tài khoản.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo thời gian/Được chọn thời gian làm trong ngày.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo thời gian/Lịch không phải lúc nào cũng biết trước được.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Công việc thời vụ, cộng tác viên.md",
     "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
     "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
-    "📐Dự án/Giúp nhau thoát nợ/Giúp nhau thoát nợ.md",
-    "📜Tài nguyên/Chính sách công ty/Sàn thương mại điện tử/GM Mall/GM Mall giống như một cái siêu thị hàng TQ.md",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250623195330.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250623195318.png",
-    "⚡Hiểu biết sâu/Kinh tế/Các loại hình kinh tế mới/Nền kinh tế chăm sóc/Tính trung bình, phụ nữ làm công việc chăm sóc không được trả lương nhiều hơn ít nhất hai lần rưỡi so với nam giới.md",
-    "📐Dự án/Mạng kết nối nhu cầu/AMAP.md",
-    "📐Dự án/Đối thoại với tư bản/Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay/Tổ chức tài chính vi mô/Quỹ Đồng Hành.md",
-    "📐Dự án/Tự động hoá/~syncthing~Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH.md.tmp",
-    "📜Tài nguyên/~syncthing~Ý tưởng tiết kiệm.md.tmp",
-    "📐Dự án/Chạy chỉ tiêu/Chơi chính sách/~syncthing~Vấn đề đạo đức.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/~syncthing~Nguyễn Đức Thịnh.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/~syncthing~Bản câu hỏi cho người cần được hỗ trợ thoát nợ.md.tmp",
-    "Ξ Thiết lập/Ảnh/Thông tin tín dụng của Nhật.pdf",
-    "Ξ Thiết lập/PDF/[Ebook] Social engineeing Tam ly hoc va cach thuc tan cong.pdf",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/~syncthing~TPbank cấp tiền cho ví trả sau Momo.md.tmp",
-    "Ξ Thiết lập/Ảnh/IMG_20250612_095816 1.jpg",
-    "Ξ Thiết lập/Ảnh/IMG_20250612_095816.jpg",
-    "Ξ Thiết lập/Ảnh/IMG_20250612_095858.jpg",
-    "Ξ Thiết lập/Ảnh/Phòng chống lừa đảo/Đa cấp biến tướng/z6660287141246_9b704de4fbd60a7c56438c1e872757cd.jpg",
-    "Ξ Thiết lập/Ảnh/Phòng chống lừa đảo/Đa cấp biến tướng/z6660287147422_c983d70a30743c544692c7eabba32ed5.jpg",
-    "Ξ Thiết lập/Ảnh/Phòng chống lừa đảo/Đa cấp biến tướng/z6660287145897_e9c8f517b79ec7afff0ff90a805ae77f.jpg",
-    "Ξ Thiết lập/Ảnh/Phòng chống lừa đảo/Đa cấp biến tướng/z6660287146004_0a3236409190994d9b34ee0473389087.jpg",
-    "Ξ Thiết lập/Ảnh/Phòng chống lừa đảo/Đa cấp biến tướng/z6660287171042_9e710b7452dd6aeed40fc0a4213d95f1.jpg",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Cần máy tính.md",
+    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng/4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân.md",
+    "Ξ Thiết lập/Inbox.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Các dịch vụ cho vay tín chấp.md",
+    "Ξ Thiết lập/Gõ tắt.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Không tiếp xúc với con người.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Chạy sự kiện, guider, chụp ảnh, hướng dẫn viên du lịch.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Đăng ký tài khoản.md.tmp",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/~syncthing~Inbox.md.tmp",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Nếu muốn vay bằng bảo hiểm nhân thọ thì cần có cả giấy phép kinh doanh.md",
+    "📐Dự án/Chạy chỉ tiêu/Chơi chính sách/Làm nhân sự ảo/Danh sách nhân viên.md",
+    "Ξ Thiết lập/Ảnh/Điểm tín dụng của Nhật.png",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Các dịch vụ cho vay tín chấp.sync-conflict-20250704-114025-7AKM7QB.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/~syncthing~Các dịch vụ cho vay tín chấp.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/~syncthing~Quỹ tín dụng vi mô Quả Cầu.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/~syncthing~Cho ngân hàng, công ty tài chính.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/Cho ngân hàng, công ty tài chính.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Thoả mãn sự trợ giúp.md.tmp",
+    "Ξ Thiết lập/Ảnh/Screenshot_20250703_162651.jpg",
+    "Ξ Thiết lập/Ảnh/~syncthing~Screenshot_20250703_162651.jpg.tmp",
+    "Ξ Thiết lập/Ảnh/Screenshot_20250703_162640.jpg",
+    "Ξ Thiết lập/Ảnh/~syncthing~Screenshot_20250703_162640.jpg.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250703094050.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250703093815.png",
+    "Ξ Thiết lập/Ảnh/CCCD mặt trước.jpg",
+    "Ξ Thiết lập/Ảnh/CCCD mặt sau.jpg",
+    "Ξ Thiết lập/Ảnh/CCCD QR.jpg",
+    "Ξ Thiết lập/Ảnh/t2mg4ncI.jpg",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250703001220.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

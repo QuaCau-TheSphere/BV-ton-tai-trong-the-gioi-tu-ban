@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-26T19:44
+updated: 2025-06-26T15:54
 ---
 Khái niệm:: 
 - 1600s: Châu Âu thực hiện viễn chinh xâm lược
@@ -25,3 +25,7 @@ Câu hỏi:: có vẻ như chủ nghĩa tư bản ko thể tồn tại nếu ko 
 
 [[Tiền mã hoá đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó]]
 Nguồn:: [[Tiền – sự thật về thứ không có thật]]
+
+Số tiền mà ngân hàng cho mình vay không phải là thứ do ngân hàng nhà nước in ra, mà chỉ là con số họ có thể đặt tuỳ thích
+Và thú vị là năm 2020 thì FED lại cho phép không cần phải dự trữ gì cả luôn 
+![Giải thích về cách các ngân hàng tạo ra tiền trong 17 phút - YouTube](https://youtu.be/uXd2SzsM3SM?si=0pq_cBsFaJPE859y)

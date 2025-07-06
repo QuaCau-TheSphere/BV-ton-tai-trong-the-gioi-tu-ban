@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T09:53
+updated: 2025-06-28T14:18
 alias: Chính sách các công ty trung gian thanh toán
 ---
 Ngày trả lương cho nhân viên và tiền công cho cộng tác viên đều là vào đầu tháng.

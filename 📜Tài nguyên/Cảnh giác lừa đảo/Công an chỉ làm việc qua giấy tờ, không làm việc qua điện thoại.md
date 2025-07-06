@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-03-22T22:38
-updated: 2025-04-12T15:46
+updated: 2025-06-29T14:48
 ---
 Khái niệm:: 
-[Bọn lừa đảo tạo ra 'chị công an online' như thật - Tuổi Trẻ Online](https://tuoitre.vn/bon-lua-dao-tao-ra-chi-cong-an-online-nhu-that-20230709114310079.htm)
 
-Nguồn:: 
+Nguồn:: [Bọn lừa đảo tạo ra 'chị công an online' như thật - Tuổi Trẻ Online](https://tuoitre.vn/bon-lua-dao-tao-ra-chi-cong-an-online-nhu-that-20230709114310079.htm)
+
+[[Chỉ có giấy triệu tập mới bắt buộc phải đi. Giấy mời thì có thể từ chối]]

@@ -1,9 +1,75 @@
-6/25/2025, 10:28:29 AM [error]: 
+7/6/2025, 10:28:05 AM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:37:9602)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:37:10843)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:220:1172)
 
-6/25/2025, 10:28:30 AM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 11:28:30 AM.
+7/6/2025, 10:28:06 AM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 11:28:21 AM.
+
+7/6/2025, 10:34:13 AM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Đăng ký tài khoản.md / Sun Jul 06 2025 10:32:55 GMT+0700 (Indochina Time) vs Sat Jul 05 2025 22:51:50 GMT+0700 (Indochina Time)
+
+7/6/2025, 10:38:40 AM [debug]: 
+	edited file : 📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Nhân sự/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md / Tue Apr 22 2025 18:46:51 GMT+0700 (Indochina Time) vs Mon Apr 14 2025 18:03:32 GMT+0700 (Indochina Time)
+
+7/6/2025, 10:44:19 AM [debug]: 
+	edited file : ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md / Tue Apr 22 2025 18:40:49 GMT+0700 (Indochina Time) vs Sat Apr 12 2025 23:41:38 GMT+0700 (Indochina Time)
+
+7/6/2025, 10:50:10 AM [debug]: 
+	Creating branch with, [object Object], B-Tồn-tại-trong-thế-giới-tư-bản-7-6-2025
+
+7/6/2025, 10:50:11 AM [info]: 
+	Branch successfully created (status: 201) on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Publishing file: 📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Đăng ký tài khoản.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo khả năng tiếp cận/Không cần nghe.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo khả năng tiếp cận/Không cần nói.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo khả năng tiếp cận/Không cần đi lại.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo nguyên liệu, nguồn thông tin/Cần nguồn nguyên liệu lớn với giá rẻ.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo tính chất công việc/Làm trực tuyến.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo thời gian/Thời gian làm linh hoạt.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo tính chất công việc/Không cần độ tập trung cao.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Shared: true for 📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Không tiếp xúc với con người.md
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Publishing Đăng ký tài khoản.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
+
+7/6/2025, 10:50:11 AM [debug]: 
+	Upload Đăng ký tài khoản.md:docs/📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Đăng ký tài khoản.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-7-6-2025
+
+7/6/2025, 10:50:13 AM [debug]: 
+	Publishing file: 📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Nhân sự/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md
+
+7/6/2025, 10:50:13 AM [debug]: 
+	Publishing Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
+
+7/6/2025, 10:50:13 AM [debug]: 
+	Upload Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md:docs/📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/Nhân sự/Việc đưa cây sang cho nhân viên khác nếu không trả khiến nhân viên có động lực ép khách trả trong tháng.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-7-6-2025
+
+7/6/2025, 10:50:15 AM [debug]: 
+	Publishing file: ⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md
+
+7/6/2025, 10:50:15 AM [debug]: 
+	Publishing Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md to [QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/main] 
+
+7/6/2025, 10:50:15 AM [debug]: 
+	Upload Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md:docs/⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cầm đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md on QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban:B-Tồn-tại-trong-thế-giới-tư-bản-7-6-2025
 
