@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-06-02T13:17
+updated: 2025-07-09T17:32
 description: Chỉ cần lên công ty 3 tiếng/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 alias: Dịch vụ bao nuôi ở TP.HCM
 ---

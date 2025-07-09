@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-04T18:08
-updated: 2025-07-06T17:32
+updated: 2025-07-09T17:32
 ---
 Thị trường 2 mà mấy thằng lớn không thèm đánh
 
@@ -22,6 +22,5 @@ Sự thẩm định không có nhiều ý nghĩa khi xét tới bài toán xác 
 | Bản Việt   | Timo                                                                                                                                           |
 | [[VPBank]] | [[📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]] |
 
-OCB, SHB thường được bọn app đen dùng
-
+[[OCB, SHB thường được bọn app đen dùng]]
 Nguồn:: NCT

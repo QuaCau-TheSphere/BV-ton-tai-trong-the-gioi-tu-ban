@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-03T15:57
+updated: 2025-07-09T17:32
 ---
 | Loại hình                            | Nhân viên                        | Đại lý                              | Cộng tác viên cho công ty        | Cộng tác viên cho nhân viên/đại lý |
 | ------------------------------------ | -------------------------------- | ----------------------------------- | -------------------------------- | ---------------------------------- |
@@ -16,4 +16,4 @@ Xem thêm:: [[Khác biệt giữa lương cứng, lương khoán, thù lao, ti�
 
 [[Tháng nhiều ngày nghỉ nhân viên không bị mất lương, nhưng đại lý thì mất thu nhập]]
 [[Đại lý là người được công ty uỷ quyền, và chỉ được ăn tiền ở đúng công ty đó. Môi giới là người làm cho khách hàng, và có thể ăn tiền từ nhiều công ty]]
-Xem thêm:: [[Chạy chỉ tiêu|Nhóm cộng tác viên cho nhân viên]]
+Xem thêm:: [[Nhóm chạy chỉ tiêu|Nhóm cộng tác viên cho nhân viên]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-25T14:18
+updated: 2025-07-09T17:14
 ---
 Khái niệm:: 
 [[Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp]]

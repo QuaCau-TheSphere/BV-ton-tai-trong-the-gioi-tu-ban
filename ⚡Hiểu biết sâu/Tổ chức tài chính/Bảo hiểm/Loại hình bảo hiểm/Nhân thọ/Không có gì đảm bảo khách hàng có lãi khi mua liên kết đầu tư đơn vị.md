@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T12:35
-updated: 2024-09-17T13:25
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 Có một câu nói trong ngành bảo hiểm nhân thọ: “Nếu bạn có thể bán được bảo hiểm nhân thọ, bạn có thể bán được bất kỳ sản phẩm nào”. Thực tế trên thế giới và cả ở Việt Nam, bảo hiểm nhân thọ thuần túy rất khó bán vì hầu hết mọi người đều ngại đề cập tới cái chết và không muốn bỏ tiền ra để mua một thứ mà họ không cảm thấy nhận được gì từ nó. Chỉ khi nào họ tử vong thì số tiền mới được bồi thường cho người thụ hưởng. Bản chất của bảo hiểm là phân tán rủi ro, nguyên tắc hoạt động của ngành bảo hiểm nhân thọ là quy luật số lớn Bernoulli hay nôm na là “số đông bù số ít”. 

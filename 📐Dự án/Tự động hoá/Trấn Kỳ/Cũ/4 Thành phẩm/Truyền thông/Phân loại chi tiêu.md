@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-12T12:54
-updated: 2024-11-18T13:20
+updated: 2025-07-09T17:32
 ---
 # Phân loại chi tiêu bằng tiếng Việt tự nhiên
 Bạn có cảm thấy chán nản, mất năng lượng vì phải tốn quá nhiều thời gian để phân loại chi tiêu cũng như các loại dữ liệu khác không? Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:

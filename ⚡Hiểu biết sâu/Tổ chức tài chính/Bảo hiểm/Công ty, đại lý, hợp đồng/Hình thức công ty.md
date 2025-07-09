@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-07T09:59
-updated: 2024-09-07T13:23
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 - Công ty bảo hiểm: bảo hiểm cho khách hàng

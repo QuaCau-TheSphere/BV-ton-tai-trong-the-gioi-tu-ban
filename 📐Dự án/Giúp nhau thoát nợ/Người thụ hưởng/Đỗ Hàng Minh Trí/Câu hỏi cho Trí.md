@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T23:01
-updated: 2025-04-27T11:11
+updated: 2025-07-09T17:32
 ---
 ## Cách trả nợ
 Tại sao ko muốn có thêm nợ? Dù sao thì cũng ko có dòng tiền ngay mà chỉ có những hạn chót cần phải trả

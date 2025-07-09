@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-08T22:08
-updated: 2025-04-15T23:26
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 [[FE có vốn điều lệ hơn 10 ngàn tỷ đồng. Xếp hàng thứ 2 là 3 ngàn tỷ]]

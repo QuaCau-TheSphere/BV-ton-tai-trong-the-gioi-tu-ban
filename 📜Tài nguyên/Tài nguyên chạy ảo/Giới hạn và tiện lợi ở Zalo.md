@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T16:17
-updated: 2025-05-19T16:58
+updated: 2025-07-09T17:32
 alias:
   - Chủ sđt đăng ký Zalo và chủ cccd để xác thực không cần phải trùng nhau
   - Có thể tự đổi tên tài khoản Zalo mà không bị lưu lịch sử

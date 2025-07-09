@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2024-11-18T13:20
+updated: 2025-07-09T17:32
 ---
 # Làm quen
 Lời đầu tiên cảm ơn bạn vì đã dành thời gian. Mình xin tự giới thiệu, mình là Lý Minh Nhật. Không biết bạn có thể giới thiệu một chút về bản thân được không?

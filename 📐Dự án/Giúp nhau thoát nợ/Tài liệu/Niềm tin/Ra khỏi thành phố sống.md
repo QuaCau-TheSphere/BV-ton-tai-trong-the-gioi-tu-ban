@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2025-04-12T01:00
+updated: 2025-07-09T17:32
 alias: Các lý do để không về quê
 ---
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên

@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-05-03T16:32
-updated: 2025-05-15T16:00
+updated: 2025-07-09T17:32
 ---
 Tính chất công việc:: 
 Hình thức:: 
@@ -18,4 +18,4 @@ Số người cần tuyển::
 
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Tìm người|Các công việc tìm người]], vốn là một phần của [[Chạy chỉ tiêu|Nhóm chạy chỉ tiêu cho nhân sự]].
+> Công việc này là một phần của [[Tìm người|Các công việc tìm người]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]].

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-22T12:57
-updated: 2024-09-17T11:58
+updated: 2025-07-09T17:32
 ---
 “We really weren’t designed to think ahead into the further future because we needed to focus on providing for ourselves in the here and now,” said psychologist Dr. Hal Hershfield, a professor of marketing at the U.C.L.A. Anderson School of Management.
 

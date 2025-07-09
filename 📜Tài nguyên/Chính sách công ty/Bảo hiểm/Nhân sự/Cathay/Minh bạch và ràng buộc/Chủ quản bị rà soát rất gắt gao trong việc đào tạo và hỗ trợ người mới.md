@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:56
-updated: 2025-03-22T14:21
+updated: 2025-07-09T17:32
 ---
 Chức danh chủ quan ở Cathay không phải là quản lý cấp cao. Họ bị rà soát rất gắt gao trong việc đào tạo và hỗ trợ người mới. Những người mới còn được vào họp riêng với giám đốc văn phòng (TSD) hoặc các cấp cao hơn để phản hồi về chủ quản, xem tiến độ đào tạo của họ tới đâu. Nếu chủ quản không dẫn người mới đi thị trường, không kèm, không dẫn hướng là tự động bị kêu lên ngay. Một người mới vào là gần như ai cũng cần phải chăm sóc, đúng câu "để nuôi một đứa trẻ cần phải có cả một làng" luôn.
 

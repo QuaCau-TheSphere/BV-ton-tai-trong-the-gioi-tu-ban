@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-05-30T11:17
+updated: 2025-07-09T17:32
 ---
 Tính chất công việc::  
 Hình thức:: 
@@ -17,4 +17,4 @@ Số người cần tuyển::
 ## Nơi thảo luận
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]], vốn là một phần của [[Chạy chỉ tiêu|Nhóm chạy chỉ tiêu cho nhân sự]].
+> Công việc này là một phần của [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]].

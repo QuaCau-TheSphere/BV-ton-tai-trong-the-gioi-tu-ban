@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-13T13:58
+updated: 2025-07-09T17:32
 alias: Lách luật có phải là phạm luật một cách đúng luật không?
 ---
 Khái niệm:: [[Lách luật]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2025-05-19T15:58
+updated: 2025-07-09T17:32
 alias: được và mất, cân nhắc lợi hại
 ---
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào.

@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2025-03-29T20:00
+updated: 2025-07-09T17:32
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
 description: "Quyền lợi: ung thư, bệnh hiểm nghèo, tai nạn, tử vong và tiết kiệm dài"
 ---
 # Tặng hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
-Lý do:: [[Chạy chỉ tiêu]]
+Lý do:: [[Nhóm chạy chỉ tiêu]]
 
 5-7 ngày giao hợp đồng đến nhà  
 

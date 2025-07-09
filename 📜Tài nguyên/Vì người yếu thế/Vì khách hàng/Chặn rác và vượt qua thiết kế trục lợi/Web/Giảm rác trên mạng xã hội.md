@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-28T17:48
+updated: 2025-07-09T17:32
 ---
 Về cơ bản, rác của bạn là tiền của Facebook, nên bạn sẽ không thể trông đợi Facebook bớt đưa rác cho bạn được. Tức là bạn chỉ có thể làm rác trở nên vô hình trong mắt bạn, chứ không thể ngăn rác tràn vô nhà bạn được. Để làm được điều này bạn phải mở rộng tính năng của trình duyệt. Tức là trình duyệt của bạn phải có cho cài tiện ích mở rộng (addon/extension/plugin) hoặc kịch bản người dùng ([userscript](https://en.wikipedia.org/wiki/Userscript "Userscript - Wikipedia")).
 

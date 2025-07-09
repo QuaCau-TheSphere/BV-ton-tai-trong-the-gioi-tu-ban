@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-03T21:33
-updated: 2025-05-06T01:29
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: [[Hoa hồng]] 
 Lý do:: [[Hoa hồng cao là để đại lý trích một phần mua quà chăm sóc khách]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2025-07-09T17:32
 ---
 [[Mô hình kinh doanh của các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình|Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?]]
 # Miễn phí

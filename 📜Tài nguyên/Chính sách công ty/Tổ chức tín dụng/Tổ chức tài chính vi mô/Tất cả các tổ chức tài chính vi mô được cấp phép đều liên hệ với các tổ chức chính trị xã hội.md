@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T00:12
-updated: 2025-04-20T19:06
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tài chính vi mô]]
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-06-02T13:17
+updated: 2025-07-09T17:32
 alias: Làm tư vấn viên bảo hiểm ảo
 title: Làm đại lý bảo hiểm ảo
 ---
@@ -29,7 +29,7 @@ Công ty sẽ không dám ăn gian cục. Nếu bị phát hiện thì cả côn
 
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự|Nhóm chạy chỉ tiêu cho nhân sự]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
 
 ## Nơi thảo luận
 [Liên kết](https://discord.com/channels/898550123007709204/1255096567090643066/1255096567090643066)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-01T16:07
-updated: 2025-04-24T20:50
+updated: 2025-07-09T17:32
 ---
 - Trách nhân viên ko muốn bỏ tâm trí vào công việc, không cảm thấy có trách nhiệm cầm tay chỉ việc. Đòi hỏi nhân viên phải thay đổi tư duy, đừng đòi hỏi ở công ty
 - Chưa thấy một nhân viên nào có tư duy luồn lách mà vươn lên được

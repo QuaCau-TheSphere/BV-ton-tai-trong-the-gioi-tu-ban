@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-31T16:14
+updated: 2025-07-09T17:32
 ---
 Theo mình hiểu thì có những cách sau để lừa người ta lấy KYC mặt. Này là tự suy đoán thôi, chứ cũng chả biết độ hiệu quả là bao nhiêu  
 - Nuôi nhốt người 

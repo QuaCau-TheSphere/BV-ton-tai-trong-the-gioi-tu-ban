@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T16:53
-updated: 2024-09-16T00:13
+updated: 2025-07-09T17:32
 alias:
   - Vốn điều lệ là do thành viên góp vào
   - Vốn pháp định là do pháp luật quy định

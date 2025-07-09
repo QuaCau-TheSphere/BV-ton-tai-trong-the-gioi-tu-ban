@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-20T17:20
-updated: 2025-04-13T14:12
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[App đen, vay nóng]]
 Bởi vì các công ty này có lãi rẻ hơn, nên người dùng sẽ đăng ký trước. Lúc đăng ký thì phải khai báo thông tin người thân, bạn bè của mình, thậm chí còn đòi quyền truy cập danh bạ. Lúc đăng ký ở app đen, tuy không thấy nó đòi hỏi những điều đó, nhưng thông tin này vẫn có thể bị tuồn ra ngoài, để khi mình xù thì nó vẫn có thông tin.

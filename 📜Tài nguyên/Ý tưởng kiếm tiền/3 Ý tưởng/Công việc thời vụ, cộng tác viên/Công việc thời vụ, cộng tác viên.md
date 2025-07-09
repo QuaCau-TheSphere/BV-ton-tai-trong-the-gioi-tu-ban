@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-06-22T18:55
-alias: kiếm tiền nhanh, freelance, cộng tác viên, lương liền, bán thời gian, part-time, part time
-updated: 2025-05-30T11:17
+alias: các công việc kiếm tiền nhanh, freelance, các công việc cộng tác viên, lương liền, bán thời gian, part-time, part time
+updated: 2025-07-09T17:32
 ---
 # Các công việc kiếm tiền nhanh
 Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Đây là một phần của [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]
 
-## Công việc cho [[Chạy chỉ tiêu|Nhóm chạy chỉ tiêu]]
-Bài chi tiết:: [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự]]
+## Công việc cho [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu]]
+Bài chi tiết:: [[Giúp nhau kiếm tiền]]
 
 ###  [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall|Công việc trong GM Mall]]
 ```dataview
@@ -35,7 +35,7 @@ WHERE !contains(file.name, "VNPAY" )
 ```
 
 
-### Công việc [[làm nhân sự ảo]] khác
+### Công việc [[Làm nhân sự ảo]] khác
 - [[bảo hiểm|Làm đại lý bảo hiểm ảo]]
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|Làm nhân viên ảo FE Credit]]
 

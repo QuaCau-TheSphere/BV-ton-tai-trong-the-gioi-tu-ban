@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-28T13:28
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Để tôi lấy một ví dụ đơn giản. Ở HN có rất nhiều quán ăn, quán cafe gần như bất tử theo năm tháng. Họ cứ ở đấy mãi 5, 10, 20 năm, trong khi những quán khác rầm rộ một hai năm rồi chết. Đồ uống của họ thì dở, nhân viên của họ thì kênh kiệu, nhưng rồi họ vẫn cứ làm, và rồi họ vẫn có khách, vì tâm lý con người luôn bào chữa rằng “Mở lâu thế mà vẫn trụ được chắc phải ngon”. Những lúc thất bại trong kinh doanh, tôi đã nghiên cứu họ để tìm câu trả lời, và câu trả lời đơn giản tới mức nực cười: cái quán ấy mở trên đất nhà họ!

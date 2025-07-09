@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T17:18
-updated: 2025-04-14T17:20
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Tính đến ngày 31/12/2017, hệ thống tổ chức tín dụng có:

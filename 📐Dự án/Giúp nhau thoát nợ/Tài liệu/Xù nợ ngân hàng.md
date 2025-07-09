@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2025-04-20T23:23
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Nợ xấu]]
 

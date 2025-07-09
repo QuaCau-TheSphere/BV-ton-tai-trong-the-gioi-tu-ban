@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-11T15:09
+updated: 2025-07-09T17:32
 ---
 a sẽ ko vay được gì cao với cái cà vẹt xe cả, dù nó là chính chủ anh đi nữa, vì nó ko care đâu và khi a cầm đồ cavet xe ntn a có hiểu tại sao nó trả 2-3tr ko, vì nó sẽ dùng infor đó để bán infor reg acc
 

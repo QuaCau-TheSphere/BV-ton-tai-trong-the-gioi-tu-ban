@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T20:39
-updated: 2025-04-10T12:31
+updated: 2025-07-09T17:32
 ---
 Cathay dùng lịch 13 tháng, mỗi tháng có đúng 28 ngày. Do $28 * 13 = 364$, nên sẽ bị thiếu 1 ngày. Ngày đó Cathay quy định sẽ là ngày 1/1. Tức là ngày 2/1 sẽ là ngày 1/tlv1
 Thứ 5 là ngày đầu tháng, đến thứ 4 là cuối tuần

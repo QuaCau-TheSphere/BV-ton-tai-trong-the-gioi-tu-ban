@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-18T09:24
-updated: 2025-05-28T17:44
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Lừa đảo]], [[Luật]], [[Lách luật]]
 [[Lách luật là phạm luật một cách đúng luật]]

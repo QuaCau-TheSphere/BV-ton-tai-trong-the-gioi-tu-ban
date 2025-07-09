@@ -3,7 +3,7 @@ share: true
 created: 2024-10-09T21:14
 title: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-updated: 2025-04-25T21:46
+updated: 2025-07-09T17:32
 ---
 - Bọn mình đứng về người yếu thế
 - Bọn mình chỉ muốn nâng đỡ lý tính bạn
@@ -58,4 +58,4 @@ Nếu bạn mua combo thì bạn sẽ được:
 
 Các buổi này sẽ nói đến khi bạn muốn ngừng thì thôi. Nếu bạn không cần có thể chuyển quyền lợi này cho người khác.
 
-Bạn cũng có thể cân nhắc [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự|tham gia nhóm chạy chỉ tiêu cho nhân viên]]
+Bạn cũng có thể cân nhắc [[Giúp nhau kiếm tiền|tham gia nhóm chạy chỉ tiêu cho nhân viên]]

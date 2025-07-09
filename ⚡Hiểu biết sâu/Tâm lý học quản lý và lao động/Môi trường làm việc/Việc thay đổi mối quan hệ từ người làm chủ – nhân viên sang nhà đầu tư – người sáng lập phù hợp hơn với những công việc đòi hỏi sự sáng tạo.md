@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-28T13:04
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 [[Quản lý công việc và quản lý kiến thức không thể tách rời nhau]]

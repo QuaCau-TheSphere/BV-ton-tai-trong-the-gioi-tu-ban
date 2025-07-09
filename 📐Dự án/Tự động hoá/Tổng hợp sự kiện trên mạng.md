@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-21T17:51
-updated: 2025-04-28T21:49
+updated: 2025-07-09T17:32
 ---
 Hiện tại mình đang xây dựng một chương trình giúp người dùng xây dựng thương hiệu cá nhân trên mạng xã hội. Chương trình viết xong sẽ là phần mềm tự do và mã nguồn mở, dùng giấy phép AGPL. Mình muốn được học thêm kinh nghiệm của mọi người. 
 

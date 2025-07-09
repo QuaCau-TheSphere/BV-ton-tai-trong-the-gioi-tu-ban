@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4754e0ff06b0e3b",
+        "id": "2be5eafe9b7b67eb",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf5a8bfc8fddd63",
+            "id": "4403a06f17f2e4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Cứ gọi điện cho đến khi người ta ngại.md",
+                "file": "📐Dự án/Giúp nhau kiếm tiền/Làm sao để biết là việc giúp đang không bị lợi dụng.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cứ gọi điện cho đến khi người ta ngại"
-            }
-          },
-          {
-            "id": "63d3fc548b3f6f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác và vượt qua thiết kế trục lợi/Chặn rác và vượt qua thiết kế trục lợi.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chặn rác và vượt qua thiết kế trục lợi"
+              "title": "Làm sao để biết là việc giúp đang không bị lợi dụng"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ocb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,54 +180,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63d3fc548b3f6f9b",
+  "active": "4403a06f17f2e4aa",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Thiết kế thao túng.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Các cửa hàng drive-through để người đến lượt gọi bị áp lực phải gọi món nhanh để còn nhường chỗ cho người khác.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn..md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Cứ gọi điện cho đến khi người ta ngại.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Hạn sử dụng không chỉ là để tránh thực phẩm biến chất, mà còn có thể khiến cho người dùng mua hàng mới khi hàng cũ còn dùng được.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng/Người bán hàng giống như giao diện giọng nói của một cái máy hơn là một con người thật.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Trung thực/Khi hỏi là nói dối thế nào thì họ sẽ bí, nhưng không làm mất đi cảm giác là đã bị nói dối.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Chủ nghĩa tối giản tạo ra để chống chủ nghĩa tiêu thụ nhưng có vẻ chỉ có người trung lưu trở lên mới thực hiện..md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Đăng ký tài khoản.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo thời gian/Được chọn thời gian làm trong ngày.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Theo thời gian/Lịch không phải lúc nào cũng biết trước được.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Hướng dẫn thao tác dùng máy để tạo tài khoản hàng loạt.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhau kiếm tiền.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Làm sao để biết là việc giúp đang không bị lợi dụng.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Phiếu đăng ký nhận việc.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/Nghe cuộc gọi xác nhận giao hàng.md",
+    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/3 Ý tưởng kiếm tiền.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/GM Mall.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Nhân sự nhóm.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Chạy chỉ tiêu cho nhân viên công ty/Chơi chính sách/Vấn đề rủi ro.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn khuyến mãi, giảm giá/Đăng ký tài khoản hàng loạt.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Chạy chỉ tiêu cho nhân viên công ty/Làm thật",
+    "📐Dự án/Giúp nhau kiếm tiền/Chạy chỉ tiêu cho nhân viên công ty",
     "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Công việc thời vụ, cộng tác viên.md",
-    "📐Dự án/Chạy chỉ tiêu/Chạy chỉ tiêu.md",
-    "📐Dự án/Chạy chỉ tiêu/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Cần máy tính.md",
-    "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Ngân hàng/4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân.md",
-    "Ξ Thiết lập/Inbox.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay nóng/App đen/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Các dịch vụ cho vay tín chấp.md",
-    "Ξ Thiết lập/Gõ tắt.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1. Tính chất công việc/Không tiếp xúc với con người.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Chạy sự kiện, guider, chụp ảnh, hướng dẫn viên du lịch.md",
+    "📜Tài nguyên/Quà tặng/Bao nuôi/Bao nuôi.md",
+    "📐Dự án/Giúp nhau thoát nợ/Mạng lưới cho vay chéo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Nhóm chạy chỉ tiêu.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Chạy chỉ tiêu cho nhân viên công ty/Chơi chính sách/Chơi chính sách.md",
+    "📐Dự án/Đối thoại với tư bản/Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Nhân viên trong công ty.md",
+    "📜Tài nguyên/Vì người yếu thế/Vì người lao động/Review công ty.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Chạy chỉ tiêu cho nhân viên công ty/Chơi chính sách/Làm nhân sự ảo/Làm nhân sự ảo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn khuyến mãi, giảm giá/Đăng ký tài khoản hàng loạt.sync-conflict-20250709-133304-KEIORUM.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn khuyến mãi, giảm giá/~syncthing~Đăng ký tài khoản hàng loạt.sync-conflict-20250709-133304-KEIORUM.md.tmp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn khuyến mãi, giảm giá/~syncthing~Đăng ký tài khoản hàng loạt.md.tmp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn khuyến mãi, giảm giá/Săn điểm thưởng cho hoạt động tích cực.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn khuyến mãi, giảm giá/MMO.md",
+    "📜Tài nguyên/Tài nguyên chạy ảo/Cơ chế truyền otp.md",
+    "📐Dự án/Tạo thu nhập thụ động/Gom tài nguyên.md",
+    "📜Tài nguyên/Tài nguyên chạy ảo/Điện thoại/Điện thoại.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/New folder",
     "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Đăng ký tài khoản.md.tmp",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/~syncthing~Inbox.md.tmp",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Nếu muốn vay bằng bảo hiểm nhân thọ thì cần có cả giấy phép kinh doanh.md",
-    "📐Dự án/Chạy chỉ tiêu/Chơi chính sách/Làm nhân sự ảo/Danh sách nhân viên.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Đăng ký tài khoản.sync-conflict-20250708-132007-7AKM7QB.md.tmp",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250707205013.png",
+    "Ξ Thiết lập/~syncthing~Inbox.md.tmp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ",
     "Ξ Thiết lập/Ảnh/Điểm tín dụng của Nhật.png",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Các dịch vụ cho vay tín chấp.sync-conflict-20250704-114025-7AKM7QB.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/~syncthing~Các dịch vụ cho vay tín chấp.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/~syncthing~Quỹ tín dụng vi mô Quả Cầu.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/~syncthing~Cho ngân hàng, công ty tài chính.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/Cho ngân hàng, công ty tài chính.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Thoả mãn sự trợ giúp.md.tmp",
     "Ξ Thiết lập/Ảnh/Screenshot_20250703_162651.jpg",
-    "Ξ Thiết lập/Ảnh/~syncthing~Screenshot_20250703_162651.jpg.tmp",
     "Ξ Thiết lập/Ảnh/Screenshot_20250703_162640.jpg",
-    "Ξ Thiết lập/Ảnh/~syncthing~Screenshot_20250703_162640.jpg.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật",
     "Ξ Thiết lập/Ảnh/Pasted image 20250703094050.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250703093815.png",
     "Ξ Thiết lập/Ảnh/CCCD mặt trước.jpg",
     "Ξ Thiết lập/Ảnh/CCCD mặt sau.jpg",
     "Ξ Thiết lập/Ảnh/CCCD QR.jpg",
     "Ξ Thiết lập/Ảnh/t2mg4ncI.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250703001220.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

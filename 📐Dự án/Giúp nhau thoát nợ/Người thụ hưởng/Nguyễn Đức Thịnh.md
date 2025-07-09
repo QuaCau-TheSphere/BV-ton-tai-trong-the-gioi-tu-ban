@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2025-07-03T00:13
+updated: 2025-07-09T17:32
 ---
 ## Đề xuất vay
 Phương án tối ưu:

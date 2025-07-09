@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-26T14:54
-updated: 2025-06-23T19:53
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Nó giống như Temu. [Temu và khả năng nhân rộng mô hình thương mại điện tử của Pinduoduo - Tạp chí Kinh tế Sài Gòn](https://thesaigontimes.vn/temu-va-kha-nang-nhan-rong-mo-hinh-thuong-mai-dien-tu-cua-pinduoduo/)

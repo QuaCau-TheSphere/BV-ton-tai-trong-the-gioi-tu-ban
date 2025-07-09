@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T21:00
-updated: 2025-05-19T16:16
+updated: 2025-07-09T17:32
 title: Chính sách nhân viên GM Mall
 ---
 Nhân viên ăn lương từ hai đầu:

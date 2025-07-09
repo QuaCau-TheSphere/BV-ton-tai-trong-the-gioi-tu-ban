@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-11T15:20
+updated: 2025-07-09T17:32
 ---
 Via là viết tắt của *verified information account*. Nó phải có nhiều tương tác, đăng ký thông tin chính chủ. Cách phổ biến để có via là đánh cắp tài khoản của người khác (hack nick), hoặc nuôi tương tác cho các tài khoản ảo
 

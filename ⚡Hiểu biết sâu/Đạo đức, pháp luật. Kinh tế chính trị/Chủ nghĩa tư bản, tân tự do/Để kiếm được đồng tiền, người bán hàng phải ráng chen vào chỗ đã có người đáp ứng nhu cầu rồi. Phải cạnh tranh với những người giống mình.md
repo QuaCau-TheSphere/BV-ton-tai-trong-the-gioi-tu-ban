@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-05T15:15
-updated: 2025-04-24T15:04
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Bán hàng]], [[Cạnh tranh]], [[Kiếm tiền]]
 

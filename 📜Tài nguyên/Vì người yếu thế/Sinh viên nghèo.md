@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-26T19:42
+updated: 2025-07-09T17:32
 alias: Học bổng cho sinh viên nghèo
 ---
 [Scholarship for Vietnamese students](https://www.facebook.com/ScholarshipforVietnameseStudents)

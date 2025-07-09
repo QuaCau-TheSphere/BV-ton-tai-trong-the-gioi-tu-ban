@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-02-04T16:40
+updated: 2025-07-09T17:32
 ---
 # How large is the market of text data entry classification/annotation? And how do data entry outsourcing companies work?
 In my understanding, structuring unstructured data is a necessary activity in our life. For example, if you want to have a financial report of what you buy this month, you first need to write down your transaction, like `fish 50k`. This is raw, unstructured data. Then at the end of the month you need to label/annotate/classify the data like this:

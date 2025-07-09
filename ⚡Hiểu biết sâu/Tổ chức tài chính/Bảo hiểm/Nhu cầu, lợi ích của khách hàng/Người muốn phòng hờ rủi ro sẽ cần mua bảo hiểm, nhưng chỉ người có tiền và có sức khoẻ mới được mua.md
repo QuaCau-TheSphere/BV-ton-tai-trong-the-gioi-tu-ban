@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T09:07
-updated: 2025-03-28T16:54
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 thấy mình có trách nhiệm và có khả năng mất trách nhiệm

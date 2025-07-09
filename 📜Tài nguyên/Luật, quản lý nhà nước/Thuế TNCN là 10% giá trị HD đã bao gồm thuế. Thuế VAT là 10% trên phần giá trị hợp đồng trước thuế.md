@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-16T21:39
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Thuế TNCN khác hoàn toàn so với Thuế VAT. Để dễ hiểu thì có thể giải thích như sau:

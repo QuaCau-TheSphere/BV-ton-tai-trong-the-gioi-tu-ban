@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-18T13:20
+updated: 2025-07-09T17:32
 ---
 - Việc phải có một báo cáo chi tiết là quan trọng không thể bỏ qua
 - Việc phải phân loại dữ liệu thủ công lấy đi thời gian để làm những việc ở cấp độ cao hơn như lập kế hoạch, sáng tạo nội dung

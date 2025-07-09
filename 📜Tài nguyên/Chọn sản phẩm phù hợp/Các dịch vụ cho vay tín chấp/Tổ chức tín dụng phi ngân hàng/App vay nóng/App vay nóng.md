@@ -2,7 +2,7 @@
 share: true
 created: 2024-08-13T17:19
 description: không cần điểm tín dụng
-updated: 2025-04-15T00:25
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[App đen, vay nóng]]
 

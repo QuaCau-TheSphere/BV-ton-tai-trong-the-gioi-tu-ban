@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-29T15:46
+updated: 2025-07-09T17:14
 ---
 Khái niệm:: [[Lương]]
 [[Lương khoán cũng giống trả tiền công cho cộng tác viên, nhưng phải đạt một mức độ chỉ tiêu thì mới được nhận, dưới mức đó thì không nhận được gì]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-01T16:54
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 [https://www.gsmarena.com/redmi_buds_7s_announced_-news-67293.php](https://www.gsmarena.com/redmi_buds_7s_announced_-news-67293.php)

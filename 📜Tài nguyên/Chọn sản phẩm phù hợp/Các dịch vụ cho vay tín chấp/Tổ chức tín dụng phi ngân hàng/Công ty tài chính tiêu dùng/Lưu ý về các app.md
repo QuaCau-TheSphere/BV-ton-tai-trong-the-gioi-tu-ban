@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-16T21:17
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 Home Credit bắt phải có 2 trong các giấy tờ bổ sung sau:

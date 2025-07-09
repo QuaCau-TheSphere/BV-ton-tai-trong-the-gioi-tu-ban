@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-25T12:23
-updated: 2025-02-05T10:15
+updated: 2025-07-09T17:32
 ---
 [[Người mới chưa thành công là vì họ còn thiếu tự tin mà thôi]]
 Nhưng cái đó có đem lại lợi ích lâu dài cho họ hay không? 

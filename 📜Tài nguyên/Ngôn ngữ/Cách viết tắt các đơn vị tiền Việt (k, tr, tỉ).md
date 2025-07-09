@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-21T22:15
-updated: 2025-04-20T15:58
+updated: 2025-07-09T17:32
 alias: 5tr hay 5 tr? Viết dính hay viết rời?
 description: 5tr hay 5 tr? Viết dính hay viết rời?
 ---

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-01T20:33
-updated: 2025-01-22T17:05
+updated: 2025-07-09T17:32
 ---
 
 tiền này sẽ có khoản để duy trì hệ thống và để quỹ tiếp tục làm sản phẩm và chi phí mkt

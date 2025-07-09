@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-18T20:50
-updated: 2024-11-17T21:51
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 Tai nạn gây tử vong chủ yếu xảy ra tại và xung quanh các giao lộ. Giao lộ là nơi mà giao thông không chỉ lưu thông theo hướng bắc nam mà còn theo cả hướng đông tây. Hơn nữa, các phương tiện và người đi bộ cùng tham gia và đi cùng các phương tiện giao thông khác tại các giao lộ.

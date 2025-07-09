@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-22T19:50
+updated: 2025-07-09T17:32
 ---
 [[Xây dựng thương hiệu tự động trên MXH]]
 [[Mở rộng mối quan hệ]]
@@ -38,7 +38,7 @@ Còn không thì chắc gọi là chỉ thấy cây mà không thấy rừng. Vi
 - Tự động hoá những thứ nhiều người quan tâm
 - Tham gia xây dựng [[Mạng kết nối nhu cầu]]
 
-Để tự bảo vệ bản thân, hãy đọc bài [[Chặn rác và vượt qua thiết kế trục lợi]]. Nhưng có lẽ hay hơn cả, là đừng xem họ là kẻ thù, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Cùng thảo luận với họ về [[3 Ý tưởng|các ý tưởng kiếm tiền]], giúp họ [[chạy chỉ tiêu|Nhóm chạy chỉ tiêu]], [[Tạo thu nhập thụ động]], [[mở rộng mối quan hệ]], [[chọn sản phẩm phù hợp]], [[xây dựng công đoàn]]. Như vậy họ sẽ không thấy mình đang trục lợi họ, mà chỉ muốn nâng đỡ họ. Họ sẽ không có lý do để xù mình.
+Để tự bảo vệ bản thân, hãy đọc bài [[Chặn rác và vượt qua thiết kế trục lợi]]. Nhưng có lẽ hay hơn cả, là đừng xem họ là kẻ thù, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Cùng thảo luận với họ về [[3 Ý tưởng|các ý tưởng kiếm tiền]], giúp họ [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu]], [[Tạo thu nhập thụ động]], [[mở rộng mối quan hệ]], [[chọn sản phẩm phù hợp]], [[xây dựng công đoàn]]. Như vậy họ sẽ không thấy mình đang trục lợi họ, mà chỉ muốn nâng đỡ họ. Họ sẽ không có lý do để xù mình.
 
 Xem thêm:: [[Vấn đề đạo đức|Vấn đề đạo đức khi làm ảo]]
 [[Lượng năng lượng cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt|Nguyên lý bất đối xứng nhảm cứt: "Lượng năng lượng cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt"]]

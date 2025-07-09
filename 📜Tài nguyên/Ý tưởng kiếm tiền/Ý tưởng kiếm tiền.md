@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:54
-updated: 2025-05-13T22:59
+updated: 2025-07-09T17:32
 description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các ý tưởng kiếm tiền

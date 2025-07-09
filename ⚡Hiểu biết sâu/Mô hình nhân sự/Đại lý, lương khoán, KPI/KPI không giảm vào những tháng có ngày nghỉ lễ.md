@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-04-29T10:55
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: [[KPI, doanh số, chỉ tiêu]]
 [[Quản lý ép chỉ tiêu cả chủ nhật]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-16T00:05
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Động lực]]
 [[Sự hứng thú tạo ra sự tập trung]]. [[Sự tập trung đòi hỏi người khác phải lo cho những nhu cầu khác của mình]] 

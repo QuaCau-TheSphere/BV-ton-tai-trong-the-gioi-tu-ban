@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-12T10:23
-updated: 2025-03-21T15:09
+updated: 2025-07-09T17:32
 ---
 Quà cho KH mà TVV không phải trả tiền
 - Hiệu ứng đám đông cho khách

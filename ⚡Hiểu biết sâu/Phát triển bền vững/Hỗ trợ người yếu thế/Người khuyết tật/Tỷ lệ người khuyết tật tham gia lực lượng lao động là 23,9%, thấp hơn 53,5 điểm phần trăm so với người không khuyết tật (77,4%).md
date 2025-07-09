@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T12:38
-updated: 2024-11-13T18:29
+updated: 2025-07-09T17:32
 filename: Tỷ lệ người khuyết tật tham gia lực lượng lao động là 23,9％, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4％)
 ---
 Khái niệm:: 

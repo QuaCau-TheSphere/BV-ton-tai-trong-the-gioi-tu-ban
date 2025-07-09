@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-11T16:26
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Theo Thông tư 67/2023/TT-BTC có hiệu lực từ ngày ký (2/11/2023), tỷ lệ phí của các sản phẩm liên kết đầu tư trong năm đầu không được vượt quá 50% phí bảo hiểm theo năm, năm thứ 2 không được vượt quá 30%, từ năm thứ 3 đến năm thứ 5 không được vượt quá 20%… Ngoài ra, đối với sản phẩm bảo hiểm hưu trí, phí năm đầu được quy định không vượt quá 5% tổng phí bảo hiểm thu được trong năm tài chính. Phí năm đầu đối với phần phí bảo hiểm đóng thêm không vượt quá 1,5% phí bảo hiểm đóng thêm của từng năm hợp đồng và trong 10 năm đầu của hợp đồng bảo hiểm. Như vậy, theo quy định mới, người tham gia bảo hiểm sẽ không bị khấu trừ phí những năm đầu quá cao như trước, tức là có lợi cho bên mua.

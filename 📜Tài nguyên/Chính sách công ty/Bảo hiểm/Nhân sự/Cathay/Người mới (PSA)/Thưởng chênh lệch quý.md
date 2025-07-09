@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-28T20:51
-updated: 2025-03-28T20:51
+updated: 2025-07-09T17:32
 ---
 Thưởng chênh lệch quý: Giá trị lớn hơn giữa 0 và [(Thưởng thành tích dành cho người mới tính bằng PFYC trung bình 3 TLV trong quý) *3 – (Tổng Thưởng thành tích dành cho người mới đã nhận của từng TLV trong quý)]
 

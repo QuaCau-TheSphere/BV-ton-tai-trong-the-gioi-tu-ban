@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-15T13:59
-updated: 2025-05-19T18:28
+updated: 2025-07-09T17:32
 title: Nhóm chạy chỉ tiêu cho nhân viên VNPAY
 alias: Công việc trong VNPAY
 ---
@@ -9,7 +9,7 @@ Tính chất công việc:: [[Làm trực tuyến]], [[Cần khả năng ứng b
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân sự|Nhóm chạy chỉ tiêu cho nhân sự]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
 
 ```dataview
 table số-tiền-kiếm-được as "Số tiền kiếm được" , mô-tả-công-việc as "Mô tả công việc" 

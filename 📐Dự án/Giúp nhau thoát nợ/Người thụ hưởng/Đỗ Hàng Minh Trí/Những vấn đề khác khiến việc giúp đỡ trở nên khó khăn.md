@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-11T18:52
-updated: 2025-05-19T18:18
+updated: 2025-07-09T17:32
 ---
 ## Liên quan đến chuyện tiền bạc
 - Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn

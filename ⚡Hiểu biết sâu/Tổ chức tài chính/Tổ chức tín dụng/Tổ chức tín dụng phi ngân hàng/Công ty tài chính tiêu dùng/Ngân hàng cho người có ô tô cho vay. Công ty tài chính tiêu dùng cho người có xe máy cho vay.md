@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T14:44
-updated: 2025-07-03T16:56
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 [[Muốn vay tín chấp thì ngân hàng đòi hỏi phải sử dụng tài khoản nhiều. Công ty tài chính tiêu dùng thì chỉ cần CCCD]]

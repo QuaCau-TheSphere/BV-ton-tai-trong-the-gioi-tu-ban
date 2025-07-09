@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-16T09:34
-updated: 2024-09-01T17:27
+updated: 2025-07-09T17:32
 alias: Luật doanh nghiệp VN
 ---
 Tài sản: có 3 cách chính:

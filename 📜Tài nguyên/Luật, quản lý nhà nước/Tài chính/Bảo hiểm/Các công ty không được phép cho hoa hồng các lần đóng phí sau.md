@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T10:23
-updated: 2025-05-12T01:20
+updated: 2025-07-09T17:32
 ---
 Xử phạt đối với hành vi vi phạm hoa hồng bảo hiểm được quy định tại Khoản 4, 5 và Khoản 6 Điều 18 Nghị định 98/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực kinh doanh bảo hiểm, kinh doanh xổ số như sau:
 

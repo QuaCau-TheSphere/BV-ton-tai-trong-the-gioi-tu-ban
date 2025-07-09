@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-01T22:58
-updated: 2025-04-29T10:59
+updated: 2025-07-09T17:14
 alias: Các hình thức trả tiền cho lao động
 ---
 Khái niệm:: [[Lương]]

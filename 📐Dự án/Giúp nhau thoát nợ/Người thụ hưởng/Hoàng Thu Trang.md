@@ -1,6 +1,6 @@
 ---
 created: 2025-01-10T15:13
-updated: 2025-04-04T19:43
+updated: 2025-07-09T17:32
 ---
 Dạ em bị lừa giả danh công an yêu cầu phối hợp điều tra một vụ rửa tiền
 Do em mới nghe đến hình thức giả danh công an yêu cầu nộp phạt hoặc cái khác thôi, chưa nghe đến vụ án như này, nên em mới bị lừa ạ

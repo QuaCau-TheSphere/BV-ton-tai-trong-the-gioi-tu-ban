@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-26T14:06
-updated: 2025-04-14T15:50
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Điểm tín dụng, CIC]]
 

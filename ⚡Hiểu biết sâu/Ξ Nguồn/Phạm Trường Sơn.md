@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-07-03T16:50
+updated: 2025-07-09T17:32
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]

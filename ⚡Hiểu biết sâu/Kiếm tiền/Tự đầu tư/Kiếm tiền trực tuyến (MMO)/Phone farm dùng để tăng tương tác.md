@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2025-05-11T15:23
+updated: 2025-07-09T17:32
 created: 2024-08-02T00:59
 ---
 ![The INSANE Evolution of Click Farms - YouTube](https://youtu.be/-CoEHDHb0lE?si=cwWOC-8Pks01AYUW)

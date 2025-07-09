@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-08T00:37
-updated: 2025-05-08T14:27
+updated: 2025-07-09T17:32
 alias:
   - Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng
 ---

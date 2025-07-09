@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-17T21:57
-updated: 2025-04-29T14:57
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[KPI, doanh số, chỉ tiêu]]
 Lý do:: [[T7, cn không phải là ngày nghỉ, mà là ngày đại lý có thời gian thực sự đi làm, hoặc tham gia OPP]]

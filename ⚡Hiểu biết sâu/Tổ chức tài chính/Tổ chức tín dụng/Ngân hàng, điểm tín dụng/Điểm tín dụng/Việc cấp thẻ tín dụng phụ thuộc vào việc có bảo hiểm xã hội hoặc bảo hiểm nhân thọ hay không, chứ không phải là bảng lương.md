@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T16:28
-updated: 2025-01-11T12:43
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Nếu là bảo hiểm nhân thọ thì phải là bên mua bảo hiểm chứ không phải là người dược bảo hiểm hoặc người thụ hưởng.

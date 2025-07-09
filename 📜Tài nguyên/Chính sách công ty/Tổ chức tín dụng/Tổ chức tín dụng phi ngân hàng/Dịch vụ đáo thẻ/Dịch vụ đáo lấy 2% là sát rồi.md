@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2025-04-20T18:19
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Đáo]]
 Thực chất khi làm đáo là sự hợp tác của 3 bên:

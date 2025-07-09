@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-21T16:34
-updated: 2025-03-28T16:33
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Lý do:: [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-12T10:28
-updated: 2025-04-14T12:51
+updated: 2025-07-09T17:32
 ---
 - Không đổi thời hạn đóng phí, thời hạn bảo hiểm từ dài sang ngắn được: AUVL01, AUVL02, AUVL03, CUVL01
 - Không được thay đổi thời hạn bảo hiểm, thời hạn đóng phí: AUVL05, AUVL06, NP02

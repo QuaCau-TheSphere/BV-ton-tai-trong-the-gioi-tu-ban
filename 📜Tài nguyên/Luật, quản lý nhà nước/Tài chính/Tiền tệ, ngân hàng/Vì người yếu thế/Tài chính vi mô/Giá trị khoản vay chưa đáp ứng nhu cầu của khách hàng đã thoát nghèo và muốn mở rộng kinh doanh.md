@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T01:09
-updated: 2025-05-08T14:27
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Về dịch vụ tín dụng, Khoản 1 và Khoản 2 Điều 128 Luật TCTD 2010, giới hạn cấp tín dụng được cụ thể hóa riêng cho TCTCVM chính thức tại 

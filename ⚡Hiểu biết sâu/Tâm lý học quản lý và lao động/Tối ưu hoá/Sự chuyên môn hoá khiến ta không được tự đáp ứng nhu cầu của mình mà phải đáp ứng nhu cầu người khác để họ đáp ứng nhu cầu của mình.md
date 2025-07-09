@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2025-07-09T17:14
 ---
 Khái niệm:: 
 Ví dụ, khi đói ta không thể tự trồng rau để ăn, mà phải đi làm để có tiền để mua rau của người khác

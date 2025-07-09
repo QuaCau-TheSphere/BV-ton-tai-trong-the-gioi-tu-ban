@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2024-11-17T21:51
+updated: 2025-07-09T17:17
 alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm, tại sao không mua
 ---
 ## Không cần

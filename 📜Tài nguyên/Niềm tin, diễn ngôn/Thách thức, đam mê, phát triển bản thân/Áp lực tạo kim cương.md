@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-16T21:10
-updated: 2025-05-30T13:37
+updated: 2025-07-09T17:32
 ---
 Tiêu chí của việc chọn đồ ăn là ngon, bổ, rẻ. Tuy nhiên không có thứ nào có được cả 3, mà ta thường chỉ chọn được 2. Trong trường hợp tạo ra sản phẩm thì ngon, bổ, rẻ sẽ là:
 - tiết kiệm thời gian,

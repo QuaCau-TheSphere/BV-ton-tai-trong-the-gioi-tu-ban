@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T21:24
-updated: 2025-03-23T17:19
+updated: 2025-07-09T17:32
 ---
 Mỗi sáng t2 đến t6:
 - 8h30 – 11h: tập thể dục buổi sáng, cập nhật các chính sách công ty, tuyên dương người có hợp đồng mới, nhắc nhở người chưa đạt chỉ tiêu, ghi nhật ký hoạt động

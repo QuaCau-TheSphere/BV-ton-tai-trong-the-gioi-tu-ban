@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-03T16:50
+updated: 2025-07-09T17:32
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 

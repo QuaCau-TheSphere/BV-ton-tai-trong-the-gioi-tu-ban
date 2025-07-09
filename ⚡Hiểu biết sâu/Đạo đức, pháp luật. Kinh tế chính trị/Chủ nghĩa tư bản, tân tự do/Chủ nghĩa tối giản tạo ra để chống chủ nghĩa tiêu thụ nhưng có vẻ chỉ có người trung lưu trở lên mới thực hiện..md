@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-26T11:40
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 Có 1 nghịch lý là chủ nghĩa tối giản tạo ra để chống chủ nghĩa tiêu thụ nhưng có vẻ chỉ có người trung lưu trở lên mới thực hiện.

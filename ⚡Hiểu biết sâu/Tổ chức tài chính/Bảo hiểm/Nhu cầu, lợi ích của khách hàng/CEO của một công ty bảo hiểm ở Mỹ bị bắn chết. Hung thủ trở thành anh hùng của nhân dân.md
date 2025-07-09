@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-18
-updated: 2025-03-28T16:54
+updated: 2025-07-09T17:32
 published: 2024-12-27
 description: TTCT - Nạn nhân bị bắn chết giữa phố thì không được thương tiếc, trong khi tay súng tình nghi trở thành người hùng trong dân gian. Những phi lý trong vụ sát hại CEO hãng bảo hiểm UnitedHealthcare Brian Thompson vẫn chưa dừng lại.
 ---

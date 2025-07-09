@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-28T17:49
+updated: 2025-07-09T17:32
 title: 'Nguyên lý bất đối xứng nhảm cứt: "Lượng năng lượng cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt"'
 ---
 Khái niệm:: 

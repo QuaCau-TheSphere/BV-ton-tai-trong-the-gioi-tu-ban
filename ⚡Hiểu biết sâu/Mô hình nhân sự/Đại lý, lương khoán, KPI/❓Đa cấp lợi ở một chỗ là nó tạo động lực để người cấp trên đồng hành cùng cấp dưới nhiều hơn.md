@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:24
-updated: 2025-04-03T16:05
+updated: 2025-07-09T17:14
 ---
 Trong các công ty theo chính sách nhân viên thông thường đi thì quản lý trực tiếp chỉ có nhiệm vụ hướng dẫn ban đầu, xong thường không còn động lực theo sát nữa, mà chủ yếu là làm trung gian với các cấp cao hơn. Có nơi quản lý cũng không thực sự giỏi đi thị trường. Đồng nghiệp thì có khi lại giấu bài.
 

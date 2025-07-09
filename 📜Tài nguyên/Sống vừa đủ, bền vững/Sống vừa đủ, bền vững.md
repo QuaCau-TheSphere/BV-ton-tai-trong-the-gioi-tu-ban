@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-26T10:46
+updated: 2025-07-09T17:32
 ---
 - [Vcil Community \| Vcil Community](https://www.vcil.community/vi/about)
 - [Live With A Lower Impact](https://www.reddit.com/r/ZeroWaste)  

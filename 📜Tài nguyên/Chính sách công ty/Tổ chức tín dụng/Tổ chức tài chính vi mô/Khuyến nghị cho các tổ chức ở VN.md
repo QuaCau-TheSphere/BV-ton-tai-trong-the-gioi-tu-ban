@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T21:09
-updated: 2025-04-20T19:00
+updated: 2025-07-09T17:32
 title: Khuyến nghị cho các tổ chức tài chính vi mô ở VN
 ---
 Khái niệm:: [[Tài chính vi mô]]

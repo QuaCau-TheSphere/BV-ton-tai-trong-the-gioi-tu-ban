@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-10T19:02
+updated: 2025-07-09T17:32
 title: "Social engineering: Tâm lý học và cách thức tấn công"
 ---
 Khái niệm:: [[Tội phạm mạng]]

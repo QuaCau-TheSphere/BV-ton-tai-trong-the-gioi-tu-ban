@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-24T17:33
-updated: 2025-03-23T22:04
+updated: 2025-07-09T17:17
 ---
 Khái niệm:: 
 [[Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu khách hàng]]

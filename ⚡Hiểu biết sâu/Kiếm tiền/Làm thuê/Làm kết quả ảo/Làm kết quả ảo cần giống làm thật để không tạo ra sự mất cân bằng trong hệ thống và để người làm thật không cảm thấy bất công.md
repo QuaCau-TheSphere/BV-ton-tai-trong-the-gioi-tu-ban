@@ -1,5 +1,7 @@
 ---
 share: true
+created: 2025-05-22T12:23
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 Với vấn đề vẫn là tại sao lại có vấn đề, khi mà số liệu của mình vẫn trông như thật?

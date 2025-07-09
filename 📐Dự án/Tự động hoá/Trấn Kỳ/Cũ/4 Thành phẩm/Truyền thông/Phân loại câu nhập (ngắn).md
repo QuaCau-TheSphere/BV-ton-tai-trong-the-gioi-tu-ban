@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-18T13:20
+updated: 2025-07-09T17:32
 ---
 F%20G%20%C2%BB%20J2TEAM%20Community%20%C2%BB%20ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20h%C3%A0ng
 # [Phân loại câu nhập bằng tiếng Việt tự nhiên](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=F%20G%20%C2%BB%20J2TEAM%20Community%20%C2%BB%20ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91%C6%A1n%20h%C3%A0ng&utm_medium=chat&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3&utm_content=%C4%91%C4%83ng+l%E1%BA%A7n+1%2C+v%E1%BB%8B+tr%C3%AD+ti%C3%AAu+%C4%91%E1%BB%81%2C+%E1%BA%A3nh+m%C3%A1y+ph%C3%A2n+lo%E1%BA%A1i+ti%E1%BB%81n) 

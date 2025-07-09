@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-22T12:57
-updated: 2024-07-27T18:33
+updated: 2025-07-09T17:32
 ---
 Lý do:: [[Sau khi nhu cầu được giải quyết xong ta sẽ nghĩ ngay tới việc giải quyết vấn đề tiếp theo]]. [[Việc giúp đỡ người đã giúp mình không đủ khẩn cấp hoặc nhiều cảm hứng bằng việc giải quyết vấn đề tiếp theo, hoặc đủ cảm hứng bằng việc cải tiến giải pháp hiện có]]. [[Sự hợp tác xã hội của ta hướng đến việc chia việc để cùng tạo ra sản phẩm chung, chứ không phải ở việc giúp đỡ qua lại]]
 

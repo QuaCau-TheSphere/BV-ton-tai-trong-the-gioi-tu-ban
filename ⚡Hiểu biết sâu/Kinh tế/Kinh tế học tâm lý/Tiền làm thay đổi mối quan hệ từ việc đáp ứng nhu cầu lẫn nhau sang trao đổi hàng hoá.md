@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 [[Tiền có nhiệm vụ làm trung gian cho việc trao đổi nhu cầu]], [[Tiền đơn giản hoá quá trình đáp ứng nhu cầu]]

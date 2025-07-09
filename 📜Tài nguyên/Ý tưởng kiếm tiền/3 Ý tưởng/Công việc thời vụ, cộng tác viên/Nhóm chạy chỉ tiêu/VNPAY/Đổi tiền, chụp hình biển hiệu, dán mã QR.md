@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T22:13
+updated: 2025-07-09T17:32
 description: Thù lao 250k/4h
 ---
 Tính chất công việc:: [[Làm ngoài đường]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
-Cùng với [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|Làm nhân viên ảo VNPAY]] và [[Viết hợp đồng, thu thập thông tin khách hàng tiềm năng]], các công việc ở đây là một phần của [[Chạy chỉ tiêu|nhóm chạy chỉ tiêu (KPI) cho nhân sự]].
+Cùng với [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|Làm nhân viên ảo VNPAY]] và [[Viết hợp đồng, thu thập thông tin khách hàng tiềm năng]], các công việc ở đây là một phần của [[Nhóm chạy chỉ tiêu|nhóm chạy chỉ tiêu (KPI) cho nhân sự]].
 
 - **Thù lao:** 250k/4h
 

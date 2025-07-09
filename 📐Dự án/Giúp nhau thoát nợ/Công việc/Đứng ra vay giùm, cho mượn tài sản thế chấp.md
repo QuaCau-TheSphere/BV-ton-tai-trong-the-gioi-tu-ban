@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-06-16T20:30
+updated: 2025-07-09T17:32
 ---
 
 Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau
@@ -15,7 +15,7 @@ Rủi ro với người được cho vay giùm:
 
 Công việc: GM Mallb
 
-
+[[Ngân hàng làm mọi cách để mình không đưa app cho người khác]]. 
 Có một tình huống thế này: có một anh kia có cha mẹ cần vay tiền sửa nhà. Cha mẹ có nguồn tiền để trả nợ, nhưng lại nằm ngoài độ tuổi được vay. Anh đứng ra vay giùm, lấy nhà của cha mẹ làm tài sản thế chấp. Tuy nhiên nguồn tiền của cha mẹ có vấn đề, thành ra anh này phải è cổ ra gánh. Ảnh dễ 
 
 Khi chủ thể đứng vay và chủ tài sản đảm bảo là khác nhau, thì khi có trục trặc gì sẽ có người thấy mình không có làm gì sai:

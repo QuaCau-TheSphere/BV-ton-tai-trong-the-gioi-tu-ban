@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-06T11:56
-updated: 2025-05-06T02:04
+updated: 2025-07-09T17:32
 ---
 [DRD Việt Nam - Trung tâm Nghiên cứu và Phát triển Năng lực Người khuyết tật](https://www.drdvietnam.org/vi/accessibility/bai-viet/11233-cam-nang-cho-nguoi-khuyet-tat.html)
 - Các trường giáo dục người khuyết tật, giáo dục nghề nghiệp hoà nhập

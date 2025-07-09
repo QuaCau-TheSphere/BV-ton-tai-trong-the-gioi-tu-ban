@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T16:36
-updated: 2024-09-18T14:26
+updated: 2025-07-09T17:17
 alias:
   - Khoán: Khách hàng ấn định ngay số tiền sẽ được hưởng ngay khi ký kết hợp đồng
 ---

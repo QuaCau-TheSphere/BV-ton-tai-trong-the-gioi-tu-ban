@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-09T15:39
+updated: 2025-07-09T17:32
 alias: Ghi chú về các app ngân hàng
 ---
 - **Bắc Á:** bắt gửi pass về mail

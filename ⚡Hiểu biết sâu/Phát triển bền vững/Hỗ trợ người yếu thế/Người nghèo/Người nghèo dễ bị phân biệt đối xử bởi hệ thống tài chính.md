@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-05-27T16:44
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Người nghèo]]
 “Chúng ta có thể là một xã hội không dùng tiền mặt trong tương lai, nhưng ngày nay, vẫn còn rất nhiều người không thể thanh toán theo phương thức kỹ thuật số bởi vì họ không có tài khoản ngân hàng, không có thẻ tín dụng, thẻ ghi nợ hoặc điện thoại thông minh,” Rebell nói. Những người này được gọi là “người không có tài khoản ngân hàng,” có nghĩa là họ không tiếp cận được các sản phẩm ngân hàng với giá cả phải chăng và thay vào đó phải dựa vào các dịch vụ phụ, như thanh toán bằng séc và vay ngày với lãi suất cao.

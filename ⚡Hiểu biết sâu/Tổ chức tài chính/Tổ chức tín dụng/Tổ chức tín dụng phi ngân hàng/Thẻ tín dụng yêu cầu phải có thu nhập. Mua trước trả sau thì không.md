@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T13:34
-updated: 2025-05-11T01:49
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: [[Thẻ tín dụng]], [[Mua trước trả sau]], [[Thu nhập]]
 [[❓Mua trước trả sau, ví trả sau, thấu chi là những cái tên cho cùng một thứ]]

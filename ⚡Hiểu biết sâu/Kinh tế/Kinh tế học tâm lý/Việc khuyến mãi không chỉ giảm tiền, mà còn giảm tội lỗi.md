@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-24T21:52
-updated: 2025-04-24T21:55
+updated: 2025-07-09T17:32
 ---
 Có một cảm giác rất lạ trong hành vi tiêu dùng hiện đại: cảm giác mình cần được “thuyết phục để tự cho phép.” Ngày xưa, bạn đói thì bạn ăn. Nay, bạn đói, rồi bạn mở app, rồi bạn lướt qua hàng chục món, rồi bạn bấm chọn – rồi lại thôi. Không phải vì bạn không muốn ăn. Mà vì bạn chưa thấy mình đủ lý do chính đáng để bấm đặt.
 

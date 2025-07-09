@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-06-25T11:51
+updated: 2025-07-09T17:32
 ---
 Khái niệm:: 
 Ngày 18/01/2024, Quốc hội đã chính thức thông qua Luật các Tổ chức tín dụng (Luật các TCTD) sửa đổi. Luật chính thức có hiệu lực từ ngày 01/07/2024, ngoại trừ một số điều khoản sẽ có hiệu lực từ 01/01/2025. Trong đó bổ sung thêm quy định các cổ đông sở hữu từ 01% Vốn điều lệ của TCTD phải cung cấp thông tin, đồng thời các TCTD phải thực hiện công bố công khai minh bạch thông tin của các cổ đông này.

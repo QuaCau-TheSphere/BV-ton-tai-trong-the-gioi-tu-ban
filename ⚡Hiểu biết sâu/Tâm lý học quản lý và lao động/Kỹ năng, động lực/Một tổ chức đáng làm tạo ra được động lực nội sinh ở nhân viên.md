@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-11T10:17
-updated: 2025-04-05T15:23
+updated: 2025-07-09T17:32
 ---
 Một tổ chức đáng làm là một tổ chức tạo được động lực nội sinh ở nhân viên, chứ không phải dùng động lực ngoại sinh để thúc đẩy hoạt động (tạo động lực thông qua thưởng/phạt). Một người sẽ có động lực nội sinh khi:
 

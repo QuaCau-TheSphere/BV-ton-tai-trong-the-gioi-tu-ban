@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-10-24T19:14
-updated: 2025-06-13T16:27
+updated: 2025-07-09T17:32
 ---
-Một phần của [[Chạy chỉ tiêu|Nhóm chạy chỉ tiêu]]
+Một phần của [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu]]
 ## Vấn đề
 [[Làm sao để nhân viên bán hàng đang mắc rất nhiều nợ mở rộng mối quan hệ khi chỉ có một mình và không có nhiều tiền]]
 
