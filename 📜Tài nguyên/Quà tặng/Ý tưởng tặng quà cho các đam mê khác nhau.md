@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-11-08T10:55
-updated: 2025-07-09T17:32
+updated: 2025-07-12T23:59
 ---
+Khái niệm:: [[Quà tặng]]
 Chỉ cần biết chỗ là mua. Có những thứ không tốn nhiều tiền. Nhiều khi chỉ là cái sticker mấy ngàn. Cái quan trọng là biết từ khoá
 Sở thích, đam mê
 Không thể cứ mua đại được, vì có thể họ cũng có nhiều rồi. Đó là những cái họ cũng thích, nhưng cũng tặc lưỡi không mua

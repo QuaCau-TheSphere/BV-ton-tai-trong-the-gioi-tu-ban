@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2025-07-09T17:32
+updated: 2025-07-09T23:22
 ---
 Khái niệm:: [[Đáo]]
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
@@ -13,7 +13,7 @@ Thực chất khi làm đáo là sự hợp tác của 3 bên:
 
 Các ngân hàng lấy phí POS là 1%. Bên cửa hàng lấy thêm 0.5%. Tới bên đáo là 0.5% nữa. Nên phí 2% là điều dễ hiểu. Những đứa chỉ lấy có 1.x% chỉ có một vài điểm bán. Những đứa này có thể sập bất cứ lúc nào.
 
-[[Mở dịch vụ cho vay bằng thẻ tín dụng chắc chắn sẽ phạm luật]]
+[[Cho người khác vay tiền bằng nguồn tiền từ thẻ tín dụng của mình chắc chắn sẽ phạm luật]]
 
 [[Vì các ví điện tử đứng ra bảo lãnh cho người quẹt, nên một giao dịch khi quẹt qua chúng sẽ trở thành một giao dịch mua hàng sạch trong mắt ngân hàng]]
 

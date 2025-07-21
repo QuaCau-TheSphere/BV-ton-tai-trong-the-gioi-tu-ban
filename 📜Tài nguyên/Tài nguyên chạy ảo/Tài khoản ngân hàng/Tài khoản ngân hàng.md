@@ -1,10 +1,8 @@
 ---
 created: 2025-03-21T22:15
-updated: 2025-07-09T17:32
+updated: 2025-07-13T20:49
 cssClass: wide-table
 ---
-0522 569 585
-
 ## Những tài khoản đã kiểm tra là đăng nhập được 
 ```dataview
 TABLE ngân-hàng as "Ngân hàng", STK, sđt as "SĐT"

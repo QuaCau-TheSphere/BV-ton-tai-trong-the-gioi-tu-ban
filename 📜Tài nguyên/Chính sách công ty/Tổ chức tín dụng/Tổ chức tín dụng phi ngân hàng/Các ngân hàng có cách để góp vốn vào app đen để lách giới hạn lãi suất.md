@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-07-09T23:59
 ---
 
 Luật Dân sự 2015 không cho vay lãi quá 20%/năm. Nếu là tổ chức tín dụng thì làm theo luật Các tổ chức tín dụng là thoả thuận 

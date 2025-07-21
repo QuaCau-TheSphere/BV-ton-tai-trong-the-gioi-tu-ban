@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-07-09T17:17
+updated: 2025-07-09T21:43
 ---
 ## Từ cá nhân
 Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này. Nhưng có thể nếu bạn làm một hồ sơ vay bằng cách trả lời các câu hỏi trong [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] thì bạn sẽ dễ vay được hơn.

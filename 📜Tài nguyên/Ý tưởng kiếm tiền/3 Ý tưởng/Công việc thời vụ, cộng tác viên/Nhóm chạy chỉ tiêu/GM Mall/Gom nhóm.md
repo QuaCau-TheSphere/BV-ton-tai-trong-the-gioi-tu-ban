@@ -4,7 +4,7 @@ description:
   - Số tiền đầu tư: 390k
   - Số tiền được nhận: 50k/tài khoản tạo mới
 created: 2025-04-03T14:15
-updated: 2025-07-09T17:32
+updated: 2025-07-09T19:14
 title: Gom nhóm GM Mall
 ---
 Tính chất công việc:: [[Cần có sẵn tài khoản ngân hàng]], [[Làm trực tuyến]]

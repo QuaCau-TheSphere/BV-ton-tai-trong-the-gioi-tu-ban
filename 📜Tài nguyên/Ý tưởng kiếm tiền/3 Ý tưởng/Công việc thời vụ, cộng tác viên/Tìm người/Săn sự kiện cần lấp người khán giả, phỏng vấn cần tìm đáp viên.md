@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-07-16T14:34
 ---
 Tính chất công việc:: [[Không phải lúc nào cũng biết lịch trước được]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
@@ -30,3 +30,4 @@ Em thấy ok phù hợp với mấy ng như em chưa đủ năng lực để đi
 - [Việc Làm Khán Giả Event - Show 👏😊](https://www.facebook.com/groups/2154702328080717)
 - [HỘI THẢO CÓ QUÀ](https://www.facebook.com/groups/2448460882089763)
 - [Nhóm hội thảo nghiên cứu thị trường và sự kiện ( Quà tiền mặt )](https://www.facebook.com/groups/428188451819170)
+- [Nhóm chuyên đi Extra, Hội Thảo, Sự Kiện \| Facebook](https://www.facebook.com/groups/1085777964949551)

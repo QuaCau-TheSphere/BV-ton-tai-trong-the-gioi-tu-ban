@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-08T14:52
-updated: 2025-07-09T17:32
+updated: 2025-07-09T19:13
 ---
 Tính chất công việc:: [[Không phải lúc nào cũng biết lịch trước được]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2025-07-09T17:32
+updated: 2025-07-09T17:51
 title: Làm đại lý ảo Bảo Việt
 ---
 ## Học 
@@ -24,4 +24,4 @@ Xem thêm:: [[Đại lý]]
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:24
-updated: 2025-07-09T17:32
+updated: 2025-07-19T17:07
 ---
 # Làm đại lý ảo Prudential
 ## Học
@@ -26,5 +26,3 @@ Lương: 5tr/tháng
 Ghi chú:
 - Sau khi checkin thì ra khỏi công ty làm việc riêng cũng được, miễn là có về checkout
 - Học đủ buổi sẽ xét tăng lương. Học ít buổi thì sau 3 tháng sẽ phải nghỉ
-
-Liên hệ:: [[Hồng Thị Tuyết Nhi|Hồng Thị Tuyết Nhi – 0336 408 666]]

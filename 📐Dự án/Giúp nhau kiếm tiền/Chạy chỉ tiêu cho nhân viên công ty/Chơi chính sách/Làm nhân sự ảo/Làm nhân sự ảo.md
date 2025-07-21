@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-07-09T17:53
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -53,7 +53,7 @@ Xem thêm:: [[Bao nuôi]]
 - smartpay, đi theo data có sẵn, đến để hỏi những ng đã từng xài smartpay hỏi họ có muốn vay k, lên hồ sơ cho họ, lương cứng 12tr+2tr phụ cấp+hoa hồng doanh số lên hs, thử việc 2 tháng nhận đủ lương
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Bạn có thể xem thêm [[công việc thời vụ, cộng tác viên]] và [[Làm trực tuyến|công việc làm online]]
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác.
 
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 Tính chất công việc:: [[Mỗi tuần lên công ty một buổi]], [[Không phải lúc nào cũng biết lịch trước được]], [[Nhân viên trong công ty]], [[Công việc thời vụ, cộng tác viên]]

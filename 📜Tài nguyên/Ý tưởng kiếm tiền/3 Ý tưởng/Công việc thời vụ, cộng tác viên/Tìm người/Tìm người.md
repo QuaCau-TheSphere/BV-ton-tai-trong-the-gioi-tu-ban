@@ -2,12 +2,12 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-07-16T14:42
 title: Các công việc tìm người, giới thiệu, làm cầu nối
 ---
 ```dataview
 LIST
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Tìm người" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Tìm người" 
 WHERE file.name != this.file.name
 ```
 [[Kiếm người sẵn sàng cho mình hỏi|Làm sao để kiếm người nhận làm phỏng vấn?]]

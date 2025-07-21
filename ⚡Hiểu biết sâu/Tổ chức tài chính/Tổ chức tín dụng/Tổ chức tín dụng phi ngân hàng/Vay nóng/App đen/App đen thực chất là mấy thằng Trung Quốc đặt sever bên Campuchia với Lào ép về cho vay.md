@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-07-09T17:32
+updated: 2025-07-12T21:25
 ---
 Khái niệm:: [[App đen, vay nóng]]
 
@@ -51,3 +51,4 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 ![Vì Sao Campuchia Trở Thành "THIÊN ĐƯỜNG Việc Nhẹ Volt Cao?" - YouTube](https://youtu.be/JW9AMuUAsRg?si=o93PPSU6qcaHOsXD)
 ![Người Việt thoát kiếp 'nô lệ' khi bị lừa sang Campuchia ra sao? - YouTube](https://youtu.be/2oEzo2vFfHg?si=lPnA-EhY9aPsPyXN)
 ![Kế hoạch tẩu thoát khỏi "địa ngục" ở bên kia biên giới \| VTV đặc biệt BẪY - YouTube](https://youtu.be/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr)
+![Giải thích nền kinh tế Campuchia trong 15 phút - YouTube](https://youtu.be/hl1MdCfct5c?si=r7x63lTfjx9wOjEj)

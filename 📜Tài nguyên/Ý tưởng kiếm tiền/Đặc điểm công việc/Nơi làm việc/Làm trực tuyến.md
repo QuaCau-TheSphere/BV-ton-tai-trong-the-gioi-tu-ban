@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2024-11-23T20:48
-updated: 2025-07-09T17:32
+updated: 2025-07-16T13:58
 alias: Làm online
 description: Công việc online
 ---
-Các việt này có thể kết hợp cùng với các công việc yêu cầu ngồi một chỗ và hay ngắt quãng, như bảo vệ, soát vé, lễ tân, hướng dẫn viên du lịch, trông cửa hàng
+Các việc này có thể kết hợp cùng với các công việc yêu cầu ngồi một chỗ và hay ngắt quãng, như bảo vệ, soát vé, lễ tân, hướng dẫn viên du lịch, trông cửa hàng
 
 ```dataview
 LIST

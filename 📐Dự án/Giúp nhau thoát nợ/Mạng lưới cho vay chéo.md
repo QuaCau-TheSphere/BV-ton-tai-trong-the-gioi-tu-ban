@@ -4,7 +4,7 @@ created: 2025-04-20T16:47
 alias:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo
-updated: 2025-07-09T17:32
+updated: 2025-07-10T13:07
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -79,7 +79,7 @@ Chơi với lửa, chơi với dao. Điều đáng sợ mới đáng làm
 Có lẽ câu hỏi tốt hơn không phải là "nhỡ bị xù thì sao", mà là "làm sao để hạn chế bị xù", và "phải làm gì để việc xù không gây ảnh hưởng".
 
 ### Làm sao để hạn chế bị xù?
-Ngoài việc yêu cầu phải hoàn thành [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] cũng như hỗ trợ họ kiếm tiền, để họ cảm thấy việc xù mình là bất lợi, thì có thể cho vay theo nhóm hơn là cho vay cá nhân. ([[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]]). Điều này có nghĩa là những người vay phải quản lý tiến trình trả nợ của nhau. Ví dụ, những người đang [[Cho bạn bè|nhờ Nhật đứng tên]] cần nói chuyện với nhau để có thể đảm bảo rằng Nhật không bị mất uy tín, để còn có thể đứng ra vay tiếp cho nhóm.
+Ngoài việc yêu cầu phải hoàn thành [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] cũng như hỗ trợ họ kiếm tiền, để họ cảm thấy việc xù mình là bất lợi, thì có thể cho vay theo nhóm hơn là cho vay cá nhân. ([[Cho vay theo nhóm bền vững hơn, ít bị quịt hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]]). Điều này có nghĩa là những người vay phải quản lý tiến trình trả nợ của nhau. Ví dụ, những người đang [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)|nhờ Nhật đứng tên]] cần nói chuyện với nhau để có thể đảm bảo rằng Nhật không bị mất uy tín, để còn có thể đứng ra vay tiếp cho nhóm.
  đảm bảo thu nhập trong tháng vẫn đủ để trả các khoản tới hạn.
 
 ### Phải làm gì để việc xù không gây ảnh hưởng?

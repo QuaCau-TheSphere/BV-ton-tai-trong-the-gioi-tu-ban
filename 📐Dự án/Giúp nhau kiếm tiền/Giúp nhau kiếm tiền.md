@@ -1,18 +1,18 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-07-09T17:35
+updated: 2025-07-09T18:27
 ---
 # Lời mời tham gia nhóm giúp nhau kiếm tiền
 ## Lợi ích khi tham gia
 ### Tiền và thời gian cho bản thân
 Ví dụ, công việc [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/Làm nhân viên ảo|làm nhân viên ảo GM Mall]] khi làm cùng với [[quản lý máy]] sẽ chỉ tốn bạn 1.5h/ngày là có thu nhập tầm 7tr/tháng. Thời gian còn lại là của bạn. 
 
-Bài chi tiết:: [[Nhóm chạy chỉ tiêu|Công việc của nhóm chạy chỉ tiêu]]
+Bài chi tiết:: [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]
 
 ### Sự tự quyết về công việc, sự bình đẳng với mọi người, sự minh bạch về thông tin
 - Các quyết định đều hỏi ý kiến bạn
-- Tất cả các câu hỏi đều được chào đón và trả lời. VD: lý do chọn mức thù lao, tình hình cuộc sống của các thành viên, v.v.
+- Tất cả các câu hỏi đều được chào đón và trả lời. Bạn có thể hỏi về lý do chọn mức thù lao, tình hình cuộc sống của các thành viên, v.v một cách thoải mái
 - Các thông tin, kiến thức, tài nguyên sẽ được tổng hợp một cách có hệ thống, được tự động tính toán và trình bày trực quan, không đẩy gánh nặng xử lý sang cho bạn, hạn chế tình trạng ém thông tin, chèn ép, thao túng từ phía các công ty
 
 ### Các tài nguyên
