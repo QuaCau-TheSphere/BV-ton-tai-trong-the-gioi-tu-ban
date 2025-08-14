@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-08-08T14:16
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -27,7 +27,7 @@ updated: 2025-07-09T17:32
 | --- | ------- | -------- | --- |
 | 1   |         |          | 0   |
 |     |         |          |     |
-
+- Chuyện gì sẽ xảy ra nếu bạn không nhận được khoản vay này?
 - Ngoài tiền ra bạn còn cần những hỗ trợ nào khác?
 
 ## Các cách xoay sở bạn đã áp dụng
@@ -35,6 +35,7 @@ updated: 2025-07-09T17:32
 - Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
 - Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
+	- Vì sao bạn không thể chấp nhận mất cic?
 - Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? Bạn đã nhận được những sự hỗ trợ nào từ họ?
 

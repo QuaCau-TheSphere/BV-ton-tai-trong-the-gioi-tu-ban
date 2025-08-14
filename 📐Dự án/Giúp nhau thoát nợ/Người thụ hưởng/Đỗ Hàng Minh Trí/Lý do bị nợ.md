@@ -1,6 +1,6 @@
 ---
 created: 2025-04-12T17:14
-updated: 2025-07-09T23:22
+updated: 2025-08-08T13:52
 ---
 Người vay là người cùng hội với mẹ ở trong chùa, sinh hoạt gần 10 năm hơn. Họ bị bể nợ nên không trả được. Xem là họ lừa mình vì họ không có thiện chí trả. Dù bể nợ thì cũng vẫn cố gắng có lộ trình trả.
 

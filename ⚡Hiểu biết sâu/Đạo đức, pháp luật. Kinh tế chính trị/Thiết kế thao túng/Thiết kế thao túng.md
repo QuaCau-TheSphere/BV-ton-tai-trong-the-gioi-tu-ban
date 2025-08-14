@@ -8,4 +8,4 @@ LIST
 FROM "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Thiết kế thao túng" 
 WHERE file.name != this.file.name
 ```
-[[Chặn rác và vượt qua thiết kế trục lợi]]
+[[Chặn rác, chống thiết kế trục lợi]]

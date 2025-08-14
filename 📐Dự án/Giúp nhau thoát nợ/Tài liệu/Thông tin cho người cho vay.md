@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-01-14T17:51
-updated: 2025-07-09T17:32
+updated: 2025-08-10T19:36
 ---
 
 Đứng ra mượn nợ giùm bạn.
-
+[[Đứng ra vay giùm, cho mượn tài sản thế chấp]]
 Hiện tại có những người như sau
 

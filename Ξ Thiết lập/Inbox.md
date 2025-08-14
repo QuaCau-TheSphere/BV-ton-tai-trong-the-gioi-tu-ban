@@ -22,3 +22,7 @@ Doanh nghiệp doanh thu 1 năm dưới 100tr được hoàn thuế mà, với l
 Thường ngân hàng nó cho vay 60-70% giá trị tài sản thôi, tùy điều kiện đánh giá nhiều tiêu chí lắm.
 
 home credit  cho ck quét mã QR cho account cá nhân 
+
+Bọn rút tiền thì cũng từ ngân hàng mà ra. Cũng là tiền từ tay trái qua tay phải
+
+Chung tiền thì không lo bị bắt. Nhưng đứa mua thì vẫn có thể bị

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-07-09T17:32
+updated: 2025-08-12T21:27
 alias: Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
 ## Khó khăn của người cần vay

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-07-09T18:27
+updated: 2025-08-07T15:25
 ---
 # Lời mời tham gia nhóm giúp nhau kiếm tiền
 ## Lợi ích khi tham gia
@@ -17,7 +17,7 @@ Bài chi tiết:: [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]
 
 ### Các tài nguyên
 - Các cách [[3 Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]]
-- Một [[Mạng lưới cho vay chéo|quỹ tín dụng vi mô]] để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
+- Một [[Xây dựng quỹ tín dụng vi mô và mạng lưới cho vay ngang hàng|quỹ tín dụng vi mô]] để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
 - Sự kết nối tới những cộng đồng để [[mở rộng mối quan hệ]]
 - [[Xây dựng công đoàn|Công đoàn để được bảo vệ quyền lợi trước tư bản]] 
 

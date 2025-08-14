@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:27
-updated: 2025-07-09T17:32
+updated: 2025-08-07T15:25
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -30,6 +30,6 @@ updated: 2025-07-09T17:32
 ### Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 ### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
 ### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-### Bạn có sẵn sàng tham gia công việc [[Mạng lưới cho vay chéo|xây dựng quỹ tín dụng vi mô]] không?
+### Bạn có sẵn sàng tham gia công việc [[Xây dựng quỹ tín dụng vi mô và mạng lưới cho vay ngang hàng|xây dựng quỹ tín dụng vi mô]] không?
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2025-07-13T14:32
+updated: 2025-08-07T15:25
 alias: quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
 ---
@@ -10,7 +10,7 @@ Các quỹ chủ yếu cho người ở thành thị:
 - [Tình Thương](https://tymfund.org.vn/about-us/our-team/)
 - [[CEP]]
 - [[Tình Thân]]
-- [[Mạng lưới cho vay chéo|Quả Cầu]]
+- [[Xây dựng quỹ tín dụng vi mô và mạng lưới cho vay ngang hàng|Quả Cầu]]
 - [[Quỹ Đồng Hành]]
 
 Đa phần các quỹ khác chủ yếu cho nông thôn hoặc vùng sâu vùng xa, dân tộc thiểu số. Đọc [Danh bạ các tổ chức Tài chính vi mô](https://microfinance.com.vn/du-an-project/danh-ba-cac-to-chuc-tai-chinh-vi-mo/) để xem danh sách đầy đủ.

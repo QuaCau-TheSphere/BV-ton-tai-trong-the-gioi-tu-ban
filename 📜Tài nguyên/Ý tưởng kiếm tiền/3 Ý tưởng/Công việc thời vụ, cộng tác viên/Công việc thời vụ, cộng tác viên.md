@@ -2,7 +2,7 @@
 share: true
 created: 2024-06-22T18:55
 alias: các công việc kiếm tiền nhanh, freelance, các công việc cộng tác viên, lương liền, bán thời gian, part-time, part time
-updated: 2025-07-16T14:41
+updated: 2025-08-13T16:16
 ---
 # Các công việc kiếm tiền nhanh
 Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Đây là một phần của [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]
@@ -28,7 +28,7 @@ WHERE !contains(file.name, "VNPAY" )
 ```
 
 ### Công việc [[Làm nhân sự ảo]] khác
-- [[bảo hiểm|Làm đại lý bảo hiểm ảo]]
+- [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm|Làm đại lý bảo hiểm ảo]]
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|Làm nhân viên ảo FE Credit]]
 
 ## [[Tìm người|Công việc tìm người]]

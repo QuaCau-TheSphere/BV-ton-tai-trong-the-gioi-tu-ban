@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-07-09T17:32
+updated: 2025-08-14T09:48
 alias: Giảm thiệt hại khi quyết định xù nợ vay nóng
 ---
 Khái niệm:: [[App đen, vay nóng]]
@@ -13,7 +13,7 @@ Khái niệm:: [[App đen, vay nóng]]
 | Kéo đến nhà                | Chuyển chỗ trọ trước khi xù, hoặc trọ ở những nơi mà khách lên phải có sự đồng ý của chủ nhà hoặc bảo vệ                     |
 | Kéo đến nơi làm việc       | Nghỉ việc trước khi xù                                                                                                       |
 
-Hoặc có thể giải thích với mọi người rằng mình bị tai bay vạ gió, nó đòi lộn người mà mình giải thích nhưng vẫn không chịu tin. Hơn nữa, vì [[app đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay]], nên *có thể* cũng sẽ không đến tận nơi để đòi mà chỉ gọi điện làm phiền. Chỉ có vay trực tiếp mới đến tận nhà.
+Hoặc có thể giải thích với mọi người rằng mình bị tai bay vạ gió, nó đòi lộn người mà mình giải thích nhưng vẫn không chịu tin. Hơn nữa, vì [[App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay]], nên *có thể* cũng sẽ không đến tận nơi để đòi mà chỉ gọi điện làm phiền. Chỉ có vay trực tiếp mới đến tận nhà.
 
 [[❓App đen không có số của người thân mình]]
 [[❓App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu]]

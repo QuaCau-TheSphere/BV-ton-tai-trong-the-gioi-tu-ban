@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-07-19T00:35
+updated: 2025-08-11T16:34
 title: Nhóm chạy chỉ tiêu cho nhân viên GM Mall
 alias: Công việc trong GM Mall
 ---
@@ -24,9 +24,12 @@ GM Mall là một sàn thương mại điện tử mới xuất hiện ở Việ
 Về chính sách, xem bài chi tiết:: [[Chính sách cho nhân viên|Chính sách nhân viên GM Mall]]
 
 ### Sao kiếm tiền dễ vậy? Nó có phải là lừa đảo, rửa tiền hay đa cấp gì không?
+[[Phốt GM|Phải]].
+
+--- 
+(Thông tin cũ)
 Công ty có giấy phép kinh doanh số 0318163736 do sở KH & ĐT TP.HCM cấp ngày 14/11/2023, và đã mở 18 văn phòng đại diện ở khắp cả nước với hơn 1000 nhân viên. Nên có vẻ nó an toàn về mặt pháp luật. 
 
-Công ty hiện đang có [[Phốt GM|phốt]].
 
 Bài chi tiết:: [[Công ty khuyến mãi nhiều là vì nhà đầu tư đổ thêm tiền vào|Liệu GM Mall có đang lừa đảo, rửa tiền không?]]
 

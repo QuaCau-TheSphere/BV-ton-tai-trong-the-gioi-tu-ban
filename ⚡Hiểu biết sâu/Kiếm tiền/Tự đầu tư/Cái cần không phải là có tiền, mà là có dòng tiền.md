@@ -8,5 +8,4 @@ Khái niệm:: [[Dòng tiền]]
 [[Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không]]
 [[Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền]]
 [[Chính phủ muốn kiểm soát dòng tiền]]
-
-Nên những đứa nợ vẫn cố gắng nợ thêm. Ko phải vì bọn nó ko biết là nợ thêm là tệ, mà là vì bọn nó vẫn còn hy vọng có thể dùng dòng tiền để thoát ra
+[[Muốn thoát khỏi rat race cần dòng tiền]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-07-28T16:34
 ---
 Mua giá sỉ, mua chung
 Cửa hàng bách hoá của mình sẽ cam kết về mặt hợp đồng với bên trang trại. 
@@ -18,3 +18,5 @@ Một năm tốn 1
 
 diony coop 
 [Cánh đồng sẻ chia- Cộng đồng tiêu dùng sản xuất bền vững Amap Viet \| Facebook](https://www.facebook.com/groups/canhdongsechia/?ref=share&mibextid=NSMWBT)
+
+Giống như đánh future -> dùng các công cụ quản lý của future?

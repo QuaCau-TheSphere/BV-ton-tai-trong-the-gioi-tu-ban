@@ -1,30 +1,23 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-07-09T17:32
+updated: 2025-08-07T15:38
 ---
-
+[[Xây dựng quỹ tín dụng vi mô và mạng lưới cho vay ngang hàng]]
 Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau
 Nhờ vả chỉ được ít. 
 
 Khó khăn với người đứng ra vay giùm:
 - Một cái tốn 2, 3 tiếng làm. Làm thủ tục lắt nhắt, phải đi làm suốt, chưa chắc có được hay ko
+- [[Ngân hàng làm mọi cách để mình không đưa app cho người khác]]
 
 Rủi ro với người được cho vay giùm:
 - Bị động khi bán tài sản
 
-Công việc: GM Mallb
 
-[[Ngân hàng làm mọi cách để mình không đưa app cho người khác]]. 
-Có một tình huống thế này: có một anh kia có cha mẹ cần vay tiền sửa nhà. Cha mẹ có nguồn tiền để trả nợ, nhưng lại nằm ngoài độ tuổi được vay. Anh đứng ra vay giùm, lấy nhà của cha mẹ làm tài sản thế chấp. Tuy nhiên nguồn tiền của cha mẹ có vấn đề, thành ra anh này phải è cổ ra gánh. Ảnh dễ 
 
-Khi chủ thể đứng vay và chủ tài sản đảm bảo là khác nhau, thì khi có trục trặc gì sẽ có người thấy mình không có làm gì sai:
+[[Khi chủ thể đứng vay và chủ tài sản đảm bảo là khác nhau, thì khi có trục trặc gì sẽ có người thấy mình không có làm gì sai]]:
 - 
-người đứng vay bị động hơn.
-người đứng vay không vay được thì sẽ bị bị động do chủ tài sản có tâm lý là mình không làm sai, nên không việc gì phải bán. Ngân hàng đến phát mãi được, nhưng dễ bị cự cãi.
-
-Tài sản doanh nghiệp đa số là từ tài sản cá nhân góp vào, vì đứng cá nhân thì được mãi mãi
-
 Tín dụng được dùng nhiều hơn 
 Bộ các tiêu chí đánh giá: tổng tài sản, tổng nguồn vốn
 

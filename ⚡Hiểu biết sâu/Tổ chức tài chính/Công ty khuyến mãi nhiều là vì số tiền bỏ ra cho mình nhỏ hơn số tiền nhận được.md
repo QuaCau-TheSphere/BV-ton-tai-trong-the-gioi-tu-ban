@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-07-09T17:14
+updated: 2025-07-24T14:50
 alias:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
 ---
@@ -31,4 +31,4 @@ Xem thêm:: [[Công ty ra chính sách khó cho nhân viên không đơn thuần
 Vẫn còn một lập luận phản biện nữa. Đó là [[Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật]]. [[Lách luật là phạm luật một cách đúng luật]]. Những cái này thì phải đọc hợp đồng cho kỹ mà thôi. Và đó cũng là lý do mà nơi này được sinh ra.
 
 ## Nhưng lừa đảo không đáng lo bằng rửa tiền?
-Để bị quy vào tội [[rửa tiền]], bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì đây là những cơ sở để bọn mình cho rằng bạn sẽ an toàn khi tham gia. 
+Để bị quy vào tội [[⚡Hiểu biết sâu/Ξ Khái niệm/Rửa tiền]], bạn phải làm việc với các công ty [mà bạn có cơ sở để biết là tiền là do phạm tội mà có](https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/tham-nhung/39307/rua-tien-la-gi-trach-nhiem-hinh-su-doi-voi-toi-rua-tien). Đương nhiên, bọn mình cũng không dại gì làm với các công ty như vậy. Tức là, nếu bạn tin là bọn mình sẽ trung thực, thành thật với bạn, thì bạn cũng không có cơ sở để biết là tiền từ công ty này là do phạm tội mà có. Trừ khi, ờm ..., bạn không trung thực, thành thực với bọn mình. Còn không thì đây là những cơ sở để bọn mình cho rằng bạn sẽ an toàn khi tham gia. 

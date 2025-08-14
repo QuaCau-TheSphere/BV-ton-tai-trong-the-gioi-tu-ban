@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-03T22:01
 ---
 Khái niệm:: 
 - Chiếm 50% người lao động
@@ -12,3 +12,6 @@ Khái niệm::
 ![Vì sao nhà nước lo sợ công đoàn độc lập? - YouTube](https://youtu.be/Wq8wbXTbG6k?si=O6BaWn8NXnuxVGkY)
 ![Công đoàn từ Cộng hòa đến Cộng sản: Khác nhau ra sao? - YouTube](https://youtu.be/U_bgQHZ2V-I?si=UtMvO77g1W5_0kaO)
 ![Thanh niên thất nghiệp: Đảng giải quyết ra sao? - YouTube](https://youtu.be/EJTAWyp1rTU?si=oLV70sxnl7NbxKAq)
+
+Hội nạn nhân 
+dù là app đàng hoàng hay đào lửa, thì chơi app nào mình cũng chỉ đang làm béo bọn TQ. Chỉ có tự hỗ trợ nhau mới là bền vững và ko ai bị bóc lột hết

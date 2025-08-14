@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-09T11:41
 ---
 ## Đề xuất vay
 Phương án tối ưu:
@@ -34,20 +34,25 @@ Từ ngày 2/6 thì em bắt đầu làm ở nhà hàng mới với mức lươn
 ### Tình hình nợ hiện nay
 Xếp theo thời hạn trả 
 
-| Khoản nợ             | Số tiền               | Thời hạn trả      | Lãi                           | Lý do                                                                                                |
-| -------------------- | --------------------- | ----------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Momo                 | 5.155.647 đ           | 15/6              | Đã gộp trong số tiền phải trả | Sinh hoạt                                                                                            |
-| ShopeePay            | 4tr5                  | Ngày 10 mỗi tháng | Đã gộp trong số tiền phải trả | Sinh hoạt                                                                                            |
-| Shopee vay tiêu dùng | 8.239.216 đ           | Ngày 1 đầu tháng  | Đã gộp trong số tiền phải trả | Đồ sinh hoạt trong nhà như khung treo quần áo, kệ giày, thảm, móc, quạt, quần áo, dây sạc            |
-| Ba                   | 4tr                   | 1/7               | 0                             | Sinh hoạt (20/4-30/5)                                                                                |
-| Ân                   | 320k                  | 1/7               | 0                             | Sinh hoạt                                                                                            |
-| Mẹ Tuyên             | 3tr                   | 10/2026           | 0                             | Sinh hoạt                                                                                            |
-| Ba mẹ Ân             | 12tr                  | 1/2028            | 0                             | Tiền cọc chuyển nhà (3tr), Tiền nhà tháng đầu (3tr5), Tiền nợ Momo (4tr), sinh hoạt (tháng 1,2/2025) |
-| Trí                  | 300k                  | 0                 | 0                             | Sinh hoạt                                                                                            |
-| Đồng                 | 2tr5                  | 0                 | 0                             | Sinh hoạt                                                                                            |
-| Bố mẹ Tuyên          | 4tr                   | 0                 | 0                             | Sinh hoạt                                                                                            |
-| Mẹ Tuyên             | 8tr                   | 0                 | 0                             | Mua đt mới                                                                                           |
-| Nhật                 | 1tr495 + nửa chỉ vàng | 0                 | 0                             | Sinh hoạt                                                                                            |
+| Khoản nợ             | Số tiền               | Thời hạn trả      | Lãi                           | Lý do                                                                                     |
+| -------------------- | --------------------- | ----------------- | ----------------------------- | ----------------------------------------------------------------------------------------- |
+| Momo                 | 5.155.647 đ           | 15/6              | Đã gộp trong số tiền phải trả | Sinh hoạt                                                                                 |
+| ShopeePay            | 4tr5                  | Ngày 10 mỗi tháng | Đã gộp trong số tiền phải trả | Sinh hoạt                                                                                 |
+| Shopee vay tiêu dùng | 8.239.216 đ           | Ngày 1 đầu tháng  | Đã gộp trong số tiền phải trả | Đồ sinh hoạt trong nhà như khung treo quần áo, kệ giày, thảm, móc, quạt, quần áo, dây sạc |
+| Ba                   | 4tr                   | 1/7               | 0                             | Sinh hoạt (20/4-30/5)                                                                     |
+| Trí                  | 300k                  | 0                 | 0                             | Sinh hoạt                                                                                 |
+| Đồng                 | 2tr5                  | 0                 | 0                             | Sinh hoạt                                                                                 |
+| Mẹ Tuyên             | 3tr                   | 10/2026           | 0                             | Sinh hoạt                                                                                 |
+| Bố mẹ Tuyên          | 4tr                   | 0                 | 0                             | Sinh hoạt                                                                                 |
+| Tuyên                | 8tr                   | 0                 | 0                             | Mua đt mới                                                                                |
+| Nhật                 | 1tr495 + nửa chỉ vàng | 0                 | 0                             | Sinh hoạt                                                                                 |
+
+Đã xong
+
+| Khoản nợ | Số tiền | Thời hạn trả | Lãi | Lý do                                                                                                | Ngày trả |
+| -------- | ------- | ------------ | --- | ---------------------------------------------------------------------------------------------------- | -------- |
+| Ân       | 320k    | 1/7          | 0   | Sinh hoạt                                                                                            |          |
+| Ba mẹ Ân | 12tr    | 1/2028       | 0   | Tiền cọc chuyển nhà (3tr), Tiền nhà tháng đầu (3tr5), Tiền nợ Momo (4tr), sinh hoạt (tháng 1,2/2025) |          |
 
 ![[t2mg4ncI.jpg]]
 ### Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
@@ -102,13 +107,18 @@ Em luôn sẵn sàng để giải đáp mọi thắc mắc.
 ### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 Em muốn:
 - Biết ai đang giúp mình. Nếu ẩn danh thì phải biết lý do
-- Người giúp em là vì em, không phải là vì điều gì khác ngoài em
-- Vấn đề của mình là vấn đề cá nhân, không phải là vấn đề của cộng đồng 
+- Không bị gắn vào một lý tưởng nào. Người giúp em giúp em là vì em, không phải là vì điều gì khác ngoài em
+- Chuyện vay tiền bạc là chuyện giữa hai người, người khác không xen vào. Điều đó Vấn đề của mình là vấn đề cá nhân, không phải là vấn đề của cộng đồng. Không muốn người khác xen vào mối quan hệ của mình
 
 Cho nên những người nhận được thông tin này có thể chia sẻ cho những người họ thấy có thể giúp em mà không cần hỏi em, nhưng chỉ được nói riêng, không được trong nhóm, kể cả khi nhóm đó đều có những người muốn giúp em và không đông. Em không muốn mình là một phần của các phân tích của một nhóm. Họ thảo luận với nhau thì không vấn đề gì, nhưng em nhận tiền của ai thì chỉ biết tới người đó.
 
+Nếu giúp em vì lý tưởng khác thì đừng để cho em biết là được.
+
 Một khi đã biết mục tiêu cho vay để làm gì là phải tìm hiểu
 Thấy bị can thiệp vào mqh. Bị phiền 
+
+Không quan tâm, nhưng nếu biết thì vẫn trách 
+Cần sự chắc chắn
 - Không có sao kê? 
 - Tại sao lại cần lý do nếu người ta muốn ẩn danh? 
 - Tại sao thảo luận với nhau thì không vấn đề gì, nhưng đăng hồ sơ lên cho coi thì lại ko đc? 

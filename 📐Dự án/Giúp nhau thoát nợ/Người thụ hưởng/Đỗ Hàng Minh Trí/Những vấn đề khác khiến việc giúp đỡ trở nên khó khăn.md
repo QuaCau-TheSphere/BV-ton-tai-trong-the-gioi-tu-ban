@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-04-11T18:52
-updated: 2025-07-09T17:32
+updated: 2025-08-08T13:56
 ---
 ## Liên quan đến chuyện tiền bạc
-- Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn
+- [[Bằng mọi giá phải giữ điểm tín dụng cho sạch|Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn]]
 - Không muốn ngồi bàn vì cần tiền trong tay hơn là những lời hứa cho tương lai
 - Sợ bị lừa thêm lần nữa. Thấy rất ngạc nhiên khi thấy có những người sẵn sàng bỏ tiền ra để giúp người khác không vì điều gì cả
 - Rất tin tưởng rằng tất cả những người trong kinh doanh chỉ muốn đạt lợi ích lớn nhất cho mình, và việc đặt mục tiêu từ thiện làm mục tiêu kinh doanh là sai lầm lớn của một người
