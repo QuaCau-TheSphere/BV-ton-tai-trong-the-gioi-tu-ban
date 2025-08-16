@@ -7,7 +7,7 @@ Yêu cầu đầu vào:: [[Vốn]]
 Hình thức::
 ```dataview
 LIST
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư" 
 WHERE file.name != this.file.name
 ```
 

@@ -42,10 +42,10 @@ Xem thêm:: [[Vấn đề đạo đức|Vấn đề đạo đức khi làm ảo]
 Xem thêm:: [[Bao nuôi]]
 
 ## Một số công việc nhân sự ảo
-- Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo Việt|Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
-- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|VNPAY]]
-- Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|FE Credit]]
-- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/Làm nhân viên ảo|GM Mall]]
+- Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo Việt|Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
+- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|VNPAY]]
+- Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|FE Credit]]
+- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/Làm nhân viên ảo|GM Mall]]
 
 - cty gia dụng bên TQ, mỗi ngày đi 2-3 cửa hàng chụp hình, lcb 8-10tr,
 - cty nước lọc, lcb 10-12tr, đi khảo sát, chụp hình,

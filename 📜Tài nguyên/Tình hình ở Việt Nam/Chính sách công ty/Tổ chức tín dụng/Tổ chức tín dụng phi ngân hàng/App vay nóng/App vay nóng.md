@@ -2,14 +2,14 @@
 share: true
 created: 2024-08-13T17:19
 description: không cần điểm tín dụng
-updated: 2025-07-09T17:32
+updated: 2025-08-16T10:08
 ---
 Khái niệm:: [[App đen, vay nóng]]
 
 [Trải nghiệm đi vay](https://nld.com.vn/kinh-te/cam-bay-vay-tieu-dung-lai-suat-cat-co-20200802210243049.htm)
 ```dataview
 LIST
-FROM "📜Tài nguyên/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/App vay nóng"
+FROM "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/App vay nóng"
 WHERE file.name != this.file.name
 ```
 ## Hiểu biết sâu

@@ -20,7 +20,7 @@ Phải [[App vay nóng]]
 - tiền điện nước quản lý 1.5tr 15.11
 - tiền nhà 5.5tr 15.11
 
-## Đây là [[3 Ý tưởng|một số ý tưởng kiếm tiền]]. Bạn có mong muốn tham gia vào các hoạt động nào?
+## Đây là [[Ý tưởng|một số ý tưởng kiếm tiền]]. Bạn có mong muốn tham gia vào các hoạt động nào?
 ## Trong [[các dịch vụ cho vay]], bạn đã dùng tới những dịch vụ nào? Vì sao chúng không phù hợp với bạn?
 ## Bạn có chấp nhận [[xù nợ ngân hàng]] không? Vì sao?
 ## Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn ghi ở đây? Vì sao?

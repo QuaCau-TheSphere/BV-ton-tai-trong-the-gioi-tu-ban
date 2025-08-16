@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T23:08
-updated: 2025-08-10T11:05
+updated: 2025-08-16T09:41
 alias: Kula
 ---
 Khái niệm:: 
@@ -63,3 +63,10 @@ Câu hỏi:
 - Có phải mô hình này chỉ là tài chính vi mô, không phải là VSLA vì nó không phải họp mặt mỗi tuần và không cần tới 3 người giữ khoá?
 - Có lẽ câu trả lời cho những câu hỏi trên nên được ghi vào trong bài hướng dẫn?
 - Vấn đề thuế thế nào? Có rủi ro pháp lý nào ở đây ko?
+
+
+[kulavietnam - MÔ HÌNH QUỸ ĐỒNG HÀNH CỦA KULAVIETNAM VẬN...](https://www.facebook.com/share/p/1GbSNn291Z/)
+
+Sẽ có nhiều bạn hiểu lầm đây giống mô hình đóng hụi hay đóng họ. Mô hình Quỹ khác hoàn toàn. Vì đóng hụi hay đóng họ là vòng quay đến lượt bạn thì bạn mới được vay. Chúng tôi giống dạng "ngân hàng mini" khi bạn tham gia quỹ sẵn sàng cho vay mà không cần đến lượt.
+
+Chơi hụi phải chờ đến lượt mình mới được vay

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-15T17:07
 description: Làm sao để tìm được người để mình hỏi kỹ về nhu cầu của họ một cách hiệu quả nhất?
 alias:
   - Làm sao để kiếm người nhận làm phỏng vấn?

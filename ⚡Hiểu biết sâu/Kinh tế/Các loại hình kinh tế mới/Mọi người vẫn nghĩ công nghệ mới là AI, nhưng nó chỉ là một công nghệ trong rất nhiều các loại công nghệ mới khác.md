@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-05T12:03
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:04
 ---
 AI chỉ là một trong số rất nhiều các công nghệ mới sau:
 - AI

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T16:30
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 ---
 Khái niệm:: 
 [[VPbank có vốn lớn nhất VN]]

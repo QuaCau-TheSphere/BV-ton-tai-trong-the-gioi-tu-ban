@@ -23,7 +23,7 @@ title: Một số ý tưởng kiếm tiền
 
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên" 
 WHERE file.name != this.file.name
 WHERE !contains(file.folder, "ảo" )
 ```
@@ -32,14 +32,14 @@ WHERE !contains(file.folder, "ảo" )
 Nếu bạn kiếm được người sẵn sàng trả tiền để được hướng dẫn những cái này thì bạn sẽ được nhận toàn bộ số tiền họ trả.
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện" 
 WHERE file.name != this.file.name
 ```
 
 ## Việc chính thức trong công ty
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Việc chính thức trong công ty" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Việc chính thức trong công ty" 
 WHERE file.name != this.file.name
 ```
 
@@ -47,14 +47,14 @@ WHERE file.name != this.file.name
 Đây là các giải pháp đã được đặt hàng. Nếu bạn kiếm được người sẵn sàng trả tiền để được có những cái này thì chúng ta sẽ cùng thoả thuận số tiền mỗi người được nhận. 
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Gia công giải pháp" 
 WHERE file.name != this.file.name
 ```
 
 ## Tự kinh doanh, đầu tư, bỏ vốn
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư" 
 WHERE file.name != this.file.name
 SORT yêu-cầu-đầu-vào desc
 ```

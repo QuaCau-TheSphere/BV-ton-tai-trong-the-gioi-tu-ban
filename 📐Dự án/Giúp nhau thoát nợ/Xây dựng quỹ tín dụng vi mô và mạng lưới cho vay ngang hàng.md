@@ -4,7 +4,7 @@ created: 2025-04-20T16:47
 alias:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo
-updated: 2025-08-13T16:16
+updated: 2025-08-16T22:02
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -61,7 +61,7 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 - Hỗ trợ [[thương lượng với chủ nợ]] để giảm lãi
 - Xây dựng [[hệ thống quản lý chi tiêu|hệ thống quản lý chi tiêu]] một cách trực quan 
 - [[Các cách thức nâng hạn mức thẻ tín dụng|Hỗ trợ nâng hạn mức, điểm tín dụng]]
-- Hỗ trợ [[3 Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]] và [[Mở rộng mối quan hệ|mở rộng mối quan hệ]]
+- Hỗ trợ [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]] và [[Mở rộng mối quan hệ|mở rộng mối quan hệ]]
 - [[Đứng ra vay giùm, cho mượn tài sản thế chấp]]. Nếu người vay xù thì quỹ vẫn phải trả cho người cho vay. Hình thức này không khác gì một ngân hàng
 - Kết nối người vay và người cho vay. Nếu người vay xù thì quỹ không phải trả cho người cho vay. Hình thức này không khác gì một sàn cho vay ngang hàng
 

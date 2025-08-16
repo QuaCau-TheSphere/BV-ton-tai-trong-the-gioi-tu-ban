@@ -5,7 +5,7 @@ updated: 2024-08-01T17:45
 ---
 ```dataview
 LIST
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng" 
 WHERE contains(yêu-cầu-đầu-vào, [[]])
 ```
 

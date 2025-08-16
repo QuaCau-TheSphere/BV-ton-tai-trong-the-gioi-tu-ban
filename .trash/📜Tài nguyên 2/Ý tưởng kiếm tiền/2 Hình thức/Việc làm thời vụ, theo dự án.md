@@ -13,7 +13,7 @@ Các nhóm chuyên tuyển nói chung:
 - [KHU PHỐ FREELANCER](https://www.facebook.com/groups/434928552300945/?action_source=group_mall_recommendation_affordance)
 ```dataview
 LIST 
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên"
 ```
 
 Xem thêm:: [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]

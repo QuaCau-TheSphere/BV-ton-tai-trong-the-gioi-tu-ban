@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-07-12T21:25
+updated: 2025-08-16T11:59
 ---
 Khái niệm:: [[App đen, vay nóng]]
 
@@ -48,6 +48,7 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 
 [[4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân]]
 
+[Tao từng làm việc cho một công ty đào lửa bên Campuchia](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mjedr1/tao_từng_làm_việc_cho_một_công_ty_đào_lửa_bên%2f)
 ![Vì Sao Campuchia Trở Thành "THIÊN ĐƯỜNG Việc Nhẹ Volt Cao?" - YouTube](https://youtu.be/JW9AMuUAsRg?si=o93PPSU6qcaHOsXD)
 ![Người Việt thoát kiếp 'nô lệ' khi bị lừa sang Campuchia ra sao? - YouTube](https://youtu.be/2oEzo2vFfHg?si=lPnA-EhY9aPsPyXN)
 ![Kế hoạch tẩu thoát khỏi "địa ngục" ở bên kia biên giới \| VTV đặc biệt BẪY - YouTube](https://youtu.be/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr)

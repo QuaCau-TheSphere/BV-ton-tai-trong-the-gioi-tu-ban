@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T22:25
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:04
 ---
 Khái niệm:: 
 [[Làm kết quả ảo cần giống làm thật để không tạo ra sự mất cân bằng trong hệ thống và để người làm thật không cảm thấy bất công]]

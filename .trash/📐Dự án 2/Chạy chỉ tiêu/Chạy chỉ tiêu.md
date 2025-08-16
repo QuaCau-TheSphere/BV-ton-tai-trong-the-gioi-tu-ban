@@ -19,7 +19,7 @@ Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân s�
 Danh sách các công việc:
 ```dataview
 LIST rows.file.link
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý"
 GROUP BY split(file.folder, "/")[5]
 WHERE file.name != this.file.name
 ```

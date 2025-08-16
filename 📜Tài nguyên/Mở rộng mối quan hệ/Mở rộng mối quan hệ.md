@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T16:43
-updated: 2025-07-09T17:32
+updated: 2025-08-16T10:38
 ---
 [[Mạng kết nối nhu cầu]]
 ```dataview
@@ -14,3 +14,4 @@ WHERE file.name != this.file.name
 [[Cung cấp thông tin liên lạc, làm cầu nối]]
 tham gia vào các CLB
 Đăng bài tóm tắt kiến thức của mình dẫn link vào trang Web
+[[Làm sao để nhân viên bán hàng đang mắc rất nhiều nợ mở rộng mối quan hệ khi chỉ có một mình và không có nhiều tiền]]

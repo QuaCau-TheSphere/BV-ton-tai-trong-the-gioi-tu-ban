@@ -15,7 +15,7 @@ updated: 2025-03-22T23:29
 ### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
 
 ## Các cách xoay sở
-### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
+### Bạn đã thử tham gia vào [[Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 ### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
 ### Bạn đã dùng tới [[các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
 ### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ app đen]] không? Vì sao?

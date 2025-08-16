@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-08-14T09:42
+updated: 2025-08-16T22:02
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 ---
 # Hồ sơ của Đỗ Hàng Minh Trí
@@ -36,7 +36,7 @@ App đen:
 ### Trí đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
 
 ## Các cách xoay sở
-### Trí đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
+### Trí đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 Hiện tại đang làm [[Đại lý bảo hiểm]] cho Cathay. Công việc 
 [[Yêu cầu tuyển dụng của Cathay]]
 [[Giả thiết về nguồn tuyển dụng cho Cathay]]

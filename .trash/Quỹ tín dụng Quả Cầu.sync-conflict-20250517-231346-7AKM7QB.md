@@ -41,7 +41,7 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 - Đại diện giải đáp thắc mắc giữa các bên để giảm sự nhức đầu 
 - Hỗ trợ thương lượng với chủ nợ để giảm lãi
 - [[Các cách thức nâng hạn mức thẻ tín dụng|Hỗ trợ nâng hạn mức, điểm tín dụng]]
-- Hỗ trợ [[3 Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]] và [[Mở rộng mối quan hệ|mở rộng mối quan hệ]]
+- Hỗ trợ [[Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]] và [[Mở rộng mối quan hệ|mở rộng mối quan hệ]]
 - [[Đứng ra vay giùm, cho mượn tài sản thế chấp]]. Nếu người vay xù thì quỹ vẫn phải trả cho người cho vay. Hình thức này không khác gì một ngân hàng
 - Kết nối người vay và người cho vay. Nếu người vay xù thì quỹ không phải trả cho người cho vay. Hình thức này không khác gì một sàn cho vay ngang hàng
 

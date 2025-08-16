@@ -17,10 +17,10 @@ Nhân sự ảo tức là có nhân sự thật làm giùm. Nói cách khác b�
 Xem thêm:: [[📐Dự án/Chạy chỉ tiêu/Làm nhân sự ảo/Câu hỏi thường gặp|Câu hỏi thường gặp cho công việc làm nhân sự ảo]]
 
 ## Một số công việc nhân sự ảo
-- Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
-- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/VNPAY/Làm nhân viên ảo|VNPAY]]
-- Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/FE Credit|FE Credit]]
-- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo|GM Mall]]
+- Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
+- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/VNPAY/Làm nhân viên ảo|VNPAY]]
+- Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/Làm nhân sự ảo/FE Credit|FE Credit]]
+- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, trả tiền liền/Cho nhân viên, đại lý/GM Mall/Làm nhân viên ảo|GM Mall]]
 
 
 > [!important] Nhìn toàn cảnh

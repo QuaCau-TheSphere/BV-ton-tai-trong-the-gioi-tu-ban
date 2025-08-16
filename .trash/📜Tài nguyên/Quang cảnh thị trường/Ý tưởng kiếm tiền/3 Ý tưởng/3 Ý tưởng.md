@@ -11,28 +11,28 @@ description: Kiếm tiền từ các hoạt động của Quả Cầu
 ## Công việc thời vụ
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ" 
 WHERE file.name != this.file.name
 ```
 
 ## Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện" 
 WHERE file.name != this.file.name
 ```
 
 ## Gia công giải pháp
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Gia công giải pháp" 
 WHERE file.name != this.file.name
 ```
 
 ## Tự kinh doanh, đầu tư
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư" 
 WHERE file.name != this.file.name
 SORT yêu-cầu-đầu-vào desc
 ```

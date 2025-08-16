@@ -1,7 +1,7 @@
 ---
 Alias: Danh sách tất cả các tag
 created: 2023-06-11T18:31
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 ---
 # Các mức độ trạng thái/tình trạng của công việc
 ```dataview

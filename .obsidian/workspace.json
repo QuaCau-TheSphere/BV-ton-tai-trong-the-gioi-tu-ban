@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "795d5431be77bbc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/Đa phần công ty con của Vin chỉ là mua bán đất trá hình.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Đa phần công ty con của Vin chỉ là mua bán đất trá hình"
-            }
-          },
-          {
-            "id": "4c680f3a450f4177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Trước John Locke, quyền tư hữu thuộc về nhà vua, không phải của mọi người.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trước John Locke, quyền tư hữu thuộc về nhà vua, không phải của mọi người"
-            }
-          },
-          {
             "id": "8de62a9713611cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kinh tế/Kinh tế tự cung tự cấp.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kinh tế tự cung tự cấp"
+              "title": "Xù nợ ngân hàng"
             }
           },
           {
-            "id": "3098a7bf8b68daa9",
+            "id": "f02a41d5dbf895f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Tỉ lệ sử dụng tiền mặt ở VN khoảng 12%.md",
+                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Tổ chức tài chính vi mô/Quỹ Đồng Hành.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tỉ lệ sử dụng tiền mặt ở VN khoảng 12%"
+              "title": "Quỹ Đồng Hành"
+            }
+          },
+          {
+            "id": "a69995fa10ffaace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhập liệu, dán nhãn dữ liệu, BPO.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nhập liệu, dán nhãn dữ liệu, BPO"
+            }
+          },
+          {
+            "id": "047eb75877e77619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Xù nợ ngân hàng"
+            }
+          },
+          {
+            "id": "3d7a81c8bf34ec37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Sống vừa đủ, bền vững/Các công việc thường cung cấp chỗ ở.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Các công việc thường cung cấp chỗ ở"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,44 +277,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "776a43425fc4ec1e",
+  "active": "a69995fa10ffaace",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Luật, nhà nước/Những mối quan hệ và kiến thức nội bộ trong thời gian làm việc tại chính phủ là vô giá đối với các công ty muốn tiếp cận những người làm chính sách.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Luật, nhà nước/Nhà nước trung lập trước cuộc bầu cử, nhưng không còn trung lập sau cuộc bầu cử.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/❓Muốn có dòng tiền thì cần có vốn.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Dễ đánh đồng công ty tài chính do ngân hàng lập ra với app đen.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Muốn vay nợ cần có uy tín.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Các khái niệm tập đoàn hay hệ sinh thái đánh lừa cảm giác về một sức mạnh tổng hợp, nhưng khi có sự cố thì sẽ tan thành từng mảnh pháp nhân độc lập.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Phốt GM.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Người dân có thể không tin công ty tài chính, nhưng sẽ tin ngân hàng.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/SMBC có 22.1% cổ phần Bảo Việt, 15% VPBank và 49% FE Credit.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/Đa phần công ty con của Vin chỉ là mua bán đất trá hình.md",
-    "Ξ Thiết lập/Templates/Ý tưởng.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Untitled.md",
+    "📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Kế hoạch/Untitled.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhập liệu, dán nhãn dữ liệu, BPO.md",
+    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền.md",
+    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
+    "Ξ Thiết lập/Templates/Ghi chú chung chung.md",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Ý tưởng sinh ra không theo độ khẩn cấp.md",
+    "📐Dự án/Giúp nhau thoát nợ/Giúp nhau thoát nợ.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Cần biết lập trình.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Cần biết cách ẩn danh.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm làm việc/Mỗi tuần lên công ty một buổi.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Untitled.md",
+    "⚡Hiểu biết sâu/Kinh tế/Cải cách/Untitled.md",
+    "📐Dự án/Giúp nhau thoát nợ/Giúp nhau giữ CIC.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Các dịch vụ cho vay tín chấp.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Momo bảo chứng sẽ đáng tin hơn FE, vì FE không biết mình là ai còn Momo thì có đủ số liệu dòng tiền.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/❓Việc có được nhiều tiền sẽ mở ra nhiều cánh cửa hơn để có dòng tiền.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nợ/Việc giữ được CIC tốt là cánh cửa để đạt được ước mơ thay đổi cuộc sống.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Muốn thoát khỏi rat race cần dòng tiền.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nợ/Bằng mọi giá phải giữ điểm tín dụng cho sạch.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Nhóm chạy chỉ tiêu.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhau kiếm tiền.md",
     "📜Tài nguyên/Tình hình ở Việt Nam/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
-    "📜Tài nguyên/Ngôn ngữ/Dịch thuật ngữ.md",
-    "📜Tài nguyên/Ngôn ngữ/Cách viết tắt các đơn vị tiền Việt (k, tr, tỉ).md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Nhân viên thu hồi nợ của công ty tài chính gặp khó khăn để thuyết phục hàng xóm, gia đình tác động khách.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Lừa đảo, phạm tội/Những trang web giả mạo không chỉ dùng để lừa người dân, mà còn có thể dùng khi cần hạ thấp uy tín công ty thật.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/Chính sách công ty.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Quốc hội ban hành luật, nghị quyết. Chính phủ ban hành nghị định. Bộ ban hành thông tư.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Chính sách kinh tế/Hy sinh lạm phát cho tăng trưởng.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Tỉ lệ tham gia BHXH ở VN chỉ có 3%.md",
-    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Tiền mã hoá đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Tỉ lệ sử dụng tiền mặt ở VN khoảng 12%.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế vĩ mô, toàn cầu hoá/Phi toàn cầu hoá là khi người ta không quan tâm đến luật nữa.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế vĩ mô, toàn cầu hoá/Nhà nước tăng thêm thuế nghĩa là ngân sách đang cạn.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế vĩ mô, toàn cầu hoá/Cái được đem ra toàn cầu hoá là luật.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Phỏng vấn người đang vay thế chấp.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/~syncthing~Phỏng vấn người đang vay thế chấp để có thẻ tín dụng.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Bảo hiểm y tế, bảo hiểm xã hội",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Vay, nợ/~syncthing~Điểm tín dụng, CIC.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Xù nợ ngân hàng.md.tmp",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/~syncthing~Giúp nhau giữ CIC.md.tmp",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/~syncthing~Hoàn trả tiền không hoàn qua tài khoản.md.tmp",
     "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Chứng khoán",
     "⚡Hiểu biết sâu/Kinh tế/Kinh tế vĩ mô, toàn cầu hoá/Hệ thống tài phiệt",
-    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Trường phái/Tiền cổ điển và cổ điển/Cổ điển",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Lĩnh vực khác",
-    "⚡Hiểu biết sâu/Kiếm tiền/Untitled",
-    "📜Tài nguyên/Tình hình ở Việt Nam",
-    "⚡Hiểu biết sâu/Kinh tế/Trường phái/Tiền cổ điển và cổ điển/Trọng thương/~syncthing~Chủ nghĩa trọng thương định hình cả chính sách kinh tế và đối ngoại của châu Âu suốt hơn một thế kỷ.md.tmp",
-    "⚡Hiểu biết sâu/Kinh tế/Trường phái/Tiền cổ điển và cổ điển/Trọng thương/~syncthing~Chủ nghĩa trọng thương đặt nền móng cho nhận thức rằng kinh tế và chính trị không tách rời.md.tmp",
-    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Trường phái/Tiền cổ điển và cổ điển/Trọng thương",
-    "⚡Hiểu biết sâu/Kinh tế/Trường phái/~syncthing~1cfd5046535442f04f51698e63a003ee0d617718bfb367d11b08ce286cac156d.tmp",
     "Ξ Thiết lập/Ảnh/Pasted image 20250723161741.png",
     "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Quà tặng.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250707205013.png",

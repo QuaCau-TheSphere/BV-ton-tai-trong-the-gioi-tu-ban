@@ -48,7 +48,7 @@ Phải [[App vay nóng]]
 | Tiền điện nước quản lý |         |          |
 | Tiền lãi               |         |          |
 | Tiền xoay hợp đồng     |         |          |
-## Đây là [[3 Ý tưởng|một số ý tưởng kiếm tiền]]. Bạn có mong muốn tham gia vào các hoạt động nào?
+## Đây là [[Ý tưởng|một số ý tưởng kiếm tiền]]. Bạn có mong muốn tham gia vào các hoạt động nào?
 ## Trong [[các dịch vụ cho vay]], bạn đã dùng tới những dịch vụ nào? Vì sao chúng không phù hợp với bạn?
 ## Bạn có chấp nhận [[Xù nợ ngân hàng]] không? Vì sao?
 Đã làm

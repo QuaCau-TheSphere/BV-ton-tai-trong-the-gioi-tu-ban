@@ -12,7 +12,7 @@ Với dịch vụ này, bạn:
 - Có tiền xăng xe, cà phê nếu có công việc cần chạy về TP.HCM
 - [[Đóng BHXH ngay đầu tháng|Được đóng bảo hiểm xã hội ngay đầu tháng]]
 
- Công việc của bạn sẽ là [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|làm nhân viên ảo FE]], mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
+ Công việc của bạn sẽ là [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|làm nhân viên ảo FE]], mất chừng 20 phút mỗi ngày. Ngoài thời gian đó thì bạn được làm công việc riêng của bạn. 
 
 ## Mô tả nơi ở
 Phòng trọ 15 m², một trệt một lửng. 

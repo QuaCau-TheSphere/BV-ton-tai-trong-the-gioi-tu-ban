@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:27
-updated: 2025-08-07T15:25
+updated: 2025-08-16T22:05
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -15,7 +15,7 @@ updated: 2025-08-07T15:25
 ### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
 
 ## Các cách xoay sở
-### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
+### Bạn đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 ### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
 ### Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 ### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ vay nóng]] không? Vì sao?

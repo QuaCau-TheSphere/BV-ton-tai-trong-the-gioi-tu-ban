@@ -26,7 +26,7 @@ Phải [[App vay nóng|vay nóng]]
 ### Bạn đánh giá mình thuộc loại nghèo nào? Xem chi tiết ở bài [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
 
 ## Các cách xoay sở
-### Bạn đã thử tham gia vào [[3 Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
+### Bạn đã thử tham gia vào [[Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 Hiện tại đang làm [[Đại lý bán hàng]] cho Cathay. Công việc 
 [[Tuyển dụng cho Cathay]]
 [[Giả thiết về nguồn tuyển dụng cho Cathay]]

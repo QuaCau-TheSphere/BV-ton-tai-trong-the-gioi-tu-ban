@@ -7,7 +7,7 @@ description: "Số tiền được nhận: 100k/tài khoản ngân hàng, hoặc
 Yêu cầu đầu vào:: [[Có tài khoản ngân hàng]], [[Làm trực tuyến]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
 
-Cùng với [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/GM Mall|làm nhân viên ảo GM Mall]], các công việc ở đây là một phần của [[Chạy chỉ tiêu|nhóm chạy chỉ tiêu (KPI) cho nhân sự]].
+Cùng với [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân sự ảo/GM Mall|làm nhân viên ảo GM Mall]], các công việc ở đây là một phần của [[Chạy chỉ tiêu|nhóm chạy chỉ tiêu (KPI) cho nhân sự]].
 
 Yêu cầu chung: Cọc 500k qua trung gian Quả Cầu để đảm bảo
 

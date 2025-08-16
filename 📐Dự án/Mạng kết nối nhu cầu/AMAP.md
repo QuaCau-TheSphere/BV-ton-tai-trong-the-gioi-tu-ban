@@ -18,5 +18,5 @@ Một năm tốn 1
 
 diony coop 
 [Cánh đồng sẻ chia- Cộng đồng tiêu dùng sản xuất bền vững Amap Viet \| Facebook](https://www.facebook.com/groups/canhdongsechia/?ref=share&mibextid=NSMWBT)
-
+https://youtu.be/tjKH6QHKBQU?si=XV9xmRYNxRzNbdEW
 Giống như đánh future -> dùng các công cụ quản lý của future?

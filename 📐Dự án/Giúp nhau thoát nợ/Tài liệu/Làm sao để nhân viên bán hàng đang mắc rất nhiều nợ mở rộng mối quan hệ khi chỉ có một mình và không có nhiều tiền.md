@@ -1,7 +1,7 @@
 ---
 share: true
 created: 20o25-03-27T17:13
-updated: 2025-08-13T20:08
+updated: 2025-08-16T10:38
 ---
 [[Muốn bán hàng tốt cần có mối quan hệ]]. Đây là các giai đoạn của việc thiết lập mối quan hệ:
 ```mermaid
@@ -40,3 +40,4 @@ Hành trình cá nhân
 | ...đăng lại bài viết hay của người khác?                       |                                    |
 
 [[Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH]]
+[[Mở rộng mối quan hệ]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:43
-updated: 2025-07-13T13:59
+updated: 2025-08-16T22:04
 alias: số mũ, cấp số nhân
 ---
 Khái niệm:: [[Phi tuyến]]

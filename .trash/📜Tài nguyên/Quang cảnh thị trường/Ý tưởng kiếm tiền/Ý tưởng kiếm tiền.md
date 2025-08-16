@@ -10,14 +10,14 @@ alias:
   - Mối quan hệ giữa các khái niệm
 cssClass: wide-table
 ---
-[[3 Ý tưởng]]
+[[Ý tưởng]]
 ## Mối quan hệ giữa các khái niệm
 
 ```mermaid
 flowchart LR
 	1["1 Yêu cầu đầu vào"]
 	2["2 Hình thức"]
-	3["3 Ý tưởng"]
+	3["Ý tưởng"]
 
 3-->1
 3-->2

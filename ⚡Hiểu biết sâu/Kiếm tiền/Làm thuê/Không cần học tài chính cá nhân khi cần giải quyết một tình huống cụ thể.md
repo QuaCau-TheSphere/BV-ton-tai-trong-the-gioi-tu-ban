@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T20:51
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:04
 ---
 Khi nào thì KHÔNG đi học Tài chính cá nhân?
 

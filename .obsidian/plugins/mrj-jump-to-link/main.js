@@ -42,6 +42,7 @@ class Settings {
         this.lightspeedCaseSensitive = false;
         this.jumpToLinkIfOneLinkOnly = true;
         this.lightspeedJumpToStartOfWord = true;
+        this.lightspeedCharacterCount = 2;
     }
 }
 
@@ -688,8 +689,8 @@ class JumpToLink extends obsidian.Plugin {
                     keyArray.push(event.key);
                 }
             }
-            // stop when length of array is equal to 2
-            if (keyArray.length === 2) {
+            // stop when length of array is equal to lightspeedCharacterCount
+            if (keyArray.length === this.settings.lightspeedCharacterCount) {
                 const stringToSearch = this.settings.lightspeedJumpToStartOfWord ? "\\b" + keyArray.join("") : keyArray.join("");
                 this.handleJumpToRegex(stringToSearch, this.settings.lightspeedCaseSensitive);
                 // removing eventListener after proceeded
@@ -901,6 +902,18 @@ class SettingTab extends obsidian.PluginSettingTab {
                 yield this.plugin.saveData(this.plugin.settings);
             }));
         });
+        new obsidian.Setting(containerEl)
+            .setName('Number of characters for Lightspeed jump')
+            .setDesc('Determines how many characters you need to type to perform a Lightspeed jump.')
+            .addText((text) => (text
+            .setValue(String(this.plugin.settings.lightspeedCharacterCount))
+            .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+            const num = Number(value);
+            if (!isNaN(num)) {
+                this.plugin.settings.lightspeedCharacterCount = num;
+                yield this.plugin.saveData(this.plugin.settings);
+            }
+        })).inputEl.type = "number"));
     }
 }
 

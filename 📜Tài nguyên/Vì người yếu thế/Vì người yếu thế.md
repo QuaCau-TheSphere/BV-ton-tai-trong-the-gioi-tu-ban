@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-10-17T14:50
-updated: 2025-07-23T22:29
+updated: 2025-08-16T09:24
 ---
-[KOTO - Know One Teach One](https://www.koto.com.au/vi)
+
 ```dataview
 LIST rows.file.link
 FROM "📜Tài nguyên/Vì người yếu thế" 

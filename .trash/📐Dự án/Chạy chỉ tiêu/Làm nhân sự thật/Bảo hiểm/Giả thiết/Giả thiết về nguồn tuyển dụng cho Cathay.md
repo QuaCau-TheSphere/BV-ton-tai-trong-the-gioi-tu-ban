@@ -19,7 +19,7 @@ Nhưng đó là điều kiện cần. [[Muốn bán hàng tốt cần có mối 
 ### Sinh viên nói chung
 - Làm đại lý bảo hiểm có phải là nghề tốt cho sinh viên?
     - Nếu họ muốn trải nghiệm cuộc sống thì liệu bán hàng giúp trải nghiệm tốt không?
-    - Nếu là cần trang trải cuộc sống thì tại sao nó lại hơn những công việc khác được liệt kê ở [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]? Kể cả là chạy ảo thì họ có thời gian lên mỗi buổi sáng không?
+    - Nếu là cần trang trải cuộc sống thì tại sao nó lại hơn những công việc khác được liệt kê ở [[Ý tưởng|Một số ý tưởng kiếm tiền]]? Kể cả là chạy ảo thì họ có thời gian lên mỗi buổi sáng không?
 
 Người làm trong các trung tâm tư vấn giới thiệu việc làm thì muốn giới thiệu thứ phù hợp nhất cho sinh viên. Nếu công việc không tốt hơn các công việc khác, nhưng muốn họ ưu tiên mình hơn thì khác gì các nhà sản xuất muốn siêu thị đặt hàng của mình lên phía trước. Như vậy thì chỉ là đưa thêm tiền mà thôi.
 

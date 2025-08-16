@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-04T15:09
-updated: 2025-07-09T17:32
+updated: 2025-08-16T10:22
 ---
 [[Kế hoạch bán bảo hiểm cho cá nhân]]
 [[Xác định nhu cầu bảo hiểm của người thân, bạn bè, hàng xóm của người khuyết tật]]

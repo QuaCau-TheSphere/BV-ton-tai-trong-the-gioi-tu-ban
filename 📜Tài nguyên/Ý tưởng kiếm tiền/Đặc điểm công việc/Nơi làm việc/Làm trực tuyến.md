@@ -9,7 +9,7 @@ Các việc này có thể kết hợp cùng với các công việc yêu cầu 
 
 ```dataview
 LIST
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng" 
 WHERE contains(tính-chất-công-việc, [[]])
 ```
 
