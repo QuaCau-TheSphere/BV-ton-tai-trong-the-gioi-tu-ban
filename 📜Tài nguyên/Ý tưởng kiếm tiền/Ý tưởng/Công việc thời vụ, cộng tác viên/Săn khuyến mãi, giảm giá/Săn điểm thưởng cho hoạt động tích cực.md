@@ -2,10 +2,10 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-15T16:12
-updated: 2025-08-16T22:05
+updated: 2025-08-17T15:15
 alias: voucher
 ---
-Tính chất công việc:: [[Làm trực tuyến]], [[Không tiếp xúc với con người]], [[Không tốn diện tích]], [[Không cần nghe]], [[Không cần đi lại]], [[Không cần nói]], [[Được chọn thời gian làm trong ngày]], [[Không cần độ tập trung cao]], [[Làm trực tuyến]]
+Tính chất công việc:: [[Làm qua mạng]], [[Không tiếp xúc với con người]], [[Không tốn diện tích]], [[Không cần nghe]], [[Không cần đi lại]], [[Không cần nói]], [[Được chọn thời gian làm trong ngày]], [[Không cần độ tập trung cao]], [[Làm qua mạng]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
 Mô tả công việc:: 

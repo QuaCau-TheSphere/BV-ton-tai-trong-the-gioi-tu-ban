@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:53
+updated: 2025-08-17T08:58
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -45,7 +45,7 @@ Xem thêm:: [[Bao nuôi]]
 - Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo Việt|Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
 - Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|VNPAY]]
 - Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|FE Credit]]
-- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall/Làm nhân viên ảo|GM Mall]]
+- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Sàn thương mại điện tử/Làm nhân viên ảo|GM Mall]]
 
 - cty gia dụng bên TQ, mỗi ngày đi 2-3 cửa hàng chụp hình, lcb 8-10tr,
 - cty nước lọc, lcb 10-12tr, đi khảo sát, chụp hình,

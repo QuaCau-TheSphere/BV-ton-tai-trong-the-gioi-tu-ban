@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-08T11:48
+updated: 2025-08-17T16:41
 ---
 Khái niệm:: [[Công đoàn]], [[Đình công]]
 Lý do:: [[Bởi vì Công đoàn Việt Nam là thuộc nhà nước, nên nếu doanh nghiệp làm đúng luật thì cũng không thể đòi hỏi họ thêm]]

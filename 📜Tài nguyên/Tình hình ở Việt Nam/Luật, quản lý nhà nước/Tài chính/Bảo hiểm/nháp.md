@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-16T15:03
-updated: 2025-07-21T12:39
+updated: 2025-08-17T16:41
 ---
 
 chưa kể bảo việt tuy của nhà nước, nhưng nó chỉ hậu mãi tối ưu ở một mảng bảo hiểm mà không đụng chạm đến lợi ích chính là huy động vốn của ngân hàng, nên nó được optimize trong zone của nó only

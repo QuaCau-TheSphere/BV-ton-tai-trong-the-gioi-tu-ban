@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8de62a9713611cbc",
+            "id": "3d7a81c8bf34ec37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Phỏng vấn người hỗ trợ.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Xù nợ ngân hàng"
+              "title": "Phỏng vấn người hỗ trợ"
             }
           },
           {
-            "id": "f02a41d5dbf895f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Tổ chức tài chính vi mô/Quỹ Đồng Hành.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Quỹ Đồng Hành"
-            }
-          },
-          {
-            "id": "a69995fa10ffaace",
+            "id": "6181730d78528a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "047eb75877e77619",
+            "id": "9d32d453bf9eadc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+                "file": "⚡Hiểu biết sâu/Kinh tế/Ngân hàng không chấp nhận thế chấp tài sản vô hình.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Xù nợ ngân hàng"
+              "title": "Ngân hàng không chấp nhận thế chấp tài sản vô hình"
             }
           },
           {
-            "id": "3d7a81c8bf34ec37",
+            "id": "fbca23499f58bcdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Sống vừa đủ, bền vững/Các công việc thường cung cấp chỗ ở.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Giúp nhau giữ CIC.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,11 +100,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Các công việc thường cung cấp chỗ ở"
+              "title": "Giúp nhau giữ CIC"
+            }
+          },
+          {
+            "id": "0bf7fc333a6ff2cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Lĩnh vực cụ thể.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lĩnh vực cụ thể"
+            }
+          },
+          {
+            "id": "5270452d5b9e6227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/Ngân hàng/Ngân hàng.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ngân hàng"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +205,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,35 +302,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a69995fa10ffaace",
+  "active": "0bf7fc333a6ff2cb",
   "lastOpenFiles": [
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Untitled.md",
-    "📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Kế hoạch/Untitled.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhập liệu, dán nhãn dữ liệu, BPO.md",
-    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền.md",
-    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
-    "Ξ Thiết lập/Templates/Ghi chú chung chung.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Ý tưởng sinh ra không theo độ khẩn cấp.md",
-    "📐Dự án/Giúp nhau thoát nợ/Giúp nhau thoát nợ.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Cần biết lập trình.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Cần biết cách ẩn danh.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm làm việc/Mỗi tuần lên công ty một buổi.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Untitled.md",
-    "⚡Hiểu biết sâu/Kinh tế/Cải cách/Untitled.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/Ngân hàng/Ngân hàng.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/SMBC có 22.1% cổ phần Bảo Việt, 15% VPBank và 49% FE Credit.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Nhã Nam bắt buộc phải dựa vào số lượng sách để sống, không thể bằng cách làm ít mà tinh được.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Lĩnh vực cụ thể.md",
     "📐Dự án/Giúp nhau thoát nợ/Giúp nhau giữ CIC.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Các dịch vụ cho vay tín chấp.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Momo bảo chứng sẽ đáng tin hơn FE, vì FE không biết mình là ai còn Momo thì có đủ số liệu dòng tiền.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/❓Việc có được nhiều tiền sẽ mở ra nhiều cánh cửa hơn để có dòng tiền.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nợ/Việc giữ được CIC tốt là cánh cửa để đạt được ước mơ thay đổi cuộc sống.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Muốn thoát khỏi rat race cần dòng tiền.md",
+    "⚡Hiểu biết sâu/Kinh tế/Ngân hàng không chấp nhận thế chấp tài sản vô hình.md",
+    "⚡Hiểu biết sâu/Kinh tế/Hàng hoá vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tài sản vô hình.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhận tiền hoa hồng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhập liệu, dán nhãn dữ liệu, BPO.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc/Làm qua mạng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Có laptop.md",
+    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Phỏng vấn người hỗ trợ.md",
+    "📐Dự án/Ξ Kết quả truyền thông/Ngân hàng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Nhóm chạy chỉ tiêu.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Làm sao cho vay mà không bị xù.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Làm sao để nhân viên bán hàng đang mắc rất nhiều nợ mở rộng mối quan hệ khi chỉ có một mình và không có nhiều tiền.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Đi tìm khách vậy có thấy ổn không.md",
     "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nợ/Bằng mọi giá phải giữ điểm tín dụng cho sạch.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Nhóm chạy chỉ tiêu.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhau kiếm tiền.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Phỏng vấn người đang vay thế chấp.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Có những lúc câu hỏi chất vấn thì người được giúp lại chỉ trả lời những câu họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Khi được hỏi là dự tính bị đuổi thì bảo là bi quan, bàn lùi.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Có những lúc người được giúp lại chỉ trả lời những câu hỏi chất vấn họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Làm sao để tự người đang nhờ mình giúp nhận ra rằng họ cần phải giải đáp cho mình các thắc mắc mà họ thấy không quan trọng.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Mặc cảm và cô đơn.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Thoả mãn sự trợ giúp.md",
+    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
     "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/~syncthing~Phỏng vấn người đang vay thế chấp để có thẻ tín dụng.md.tmp",
     "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn",
     "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Bảo hiểm y tế, bảo hiểm xã hội",

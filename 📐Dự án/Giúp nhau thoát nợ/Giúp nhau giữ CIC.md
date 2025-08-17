@@ -1,20 +1,22 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-16T19:29
+updated: 2025-08-17T16:23
 ---
 Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả.
 
 Hệ thống ngân hàng và điểm tín dụng này là hệ thống phục vụ cho tư bản. Mục tiêu của nó là để tối đa hoá lợi nhuận, nên nó xem người đi vay là tài nguyên để khai thác chứ không phải là một con người cần được nâng đỡ. Mình nghĩ rằng nếu phải đi vay, thì nên vay từ các tổ chức tài chính vi mô hoặc mạng lưới ngang hàng sẽ tốt hơn. Tuy nhiên phải thừa nhận một thực tế là các ngân hàng có thể cho vay với hạn mức lớn hơn nhiều, còn các tổ chức tài chính vi mô thì không ai biết tới, mà có biết thì cũng chỉ dành cho một số đối tượng đặc thù. Điều này dẫn đến những hệ quả sau: 
 - Ngay cả với các khoản tiền nhỏ thì nhiều người cũng đã vay ngân hàng rồi bị vướng vào vòng xoáy trả lãi 
-- Họ thà chết còn hơn bị mất điểm tín dụng. Bởi vì [[muốn thoát khỏi rat race cần dòng tiền]], và vì [[❓Việc có được nhiều tiền sẽ mở ra nhiều cánh cửa hơn để có dòng tiền]], nên đối với họ, [[việc giữ được CIC tốt là cánh cửa để đạt được ước mơ thay đổi cuộc sống]]
+- Họ thà chết còn hơn bị mất điểm tín dụng. Bởi vì [[muốn thoát khỏi rat race cần dòng tiền]], và vì [[❓việc có được nhiều tiền sẽ mở ra nhiều cánh cửa hơn để có dòng tiền]], nên đối với họ, [[việc giữ được CIC tốt là cánh cửa để đạt được ước mơ thay đổi cuộc sống]]
 - Với những người vay vốn để làm ăn thì những người họ thuê cũng sẽ bị mất việc hoặc phải chấp nhận bị nợ lương
 
 Chính vì vậy, mình đề xuất một quỹ tài chính vi mô với sứ mệnh giúp họ cắt các khoản lãi lớn. Trước mắt, để thử nghiệm, quỹ sẽ giới hạn đối tượng phục vụ là những người đang vay ngân hàng bằng hình thức thế chấp tài sản. Họ sẽ phải cung cấp địa chỉ nhà, bằng chứng về sổ tiết kiệm, và phải được bảo lãnh từ một người quỹ tin tưởng. Sau 40 ngày sổ sẽ được mở khoá và họ sẽ phải tất toán khoản vay.
 
 Số tiền cho vay lấy từ đâu? Từ chính những người định vay ngân hàng thế này. Ai tham gia sớm thì sau này sẽ được ưu tiên cho vay hơn. Lãi vay sẽ được trả một phần cho người quản lý, và một phần để trả tiền cho những ai góp tiền nhưng không cần dùng đến.
 
+Ví dụ, Cueball có sổ tiết kiệm 100tr, và dùng để thế chấp thẻ tín dụng 90tr.
 Mọi người thấy ý tưởng này thế nào?
+[[Làm sao cho vay mà không bị xù]]
 
 Những việc họ làm
 Không ai phải có trách nhiệm giúp họ cả
@@ -32,7 +34,7 @@ Lệ thuộc
 
 Bạn số 1 có 5 sổ tiết kiệm trong Vietinbank, tổng cộng 165tr, ngày đáo hạn trải dài từ ngày 6 đến ngày 21/8. Các sổ này đều được thế chấp để có thẻ tín dụng 150tr, nhưng việc trả nợ gặp khó khăn. Giờ nếu để cho ngân hàng xiết sổ thì mất luôn 15tr. Nên bạn muốn vay ngắn hạn để huỷ thẻ tín dụng trước, rồi khi lấy được sổ rồi sẽ trả lại sau. 
 
-Số tiền này đã được dùng để tạo ra các [[GM Mall|Công việc trong GM Mall]]
+Số tiền này đã được dùng để tạo ra các [[Sàn thương mại điện tử|Công việc trong GM Mall]]
 [[Giúp nhau kiếm tiền]]
 [[Nhóm chạy chỉ tiêu|nhóm làm các công việc thời vụ (freelancer)]]
 Bạn muốn vay 140tr, cam kết sau 40 ngày hậu tạ 3tr, sẽ ký các giấy tờ cần thiết để đảm bảo không lừa đảo. Nếu không huy động đủ 140tr tới ngày thẻ đáo hạn (5/9) thì sẽ hoàn trả lại.

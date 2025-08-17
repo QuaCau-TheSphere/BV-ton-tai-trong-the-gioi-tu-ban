@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T13:59
-updated: 2025-08-08T11:49
+updated: 2025-08-17T16:41
 ---
 Nói cách khác, nếu ai muốn làm cái này đúng luật, hãy nộp đơn xin vào MTTQVN
 Câu hỏi:: Nếu không phải thiên tai bão lũ thì có bị gì không?

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-17T15:15
 alias: laptop
 ---
 Khái niệm:: 
@@ -10,7 +10,7 @@ Xem thêm:
 - [[Không cần nói]]
 - [[Không cần đi lại]]
 - [[Cần nguồn nguyên liệu lớn với giá rẻ]]
-- [[Làm trực tuyến|Làm online]]
+- [[Làm qua mạng|Làm online]]
 - [[Được chọn thời gian làm trong ngày]]
 - [[Không cần độ tập trung cao]]
 - [[Không tiếp xúc với con người]]

@@ -1,0 +1,14 @@
+---
+share: true
+created: 2023-09-05T16:17
+updated: 2025-08-17T15:15
+---
+Tính chất công việc:: [[Làm qua mạng]]
+Hình thức:: [[Công việc thời vụ, cộng tác viên]]
+
+Cùng với [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|Làm nhân viên ảo VNPAY]] và [[Đổi tiền, chụp hình biển hiệu, dán mã QR]], các công việc ở đây là một phần của [[Nhóm chạy chỉ tiêu|nhóm chạy chỉ tiêu (KPI) cho nhân sự]].
+
+## Viết hợp đồng
+## Dò sđt cửa hàng trong app 
+- **Yêu cầu:** ghi thông tin cửa hàng ra theo mẫu có sẵn
+- **Tiền công:** 50k/h ngày làm 5h, 1h 6 cửa hàng, ngày làm tối thiểu 30 cửa hàng
