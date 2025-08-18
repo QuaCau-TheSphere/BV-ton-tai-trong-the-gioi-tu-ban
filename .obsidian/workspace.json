@@ -8,79 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d7a81c8bf34ec37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Phỏng vấn người hỗ trợ.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phỏng vấn người hỗ trợ"
-            }
-          },
-          {
-            "id": "6181730d78528a83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhập liệu, dán nhãn dữ liệu, BPO.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nhập liệu, dán nhãn dữ liệu, BPO"
-            }
-          },
-          {
-            "id": "9d32d453bf9eadc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Kinh tế/Ngân hàng không chấp nhận thế chấp tài sản vô hình.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ngân hàng không chấp nhận thế chấp tài sản vô hình"
-            }
-          },
-          {
             "id": "fbca23499f58bcdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ tạo ra cầu.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ tạo ra cầu"
+            }
+          },
+          {
+            "id": "451f8d70f3157bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,13 +56,13 @@
             }
           },
           {
-            "id": "0bf7fc333a6ff2cb",
+            "id": "5a3212993025256d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Lĩnh vực cụ thể.md",
-                "mode": "preview",
+                "file": "📐Dự án/Ξ Kết quả truyền thông/Tài chính, ngân hàng.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,35 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lĩnh vực cụ thể"
-            }
-          },
-          {
-            "id": "5270452d5b9e6227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/Ngân hàng/Ngân hàng.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ngân hàng"
+              "title": "Tài chính, ngân hàng"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +132,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -302,44 +228,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bf7fc333a6ff2cb",
+  "active": "fbca23499f58bcdf",
   "lastOpenFiles": [
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/Ngân hàng/Ngân hàng.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tổ chức tín dụng/SMBC có 22.1% cổ phần Bảo Việt, 15% VPBank và 49% FE Credit.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Nhã Nam bắt buộc phải dựa vào số lượng sách để sống, không thể bằng cách làm ít mà tinh được.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Lĩnh vực cụ thể.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Luật, nhà nước/Cải cách không thể thành công nếu được tiến hành trong một cấu trúc quyền lực không muốn thay đổi.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Các xu thế kinh tế mới.md",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Giúp đỡ nhau/Người khác sẽ tham gia giúp đỡ khi họ thấy việc mình làm gần thoả mãn nhu cầu của họ.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững/Con số cho tiền cho thiện nguyện dựa trên cộng đồng không tăng lên dù có rất nhiều nền tảng.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Kể cả khi AI có thể làm mất việc, thì những ngành khác cũng sẽ tạo ra nhiều loại việc khác.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Nền kinh tế không dùng tiền/Nền kinh tế không dùng tiền.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Nền kinh tế không dùng tiền/The non-monetary economy, typically embedded in a monetary economy, undertakes tasks that benefit society (whether through producing services, products, or making investments) that the monetary economy does not value.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chia sẻ/Các công ty lớn không cung cấp sự bảo vệ cho các nhà cung cấp hoặc khách hàng của họ.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chia sẻ/Nền kinh tế chia sẻ bắt đầu nổi lên từ 2008, là lúc thất nghiệp hàng loạt, khổ hạnh và bần cùng hóa ngày càng tăng.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chia sẻ/Ba phần tư đối tác của AirBnB cho thuê cả nhà.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Nền kinh tế hậu khan hiếm.md",
+    "⚡Hiểu biết sâu/Kinh tế/Các loại hình kinh tế mới/Nền kinh tế không dùng tiền.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Năm 1990 UNDP gắn phát triển vào phát triển con người.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế xanh/Nền kinh tế xanh.md",
+    "⚡Hiểu biết sâu/Kinh tế/Người không được đáp ứng nhu cầu sẽ không function tốt trong xã hội.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Kinh tế tự cung tự cấp, P2P, trọng nông.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Công việc chăm sóc không lương thường vô hình trong các chính sách và ngân sách bởi vì nó không nằm trong định nghĩa và đo lường theo cách truyền thống của nền kinh tế.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Công việc chăm sóc không lương được gán cho là không có giá trị về kinh tế bất chấp một thực tế về những đóng góp to lớn của công việc này cho nền kinh tế và xã hội.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Các công việc nấu nướng, dọn dẹp, chăm sóc trẻ em, người già và người bệnh tại gia đình thường được hiểu là công việc chăm sóc không lương.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Chưa có một lý thuyết chắc chắn nào về nền kinh tế chăm sóc.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Các tư tưởng hậu hiện đại, vốn chiếm lĩnh ngành khoa học xã hội và nhân văn từ thập niên 1980, từng hứa hẹn mở ra một tầm nhìn mới cho tự do, nhưng đang trở thành một phương tiện giúp chủ nghĩa tư bản triệt tiêu sự phản kháng.md",
+    "Ξ Thiết lập/Templates/Ghi chú chung chung.md",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lộc.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Nếu muốn nghe những nhà kinh tế nói về xã hội thì nên tìm họ ở những nơi khác hơn là các phân khoa kinh tế.md",
     "📐Dự án/Giúp nhau thoát nợ/Giúp nhau giữ CIC.md",
-    "⚡Hiểu biết sâu/Kinh tế/Ngân hàng không chấp nhận thế chấp tài sản vô hình.md",
-    "⚡Hiểu biết sâu/Kinh tế/Hàng hoá vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ.md",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Tài sản vô hình.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhận tiền hoa hồng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhập liệu, dán nhãn dữ liệu, BPO.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc/Làm qua mạng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Có laptop.md",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/Phỏng vấn người hỗ trợ.md",
-    "📐Dự án/Ξ Kết quả truyền thông/Ngân hàng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Nhóm chạy chỉ tiêu.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Làm sao cho vay mà không bị xù.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Làm sao để nhân viên bán hàng đang mắc rất nhiều nợ mở rộng mối quan hệ khi chỉ có một mình và không có nhiều tiền.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Đi tìm khách vậy có thấy ổn không.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Có những lúc câu hỏi chất vấn thì người được giúp lại chỉ trả lời những câu họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Khi được hỏi là dự tính bị đuổi thì bảo là bi quan, bàn lùi.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Có những lúc người được giúp lại chỉ trả lời những câu hỏi chất vấn họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Làm sao để tự người đang nhờ mình giúp nhận ra rằng họ cần phải giải đáp cho mình các thắc mắc mà họ thấy không quan trọng.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Mặc cảm và cô đơn.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Niềm tin/Thoả mãn sự trợ giúp.md",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/~syncthing~Lộc.md.tmp",
+    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/~syncthing~Các nhà kinh tế học.md.tmp",
+    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/~syncthing~Untitled.md.tmp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Quản lý tài khoản mạng xã hội.md.tmp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Untitled.md.tmp",
     "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
     "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/~syncthing~Phỏng vấn người đang vay thế chấp để có thẻ tín dụng.md.tmp",
     "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Bảo hiểm y tế, bảo hiểm xã hội",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Vay, nợ/~syncthing~Điểm tín dụng, CIC.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Xù nợ ngân hàng.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/~syncthing~Giúp nhau giữ CIC.md.tmp",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Chính sách công ty/~syncthing~Hoàn trả tiền không hoàn qua tài khoản.md.tmp",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Chứng khoán",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế vĩ mô, toàn cầu hoá/Hệ thống tài phiệt",
     "Ξ Thiết lập/Ảnh/Pasted image 20250723161741.png",
     "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Quà tặng.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250707205013.png",

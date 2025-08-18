@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2025-08-17T16:41
+updated: 2025-08-17T19:13
 ---
 Khái niệm:: [[App đen, vay nóng]]
 
@@ -46,7 +46,7 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 
 [laodong.vn/kinh-te/vay-tien-qua-app-tin-dung-den-lai-cat-co-vi-sao-bung-phat-tai-viet-nam-808348.ldo](https://laodong.vn/kinh-te/vay-tien-qua-app-tin-dung-den-lai-cat-co-vi-sao-bung-phat-tai-viet-nam-808348.ldo)
 
-[[4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân]]
+[[4 ngân hàng lớn là các ngân hàng có vốn nhà nước]]
 
 [Tao từng làm việc cho một công ty đào lửa bên Campuchia](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mjedr1/tao_từng_làm_việc_cho_một_công_ty_đào_lửa_bên%2f)
 ![Vì Sao Campuchia Trở Thành "THIÊN ĐƯỜNG Việc Nhẹ Volt Cao?" - YouTube](https://youtu.be/JW9AMuUAsRg?si=o93PPSU6qcaHOsXD)

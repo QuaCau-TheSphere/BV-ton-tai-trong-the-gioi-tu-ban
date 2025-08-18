@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-08-14T09:48
+updated: 2025-08-17T20:24
 alias: Giảm thiệt hại khi quyết định xù nợ vay nóng
 ---
 Khái niệm:: [[App đen, vay nóng]]

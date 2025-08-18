@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-04-08T15:16
-updated: 2025-07-09T17:32
+updated: 2025-08-17T19:13
 ---
 ## Khách hàng cá nhân
 - Trung gian thanh toán: Momo, VNPAY, v.v.
-- Ngân hàng: chủ yếu là các ngân hàng như OCB [[4 ngân hàng lớn chuyên cho doanh nghiệp vay. Các ngân hàng còn lại cạnh tranh ở phân khúc cá nhân]]
+- Ngân hàng: chủ yếu là các ngân hàng như OCB [[4 ngân hàng lớn là các ngân hàng có vốn nhà nước]]
 - Thương mại điện tử
 - Công ty tài chính: FE,
 

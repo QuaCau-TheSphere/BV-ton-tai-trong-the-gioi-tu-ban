@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-17T16:23
+updated: 2025-08-18T16:49
 ---
-Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả.
+Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả. Điểm này do Trung tâm Tín dụng Quốc gia (CIC) quản lý, nên cũng hay được gọi là điểm CIC. 
 
 Hệ thống ngân hàng và điểm tín dụng này là hệ thống phục vụ cho tư bản. Mục tiêu của nó là để tối đa hoá lợi nhuận, nên nó xem người đi vay là tài nguyên để khai thác chứ không phải là một con người cần được nâng đỡ. Mình nghĩ rằng nếu phải đi vay, thì nên vay từ các tổ chức tài chính vi mô hoặc mạng lưới ngang hàng sẽ tốt hơn. Tuy nhiên phải thừa nhận một thực tế là các ngân hàng có thể cho vay với hạn mức lớn hơn nhiều, còn các tổ chức tài chính vi mô thì không ai biết tới, mà có biết thì cũng chỉ dành cho một số đối tượng đặc thù. Điều này dẫn đến những hệ quả sau: 
 - Ngay cả với các khoản tiền nhỏ thì nhiều người cũng đã vay ngân hàng rồi bị vướng vào vòng xoáy trả lãi 
@@ -14,32 +14,23 @@ Chính vì vậy, mình đề xuất một quỹ tài chính vi mô với sứ m
 
 Số tiền cho vay lấy từ đâu? Từ chính những người định vay ngân hàng thế này. Ai tham gia sớm thì sau này sẽ được ưu tiên cho vay hơn. Lãi vay sẽ được trả một phần cho người quản lý, và một phần để trả tiền cho những ai góp tiền nhưng không cần dùng đến.
 
-Ví dụ, Cueball có sổ tiết kiệm 100tr, và dùng để thế chấp thẻ tín dụng 90tr.
+Để tránh xù nợ, các bên sẽ ra công chứng viết giấy nợ.
+
+## Ví dụ
+Cueball có một sổ tiết kiệm 100tr, lãi 5%/năm, đáo hạn ngày 31/12. Sổ này được dùng để thế chấp thẻ tín dụng 80tr, đáo hạn ngày 30 hàng tháng. Hôm nay là ngày 20/12, và anh nhắm không xoay đủ 80tr để trả thẻ. Nếu tới ngày đáo hạn thẻ mà không trả thì anh bị liệt vào nợ xấu và mất 100tr. 
+
+Quỹ sẽ cho Cueball vay 80tr, ngày tất toán là 30/1, với lãi 4%. 3% sẽ được trả lại cho những người đóng góp, 1% dùng để duy trì quỹ.
+
+
 Mọi người thấy ý tưởng này thế nào?
+
 [[Làm sao cho vay mà không bị xù]]
 
-Những việc họ làm
-Không ai phải có trách nhiệm giúp họ cả
-Đã có vô vàn người bị liệt vào nợ xấu, không giúp thì cũng không sao.
 
-Ở trên là nói ở khía cạnh người cần vay. Giờ hãy nói về khía cạnh người giúp họ. Đứng trên quan điểm chống tư bản hoặc phát triển bền vững nói chung thì mục tiêu quan trọng nhất là thay đổi hệ thống, việc trợ giúp cá nhân chỉ là thứ yếu và không bền vững. 
-
-Nên việc giúp những ai cần giúp giữ cái điểm tín dụng này chỉ làm xao nhãng mục tiêu bền vững hơn là xây dựng tổ chức vi mô. Họ cứ thể hiện là họ chết tới nơi rồi, nhưng cũng như mọi loại bất hạnh khác, [[Xù nợ ngân hàng|nó cũng không là mãi mãi]]. Tuy nhiên bằng cách này hay cách khác việc giữ được điểm tín dụng cho họ nói riêng và giúp họ nói chung cũng sẽ đóng góp ngược lại cho mục tiêu tối hậu. Đó có thể là cơ hội việc làm cho nhiều người khác, các mối quan hệ và kiến thức trong ngành, v.v. Những thông tin này đều được văn bản hóa để tạo thành kho tri thức cộng đồng. Thế nên, song song với việc xây dựng một tổ chức tài chính vi mô thì mình nghĩ việc giúp họ nói chung và giúp họ giữ điểm tín dụng nói riêng cũng quan trọng. Nó sẽ khác với các loại từ thiện khác vì nguy cơ phụ thuộc thấp, và giá trị họ đem lại cao. Có thể xem đây là một dạng thử nghiệm xã hội. Và việc giúp này cũng không thể tách rời khỏi việc giúp họ tạo dòng tiền. Nghĩa là trở thành đồng sáng lập
-
+[[Phỏng vấn người chơi GM đang vay thế chấp]]
 
 Lệ thuộc
-
 ## Cắt nợ thẻ tín dụng để lấy sổ tiết kiệm
-1. Cho vay 140tr, trả trong 40 ngày, lãi 3%
-
-Bạn số 1 có 5 sổ tiết kiệm trong Vietinbank, tổng cộng 165tr, ngày đáo hạn trải dài từ ngày 6 đến ngày 21/8. Các sổ này đều được thế chấp để có thẻ tín dụng 150tr, nhưng việc trả nợ gặp khó khăn. Giờ nếu để cho ngân hàng xiết sổ thì mất luôn 15tr. Nên bạn muốn vay ngắn hạn để huỷ thẻ tín dụng trước, rồi khi lấy được sổ rồi sẽ trả lại sau. 
-
-Số tiền này đã được dùng để tạo ra các [[Sàn thương mại điện tử|Công việc trong GM Mall]]
-[[Giúp nhau kiếm tiền]]
-[[Nhóm chạy chỉ tiêu|nhóm làm các công việc thời vụ (freelancer)]]
-Bạn muốn vay 140tr, cam kết sau 40 ngày hậu tạ 3tr, sẽ ký các giấy tờ cần thiết để đảm bảo không lừa đảo. Nếu không huy động đủ 140tr tới ngày thẻ đáo hạn (5/9) thì sẽ hoàn trả lại.
-
-Ở đây có bao nhiêu người vì gm mà mắc nợ nhỉ? 
 
 ##  Cắt nợ Momo, Shopee
 2. Cho vay 8tr, trả cuối tháng 9, lãi thoả thuận
