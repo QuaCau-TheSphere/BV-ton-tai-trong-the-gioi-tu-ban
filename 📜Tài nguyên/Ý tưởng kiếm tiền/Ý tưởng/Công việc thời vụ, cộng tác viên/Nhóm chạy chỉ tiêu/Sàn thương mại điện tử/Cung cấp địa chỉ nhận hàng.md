@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-08-17T15:15
+updated: 2025-08-23T15:55
 description: Cung cấp địa chỉ để được nhận hàng miễn phí
 ---
 Tính chất công việc:: [[Không cần độ tập trung cao]], [[Làm qua mạng]]
@@ -22,4 +22,4 @@ Nhân viên các sàn thương mại điện tử khi hoạt động các tài k
 
 ## Nơi thảo luận
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác
+> Công việc này là một phần của [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác

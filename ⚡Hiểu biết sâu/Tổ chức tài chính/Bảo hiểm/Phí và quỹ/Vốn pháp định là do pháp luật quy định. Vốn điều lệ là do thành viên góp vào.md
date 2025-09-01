@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-09-06T16:53
-updated: 2025-07-09T17:32
-alias:
+updated: 2025-08-16T22:04
+aliases:
   - Vốn điều lệ là do thành viên góp vào
   - Vốn pháp định là do pháp luật quy định
 ---

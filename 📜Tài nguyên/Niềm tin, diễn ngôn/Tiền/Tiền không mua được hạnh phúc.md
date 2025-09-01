@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-10-06T21:23
-updated: 2025-07-09T17:32
+updated: 2025-08-23T21:47
 ---
 Khái niệm:: 
-
+Mâu thuẫn với:: [[Cái gì không mua được bằng tiền thì mua được bằng rất nhiều tiền]]
 Nguồn:: 

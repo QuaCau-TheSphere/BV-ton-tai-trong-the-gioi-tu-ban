@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T19:13
+updated: 2025-08-23T19:39
 ---
 [[Các ngân hàng có cách để góp vốn vào app đen để lách giới hạn lãi suất]] 
-[[4 ngân hàng lớn là các ngân hàng có vốn nhà nước]]
+[[Vietcombank, VietinBank, Agribank, và BIDV là các ngân hàng có vốn nhà nước trên 50%]]
+Mâu thuẫn với:: [[Cho vay cá nhân lợi hơn là cho vay doanh nghiệp]]

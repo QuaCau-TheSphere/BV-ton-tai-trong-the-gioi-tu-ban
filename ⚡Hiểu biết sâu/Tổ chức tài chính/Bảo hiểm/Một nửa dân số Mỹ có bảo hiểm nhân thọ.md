@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-12-23T20:27
-updated: 2025-07-09T17:32
-alias: Chỉ một nửa dân số Mỹ là có bảo hiểm nhân thọ
+updated: 2025-08-16T22:04
+aliases:
+  - Chỉ một nửa dân số Mỹ là có bảo hiểm nhân thọ
 ---
 Khái niệm:: 
 > Building on the insights provided by the 2024 Insurance Barometer Study, approximately 51 percent of Americans report owning at least one life insurance policy, indicating stable coverage levels over recent years. The study reveals that 42 percent of American adults either need to obtain life insurance or increase their existing coverage. This persistent need-gap includes about 102 million adults, blending those who are uninsured and those who are underinsured.

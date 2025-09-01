@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-07-09T19:16
+updated: 2025-08-23T15:54
 ---
 Tính chất công việc::  
 Hình thức:: 
@@ -17,4 +17,4 @@ Số người cần tuyển::
 ## Nơi thảo luận
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]].
+> Công việc này là một phần của [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]].

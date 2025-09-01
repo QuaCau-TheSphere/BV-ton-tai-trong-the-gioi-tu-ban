@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-22T15:50
 ---
 Khái niệm:: 
 Mâu thuẫn với:: [[Nếu làm trái pháp luật thì không tồn tại được]]

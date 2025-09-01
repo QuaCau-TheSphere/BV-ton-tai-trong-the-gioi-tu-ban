@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-21T22:15
-updated: 2025-08-16T09:34
-alias: 5tr hay 5 tr? Viết dính hay viết rời?
+updated: 2025-08-16T22:05
+aliases:
+  - 5tr hay 5 tr? Viết dính hay viết rời?
 description: 5tr hay 5 tr? Viết dính hay viết rời?
 ---
 Có 3 cách tiếp cận:

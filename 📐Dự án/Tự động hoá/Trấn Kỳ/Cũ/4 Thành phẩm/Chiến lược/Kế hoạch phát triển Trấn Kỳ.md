@@ -1,13 +1,14 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 aliases:
   - Phát triển Trấn Kỳ
   - Chiến lược phát triển Trấn Kỳ
   - Lên kế hoạch phát triển Trấn Kỳ
   - Xác định cơ hội và giải pháp
-cssClass: wide-table
+cssclasses:
+  - wide-table
 alias:
   - Khái niệm
 ---

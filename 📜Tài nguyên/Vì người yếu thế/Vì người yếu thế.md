@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-17T14:50
-updated: 2025-08-16T09:24
+updated: 2025-08-26T19:10
 ---
 
 ```dataview
@@ -10,5 +10,6 @@ FROM "📜Tài nguyên/Vì người yếu thế"
 GROUP BY split(file.folder, "/")[2]
 WHERE file.name != this.file.name
 ```
+[CLB Công tác Xã hội Chuyên nghiệp TPHCM](https://www.facebook.com/clbctxhtphcm)
 ## Nơi thảo luận
 ![](https://i.imgur.com/IQ3jN7M.png)

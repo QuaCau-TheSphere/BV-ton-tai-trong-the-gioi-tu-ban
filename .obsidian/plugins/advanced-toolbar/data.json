@@ -5,7 +5,16 @@
   "buttonWidth": 48,
   "columnLayout": true,
   "alwaysShowToolbar": true,
-  "mappedIcons": [],
+  "mappedIcons": [
+    {
+      "commandID": "obsidian-editor-shortcuts:deleteLine",
+      "iconID": "delete"
+    },
+    {
+      "commandID": "obsidian-editor-shortcuts:duplicateLine",
+      "iconID": "copy"
+    }
+  ],
   "allowStylingOfAllActions": false,
   "tooltips": false,
   "heightOffset": 12,

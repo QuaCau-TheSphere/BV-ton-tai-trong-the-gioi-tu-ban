@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-alias:
+aliases:
   - jdeverest
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 ---
 # Buổi gặp 1
 ## Nội dung chính

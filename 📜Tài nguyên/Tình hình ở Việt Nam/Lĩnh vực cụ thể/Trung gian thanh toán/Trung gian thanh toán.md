@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T16:41
-alias: Chính sách các công ty trung gian thanh toán
+updated: 2025-08-31T11:41
+aliases:
+  - Chính sách các công ty trung gian thanh toán
 ---
 Ngày trả lương cho nhân viên và tiền công cho cộng tác viên đều là vào đầu tháng.
 

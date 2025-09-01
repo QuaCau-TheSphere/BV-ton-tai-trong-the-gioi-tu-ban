@@ -5474,9 +5474,15 @@ function matchQuery(item, query, options) {
     const r = smartMicroFuzzy(al, file, isNormalizeAccentsDiacritics);
     switch (r.type) {
       case "starts-with":
-        prefixNameMatchedAliases.push({ value: al, ranges: r.ranges });
+        prefixNameMatchedAliases.push({
+          value: al,
+          ranges: r.ranges
+        });
       case "includes":
-        nameMatchedAliases.push({ value: al, ranges: r.ranges });
+        nameMatchedAliases.push({
+          value: al,
+          ranges: r.ranges
+        });
       case "fuzzy":
         if (options.fuzzyTarget) {
           if (r.score > options.minFuzzyScore) {
@@ -5496,7 +5502,7 @@ function matchQuery(item, query, options) {
       meta: prefixNameMatchedAliases.map((x) => x.value),
       alias: bestMatch.value,
       query,
-      ranges: bestMatch.ranges,
+      ranges: void 0,
       allAliasRanges: prefixNameMatchedAliases.map((x) => ({
         alias: x.value,
         ranges: x.ranges || []
@@ -5510,7 +5516,7 @@ function matchQuery(item, query, options) {
       meta: nameMatchedAliases.map((x) => x.value),
       alias: bestMatch.value,
       query,
-      ranges: bestMatch.ranges,
+      ranges: void 0,
       allAliasRanges: nameMatchedAliases.map((x) => ({
         alias: x.value,
         ranges: x.ranges || []
@@ -5525,7 +5531,7 @@ function matchQuery(item, query, options) {
       alias: bestMatch.value,
       score: bestMatch.score,
       query,
-      ranges: bestMatch.ranges,
+      ranges: void 0,
       allAliasRanges: fuzzyNameMatchedAliases.map((x) => ({
         alias: x.value,
         ranges: x.ranges || []
@@ -7126,6 +7132,7 @@ function toLeafType(evt) {
 }
 
 // src/ui/icons.ts
+var FILE = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="15" height="15"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3v4a1 1 0 0 0 1 1h4"></path><path d="M17 21H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h7l5 5v11a2 2 0 0 1-2 2z"></path></g></svg>`;
 var FOLDER = `<svg viewBox="0 0 100 100" class="folder" width="17" height="17"><path fill="currentColor" stroke="currentColor" d="M6.1,8c-3.3,0-6,2.7-6,6v73.8c-0.1,0.5-0.1,0.9,0.1,1.4c0.6,2.7,3,4.8,5.9,4.8h78c3,0,5.4-2.2,5.9-5.1 c0-0.1,0.1-0.2,0.1-0.4c0,0,0-0.1,0-0.1l0.1-0.3c0,0,0,0,0-0.1l9.9-53.6l0.1-0.2V34c0-3.3-2.7-6-6-6v-6c0-3.3-2.7-6-6-6H36.1 c0,0,0,0-0.1,0c-0.1,0-0.2-0.2-0.6-0.6c-0.5-0.6-1.1-1.5-1.7-2.5c-0.6-1-1.3-2.1-2.1-3C30.9,9,29.7,8,28.1,8L6.1,8z M6.1,12h22 c-0.1,0,0.1,0,0.6,0.6c0.5,0.6,1.1,1.5,1.7,2.5c0.6,1,1.3,2.1,2.1,3c0.8,0.9,1.9,1.9,3.6,1.9h52c1.1,0,2,0.9,2,2v6h-74 c-3.1,0-5.7,2.5-5.9,5.6h-0.1L10.1,34l-6,32.4V14C4.1,12.9,4.9,12,6.1,12z M16.1,32h78c1.1,0,2,0.9,2,2l-9.8,53.1l-0.1,0.1 c0,0.1,0,0.2-0.1,0.2c0,0.1,0,0.2-0.1,0.2c0,0,0,0.1,0,0.1c0,0,0,0,0,0.1c0,0.1,0,0.2-0.1,0.3c0,0.1,0,0.1,0,0.2 c0,0.1,0,0.2,0,0.2c-0.3,0.8-1,1.4-1.9,1.4h-78c-1.1,0-2-0.9-2-2L14,34.4l0.1-0.2V34C14.1,32.9,14.9,32,16.1,32L16.1,32z"></path></svg>`;
 var ALIAS = `<svg viewBox="0 0 100 100" class="forward-arrow" width="16" height="16"><path fill="currentColor" stroke="currentColor" d="m9.9,89.09226c-0.03094,0 -0.05414,0 -0.08508,0c-1.06734,-0.04641 -1.91039,-0.92812 -1.89492,-1.99547c0.00774,-0.48726 1.14469,-48.13101 47.52,-49.44586l0,-13.89094c0,-0.7657 0.44086,-1.4618 1.12922,-1.78664c0.68062,-0.33258 1.5082,-0.23203 2.09601,0.2475l31.68,25.74c0.46406,0.37899 0.73476,0.9436 0.73476,1.53914c0,0.59555 -0.2707,1.16016 -0.72703,1.53914l-31.68,25.74c-0.59555,0.47953 -1.41539,0.57234 -2.10375,0.2475c-0.68836,-0.32485 -1.12922,-1.02094 -1.12922,-1.78664l0,-13.84453c-41.26289,0.75024 -43.49039,24.81961 -43.56773,25.85601c-0.06961,1.04414 -0.93586,1.84078 -1.97226,1.84078z"></path></svg>`;
 var TAG = `<svg viewBox="0 0 100 100" class="hashtag" width="17" height="17"><path fill="currentColor" stroke="currentColor" d="M36,18l-1.5,16H20l-0.4,4h14.5l-2.4,26H17.2l-0.4,4h14.5L30,82h4l1.3-14h26L60,82h4l1.3-14h15.5l0.4-4H65.7l2.4-26h15.5 l0.4-4H68.5L70,18h-4l-1.5,16h-26L40,18L36,18z M38.1,38h26l-2.4,26h-26L38.1,38z"></path></svg>`;
@@ -7240,7 +7247,7 @@ function createHighlightedText(text, ranges) {
   }
   return fragment;
 }
-function createItemDiv(item, aliasesDisplayedAsTitle, options) {
+function createItemDiv(item, aliases, isTitleMatched, options) {
   var _a, _b;
   const itemDiv = createDiv({
     cls: [
@@ -7256,24 +7263,41 @@ function createItemDiv(item, aliasesDisplayedAsTitle, options) {
   const entryDiv = createDiv({
     cls: "another-quick-switcher__item__entry"
   });
-  const shouldShowAliasAsTitle = aliasesDisplayedAsTitle.length > 0 && (options.displayAliaseAsTitle || options.displayAliasAsTitleOnKeywordMatched);
-  const titleText = shouldShowAliasAsTitle ? aliasesDisplayedAsTitle.join(" / ") : item.file.basename;
-  const titleMatchResults = shouldShowAliasAsTitle ? item.matchResults.filter(
-    (result) => (result.type === "name" || result.type === "prefix-name" || result.type === "fuzzy-name") && result.alias
-  ) : item.matchResults.filter(
-    (result) => (result.type === "name" || result.type === "prefix-name" || result.type === "fuzzy-name") && !result.alias
-  );
   const titleDiv = createDiv({
     cls: [
       "another-quick-switcher__item__title",
       "another-quick-switcher__custom__item__title"
     ]
   });
+  const shouldShowAliasAsTitle = aliases.length > 0 && (options.displayAliaseAsTitle || !isTitleMatched && options.displayAliasAsTitleOnKeywordMatched);
+  const titleText = shouldShowAliasAsTitle ? aliases.join(" | ") : item.file.basename;
   const allRanges = [];
-  for (const result of titleMatchResults) {
-    if (result.ranges) {
-      allRanges.push(...result.ranges);
+  for (const result of item.matchResults) {
+    if (shouldShowAliasAsTitle) {
+      if (result.allAliasRanges) {
+        for (const alias of aliases) {
+          const aliasRange = result.allAliasRanges.find(
+            (a) => a.alias === alias
+          );
+          if (aliasRange) {
+            const offset = aliases.slice(0, aliases.indexOf(alias)).reduce((acc, cur) => acc + cur.length + 3, 0);
+            for (const range2 of aliasRange.ranges) {
+              allRanges.push({
+                start: range2.start + offset,
+                end: range2.end + offset
+              });
+            }
+          }
+        }
+      }
+    } else {
+      if (result.ranges) {
+        allRanges.push(...result.ranges);
+      }
     }
+  }
+  if (shouldShowAliasAsTitle) {
+    titleDiv.insertAdjacentHTML("beforeend", ALIAS);
   }
   const highlightedContent = createHighlightedText(
     titleText,
@@ -7359,13 +7383,17 @@ function createMetaDiv(args) {
         title: key,
         text: key
       });
+      const frontMatterValueDiv = createDiv({
+        cls: "another-quick-switcher__item__meta__front_matter__values"
+      });
       for (const v of [value].flat().filter(isPresent)) {
-        frontMatterDiv.createSpan({
+        frontMatterValueDiv.createSpan({
           cls: "another-quick-switcher__item__meta__front_matter__value",
           title: v.toString(),
           text: v.toString()
         });
       }
+      frontMatterDiv.appendChild(frontMatterValueDiv);
       frontMattersDiv.appendChild(frontMatterDiv);
     }
     metaDiv.appendChild(frontMattersDiv);
@@ -7381,28 +7409,40 @@ function createDescriptionDiv(args) {
     countByHeader,
     linkResultsNum,
     headerResultsNum,
-    options,
-    aliasMatchDetails
+    isTitleMatched,
+    options
   } = args;
   const descriptionDiv = createDiv({
     cls: "another-quick-switcher__item__descriptions"
   });
+  const shouldShowFileAsDescription = !isTitleMatched && options.displayAliasAsTitleOnKeywordMatched || options.displayAliaseAsTitle;
   if (aliases.length > 0) {
     const aliasDiv = createDiv({
       cls: "another-quick-switcher__item__description"
     });
-    const displayAliases = options.displayAliasAsTitleOnKeywordMatched ? [item.file.basename] : aliases;
+    const displayAliases = shouldShowFileAsDescription ? [item.file.basename] : aliases;
     for (const x of displayAliases) {
       const aliasSpan = createSpan({
         cls: "another-quick-switcher__item__description__alias"
       });
-      aliasSpan.insertAdjacentHTML("beforeend", ALIAS);
+      aliasSpan.insertAdjacentHTML(
+        "beforeend",
+        shouldShowFileAsDescription ? FILE : ALIAS
+      );
       const ranges = [];
       for (const result of item.matchResults) {
-        if (result.allAliasRanges) {
-          for (const aliasRange of result.allAliasRanges) {
-            if (aliasRange.alias === x) {
-              ranges.push(...aliasRange.ranges);
+        if (shouldShowFileAsDescription) {
+          if (result.ranges) {
+            for (const range2 of result.ranges) {
+              ranges.push(range2);
+            }
+          }
+        } else {
+          if (result.allAliasRanges) {
+            for (const aliasRange of result.allAliasRanges) {
+              if (aliasRange.alias === x) {
+                ranges.push(...aliasRange.ranges);
+              }
             }
           }
         }
@@ -7475,13 +7515,10 @@ function createDescriptionDiv(args) {
 }
 function createElements(item, options) {
   var _a;
-  const { title, aliases } = getMatchedTitleAndAliases(item);
-  const matchedAliasesOnly = title ? [] : aliases;
-  const itemDiv = createItemDiv(
-    item,
-    options.displayAliaseAsTitle ? item.aliases : matchedAliasesOnly,
-    options
-  );
+  const { title, aliases: matchedAliases } = getMatchedTitleAndAliases(item);
+  const isTitleMatched = Boolean(title);
+  const essenceAliases = options.displayAliaseAsTitle ? item.aliases : matchedAliases;
+  const itemDiv = createItemDiv(item, essenceAliases, isTitleMatched, options);
   const frontMatter = omitBy(
     (_a = item.frontMatter) != null ? _a : {},
     (key, value) => options.excludeFrontMatterKeys.includes(key) || value == null
@@ -7521,23 +7558,18 @@ function createElements(item, options) {
       return uniq((_a2 = xs.meta) != null ? _a2 : []);
     })
   );
-  const aliasMatchDetails = item.matchResults.filter((result) => result.allAliasRanges).flatMap((result) => result.allAliasRanges);
-  const descriptionDiv = aliases.length !== 0 || tags.length !== 0 || Object.keys(countByLink).length !== 0 || Object.keys(countByHeader).length !== 0 ? createDescriptionDiv({
+  const descriptionDiv = essenceAliases.length !== 0 || tags.length !== 0 || Object.keys(countByLink).length !== 0 || Object.keys(countByHeader).length !== 0 ? createDescriptionDiv({
     item,
-    aliases: matchedAliasesOnly,
+    aliases: essenceAliases,
     tags,
     countByLink,
     countByHeader,
     linkResultsNum,
     headerResultsNum,
-    options,
-    aliasMatchDetails
+    isTitleMatched,
+    options
   }) : void 0;
-  return {
-    itemDiv,
-    metaDiv,
-    descriptionDiv
-  };
+  return { itemDiv, metaDiv, descriptionDiv };
 }
 
 // src/ui/AnotherQuickSwitcherModal.ts

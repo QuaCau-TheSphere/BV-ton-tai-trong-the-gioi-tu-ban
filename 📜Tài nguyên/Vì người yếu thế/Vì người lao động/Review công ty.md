@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T19:47
-updated: 2025-07-09T17:32
+updated: 2025-08-20T10:32
 ---
 - [Devilcorp.org](https://www.devilcorp.org/further-resources)
 - [Mất cơ hội làm việc ở chỗ tốt vì tin vào trang review công ty](https://vnexpress.net/mat-co-hoi-lam-viec-o-cho-tot-vi-tin-vao-trang-review-cong-ty-4746861.html)

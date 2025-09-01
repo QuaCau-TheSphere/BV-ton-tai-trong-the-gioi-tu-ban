@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T08:58
+updated: 2025-08-20T10:31
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -56,7 +56,7 @@ Xem thêm:: [[Bao nuôi]]
 > Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác.
 
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
-Tính chất công việc:: [[Mỗi tuần lên công ty một buổi]], [[Không phải lúc nào cũng biết lịch trước được]], [[Nhân viên trong công ty]], [[Công việc thời vụ, cộng tác viên]]
+Tính chất công việc:: [[Mỗi tuần lên công ty một buổi]], [[Không phải lúc nào cũng biết lịch trước được]], [[Làm thuê cho người khác]], [[Công việc thời vụ, cộng tác viên]]
 
 ## Nơi thảo luận
 [[Công việc vô nghĩa, tổ chức vô lý]]

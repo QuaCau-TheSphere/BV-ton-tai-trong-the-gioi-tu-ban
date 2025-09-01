@@ -2,7 +2,8 @@
 share: true
 created: 2025-03-27T17:13
 updated: 2025-08-17T15:15
-alias: laptop
+aliases:
+  - laptop
 ---
 Khái niệm:: 
 Xem thêm:

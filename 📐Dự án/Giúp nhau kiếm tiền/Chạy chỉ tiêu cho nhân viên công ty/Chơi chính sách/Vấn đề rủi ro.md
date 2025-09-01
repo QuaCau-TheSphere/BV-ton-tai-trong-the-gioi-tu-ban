@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-07-09T17:32
+updated: 2025-08-23T15:47
 ---
 [[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được|Liệu công ty X có đang lừa đảo, rửa tiền không?]]
 
@@ -27,7 +27,7 @@ Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãn
 Bài chi tiết:: [[Vì các ví điện tử đứng ra bảo lãnh cho người quẹt, nên một giao dịch khi quẹt qua chúng sẽ trở thành một giao dịch mua hàng sạch trong mắt ngân hàng]]
 
 Mỗi lần chỉ 20k
-[[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]] 
+[[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền]] 
 
 ## Chuyện gì sẽ xảy ra nếu tôi bị phát hiện là đang tiếp tay cho các bạn?
 Do đây không phải là vi phạm pháp luật, nên công ty sẽ chỉ phạt nội bộ mà thôi. Hình phạt có thể là từ không tính KPI đến đuổi luôn. Dù sao thì cũng không ảnh hưởng gì đến các bạn.

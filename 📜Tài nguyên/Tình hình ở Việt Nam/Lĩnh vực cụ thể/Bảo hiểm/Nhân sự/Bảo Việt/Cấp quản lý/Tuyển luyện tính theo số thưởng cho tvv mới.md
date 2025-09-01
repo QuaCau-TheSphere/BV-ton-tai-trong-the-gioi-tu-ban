@@ -2,7 +2,7 @@
 share: true
 created: 2024-09-24T09:31
 updated: 2025-08-17T16:41
-alias:
+aliases:
   - Tuyển luyện: Trong 3 tháng đầu, tiền trưởng nhóm được thưởng gấp đôi số thưởng cho tư vấn viên mới
 ---
 ## Tiền trưởng nhóm

@@ -1,12 +1,12 @@
 ---
 share: true
-alias:
+aliases:
   - Đăng bài truyền thông
   - Kế hoạch truyền thông Trấn Kỳ
   - Các bài viết truyền thông về Trấn Kỳ
   - Seeding
 created: 2023-10-31T16:59
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 ---
 
 [[SME, startup, khởi nghiệp]]

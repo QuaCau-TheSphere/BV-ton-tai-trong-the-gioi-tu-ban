@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-03-22T16:50
-updated: 2025-08-16T22:05
+updated: 2025-08-20T10:31
 ---
 Khái niệm:: [[Bán hàng]]
 
 Tính chất công việc:: 
 Điểm cộng:: [[Được chọn thời gian làm trong ngày]]
-Hình thức:: [[Nhân viên trong công ty]]
+Hình thức:: [[Làm thuê cho người khác]]
 
 [[Yêu cầu tuyển dụng của Cathay]]
 

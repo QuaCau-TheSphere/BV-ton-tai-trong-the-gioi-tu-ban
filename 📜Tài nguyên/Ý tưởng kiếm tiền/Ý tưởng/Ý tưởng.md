@@ -2,7 +2,7 @@
 share: true
 created: 2023-11-24T16:59
 updated: 2025-08-16T22:07
-alias:
+aliases:
   - Kiếm tiền nhanh
   - Kiếm dự án thuê ngoài
   - Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện

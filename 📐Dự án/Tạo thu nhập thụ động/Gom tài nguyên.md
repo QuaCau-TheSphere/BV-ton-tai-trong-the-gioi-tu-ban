@@ -1,14 +1,17 @@
 ---
 created: 2025-03-21T22:15
-updated: 2025-07-09T17:32
+updated: 2025-08-26T10:44
 share: true
-alias: ip, proxy, vpn
+aliases:
+  - ip
+  - proxy
+  - vpn
 ---
 ## IP
 ![Box Proxy Machine - Tạo Proxy Miễn Phí Từ Mạng LAN - Cáp Quang. IPv4 + IPv6 siêu sạch. - YouTube](https://youtu.be/i674Vlsr5Bk?si=qlJR9m65HDA0QudB)
 
 ## SĐT, tài khoản ngân hàng
-Các cửa hàng điện thoại
+[[Các cửa hàng điện thoại dễ đăng ký tài khoản vì có nhiều SIM]]
 
 [[Công việc nhận tiền hộ không phải là thuê tài khoản, vì không phải đăng nhập vào tài khoản người dùng]]
 

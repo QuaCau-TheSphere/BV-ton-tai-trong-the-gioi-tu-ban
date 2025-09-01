@@ -4,8 +4,7 @@ description:
   - Số tiền đầu tư: 390k
   - Số tiền được nhận: 50k/tài khoản tạo mới
 created: 2025-04-03T14:15
-updated: 2025-08-17T15:15
-title: Gom nhóm GM Mall
+updated: 2025-08-23T15:55
 ---
 Tính chất công việc:: [[Cần có sẵn tài khoản ngân hàng]], [[Làm qua mạng]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
@@ -77,4 +76,4 @@ Cảnh giác lừa đảo
 ![Tiêu Điểm: Cảnh báo lừa đảo việc làm online \| VTV24 - YouTube](https://youtu.be/5jeACyUQtVE?si=G6Z0MrLCxMQGAFxF)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]]. Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v.
+> Công việc này là một phần của [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]]. Đọc bài đó để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v.

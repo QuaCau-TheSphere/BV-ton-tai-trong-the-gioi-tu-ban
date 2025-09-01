@@ -1,7 +1,8 @@
 ---
 created: 2025-03-27T17:13
-updated: 2025-07-13T21:59
-cssClass: wide-table
+updated: 2025-08-16T22:05
+cssclasses:
+  - wide-table
 ---
 ## Lộc
 | STT | Họ tên                | Ngày tháng năm sinh | Số điện thoại | Email                                                           | Địa chỉ liên hệ                                       | Chức danh   | Ngày làm việc | Tỉnh/thành làm việc | Quản lý trực tiếp | Tài khoản GM | Mã GM  | Mã số BHXH | Mã số thuế | Tài khoản      | Ngân hàng   | Chi nhánh   | Số CCCD      | Ngày Cấp   | Nơi cấp                                                      | Địa chỉ thường trú                             | Địa chỉ Gửi Chuyển phát nhanh | Trạng thái | Trạng thái | Ngày cập nhật trạng thái |

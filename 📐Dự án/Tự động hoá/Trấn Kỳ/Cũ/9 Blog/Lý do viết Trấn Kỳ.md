@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-12T16:39
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 description: Tại sao các phần mềm nocode hay ChatGPT vẫn không đủ để thay thế lập trình trong việc quản trị?
-alias:
+aliases:
   - Tại sao các phần mềm nocode hay ChatGPT vẫn không đủ để thay thế lập trình trong việc quản trị?
 ---
 %%

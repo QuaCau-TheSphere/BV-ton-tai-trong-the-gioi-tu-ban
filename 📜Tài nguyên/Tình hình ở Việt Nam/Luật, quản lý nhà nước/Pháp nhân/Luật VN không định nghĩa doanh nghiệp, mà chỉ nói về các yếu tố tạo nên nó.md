@@ -2,7 +2,8 @@
 share: true
 created: 2023-07-16T09:34
 updated: 2025-08-17T16:41
-alias: Luật doanh nghiệp VN
+aliases:
+  - Luật doanh nghiệp VN
 ---
 Tài sản: có 3 cách chính:
 - Góp vốn

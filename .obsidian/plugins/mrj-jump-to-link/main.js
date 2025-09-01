@@ -427,6 +427,7 @@ function getPreviewLinkHints(previewViewEl, letters) {
     return sortedLinkHints;
 }
 function checkIsPreviewElOnScreen(parent, el) {
+    el = el.closest('[data-view-type="table"], table') || el;
     return el.offsetTop < parent.scrollTop || el.offsetTop > parent.scrollTop + parent.offsetHeight;
 }
 function displayPreviewPopovers(linkHints) {
@@ -701,8 +702,14 @@ class JumpToLink extends obsidian.Plugin {
         contentEl.addEventListener('keydown', grabKey, { capture: true });
     }
     handleHotkey(heldShiftKey, link) {
-        if (link.linkText === undefined && link.linkElement) {
-            link.linkElement.click();
+        if ((link.linkText === undefined || link.linkText === '') && link.linkElement) {
+            const event = new MouseEvent("click", {
+                bubbles: true,
+                cancelable: true,
+                view: window,
+                metaKey: heldShiftKey,
+            });
+            link.linkElement.dispatchEvent(event);
         }
         else if (link.type === 'internal') {
             const file = this.app.workspace.getActiveFile();

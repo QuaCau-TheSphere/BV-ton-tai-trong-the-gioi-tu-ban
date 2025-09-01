@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T11:22
-updated: 2025-07-09T17:32
+updated: 2025-08-23T11:08
 title: Các dòng sản phẩm ở Bảo Việt
 ---
 ## Truyền thống

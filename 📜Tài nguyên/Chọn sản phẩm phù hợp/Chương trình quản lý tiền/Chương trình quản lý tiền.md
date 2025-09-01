@@ -1,14 +1,15 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-08-27T17:57
 description: Điểm giống và khác nhau giữa các chương trình quản lý tiền. Quang cảnh và sơ đồ giữa chúng.
-alias:
+aliases:
   - Điểm giống và khác nhau giữa các chương trình quản lý tiền
   - Quang cảnh giữa các chương trình quản lý tiền
   - Sơ đồ giữa các chương trình quản lý tiền
   - Mối quan hệ giữa các khái niệm
-cssClass: wide-table
+cssclasses:
+  - wide-table
 ---
 ## Mối quan hệ giữa các khái niệm
 - Nhu cầu người dùng sẽ đòi hỏi tính năng
@@ -47,7 +48,7 @@ style 3 fill:lightgreen
 ## Danh mục
 ```dataview
 list rows.file.link
-from "📜Tài nguyên/Chương trình quản lý tiền"   
+from "📜Tài nguyên/Chọn sản phẩm phù hợp/Chương trình quản lý tiền"
 group by split(file.folder, "/" )[3] 
 ```
 
@@ -55,4 +56,4 @@ group by split(file.folder, "/" )[3]
 - Khi một "nhu cầu" của người dùng thực ra là do không có nhu cầu thì nó nên là gì?
 - Khi một "tính năng" của chương trình thực ra là do không có tính năng thì nó nên là gì?
 
-https://www.gamehoa.org/p/gamification-trong-nganh-tai-chinh?utm_source=post-email-title&publication_id=174112&post_id=158754486&utm_campaign=email-post-title&isFreemail=true&token=eyJ1c2VyX2lkIjo0MDM4MzA5NiwicG9zdF9pZCI6MTU4NzU0NDg2LCJpYXQiOjE3NDM0MjYwOTAsImV4cCI6MTc0NjAxODA5MCwiaXNzIjoicHViLTE3NDExMiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.bVSVfF__iLc-Zp1LdVJMY0zDJbwsJFcMEGlnCywujjo&r=o1jso&triedRedirect=true&utm_medium=email
+[Gamification trong ngành tài chính: Phân tích ứng dụng tiết kiệm có gamification hiệu quả](https://www.gamehoa.org/p/gamification-trong-nganh-tai-chinh?utm_source=post-email-title&publication_id=174112&post_id=158754486&utm_campaign=email-post-title&isFreemail=true&r=o1jso&triedRedirect=true&utm_medium=email)

@@ -2,7 +2,8 @@
 share: true
 created: 2024-09-30T14:49
 updated: 2025-08-17T16:41
-cssClass: wide-table
+cssclasses:
+  - wide-table
 ---
 Nếu hợp đồng 
 

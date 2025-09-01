@@ -1,23 +1,24 @@
 ---
 share: true
 created: 2024-11-08T10:55
-updated: 2025-07-12T23:59
+updated: 2025-08-31T16:54
 ---
 Khái niệm:: [[Quà tặng]]
-Chỉ cần biết chỗ là mua. Có những thứ không tốn nhiều tiền. Nhiều khi chỉ là cái sticker mấy ngàn. Cái quan trọng là biết từ khoá
-Sở thích, đam mê
-Không thể cứ mua đại được, vì có thể họ cũng có nhiều rồi. Đó là những cái họ cũng thích, nhưng cũng tặc lưỡi không mua
 
-Thông dụng nhất là bánh kẹo, vé xem phim, búp phê, quà tặng cho con. Nhưng thường cũng chẳng ai mấy mặn mà với việc đó. Họ không thiếu việc đó.
+Các công ty thường chỉ tẳng bánh kẹo, vé xem phim, vé giảm giá búp phê, quà tặng cho con. Nhưng thường cũng chẳng ai mấy mặn mà với việc đó. Họ không thiếu việc đó.
+Không thể cứ mua đại được, vì có thể họ cũng có nhiều rồi. Đó là những cái họ cũng thích, nhưng cũng tặc lưỡi không mua
+Nhiều khi muốn tặng quà cho một người nào đó mà không nghĩ ra được ý tưởng gì. Những món quà thực sự 
+Chỉ cần biết chỗ là mua. Có những thứ không tốn nhiều tiền. Nhiều khi chỉ là cái sticker mấy ngàn, hoặc áo thun, ly nước. Cái quan trọng là biết từ khoá
+
 Nhưng tất nhiên, nếu có thể đáp ứng được nhu cầu của họ thì sẽ bền vững hơn
 
-Áo thun, ly nước, 
-Đó là những thứ họ sẽ hãnh diện được có nó, vì nó cho mọi người biết họ là ai, đồng thời cũng đóng góp vào cộng đồng mà họ định vị mình thuộc về.
+
+Mua những thứ theo sở thích, đam mê của họ sẽ làm họ hãnh diện khi được có nó. Vì nó cho mọi người biết họ là ai, đồng thời cũng đóng góp vào cộng đồng mà họ định vị mình thuộc về.
 
 Khả năng cao là họ đã có hứng thú rồi
+Đó là những thứ họ làm hằng ngày, nói hằng ngày
 
 `từ khoá gift/merchandise`
-Những thứ họ làm hằng ngày, nói hằng ngày
 
 ## Sức khoẻ
 ## Lập trình

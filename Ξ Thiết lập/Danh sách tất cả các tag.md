@@ -1,5 +1,6 @@
 ---
-Alias: Danh sách tất cả các tag
+aliases:
+  - Danh sách tất cả các tag
 created: 2023-06-11T18:31
 updated: 2025-08-16T22:05
 ---

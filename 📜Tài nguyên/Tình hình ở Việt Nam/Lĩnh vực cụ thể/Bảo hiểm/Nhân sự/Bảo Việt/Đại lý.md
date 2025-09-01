@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-10-11T10:51
-alias: thưởng tvv
-updated: 2025-08-17T16:41
+aliases:
+  - thưởng tvv
+updated: 2025-08-23T11:14
 ---
 ## Hoa hồng
 30% phí

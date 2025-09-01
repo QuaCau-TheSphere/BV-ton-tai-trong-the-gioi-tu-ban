@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-04-15T21:09
-updated: 2025-08-17T16:41
+updated: 2025-09-01T10:57
 title: Khuyến nghị cho các tổ chức tài chính vi mô ở VN
 ---
-Khái niệm:: [[Tài chính vi mô]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tài chính vi mô]]
 
 - Ban quản lý của các TCTCVM cần tập trung vào việc giảm chi phí hoạt động bằng cách triển khai các mô hình dịch vụ tài chính kỹ thuật số thay vì sử dụng mô hình dựa trên nhân sự
 - Tăng phí dịch vụ thay vì tăng lãi suất

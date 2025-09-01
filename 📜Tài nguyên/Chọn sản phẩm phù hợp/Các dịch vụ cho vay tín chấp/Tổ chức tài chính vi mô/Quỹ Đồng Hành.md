@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-05-05T23:08
-updated: 2025-08-17T08:59
-alias: Kula
+updated: 2025-08-23T21:27
+aliases:
+  - Kula
 ---
 Khái niệm:: 
 VSLA đặc biệt phù hợp với những người muốn kết hợp giữa việc tiết kiệm có kỷ luật và tạo tác động xã hội tích cực trong cộng đồng

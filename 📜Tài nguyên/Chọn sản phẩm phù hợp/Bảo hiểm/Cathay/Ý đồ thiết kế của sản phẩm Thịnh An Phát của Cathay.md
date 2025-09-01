@@ -2,8 +2,9 @@
 share: true
 created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
-alias: Thịnh An Phát
-updated: 2025-07-09T17:32
+aliases:
+  - Thịnh An Phát
+updated: 2025-08-31T17:05
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -86,7 +87,7 @@ Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì N
 #### Tại sao lại có hai mức 3 năm và 5 năm? 
 Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
 
-Xem thêm:: [[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
+Xem thêm:: [[Tại sao nên mua bảo hiểm từ Quả Cầu|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
 
 ![[A16_01_Quy tac va Dieu khoan.pdf]]
 ![[A16_02_Bieu phi.pdf]]

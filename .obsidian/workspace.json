@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "347bbe2a7c244ca9",
+        "id": "3d0dfbbbab69a16c",
         "type": "tabs",
         "children": [
           {
-            "id": "fbca23499f58bcdf",
+            "id": "595c5120acc913cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ tạo ra cầu.md",
+                "file": "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Các trường học chính thống thường không tạo ra không gian để chất vấn hay thảo luận về các vấn đề của tư bản.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ tạo ra cầu"
-            }
-          },
-          {
-            "id": "451f8d70f3157bb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Giúp nhau giữ CIC.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Giúp nhau giữ CIC"
-            }
-          },
-          {
-            "id": "5a3212993025256d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Ξ Kết quả truyền thông/Tài chính, ngân hàng.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tài chính, ngân hàng"
+              "title": "Các trường học chính thống thường không tạo ra không gian để chất vấn hay thảo luận về các vấn đề của tư bản"
             }
           }
         ]
@@ -111,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bào tiền",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Thương mại điện tử/Liệu GM có rửa tiền không.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Quỹ/Quỹ giúp nhau giữ tài sản thế chấp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Liệu GM có rửa tiền không"
+              "title": "Backlinks for Quỹ giúp nhau giữ tài sản thế chấp"
             }
           },
           {
@@ -198,13 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md"
+                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Quỹ/Quỹ giúp nhau giữ tài sản thế chấp.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Di cư"
+              "title": "Outline of Quỹ giúp nhau giữ tài sản thế chấp"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
@@ -225,57 +182,58 @@
       "open-vscode:VSCode": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "fbca23499f58bcdf",
+  "active": "595c5120acc913cc",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Luật, nhà nước/Cải cách không thể thành công nếu được tiến hành trong một cấu trúc quyền lực không muốn thay đổi.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Các xu thế kinh tế mới.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Giúp đỡ nhau/Người khác sẽ tham gia giúp đỡ khi họ thấy việc mình làm gần thoả mãn nhu cầu của họ.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Con số cho tiền cho thiện nguyện dựa trên cộng đồng không tăng lên dù có rất nhiều nền tảng.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Kể cả khi AI có thể làm mất việc, thì những ngành khác cũng sẽ tạo ra nhiều loại việc khác.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Nền kinh tế không dùng tiền/Nền kinh tế không dùng tiền.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Nền kinh tế không dùng tiền/The non-monetary economy, typically embedded in a monetary economy, undertakes tasks that benefit society (whether through producing services, products, or making investments) that the monetary economy does not value.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chia sẻ/Các công ty lớn không cung cấp sự bảo vệ cho các nhà cung cấp hoặc khách hàng của họ.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chia sẻ/Nền kinh tế chia sẻ bắt đầu nổi lên từ 2008, là lúc thất nghiệp hàng loạt, khổ hạnh và bần cùng hóa ngày càng tăng.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chia sẻ/Ba phần tư đối tác của AirBnB cho thuê cả nhà.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Nền kinh tế hậu khan hiếm.md",
-    "⚡Hiểu biết sâu/Kinh tế/Các loại hình kinh tế mới/Nền kinh tế không dùng tiền.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Năm 1990 UNDP gắn phát triển vào phát triển con người.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế xanh/Nền kinh tế xanh.md",
-    "⚡Hiểu biết sâu/Kinh tế/Người không được đáp ứng nhu cầu sẽ không function tốt trong xã hội.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế thay thế/Kinh tế tự cung tự cấp, P2P, trọng nông.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Công việc chăm sóc không lương thường vô hình trong các chính sách và ngân sách bởi vì nó không nằm trong định nghĩa và đo lường theo cách truyền thống của nền kinh tế.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Công việc chăm sóc không lương được gán cho là không có giá trị về kinh tế bất chấp một thực tế về những đóng góp to lớn của công việc này cho nền kinh tế và xã hội.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Các công việc nấu nướng, dọn dẹp, chăm sóc trẻ em, người già và người bệnh tại gia đình thường được hiểu là công việc chăm sóc không lương.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Các xu thế kinh tế mới/Nền kinh tế chăm sóc/Chưa có một lý thuyết chắc chắn nào về nền kinh tế chăm sóc.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Các tư tưởng hậu hiện đại, vốn chiếm lĩnh ngành khoa học xã hội và nhân văn từ thập niên 1980, từng hứa hẹn mở ra một tầm nhìn mới cho tự do, nhưng đang trở thành một phương tiện giúp chủ nghĩa tư bản triệt tiêu sự phản kháng.md",
-    "Ξ Thiết lập/Templates/Ghi chú chung chung.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lộc.md",
-    "⚡Hiểu biết sâu/Kinh tế/Kinh tế hàng hoá. Tiền tệ/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/Nếu muốn nghe những nhà kinh tế nói về xã hội thì nên tìm họ ở những nơi khác hơn là các phân khoa kinh tế.md",
-    "📐Dự án/Giúp nhau thoát nợ/Giúp nhau giữ CIC.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/~syncthing~Lộc.md.tmp",
-    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/~syncthing~Các nhà kinh tế học.md.tmp",
-    "⚡Hiểu biết sâu/Kinh tế/Lịch sử, triết học, chính trị, xã hội học trong kinh tế/~syncthing~Untitled.md.tmp",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Quản lý tài khoản mạng xã hội.md.tmp",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/~syncthing~Untitled.md.tmp",
-    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn/~syncthing~Phỏng vấn người đang vay thế chấp để có thẻ tín dụng.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Phỏng vấn",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Sản phẩm nông nghiệp là theo quy luật tự nhiên, có thời hạn ngắn, nên không thể phù hợp với chủ nghĩa tư bản.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Năm 1990 UNDP gắn phát triển vào phát triển con người.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Truyền thông, tiếp thị/Sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Truyền thông, tiếp thị/Một công ty không có sản phẩm tốt nhưng tiếp thị tốt sẽ khiến người dùng không biết về sản phẩm tốt hơn.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Truyền thông, tiếp thị",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Truyền thông/Sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Truyền thông/Một công ty không có sản phẩm tốt nhưng tiếp thị tốt sẽ khiến người dùng không biết về sản phẩm tốt hơn.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Truyền thông",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/New folder",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Hàng hoá vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Tư duy thị trường hấp dẫn ở chỗ nó không phán xét.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Thị trường không định giá. Ta mới là người định giá.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Thị trường không chỉ phân bố hàng hoá mà còn bộc lộ, khuyến khích con người có những thái độ nhất định với các loại hàng hoá.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Những gì “thị trường muốn” có xu hướng đồng nghĩa với những gì các doanh nghiệp và ông chủ của nó muốn.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Nền kinh tế thị trường khác với xã hội thị trường.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Hàng hoá vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Đôi khi, giá trị thị trường lấn át những giá trị phi thị trường đáng quan tâm.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường/Độc quyền, ngoại tác, hàng hoá công, thông tin bất cân xứng, mất cân bằng vĩ mô là các thất bại của thị trường.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Giá trị, giá cả, thị trường/Thị trường",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Các đô thị vô cùng đông đúc, nhưng tỷ lệ người cảm thấy cô đơn lại tăng lên.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Các nền kinh tế thay thế/Phát triển cộng đồng làng quê.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Các nền kinh tế thay thế/Các nền kinh tế thay thế.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người nghèo/Việc nói rằng người nghèo có thể tự thoát nghèo được đồng nghĩa với việc phủ định rằng bẫy nghèo không tồn tại.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người nghèo/Người vô gia cư, người không có địa chỉ thường trú, người không có giấy tờ bị loại khỏi hệ thống ngân hàng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người nghèo/Người nghèo không tìm đến dịch vụ y tế công vì kiến thức y học quá khả năng hiểu của họ, và vì việc được nuôi dưỡng niềm hy vọng bằng việc làm một cái gì đó.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người nghèo/Người nghèo hoài nghi vào cơ hội đổi đời.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Mời gia nhập nhóm Zalo.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người lao động/Công đoàn/❓Công đoàn có thể đại diện, đấu tranh tới đâu.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người lao động/Công đoàn/Một thoả ước tập thể có lợi cho người lao động là thoả ước tuân thủ quy trình thương lượng và chứa các thoả thuận có lợi hơn so với mức quy định của luật.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người lao động/Công đoàn/Để tăng lương mà không tăng ca cần có thương lượng tập thể.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người lao động/Công đoàn",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người khuyết tật",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người nghèo",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Người lao động",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Kinh tế phi chính thức",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Hỗ trợ trong xã hội tư bản/Từ thiện, thiện nguyện",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250825203130.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250825200301.png",
+    "Ξ Thiết lập/Ảnh/ICAN (hình 1).png",
+    "Ξ Thiết lập/Ảnh/Công ty/Bảo hiểm/Lịch đào tạo Bảo Việt.png",
+    "Ξ Thiết lập/Ảnh/Công ty/TH True Milk và Bắc Á Bank.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250723161741.png",
     "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Quà tặng.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20250707205013.png",
     "Ξ Thiết lập/Ảnh/Điểm tín dụng của Nhật.png",
     "Ξ Thiết lập/Ảnh/Screenshot_20250703_162651.jpg",
-    "Ξ Thiết lập/Ảnh/Screenshot_20250703_162640.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250703094050.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250703093815.png",
-    "Ξ Thiết lập/Ảnh/CCCD mặt trước.jpg",
-    "Ξ Thiết lập/Ảnh/CCCD mặt sau.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

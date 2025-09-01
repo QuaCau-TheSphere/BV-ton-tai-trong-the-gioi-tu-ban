@@ -2,7 +2,10 @@
 share: true
 created: 2024-09-14T11:04
 updated: 2025-08-16T22:04
-alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm, tại sao không mua
+aliases:
+  - Lý do trì hoãn
+  - lý do chưa muốn mua bảo hiểm
+  - tại sao không mua
 ---
 ## Không cần
 > [!question] Thấy còn khoẻ

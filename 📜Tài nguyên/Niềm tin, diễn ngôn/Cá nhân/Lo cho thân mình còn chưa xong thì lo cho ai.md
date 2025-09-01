@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-30T23:52
-updated: 2025-07-09T17:32
-alias: Lo cho bản thân mình còn chưa xong thì lo cho ai?
+updated: 2025-08-16T22:05
+aliases:
+  - Lo cho bản thân mình còn chưa xong thì lo cho ai?
 ---
 Khái niệm:: 
 [[Tiền là thước đo của thành công]]

@@ -2,7 +2,9 @@
 share: true
 created: 2024-11-02T00:57
 updated: 2025-08-17T09:14
-alias: được và mất, cân nhắc lợi hại
+aliases:
+  - được và mất
+  - cân nhắc lợi hại
 ---
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-04T15:54
-updated: 2025-07-09T17:32
+updated: 2025-08-31T12:45
 ---
 1. [ ] Mức thù lao ngang với thị trường 
 2. [ ] Mức thù lao tốt hơn thị trường 

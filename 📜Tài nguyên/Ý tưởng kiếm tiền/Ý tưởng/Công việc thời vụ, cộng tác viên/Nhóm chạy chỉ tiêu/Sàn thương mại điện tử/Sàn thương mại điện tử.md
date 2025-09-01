@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-08-17T15:15
-title: Nhóm chạy chỉ tiêu cho nhân viên Sàn thương mại điện tử
-alias: Công việc trong Sàn thương mại điện tử
+updated: 2025-08-23T15:54
+title: Nhóm bào tiền sàn thương mại điện tử
+aliases:
+  - Công việc trong sàn thương mại điện tử
 ---
 Tính chất công việc:: [[Làm qua mạng]], [[Cần khả năng ứng biến]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
@@ -13,19 +14,16 @@ Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
 ```dataview
 table số-tiền-kiếm-được as "Số tiền kiếm được" , mô-tả-công-việc as "Mô tả công việc" 
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Sàn thương mại điện tử"
 WHERE file.name != this.file.name
 ```
 
 ## Câu hỏi thường gặp
 ### Đây là công ty gì? Chính sách ra sao?
-
-Về chính sách, xem bài chi tiết:: [[Chính sách cho nhân viên|Chính sách nhân viên GM Mall]]
-
 ### Sao kiếm tiền dễ vậy? Nó có phải là lừa đảo, rửa tiền hay đa cấp gì không?
 
 ### Bị công ty phát hiện thì sao?
-Chỉ có những ai làm nhân viên thì mới phải chịu trách nhiệm, cùng lắm là bị đuổi việc. Còn những người khác thì sẽ không vấn đề gì.
+Chỉ có những ai làm nhân viên thì mới phải chịu trách nhiệm, và họ  cùng lắm là bị đuổi việc. Còn những người khác thì sẽ không vấn đề gì.
 
 Xem thêm:: [[Vấn đề rủi ro]]
 Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]

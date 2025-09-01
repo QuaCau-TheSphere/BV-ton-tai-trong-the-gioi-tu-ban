@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-07-09T17:32
+updated: 2025-08-16T22:05
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
-alias: Dịch vụ bao nuôi ở Thuận An, Bình Dương
+aliases:
+  - Dịch vụ bao nuôi ở Thuận An
+  - Bình Dương
 ---
 # Bao nuôi ở Thuận An, Bình Dương
 Với dịch vụ này, bạn:

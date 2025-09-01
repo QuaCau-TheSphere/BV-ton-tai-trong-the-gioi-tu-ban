@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-08-21T17:43
 title: Vấn đề đạo đức khi làm ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
@@ -19,10 +19,9 @@ Xem thêm:: [[Lách luật là phạm luật một cách đúng luật]]
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên
 Quản lý cũng chỉ là người làm công ăn lương chứ không phải là cổ đông, nên về cơ bản họ cũng chịu sự bóc lột của tư bản. Đáng lẽ nạn nhân thì cần đoàn kết với nhau chứ không phải là lừa dối nhau chứ? Mà sự đoàn kết đòi hỏi sự thành thật. Đặc biệt là với các quản lý thể hiện sự quan tâm thực sự với nhân viên của mình. Cảm giác phải lừa dối người thực sự có quan tâm mình rất là khó chịu.
 
-Nếu thỉnh thoảng bạn ăn gian thì họ cũng có thể nhắm mắt làm ngơ, giả vờ không biết. Ở một số nơi sẽ gọi chuyện này là "mắt nhắm mắt mở". Tiếng Anh gọi là "turn a blind eye". Có khi chính họ cũng làm vậy nhiều lần mới lên được chức quản lý, và họ làm được như vậy vì quản lý trước đó của họ cũng đã mắt nhắm mắt mở với họ. Nên thực ra bạn có nói thật thì trước mắt cũng sẽ không bị gì. Vấn đề là khi bị cấp lãnh đạo gây sức ép thì họ sẽ dễ bị lung lay, bởi vì trong thâm tâm họ đã biết chắc chắn là bạn làm ảo rồi. Nếu trong thâm tâm họ cũng không biết bạn có làm ảo hay không, thì họ sẽ bảo vệ bạn được tốt hơn. Họ cần sự thiếu bằng chứng rằng bạn làm ảo để có thể làm được điều đó. Có thể họ cũng đã phải làm vậy với quản lý trước đó của họ. 
+Nếu thỉnh thoảng bạn ăn gian thì họ cũng có thể nhắm mắt làm ngơ, giả vờ không biết. Ở một số nơi sẽ gọi chuyện này là "mắt nhắm mắt mở". Tiếng Anh gọi là "turn a blind eye". Có khi chính họ cũng làm vậy nhiều lần mới lên được chức quản lý, và họ làm được như vậy vì quản lý trước đó của họ cũng đã mắt nhắm mắt mở với họ. Nên thực ra bạn có nói thật thì trước mắt cũng sẽ không bị gì. Vấn đề là khi bị cấp lãnh đạo gây sức ép thì họ sẽ dễ bị lung lay, bởi vì trong thâm tâm họ đã biết chắc chắn là bạn làm ảo rồi, và họ sẽ dễ khai bạn trước lãnh đạo cấp cao hơn. Nếu trong thâm tâm họ cũng không biết bạn có làm ảo hay không, thì họ sẽ bảo vệ bạn được tốt hơn. Họ cần sự thiếu bằng chứng rằng bạn làm ảo để có thể làm được điều đó. Có thể họ cũng đã phải làm vậy với quản lý trước đó của họ. 
 
-Hơn nữa, kể cả khi họ thông đồng với bạn, họ cũng có một cái cớ để ép bạn phải chạy số liệu ảo nhiều hơn, nếu không sẽ không bảo vệ bạn nữa. Nếu không có cách nào ràng buộc họ thì họ có thể 
-Chia sẻ rủi ro không đồng đều. Bạn bị phát hiện là chạy khách ảo thì cũng không thiệt quá nhiều cho họ
+Hơn nữa, kể cả khi họ thông đồng với bạn, cũng vẫn phải nhớ rằng việc chạy kết quả ảo có nguy cơ là bị mất việc. Và cấp bậc quản lý thì vẫn cao hơn nhân viên. Nếu không có cách nào ràng buộc họ chia sẻ rủi ro đồng đều với bạn thì việc ép bạn phải chạy kết quả ảo nhiều hơn mức bạn sẵn sàng sẽ có lợi cho họ, và sẽ có người tận dụng điều đó. Kể cả khi họ vẫn không khui bạn ra với cấp trên, thì họ cũng không sẽ không hăng hái bảo vệ bạn nữa.
 
 [[Làm kết quả ảo cần giống làm thật để không tạo ra sự mất cân bằng trong hệ thống và để người làm thật không cảm thấy bất công]]
 
@@ -34,5 +33,3 @@ Khi [[Xây dựng công đoàn|lập được công đoàn có tiếng nói]], �
 - [[Công việc vô nghĩa, tổ chức vô lý]]
 - [[Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu]]
 - [[Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH]]
-
-[[Công việc vô nghĩa, tổ chức vô lý]]

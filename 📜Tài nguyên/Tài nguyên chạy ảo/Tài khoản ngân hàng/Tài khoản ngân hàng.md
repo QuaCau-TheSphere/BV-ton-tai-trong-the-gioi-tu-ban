@@ -1,7 +1,8 @@
 ---
 created: 2025-03-21T22:15
-updated: 2025-07-13T20:49
-cssClass: wide-table
+updated: 2025-08-23T23:41
+cssclasses:
+  - wide-table
 ---
 ## Những tài khoản đã kiểm tra là đăng nhập được 
 ```dataview

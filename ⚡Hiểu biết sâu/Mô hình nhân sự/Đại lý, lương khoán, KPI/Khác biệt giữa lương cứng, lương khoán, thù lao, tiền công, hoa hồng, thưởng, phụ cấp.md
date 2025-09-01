@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-01-01T22:58
-updated: 2025-07-09T17:14
-alias: Các hình thức trả tiền cho lao động
+updated: 2025-08-16T22:04
+aliases:
+  - Các hình thức trả tiền cho lao động
 ---
 Khái niệm:: [[Lương]]
 

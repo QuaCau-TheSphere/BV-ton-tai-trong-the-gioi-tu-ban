@@ -1,7 +1,8 @@
 ---
 created: 2025-01-26T23:16
-updated: 2025-07-09T17:32
-cssClass: wide-table
+updated: 2025-08-16T22:05
+cssclasses:
+  - wide-table
 ---
 # Báo cáo đánh giá thử việc 
 Nhân viên: Lý Minh Nhật

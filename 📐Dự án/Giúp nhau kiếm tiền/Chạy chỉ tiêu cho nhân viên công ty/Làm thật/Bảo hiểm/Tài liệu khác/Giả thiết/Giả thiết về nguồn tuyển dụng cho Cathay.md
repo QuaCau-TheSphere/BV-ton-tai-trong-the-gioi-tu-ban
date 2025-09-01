@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-10-26T21:32
-updated: 2025-08-16T22:02
-alias: Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người?
+updated: 2025-08-16T22:05
+aliases:
+  - Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người?
 ---
 ## Các ràng buộc
 Yêu cầu từ công ty:

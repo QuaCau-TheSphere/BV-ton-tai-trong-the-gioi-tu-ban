@@ -1,7 +1,14 @@
 ---
 share: true
 created: 2024-06-22T18:55
-alias: các công việc kiếm tiền nhanh, freelance, các công việc cộng tác viên, lương liền, bán thời gian, part-time, part time
+aliases:
+  - các công việc kiếm tiền nhanh
+  - freelance
+  - các công việc cộng tác viên
+  - lương liền
+  - bán thời gian
+  - part-time
+  - part time
 updated: 2025-08-17T15:15
 ---
 # Các công việc kiếm tiền nhanh

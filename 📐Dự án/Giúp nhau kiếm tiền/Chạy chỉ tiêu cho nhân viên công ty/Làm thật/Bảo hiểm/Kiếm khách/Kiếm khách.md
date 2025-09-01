@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2025-07-09T17:32
-alias: bán bảo hiểm, thu hút khách hàng
+updated: 2025-08-31T17:04
+aliases:
+  - bán bảo hiểm
+  - thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 ---
 # Thu hút khách hàng mua bảo hiểm

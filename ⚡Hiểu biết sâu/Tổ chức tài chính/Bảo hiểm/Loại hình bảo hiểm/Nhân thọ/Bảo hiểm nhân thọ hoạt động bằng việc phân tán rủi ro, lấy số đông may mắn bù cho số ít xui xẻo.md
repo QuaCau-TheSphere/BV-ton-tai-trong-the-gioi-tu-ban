@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-06T14:35
-alias: "Số đông: Số đông bù cho số ít"
-updated: 2025-07-09T17:17
+aliases:
+  - "Số đông: Số đông bù cho số ít"
+updated: 2025-08-16T22:04
 ---
 Khái niệm:: 
 [[Bồi thường là trả tiền trên hoá đơn thực tế. Khoán là do người mua tự định giá của sinh mạng mình ngay từ đầu]]

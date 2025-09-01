@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-08-23T15:47
 ---
 - Bào tiền của tư bản
 - Chơi chính sách
@@ -9,6 +9,7 @@ updated: 2025-07-09T17:32
 - Gian lận
 - Làm ảo
 
+Bào tiền hàm ý ngồi nhà bấm app là chính. Chơi chính sách thì về mặt kỹ thuật mà nói vẫn đúng luật.
 [[Nhóm chạy chỉ tiêu]]
 [[Lách luật là phạm luật một cách đúng luật]]
 [[Công việc vô nghĩa, tổ chức vô lý]]

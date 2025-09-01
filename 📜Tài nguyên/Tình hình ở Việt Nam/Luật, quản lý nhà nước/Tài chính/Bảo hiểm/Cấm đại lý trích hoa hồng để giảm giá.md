@@ -2,7 +2,8 @@
 share: true
 created: 2024-09-30T23:34
 updated: 2025-08-17T16:41
-alias: Luật cấm đại lý trích hoa hồng để giảm giá
+aliases:
+  - Luật cấm đại lý trích hoa hồng để giảm giá
 ---
 Khái niệm:: [[Hoa hồng]], [[Giảm giá]]
 - Cấm đại lý trích hoa hồng để giảm giá: Có lẽ là để chống bán phá giá?

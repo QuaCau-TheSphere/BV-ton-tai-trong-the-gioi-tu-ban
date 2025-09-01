@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:35
+updated: 2025-08-23T15:54
 ---
 Tính chất công việc::  
 Hình thức:: 
@@ -20,4 +20,4 @@ Sau 3 ngày sau khi nhận hàng
 ## Nơi thảo luận
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm chạy chỉ tiêu cho nhân viên sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác
+> Công việc này là một phần của [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác

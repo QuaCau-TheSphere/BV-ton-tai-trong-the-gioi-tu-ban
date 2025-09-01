@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2025-04-24T14:51
-updated: 2025-07-09T17:35
-alias: Săn người, săn nhân sự
+updated: 2025-08-16T22:05
+aliases:
+  - Săn người
+  - săn nhân sự
 ---
 Tạo phiếu đăng ký để được nhận suất khảo sát sẽ khiến họ thấy mình xứng đáng có nó, nhưng mình lại có dữ liệu để lọc
 [[Săn sự kiện cần lấp người khán giả, phỏng vấn cần tìm đáp viên]]

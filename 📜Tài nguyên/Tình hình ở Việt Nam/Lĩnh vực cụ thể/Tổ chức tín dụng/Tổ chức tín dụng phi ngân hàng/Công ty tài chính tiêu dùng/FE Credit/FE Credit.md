@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:22
-updated: 2025-08-17T16:41
+updated: 2025-08-23T10:45
 ---
 94QĐ-VH.19 09122019
 ![[Screen Shot 2024-12-30 at 10.41.29.png]]
@@ -28,9 +28,8 @@ Nếu chưa phát sinh lãi, phí, phạt thì khi thanh toán sẽ trừ vào g
 
 ![[Day 2_Sáng _P2 _2.TIẾN TRÌNH LÀM VIỆC VỚI KHÁCH HÀNG + PTP - VS 27.11.2023.pdf]]
 
-[[📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/Thu hồi nợ/FE|Làm nhân viên ảo FE]]
+[[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|Làm nhân viên ảo FE Credit]]
 
 Phúc lợi:
 - Thử việc 100% lương, 80% KPI
-- Thử việc được đóng BHXH - BHYT - BHNT 
-- Bảo hiểm chăm sóc sức khoẻ 24/7 Bảo Việt
+- Thử việc được đóng BHXH, BHYT, bảo hiểm nhân thọ và bảo hiểm sức khoẻ của Bảo Việt

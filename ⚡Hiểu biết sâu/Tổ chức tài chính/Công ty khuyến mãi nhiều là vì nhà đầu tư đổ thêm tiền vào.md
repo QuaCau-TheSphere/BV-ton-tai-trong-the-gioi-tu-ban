@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-07-24T14:50
-alias:
+updated: 2025-08-21T10:38
+aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
 ---
 ## Sao công ty này lại cho nhiều khuyến mãi quá vậy? Có phải là lừa đảo không?
@@ -26,7 +26,7 @@ Ngoài ra công ty cũng có thể ăn tiền trong khoảng thời gian chờ t
 
 Nhiều người từ momo qua. Nhẵn mặt với nhau
 
-Xem thêm:: [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]]
+Xem thêm:: [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền]]
 
 Vẫn còn một lập luận phản biện nữa. Đó là [[Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật]]. [[Lách luật là phạm luật một cách đúng luật]]. Những cái này thì phải đọc hợp đồng cho kỹ mà thôi. Và đó cũng là lý do mà nơi này được sinh ra.
 

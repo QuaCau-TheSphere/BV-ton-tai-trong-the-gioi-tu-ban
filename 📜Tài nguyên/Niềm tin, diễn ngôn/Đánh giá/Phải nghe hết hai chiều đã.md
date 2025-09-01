@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-19T11:24
-updated: 2025-07-09T17:32
-Alias: tìm hiểu 2 bên
+updated: 2025-08-16T22:05
+aliases:
+  - tìm hiểu 2 bên
 ---
 Khái niệm:: 
 

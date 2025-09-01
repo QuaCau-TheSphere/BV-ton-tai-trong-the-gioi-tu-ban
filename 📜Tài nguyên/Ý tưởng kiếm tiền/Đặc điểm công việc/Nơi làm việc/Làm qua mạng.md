@@ -2,7 +2,8 @@
 share: true
 created: 2024-11-23T20:48
 updated: 2025-08-17T15:16
-alias: Làm online
+aliases:
+  - Làm online
 description: Công việc online
 ---
 Các việc này có thể kết hợp cùng với các công việc yêu cầu ngồi một chỗ và hay ngắt quãng, như bảo vệ, soát vé, lễ tân, hướng dẫn viên du lịch, trông cửa hàng

@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-08-12T21:27
-alias: Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
+updated: 2025-08-26T19:28
+aliases:
+  - Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
 ## Khó khăn của người cần vay
 - Không có thời gian giải thích
@@ -34,3 +35,4 @@ alias: Các lý do khiến cho một người khó mở lời hỏi mượn ti�
 - Sợ rằng cho một người vay sẽ có thêm nhiều người khác đến hỏi vay
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
+[[Làm sao cho vay mà không bị xù]], [[Xử lý người xù nợ]]

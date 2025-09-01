@@ -2,8 +2,9 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-04-15T16:12
-updated: 2025-08-17T15:15
-alias: voucher
+updated: 2025-08-31T16:50
+aliases:
+  - voucher
 ---
 Tính chất công việc:: [[Làm qua mạng]], [[Không tiếp xúc với con người]], [[Không tốn diện tích]], [[Không cần nghe]], [[Không cần đi lại]], [[Không cần nói]], [[Được chọn thời gian làm trong ngày]], [[Không cần độ tập trung cao]], [[Làm qua mạng]]
 Hình thức:: [[Công việc thời vụ, cộng tác viên]]
@@ -16,6 +17,10 @@ Số người cần tuyển::
 ## Mô tả chi tiết
 [[Phiếu giảm giá (voucher)]], 
 [[Airdrop là việc thu thập khuyến mãi của dịch vụ và bán cho người khác]]
+
+## App voucher
+- [UrBox](https://urbox.vn/)
+- Golder Spoon
 
 ## Sàn thương mại điện tử
 | Tự kiếm           | GM Mall                                | MCN Star  |

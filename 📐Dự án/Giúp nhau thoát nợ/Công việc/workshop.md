@@ -1,12 +1,29 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-17T19:21
+updated: 2025-08-23T16:19
 ---
+
+
+Tín dụng được dùng nhiều hơn 
+Bộ các tiêu chí đánh giá: tổng tài sản, tổng nguồn vốn
+
+Mức độ uy tín của doanh nghiệp: Doanh nghiệp nhà nước → doanh nghiệp nước ngoài → 
+Lịch sử thu nhập: tăng dần đều (có tiến triển), tăng bất thường (được thưởng cao, thì phải xem là có duy trì hoài được không)
+
+Ưu tiên các nhóm ngành cơ bản, thiết yếu
+
+Vay thẻ tín dụng thì được tích đến cuối kỳ, xong rồi thì lại được vay lại dùng lại. Vay các khoản khác thì mỗi kỳ phải trả, và trả xong hết rồi thì không được vay lại
+Tiền vay dài thì ngân hàng phải tính tiền của mình phải dư trả trong một thời gian rất dài. Còn tín dụng thì chỉ cần tính tiền của mình đủ để trả lãi và 
+
+[[Cho vay cá nhân lợi hơn là cho vay doanh nghiệp]]
+
+Hồi xưa ngân hàng có một tiêu chí quan trọng để yêu cầu mua bảo hiểm vay là sự phụ thuộc vào 
+
+
+---
+
 Tài liệu Workshop: Bây giờ vay tiền, có nên không?
-
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeh0VBSoOjvAh1q_1oMK2aJu-dNEhuLfEhvrbJJ7zrL3qyTFY_xkW91H2sJX74nPtZXEDYVk8Njca24b09L0WmXOC-TyUKQP8n6tpnrVER-2kXQO0-NigqHqW0o9dajyjm3LKQq=s800?key=H7TuBy-JP0Q4bra7qhZLQA)
 
 CÂU HỎI LỚN NHẤT LÚC NÀY CỦA BẠN VỀ VAY TIỀN?
 

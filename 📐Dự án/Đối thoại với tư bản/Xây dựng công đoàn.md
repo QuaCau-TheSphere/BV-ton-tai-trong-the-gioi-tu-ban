@@ -1,12 +1,15 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-03T22:01
+updated: 2025-08-20T10:37
 ---
 Khái niệm:: 
 - Chiếm 50% người lao động
-[[Nhu cầu kiếm đủ để tồn tại của công nhân cổ cồn xanh khiến họ ít coi việc làm thêm giờ là một vấn đề]]
 [[Review công ty]]
+```dataview
+LIST
+FROM "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Công đoàn" 
+```
 
 ![Tăng lương mà không tăng ca: Quyền thương lượng tập thể là gì? - YouTube](https://youtu.be/_coyWUXt-wk?si=nAyrd1UUbrpMOubO)
 ![Vì sao nhà nước lo sợ công đoàn độc lập? - YouTube](https://youtu.be/Wq8wbXTbG6k?si=O6BaWn8NXnuxVGkY)

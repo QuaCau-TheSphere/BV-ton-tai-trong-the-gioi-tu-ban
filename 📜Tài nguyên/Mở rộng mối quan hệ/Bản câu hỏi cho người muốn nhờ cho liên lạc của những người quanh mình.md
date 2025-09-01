@@ -1,8 +1,11 @@
 ---
 share: true
 created: 2024-11-11T13:25
-updated: 2025-07-09T17:32
-alias: Lo lắng khi bị nhờ cho liên lạc, nhờ giới thiệu, cách từ chối
+updated: 2025-08-16T22:05
+aliases:
+  - Lo lắng khi bị nhờ cho liên lạc
+  - nhờ giới thiệu
+  - cách từ chối
 ---
 ## Kịch bản gọi là gì?
 ## Họ có muốn nghe về điều đó không?

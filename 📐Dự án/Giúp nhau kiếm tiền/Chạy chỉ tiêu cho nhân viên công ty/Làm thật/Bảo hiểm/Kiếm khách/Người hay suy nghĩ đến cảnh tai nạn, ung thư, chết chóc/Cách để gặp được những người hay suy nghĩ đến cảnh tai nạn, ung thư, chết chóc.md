@@ -2,8 +2,11 @@
 share: true
 created: 2024-10-16T20:14
 description: Đâu là những môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc?
-updated: 2025-07-09T17:32
-Alias: nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc
+updated: 2025-08-16T22:05
+aliases:
+  - nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn
+  - ung thư
+  - chết chóc
 ---
 Bảo hiểm nhân thọ là câu trả lời cho câu hỏi: 
 - Nếu tôi bị ung thư giai đoạn cuối thì ai lo tiền chữa trị cho tôi?

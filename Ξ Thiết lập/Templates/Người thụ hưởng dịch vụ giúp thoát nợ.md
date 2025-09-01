@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:27
-updated: 2025-08-16T22:05
+updated: 2025-08-31T16:56
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -16,7 +16,7 @@ updated: 2025-08-16T22:05
 
 ## Các cách xoay sở
 ### Bạn đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
-### Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
+### Bạn nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
 ### Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 ### Bạn có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ vay nóng]] không? Vì sao?
 ### Bạn có chấp nhận ra khỏi thành phố sống không? Vì sao?
@@ -30,6 +30,6 @@ updated: 2025-08-16T22:05
 ### Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 ### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt?
 ### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-### Bạn có sẵn sàng tham gia công việc [[Xây dựng quỹ tín dụng vi mô và mạng lưới cho vay ngang hàng|xây dựng quỹ tín dụng vi mô]] không?
+### Bạn có sẵn sàng tham gia công việc [[Xây dựng ngân hàng mini và mạng lưới cho vay ngang hàng|xây dựng quỹ tín dụng vi mô]] không?
 
 Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

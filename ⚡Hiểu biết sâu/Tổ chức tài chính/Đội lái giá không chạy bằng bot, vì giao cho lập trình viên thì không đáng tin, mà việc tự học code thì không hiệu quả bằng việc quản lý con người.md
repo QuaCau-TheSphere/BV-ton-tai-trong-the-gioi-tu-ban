@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:12
-updated: 2025-07-09T17:14
+updated: 2025-08-21T10:37
 ---
 ah, sàn với broker cấp API cho mình viết bot chứ. Nhưng cái đội lái giá thì tụi nó ko có chạy bằng bot
 

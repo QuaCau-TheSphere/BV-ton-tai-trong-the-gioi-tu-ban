@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2025-08-17T09:37
+updated: 2025-08-31T11:34
 ---
 Một hình thức ít rủi ro hơn là đi [[Đổi tiền, chụp hình biển hiệu, dán mã QR#Đổi tiền|đổi tiền]].
 ## Yêu cầu
@@ -45,7 +45,5 @@ Tốn thời gian nhất là phải chuyển app. Chứ quẹt xong mã này nó
 > [!attention] Các ngân hàng không làm tốt với VNPAY
 > - **Shinhan**, **TP**, **VP** không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY, dù vẫn chuyển được
 > - **Kiên Long** không quẹt được VNPAY, dù quẹt TK ngân hàng bình thường khác vẫn được. MSB có thể được, cần kiểm tra lại
-> 
-> Xem thêm:: [[📜Tài nguyên/Tài nguyên chạy ảo/Ngân hàng/Ngân hàng|Ghi chú về các app ngân hàng]]
 
 ![](https://i.imgur.com/Q7KcLn6.png)

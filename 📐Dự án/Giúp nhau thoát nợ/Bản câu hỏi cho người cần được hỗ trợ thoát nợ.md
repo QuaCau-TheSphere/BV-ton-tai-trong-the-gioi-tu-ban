@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T09:09
+updated: 2025-08-31T16:56
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -32,7 +32,7 @@ updated: 2025-08-17T09:09
 
 ## Các cách xoay sở bạn đã áp dụng
 - Bạn đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
-- Bạn nghĩ gì về [[Ý tưởng tiết kiệm|các ý tưởng tiết kiệm]] này?
+- Bạn nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
 - Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
 	- Vì sao bạn không thể chấp nhận mất cic?

@@ -2,7 +2,8 @@
 share: true
 created: 2023-09-05T16:17
 updated: 2025-08-17T16:41
-alias: Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền
+aliases:
+  - Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền
 ---
 Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Rửa tiền]]
 Nguồn:: [Kiên quyết xử lý những điểm không được phép kinh doanh dịch vụ rút, chuyển tiền trái phép](https://baothanhhoa.vn/kien-quyet-xu-ly-nhung-diem-khong-duoc-phep-kinh-doanh-dich-vu-rut-chuyen-tien-trai-phep-122634.htm "Kiên quyết xử lý những điểm không được phép kinh doanh dịch vụ rút, chuyển tiền trái phép")

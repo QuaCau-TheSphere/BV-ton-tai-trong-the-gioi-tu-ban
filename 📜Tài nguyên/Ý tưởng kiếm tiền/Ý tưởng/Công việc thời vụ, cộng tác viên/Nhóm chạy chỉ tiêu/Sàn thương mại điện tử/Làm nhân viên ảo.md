@@ -3,7 +3,7 @@ share: true
 created: 2025-03-25T22:31
 description: "Họp online hoặc lên văn phòng chơi. Số tiền kiếm được: tối thiểu 600k, hoặc 1tr5/tháng"
 title: Làm nhân viên ảo GM Mall
-updated: 2025-08-17T15:15
+updated: 2025-08-23T15:54
 ---
 Mô tả công việc:: Họp online hoặc lên văn phòng chơi
 Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
@@ -50,6 +50,6 @@ Bạn sẽ cần cung cấp CCCD để làm hồ sơ xin việc. Bạn có thể
 - Họp đầy đủ 5 ngày trong tuần: 50k
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm chạy chỉ tiêu cho nhân viên GM Mall]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác
+> Công việc này là một phần của [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdgrWE5lO8Ijww22LJg-y_fFdJy1ibPQD5EN4dTLK7_WFnV6A/viewform?embedded=true" width="640" height="2338" frameborder="0" marginheight="0" marginwidth="0"></iframe>

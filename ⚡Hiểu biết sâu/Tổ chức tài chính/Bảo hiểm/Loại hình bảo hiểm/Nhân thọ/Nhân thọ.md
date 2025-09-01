@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2024-09-06T15:35
-updated: 2025-07-09T17:17
-alias: Các loại hình bảo hiểm nhân thọ
+updated: 2025-08-16T22:04
+aliases:
+  - Các loại hình bảo hiểm nhân thọ
 ---
 Khái niệm:: 
 # Các loại hình bảo hiểm nhân thọ

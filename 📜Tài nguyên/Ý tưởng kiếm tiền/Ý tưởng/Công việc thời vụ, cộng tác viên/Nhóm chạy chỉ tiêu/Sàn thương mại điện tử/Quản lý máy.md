@@ -2,7 +2,7 @@
 share: true
 description: "Quản lý phonefarm gồm 60 - 80 cái điện thoại. Số tiền kiếm được: 5 tr/tháng"
 created: 2025-04-04T14:21
-updated: 2025-07-09T17:32
+updated: 2025-08-23T15:54
 ---
 Số tiền kiếm được:: 5tr/tháng + quà tặng rất thường xuyên
 Mô tả công việc:: Quản lý phonefarm gồm 60 - 80 cái điện thoại 
@@ -33,4 +33,4 @@ Những cái này làm nhanh thì 1 tiếng là xong.
 Quà tặng thường là nồi chiên không dầu, quạt cầm tay, cân điện tử, thẻ điện thoại 20k, cáp sạc 3 trong 1, túi xách mini, sữa tắm, v.v. Lâu lâu có cả những thứ mấy triệu.
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm chạy chỉ tiêu cho nhân viên sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác
+> Công việc này là một phần của [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác

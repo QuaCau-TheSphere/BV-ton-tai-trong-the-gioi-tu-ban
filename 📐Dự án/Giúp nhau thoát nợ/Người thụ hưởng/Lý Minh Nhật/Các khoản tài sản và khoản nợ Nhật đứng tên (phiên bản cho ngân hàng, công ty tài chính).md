@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-10T13:09
-alias: Hồ sơ vay của Lý Minh Nhật
+updated: 2025-08-16T22:05
+aliases:
+  - Hồ sơ vay của Lý Minh Nhật
 ---
 # Hồ sơ vay của Lý Minh Nhật
 ## Các tài sản 
