@@ -15,7 +15,7 @@ updated: 2025-08-17T16:39
 
 Bên ngoài vui vẻ với nhau nhưng bên trong chẳng giúp nhau gì
 
-[[📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Bảo hiểm/Nhân sự/Cathay/Cathay|Chính sách nhân sự ở Cathay]]
+[[📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tài chính/Bảo hiểm/Nhân sự/Cathay/Cathay|Chính sách nhân sự ở Cathay]]
 
 ## Chị Hà
 Nếu cứ làm theo cathay thì sẽ được thì Tại sao chị Hà phải khóc? 

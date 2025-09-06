@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-16T22:04
+updated: 2025-09-05T10:41
 ---
 Khái niệm:: 
 Nguồn:: ![Người Hà Lan Đã KIẾN TẠO Nên New York Như Thế Nào - CDTeam Why? - YouTube](https://youtu.be/T5zdAwT3s60?si=RqWZOcjgch5YpV5_)

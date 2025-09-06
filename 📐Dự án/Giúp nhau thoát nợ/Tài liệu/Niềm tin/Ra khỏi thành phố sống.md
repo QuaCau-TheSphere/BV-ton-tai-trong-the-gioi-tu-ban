@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2025-08-31T17:09
+updated: 2025-09-03T16:35
 aliases:
   - Các lý do để không về quê
 ---
-[[Phát triển cộng đồng làng quê]]
+[[Phát triển cộng đồng làng quê, nông thôn mới]]
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên
 - Ở TP đang có lương 15tr, đi ra nơi khác sống thì không kiếm được chỗ nào cho như vậy
 

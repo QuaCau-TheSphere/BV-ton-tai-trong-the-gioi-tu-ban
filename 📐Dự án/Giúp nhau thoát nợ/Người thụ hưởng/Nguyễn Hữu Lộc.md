@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2025-08-31T09:30
+updated: 2025-09-05T14:58
 ---
 Lộc có 5 sổ tiết kiệm trong Vietinbank, tổng cộng 165tr, ngày đáo hạn trải dài từ ngày 6 đến ngày 21/8. Các sổ này đều được thế chấp để có thẻ tín dụng 150tr, nhưng việc trả nợ gặp khó khăn. Giờ nếu để cho ngân hàng xiết sổ thì mất luôn 15tr. Nên Lộc muốn vay ngắn hạn để huỷ thẻ tín dụng trước, rồi khi lấy được sổ rồi sẽ trả lại sau. 
 
@@ -32,6 +32,7 @@ Số tiền Lộc vay đã được dùng để tạo ra [[Sàn thương mại �
 | [[Xây dựng ngân hàng mini và mạng lưới cho vay ngang hàng\|Xây dựng quỹ tín dụng vi mô]] | [[Quỹ giúp nhau giữ tài sản thế chấp]]                                                                                            |
 | Văn bản hoá các trải nghiệm và hiểu biết sâu                                             | Các ghi chú trong kho B                                                                                                           |
 | Làm MMO                                                                                  | Các tài nguyên làm MMO                                                                                                            |
+| Các buổi đối thoại về niềm tin của mỗi người                                             | Ý tưởng về một câu chuyện mang tên "Hành trình đi tới chữ `à`"                                                                    |
 
 Ở trên là tính những thành quả có được từ số tiền để đầu tư vào GM Mall. Nếu tính cả các hoạt động trước đây nữa thì còn thêm nữa. Tất cả những thành quả này đã làm tiền đề cho dự án [[Giúp nhau kiếm tiền]].
 

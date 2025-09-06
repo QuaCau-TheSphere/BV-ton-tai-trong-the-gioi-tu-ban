@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-31T13:01
+updated: 2025-09-05T10:39
 ---
 Khái niệm:: 
 [[64 tập đoàn lớn nhất Hàn Quốc chiến đến 84% GDP nhưng chỉ tạo ra khoảng 10% việc làm]]

@@ -1,11 +1,14 @@
 ---
 share: true
-updated: 2025-08-31T17:14
+updated: 2025-09-02T17:40
 description: Thử nghiệm trong việc tư duy lại hệ thống kinh tế và tiền tệ
 created: 2025-08-31T16:59
 aliases:
   - vcil
 ---
+Sao kê
+https://drive.google.com/drive/folders/1IBrAo42Tk_jbl3LVNCILiI9mzFpnMScG?fbclid=IwY2xjawK7cAJleHRuA2FlbQIxMABicmlkETE2YVZ3WTJpTmZxdjFZZ29PAR4F6YCtIxUKSJ0fsMU_tO9G4QDojWN5Pc_Z5nQSbIheDaCuGd0zr3vdiea5WA_aem_maBL0GaDdRKi7jgOZ9MvkA
+
 ![](https://substackcdn.com/image/fetch/$s_!lPgF!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab5c2e10-6886-4f67-92ce-2464a0fafbef_1640x924.png)
 
 Trong nền kinh tế thị trường tân tự do, con người là một cá thể riêng biệt và luôn tìm cách tối đa hoá lợi ích cá nhân. Cộng với bản chất của tiền là đồng nhất và dựa trên nợ. Nên thị trường phát triển tới đâu, cộng đồng và văn hoá địa phương có xu hướng bị đứt gãy đến đó. Ngày càng nhiều khía cạnh cuộc sống của con người bị chuyển đổi thành hàng hoá và để có thể mua bán được.
