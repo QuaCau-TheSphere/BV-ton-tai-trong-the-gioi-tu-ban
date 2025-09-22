@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-09-12T13:48
 ---
 Yêu cầu đầu vào:: 
 Đồng thời có thêm tính năng::
@@ -10,7 +10,7 @@ Loại chương trình:: [[Chương trình kế toán]], [[Template thu chi trê
 Đáp ứng cho nhu cầu hoặc tính năng:
 ```dataview
 list
-from "📜Tài nguyên/Chương trình quản lý tiền" 
+from "📜Tài nguyên/Chọn sản phẩm phù hợp/Chương trình quản lý tiền" 
 where contains(file.outlinks,[[]])
 where file.name != "Chương trình quản lý tiền" 
 ```

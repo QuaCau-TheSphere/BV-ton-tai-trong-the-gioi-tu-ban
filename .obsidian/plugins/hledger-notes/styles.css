@@ -1,0 +1,312 @@
+.hledger-entries {
+    margin: 1em 0;
+}
+
+.hledger-entry {
+    border: 1px solid var(--background-modifier-border);
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 4px;
+    position: relative;
+}
+
+.hledger-entry button {
+    position: absolute;
+    top: 0.5em;
+    right: 0.5em;
+    padding: 0.25em 0.5em;
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.hledger-entry button:hover {
+    background-color: var(--interactive-accent-hover);
+}
+
+.hledger-entry .setting-item {
+    margin-bottom: 0.5em;
+}
+
+.hledger-entry .setting-item:last-child {
+    margin-bottom: 0;
+}
+
+.hledger-entries-container {
+    margin: 1em 0 1em 0;
+}
+
+.hledger-entry-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.hledger-account-input-container {
+    position: relative;
+    flex: 2;
+    min-width: 200px;
+}
+
+.hledger-account-input {
+    width: 100%;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-account-suggest-container {
+    position: absolute;
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    margin-top: 2px;
+    scrollbar-width: thin;
+}
+
+.hledger-account-suggest-container.hidden {
+    display: none;
+}
+
+.hledger-account-suggest-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.hledger-account-suggest-container::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb-bg);
+    border-radius: 4px;
+}
+
+.hledger-account-suggest-item {
+    padding: 8px 10px;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.hledger-account-suggest-item:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.hledger-account-suggest-item.selected {
+    background-color: var(--background-secondary-alt);
+    color: var(--text-accent);
+}
+
+.hledger-amount-input {
+    width: 120px;
+    min-width: 100px;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-currency-select {
+    width: 80px;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-delete-button {
+    background: none;
+    border: none;
+    color: var(--text-error);
+    cursor: pointer;
+    padding: 0.25em;
+    font-size: 1.2em;
+}
+
+.hledger-delete-button:hover {
+    color: #ff0000;
+}
+
+.hledger-modal {
+    padding: 1em;
+}
+
+.hledger-date-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+    gap: 0.5em;
+}
+
+.hledger-type-toggle {
+    flex: 1;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-date-input {
+    width: 130px;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-description-input {
+    width: 100%;
+    margin-bottom: 1em;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-buttons-container {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hledger-right-buttons {
+    display: flex;
+    gap: 0.5em;
+}
+
+.hledger-add-account-button {
+    padding: 6px;
+    border-radius: 4px;
+    color: var(--text-normal);
+    background-color: var(--background-modifier-hover);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.hledger-add-account-button:hover {
+    background-color: var(--background-modifier-active);
+}
+
+.hledger-export-modal {
+    padding: 1em;
+}
+
+.hledger-date-range {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.hledger-date-range .setting-item {
+    flex: 1;
+    border: none;
+    padding: 0;
+}
+
+.hledger-date-range .setting-item-info {
+    font-weight: var(--font-medium);
+}
+
+.hledger-date-range input[type="date"] {
+    width: 100%;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.hledger-settings-search {
+    position: relative;
+}
+
+.hledger-folder-suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.hledger-suggestion-item {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.hledger-suggestion-item:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.hledger-warning-note {
+    background-color: var(--text-warning);
+    color: var(--text-on-accent);
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin-top: 1em;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.hledger-description-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 1em;
+    gap: 0.5em;
+}
+
+.hledger-description-row .hledger-description-input {
+    margin-bottom: 0;
+}
+
+.hledger-transaction-currency-select {
+    width: auto;
+    min-width: 80px;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+/* Mobile styles for entry rows */
+@media screen and (max-width: 600px) {
+    .hledger-entry-row {
+        flex-direction: column;
+        align-items: stretch;
+        margin-bottom: 1em;
+    }
+    
+    .hledger-description-row {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.5em;
+        margin-bottom: 1em;
+    }
+    
+    .hledger-description-row .hledger-description-input {
+        margin-bottom: 0.5em;
+    }
+    
+    .hledger-transaction-currency-select {
+        width: 100%;
+    }
+    
+    .hledger-account-input-container {
+        margin-bottom: 0.5em;
+        width: 100%;
+        flex: none;
+    }
+    
+    .hledger-amount-input {
+        margin-bottom: 0.5em;
+        width: 100% !important;
+        flex: none;
+    }
+    
+    .hledger-currency-select {
+        width: 100% !important;
+        flex: none;
+    }
+}

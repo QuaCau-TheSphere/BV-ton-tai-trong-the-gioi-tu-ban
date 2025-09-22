@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-01T19:56
+updated: 2025-09-16T10:06
 ---
 Khái niệm:: 
 Họ có thể vào được tài khoản ngân hàng của mình, chỉ cần mặt trước căn cước công dân của cộng với số điện thoại của mình. 
-màkhông cần số tài khoản của mình, mà 
+mà không cần số tài khoản của mình, mà 
 Cái tài khoản mà anh bắt buộc phải kyc
 Chụp lại cái hình đã đăng nhập được
 Sau đó chuyển số tiền mà anh bị kẹt trong đó đưa ngược lại cho anh
@@ -39,3 +39,5 @@ A giải thích xem lý do nào hợp lý nhất?
 Công nghệ cgi quá mạnh
 Mà nếu vậy thì là cái Giả thiết deep fake tạo bank ngày xưa là hợp lý. Lúc đó em cứ bảo bọn nó ko cần
 Nguồn:: 
+
+[[Fake cam, KYC]]

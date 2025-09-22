@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-16T22:04
+updated: 2025-09-16T10:04
 ---
 # Có thể làm eKYC ảo được không?
 eKYC phát hiện bằng việc phát hiện được các chuyển động nhỏ của cơ mặt hoặc quét chuyển động của mắt, nên nếu là quét người chết nó cũng phát hiện ra được. Nếu app đòi hỏi phải có quay mặt thì phải khớp chính xác với yêu cầu của app, nếu chỉ là video có sẵn thì không biết được. Giờ AI deepfake cũng nhiều, không chắc có thể bị nhờ AI tạo ra cái video như vậy không. Như Google Veo giới hạn có 7s mỗi video, và không chắc nó làm được vụ này không. Dù không đòi hỏi quay mặt nhưng chỉ chụp mỗi khuôn mặt thì cũng không chắc. Nếu app chỉ cần chụp ảnh giấy tờ thì đơn giản hơn. Ví dụ như để GitHub for Student Pack vì nó chỉ cần giơ thẻ sv trước camera là được nên có thể làm giả.
@@ -10,6 +10,8 @@ Với các app có chức năng chống root, nếu app dễ thì xài Magisk Hi
 
 Mình có thể giả lập điện thoại trên máy được, nhưng nó tuỳ vào việc giả lập đó có cho phép lấy luồng video streaming từ file hay từ camera của máy tính hay không. Mình nhớ có một lab cho thuê máy android vật lý, cho phép chèn ảnh vào luồng camera, nhưng không chắc là họ đã làm cách nào, vì video driver trên android khá phụ thuộc vào thiết bị/hãng sản xuất, driver cùa chúng độc quyền chứ không chung chung như Win hay Linux nên chèn vào rất phức tạp. Nếu làm trên trình duyệt thì mình nghĩ có cách để làm giả camera stream được, nhưng vẫn rất phụ thuộc vào yêu cầu của cái eKYC đó. Nếu khó thì hên xui lúc được lúc không và mất thời gian lắm.
 
-Thường các app ngân hàng ép người dùng xài app để làm eKYC vì nó bảo mật, khó hack hơn (nhưng không phải là không thể, như mấy vụ kiểm soát điện thoại, lừa người ta làm theo các thao tác, nên ngân hàng giờ làm chặt hơn rất nhiều). Các app này thường yêu cầu quay các góc khác nhau của khuôn mặt, nhìn thẳng vào cam. 
+Thường các ngân hàng ép người dùng xài app để làm eKYC vì nó bảo mật, khó hack hơn (nhưng không phải là không thể, như mấy vụ kiểm soát điện thoại, lừa người ta làm theo các thao tác, nên ngân hàng giờ làm chặt hơn rất nhiều). Các app này thường yêu cầu quay các góc khác nhau của khuôn mặt, nhìn thẳng vào cam. 
 
-Vcam pro crack full: [https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam](https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam "https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam")
+[Vcam pro crack full](https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam "https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam")
+
+[[Chỉ cần ảnh mặt trước cccd và sđt của một người là có thể truy cập được vào tài khoản ngân hàng của họ]]

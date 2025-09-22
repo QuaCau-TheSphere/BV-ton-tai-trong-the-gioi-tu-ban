@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-15T13:59
-updated: 2025-08-17T15:15
+updated: 2025-09-06T16:38
 title: Nhóm chạy chỉ tiêu cho nhân viên VNPAY
 aliases:
   - Công việc trong VNPAY

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-26T19:28
+updated: 2025-09-12T13:45
 ---
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:
 - Làm sao để người vay không có động lực xù?
@@ -43,4 +43,8 @@ Có người bị xù nợ nói rằng họ cho người quen tới 10 năm, đi
 
 Việc đòi hỏi sự minh bạch và giải trình có lẽ sẽ làm giảm động lực xù của người vay. Những thông tin ghi trong [[bản câu hỏi cho người cần được hỗ trợ thoát nợ]] có lẽ sẽ giúp quỹ đồng hành được với người cần vay tốt hơn, và đáp ứng được các nhu cầu khác mà không cần phải dùng tới tiền? Công sức để trả lời chúng cũng khá lớn, và buộc người cần vay phải minh bạch, nên xem như ai hoàn thành được nó thì khả năng xù thấp hơn? Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Các công việc được liệt kê ở phần trên sẽ làm họ thấy mình đang không trục lợi họ, mà chỉ muốn nâng đỡ họ. Việc xù mình sẽ làm họ bất lợi hơn.
 
+Ngoài việc yêu cầu phải hoàn thành [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] cũng như hỗ trợ họ kiếm tiền, để họ cảm thấy việc xù mình là bất lợi, thì có thể cho vay theo nhóm hơn là cho vay cá nhân. ([[Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]]). Điều này có nghĩa là những người vay phải quản lý tiến trình trả nợ của nhau. Ví dụ, những người đang [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)|nhờ Nhật đứng tên]] cần nói chuyện với nhau để có thể đảm bảo rằng Nhật không bị mất uy tín, để còn có thể đứng ra vay tiếp cho nhóm.
 
+đảm bảo thu nhập trong tháng vẫn đủ để trả các khoản tới hạn. Cơ bản là một dạng làm startup với họ
+
+Có lẽ câu hỏi tốt hơn không phải là "nhỡ bị xù thì sao", mà là "làm sao để hạn chế bị xù", và "phải làm gì để việc xù không gây ảnh hưởng".

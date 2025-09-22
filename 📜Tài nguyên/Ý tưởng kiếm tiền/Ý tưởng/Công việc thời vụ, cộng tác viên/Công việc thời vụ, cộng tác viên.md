@@ -9,27 +9,26 @@ aliases:
   - bán thời gian
   - part-time
   - part time
-updated: 2025-08-17T15:15
+updated: 2025-09-06T16:39
 ---
 # Các công việc kiếm tiền nhanh
-Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Đây là một phần của [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]
+Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Đây là một phần của [[Ý tưởng|Một số ý tưởng kiếm tiền]]
 [[Làm qua mạng|Làm online]]
 ## Công việc cho [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu]]
 Bài chi tiết:: [[Giúp nhau kiếm tiền]]
 
-###  [[Sàn thương mại điện tử|Công việc trong GM Mall]]
+###  [[Sàn thương mại điện tử|Công việc trong sàn thương mại điện tử]]
 ```dataview
 table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/GM Mall"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Sàn thương mại điện tử"
 WHERE file.name != this.file.name
-WHERE !contains(file.name, "GM Mall" )
+WHERE !contains(file.name, "Sàn thương mại điện tử" )
 ```
-
 
 ### [[VNPAY|Công việc trong VNPAY]]
 ```dataview
 table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY"
 WHERE file.name != this.file.name
 WHERE !contains(file.name, "VNPAY" )
 ```
@@ -41,7 +40,7 @@ WHERE !contains(file.name, "VNPAY" )
 ## [[Tìm người|Công việc tìm người]]
 ```dataview
 table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Tìm người"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Tìm người"
 WHERE file.name != this.file.name
 WHERE !contains(file.name, "Tìm người" )
 ```
@@ -49,7 +48,7 @@ WHERE !contains(file.name, "Tìm người" )
 ## Công việc khác
 ```dataview
 List
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên"
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên"
 WHERE file.name != this.file.name
 WHERE !contains(file.folder, "Nhóm chạy chỉ tiêu")
 WHERE !contains(file.folder, "Tìm người")

@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0da6c81fc1f8e519",
+        "id": "8dbda5b1d777342f",
         "type": "tabs",
         "children": [
           {
-            "id": "06315cac11468bac",
+            "id": "6875dbd037de8fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Xây dựng hệ thống kinh tế mới/VSLA.md",
+                "file": "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Bảo hiểm/Chiến lược/❓Nếu Bảo Việt tập trung vào các hợp đồng lớn thì phải sớm đào tạo việc bán cho doanh nghiệp chứ.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "❓Nếu Bảo Việt tập trung vào các hợp đồng lớn thì phải sớm đào tạo việc bán cho doanh nghiệp chứ"
+            }
+          },
+          {
+            "id": "09fb131da4abf3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +52,95 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VSLA"
+              "title": "Xù nợ ngân hàng"
+            }
+          },
+          {
+            "id": "3f3b82d79ed6f7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Airdrop là việc thu thập khuyến mãi của dịch vụ và bán cho người khác.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Airdrop là việc thu thập khuyến mãi của dịch vụ và bán cho người khác"
+            }
+          },
+          {
+            "id": "95b215a132e8ffde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Lừa đảo, phạm tội, thao túng, tham nhũng/Mua bán thông tin cá nhân/Hacker lấy được dữ liệu cũng bán lại chứ không khai thác để không phải ăn lẻ tẻ, và cũng để tránh bị truy vết.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hacker lấy được dữ liệu cũng bán lại chứ không khai thác để không phải ăn lẻ tẻ, và cũng để tránh bị truy vết"
+            }
+          },
+          {
+            "id": "23ce6437d99d42e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ξ Thiết lập/Ảnh/Carding p1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Carding p1"
+            }
+          },
+          {
+            "id": "2e3780ffd145daae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Sống vừa đủ, bền vững, tiết kiệm/Sống vừa đủ, bền vững, tiết kiệm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sống vừa đủ, bền vững, tiết kiệm"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,10 +172,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bào tiền",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -183,57 +292,58 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "hledger-notes:Add hledger entry": false
     }
   },
-  "active": "06315cac11468bac",
+  "active": "3f3b82d79ed6f7d8",
   "lastOpenFiles": [
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/Kinh tế tư nhân chiếm một nửa GDP.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes/Keynes là một trong những người tiên phong đặt nền móng lý thuyết cho việc sử dụng các chỉ số kinh tế vĩ mô nhằm can thiệp và ổn định nền kinh tế thông qua chính sách tài khóa và tiền tệ.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes/Hội nghị Bretton Woods, nơi khai sinh ra IMF và Ngân hàng Thế giới, mang đậm dấu ấn của Keynes.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes/Trong kinh tế học cổ điển lẫn Keynes, nếu có lạm phát thì thất nghiệp phải thấp, và ngược lại.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes/Tân cổ điển cho rằng thị trường lao động có thể tự phục hồi khi có thất nghiệp hàng loạt. Keynes không cho là như vậy, hoặc kể cả như vậy thì người dân đã chết.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Công ty sẽ muốn trả tiền chạy ảo cho mình chứ không muốn giữ luôn để không gặp vấn đề giải trình.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Công ty có thể muốn chạy ảo, nhưng không muốn nhà đầu tư thấy mình chạy ảo.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Làm kết quả ảo/Làm nhân sự ảo khác với làm kết quả ảo.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Ở Việt Nam, sự nghiệp chính trị thường phụ thuộc nhiều vào niên hạn, cơ cấu hay tín nhiệm nội bộ. Ở Trung Quốc, trọng tâm được đặt vào thành tích có thể đo lường.md",
-    "Ξ Thiết lập/Templates/Ghi chú chung chung.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Niềm tin vào sự công bằng của hệ thống công quyền mới được định hình ở cấp cơ sở, không phải ở cấp cao.md",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Thất nghiệp.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Thể chế/Mô hình cung cầu hay cân bằng tổng quát chỉ vận hành trơn tru khi thể chế rõ ràng và được tuân thủ.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes là một trong những người tiên phong đặt nền móng lý thuyết cho việc sử dụng các chỉ số kinh tế vĩ mô nhằm can thiệp và ổn định nền kinh tế thông qua chính sách tài khóa và tiền tệ.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Trước Keynes, thị trường là đấng tối cao, chính phủ chỉ là người gác đêm. Sau Keynes, chính phủ trở thành diễn viên chính, sẵn sàng chi tiêu, đầu tư, và định hướng vĩ mô để kéo nền kinh tế khỏi bờ vực..md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Lãi suất là phần thưởng cho việc từ bỏ thanh khoản.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes/Trước Keynes, thị trường là đấng tối cao, chính phủ chỉ là người gác đêm. Sau Keynes, chính phủ trở thành diễn viên chính, sẵn sàng chi tiêu, đầu tư, và định hướng vĩ mô để kéo nền kinh tế khỏi bờ vực..md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes/Lãi suất là phần thưởng cho việc từ bỏ thanh khoản.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/Keynes",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Trường phái, lịch sử kinh tế học/New folder",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/Doanh nghiệp nhỏ và vừa chiếm 98% số doanh nghiệp, nhưng chỉ nắm chưa đến 30% tổng vốn và tiếp cận chưa đến 18% tín dụng toàn hệ thống.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/Nhánh lập pháp cần duy trì những lợi ích ngầm cho một số đối tượng để nhánh hành pháp còn có nhân sự làm việc.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Lừa đảo, phạm tội, thao túng, tham nhũng/Tham nhũng, lợi ích nhóm/Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Tư bản thân hữu vi phạm nguyên tắc thị trường tự do.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/GDP của VN tăng trưởng rất nhanh.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/Tỉ lệ sử dụng tiền mặt ở VN khoảng 12% 1.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/Doanh thu của Samsung Việt Nam tương đương 20% GDP của Việt Nam.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Mục tiêu/Việt Nam cần tăng trưởng trung bình trên 6,5% mỗi năm trong 20 năm tới.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Dữ liệu cá nhân/~syncthing~Untitled.md.tmp",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế vĩ mô, toàn cầu hoá/GDP",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế vĩ mô, toàn cầu hoá/New folder",
-    "📐Dự án/Xây dựng hệ thống kinh tế mới/~syncthing~Thư giới thiệu cho Lộc.md.tmp",
-    "📐Dự án/Xây dựng hệ thống kinh tế mới",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/~syncthing~VPBank.md.tmp",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Khác/Thuốc lá",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Lĩnh vực cụ thể/Tài chính/Bảo hiểm/Nhân sự/Cathay/Chính sách cho đại lý/2024/~syncthing~NS, SE, SA chỉ là đại lý, nhưng TUM là trở thành nhân viên.md.tmp",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250825203130.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250825200301.png",
-    "Ξ Thiết lập/Ảnh/ICAN (hình 1).png",
-    "Ξ Thiết lập/Ảnh/Công ty/Bảo hiểm/Lịch đào tạo Bảo Việt.png",
-    "Ξ Thiết lập/Ảnh/Công ty/TH True Milk và Bắc Á Bank.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250723161741.png",
-    "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Quà tặng.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250707205013.png",
-    "Ξ Thiết lập/Ảnh/Điểm tín dụng của Nhật.png",
-    "Ξ Thiết lập/Ảnh/Screenshot_20250703_162651.jpg",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/VietinBank.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/cho vay ngắn.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Các dịch vụ cho vay tín chấp/Ngân hàng/Thẻ tín dụng/Cấn sổ mất 7tr.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/Mua bán thông tin cá nhân/4 cấp độ bí mật của thông tin.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền tư nhân chỉ bền vững khi đi kèm cơ chế bảo đảm giá trị và quản trị minh bạch, thay vì hoàn toàn thả nổi theo thị trường.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Vì agency có quyền sở hữu, nên họ có quyền thay đổi mà không thông báo, nhưng có vấn đề gì thì tác giả lãnh.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Tác giả và phản biện không được trả công, dù điều đó là thứ khiến bài báo có giá.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/Từng có một con bot Telegram dùng để tra mọi thông tin từ số điện thoại.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/Mua bán thông tin cá nhân/Từng có một con bot Telegram dùng để tra mọi thông tin từ số điện thoại.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/Mua bán thông tin cá nhân/IP Việt Nam bị chặn nhiều.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/Mua bán thông tin cá nhân/An ninh mạng ở Việt Nam rất tệ.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/Mua bán thông tin cá nhân",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/New folder",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/An ninh mạng ở Việt Nam rất tệ.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Khác/IP Việt Nam bị chặn nhiều.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Ngành nghề cụ thể.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Tín dụng/Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Tín dụng/Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Bảo hiểm/Bảo hiểm.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Content farm dùng để tăng SEO.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Các cửa hàng điện thoại dễ đăng ký tài khoản vì có nhiều SIM.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Đổi mới sáng tạo là hành vi có chi phí giao dịch cao và quyền sở hữu không hoàn hảo, vì ý tưởng dễ bị sao chép, lợi ích khó định lượng, và rủi ro thất bại cao.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Xây dựng, bất động sản/Giá đất sẽ tăng khi nghe thấy thông tin có dự án.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Xây dựng, bất động sản",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Nông nghiệp",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Mở tiệm",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Chứng khoán",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/New folder",
+    "Ξ Thiết lập/Ảnh/Mô tả công việc khai thác CC.png",
+    "Ξ Thiết lập/Ảnh/z7024074668707_fdd05cf1bb496373a56682d99c9af00d.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074666574_e48f46a55432bd418f318b67cf5da62c.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074661803_c0d96da660688e74fdd9bf902e18dbd5.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074648872_93286b01307e68d367a6d4ab0ed1ec8d.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074640732_8b438d78c1fc860ca6f788cc8682c5fe.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074639247_88a0e1a5875df930259b6a4b32a3ddb6.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074634381_b8593811c5f9e383562df7fc2d58906f.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074626709_ddcb791dc739c07250751658f155fba8.jpg",
+    "Ξ Thiết lập/Ảnh/z7024074614984_86780732a14c0d557d028d8783d253d1.jpg",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

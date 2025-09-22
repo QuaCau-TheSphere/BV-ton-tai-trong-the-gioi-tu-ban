@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-31T16:56
+updated: 2025-09-19T18:17
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
@@ -30,6 +30,8 @@ Tháng 2/2025 em làm việc ở một xưởng kim loại, nhưng vì bệnh v�
 
 Từ tháng 6 thì em làm ở một nhà hàng với mức lương đủ để trả dần dần, nhưng không chịu nổi áp lực và phải nghỉ sau một tháng. 
 
+Tháng 9 cô kêu sẽ lên Bảo Lộc đột ngột. Mấy ngày nữa trả nhà. Vay FE trả hết mọi người,  chấp nhận nợ xấu
+
 #### Tình hình nợ hiện nay
 Xếp theo thời hạn trả 
 ##### Nợ tín dụng
@@ -42,24 +44,26 @@ Xếp theo thời hạn trả
 | [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | 600k              |                            | Cắt các khoản lãi trước đó                                                                |
 
 ##### Nợ bạn bè, người thân
-| Khoản nợ    | Số tiền                      | Thời hạn trả | Lãi | Lý do                 |
-| ----------- | ---------------------------- | ------------ | --- | --------------------- |
-| Ẩn danh     | 4tr                          | 8/10         | 0   |                       |
-| Quân        | 2tr                          |              | 3%  |                       |
-| Mẹ Tuyên    | 3tr                          | 10/2026      | 0   | Sinh hoạt             |
-| Trí         | 300k                         | 0            | 0   | Sinh hoạt             |
-| Đồng        | 2tr5                         | 0            | 0   | Sinh hoạt             |
-| Bố mẹ Tuyên | 4tr                          | 0            | 0   | Sinh hoạt             |
-| Tuyên       | 8tr                          | 0            | 0   | Mua đt mới            |
-| Nhật        | 4740k + 1495k + nửa chỉ vàng | 0            | 0   | Sinh hoạt             |
+| Khoản nợ    | Số tiền                      | Thời hạn trả | Lãi | Lý do      |
+| ----------- | ---------------------------- | ------------ | --- | ---------- |
+| Mẹ Tuyên    | 3tr                          | 10/2026      | 0   | Sinh hoạt  |
+| Trí         | 300k                         | 0            | 0   | Sinh hoạt  |
+| Đồng        | 2tr5                         | 0            | 0   | Sinh hoạt  |
+| Bố mẹ Tuyên | 4tr                          | 0            | 0   | Sinh hoạt  |
+| Tuyên       | 8tr                          | 0            | 0   | Mua đt mới |
+| Nhật        | 4740k + 1495k + nửa chỉ vàng | 0            | 0   | Sinh hoạt  |
+| Mẹ Ân       | 8tr                          |              |     |            |
 
 #### Đã xong
 
-| Khoản nợ | Số tiền | Thời hạn trả | Lãi | Lý do                                                                                                | Ngày trả |
-| -------- | ------- | ------------ | --- | ---------------------------------------------------------------------------------------------------- | -------- |
-| Ân       | 320k    | 1/7          | 0   | Sinh hoạt                                                                                            |          |
-| Ba mẹ Ân | 12tr    | 1/2028       | 0   | Tiền cọc chuyển nhà (3tr), Tiền nhà tháng đầu (3tr5), Tiền nợ Momo (4tr), sinh hoạt (tháng 1,2/2025) |          |
-| Ba       | 4tr     | 1/7          | 0   | Sinh hoạt (20/4-30/5)                                                                                |          |
+| Khoản nợ | Số tiền | Thời hạn trả | Lãi | Lý do                                                                                                | Ngày trả  |
+| -------- | ------- | ------------ | --- | ---------------------------------------------------------------------------------------------------- | --------- |
+| Ẩn danh  | 4tr     | 8/10         | 0   |                                                                                                      | 19/9/2025 |
+| Quân     | 2tr     |              | 3%  |                                                                                                      | 19/9/2025 |
+| Anh Linh | 500k    |              | 0   |                                                                                                      | 19/9/2025 |
+| Ân       | 320k    | 1/7          | 0   | Sinh hoạt                                                                                            |           |
+| Ba mẹ Ân | 12tr    | 1/2028       | 0   | Tiền cọc chuyển nhà (3tr), Tiền nhà tháng đầu (3tr5), Tiền nợ Momo (4tr), sinh hoạt (tháng 1,2/2025) |           |
+| Ba       | 4tr     | 1/7          | 0   | Sinh hoạt (20/4-30/5)                                                                                |           |
 
 | Khoản nợ             | Số tiền  | Ngày trả định kỳ mỗi tháng | Lý do                                                                                     |
 | -------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------- |
@@ -132,7 +136,7 @@ Người cho em vay có quyền thảo luận với em về những khoản nợ
 
 Những người nhận được đề xuất vay nợ này có thể chia sẻ cho những người họ thấy có thể giúp em mà không cần hỏi em, nhưng chỉ được nói riêng, không được trong nhóm, kể cả khi nhóm đó đều có những người muốn giúp em và không đông. Em không muốn mình là một phần của các phân tích của một nhóm. Họ thảo luận với nhau thì không vấn đề gì, nhưng em nhận tiền của ai thì chỉ biết tới người đó.
 
-#### Bạn có sẵn sàng tham gia vào các công việc [[giúp nhau thoát nợ]] để việc hỗ trợ người mang nợ dễ dàng hơn không?
+#### Bạn có sẵn sàng tham gia vào các công việc [[Ngân hàng mini và mạng lưới cho vay ngang hàng|Giúp nhau thoát nợ]] để việc hỗ trợ người mang nợ dễ dàng hơn không?
 Sẽ cân nhắc
 
 

@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-11-09T00:04
-updated: 2025-07-14T15:24
+updated: 2025-09-22T14:56
 ---
 > [''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html) 
 > — Võ Hoàng Yến
 
-Ý tưởng cơ bản của bảo hiểm nhân thọ là nếu mình gặp tai nạn dẫn tới thương tật vĩnh viễn, hoặc bị ung thư, hoặc chết, thì mình và người thân của mình sẽ được trả một số tiền lớn. [[Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro, lấy số đông may mắn bù cho số ít xui xẻo|Nó hoạt động bằng việc phân tán rủi ro: số đông may mắn bù cho số ít xui xẻo]]. Đây là một loại dịch vụ có ích cho con người. Tuy nhiên, vì [[bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Ở góc độ này, công việc bán bảo hiểm là một công việc có ý nghĩa. Khi chưa xét đến các vấn đề liên quan đến việc tối đa hoá lợi nhuận của các công ty, thì công việc này không khác gì công việc của một người làm hoạt động xã hội muốn nâng cao nhận thức của mọi người về rủi ro, giúp họ quản lý rủi ro tốt hơn. 
+Ý tưởng cơ bản của bảo hiểm nhân thọ là nếu mình gặp tai nạn dẫn tới thương tật vĩnh viễn, hoặc bị ung thư, hoặc chết, thì mình và người thân của mình sẽ được trả một số tiền lớn. [[Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro, lấy số đông may mắn bù cho số ít xui xẻo|Nó hoạt động bằng việc phân tán rủi ro: số đông may mắn bù cho số ít xui xẻo]]. Đây là một loại dịch vụ có ích cho con người. Tuy nhiên, vì [[bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Ở góc độ này, công việc bán bảo hiểm là một công việc có ý nghĩa. Khi chưa xét đến các vấn đề liên quan đến việc tối đa hoá lợi nhuận của các công ty, thì công việc này không khác gì công việc của một người làm hoạt động xã hội muốn nâng cao nhận thức của mọi người về rủi ro, giúp họ quản lý rủi ro tốt hơn. 
 
 Theo [Thông cáo báo chí về kết quả điều tra Người khuyết tật năm 2023](https://www.gso.gov.vn/tin-tuc-thong-ke/2024/11/thong-cao-bao-chi-ve-ket-qua-dieu-tra-nguoi-khuyet-tat-nam-2023/) của Tổng cục Thống kê Việt Nam, chỉ có [[Tỷ lệ người khuyết tật tham gia lực lượng lao động là 23,9%, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4%)|chỉ có 24% NKT tham gia lao động, so với 77% người không khuyết tật tham gia lao động]]. Trong khi đó, họ lại khát khao thấy được mình là người có ích, có thể sống độc lập. Việc không đáp ứng được nhu cầu này thể hiện sự thất bại của thị trường.
 

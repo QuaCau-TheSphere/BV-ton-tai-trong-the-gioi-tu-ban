@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-26T19:28
+updated: 2025-09-14T20:09
 ---
 Các tổ chức làm trong ngành tín dụng đều có quy trình đòi nợ. Quy trình đó đã được tối ưu để ép khách trả tiền rồi, mình chỉ cần lấy về học hỏi là được. Thứ khác biệt là mình vẫn làm cho người vay thấy mình muốn nâng đỡ họ chứ không ém thông tin rồi khai thác các điểm yếu của con người.
 
@@ -12,3 +12,6 @@ Quy trình xử lý:
 
 Xem thêm:: [[Phương pháp xử lý PTP gãy]]
 [[Làm sao cho vay mà không bị xù]]
+
+## Nơi thảo luận
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-16T14:51
-updated: 2025-08-17T16:41
+updated: 2025-09-14T18:00
 ---
 Khái niệm:: 
 Lý do:: [[Để người dân nghi ngờ một ngân hàng sẽ làm sụp đổ cả hệ thống ngân hàng]]

@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2025-09-03T16:35
+updated: 2025-09-17T08:58
 aliases:
   - Các lý do để không về quê
 ---
-[[Phát triển cộng đồng làng quê, nông thôn mới]]
+[[❓Các câu hỏi cho mô hình cộng đồng làng]]
 ## Không kiếm được việc làm, hoặc tỉ lệ lương/chi phí sinh hoạt không tăng lên
 - Ở TP đang có lương 15tr, đi ra nơi khác sống thì không kiếm được chỗ nào cho như vậy
 
@@ -24,3 +24,5 @@ Các đô thị loại 2 như Đà Nẵng, Biên Hòa cũng không đủ để c
 - Ông bà không đi làm được
 
 [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
+[[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản]]
+[CUỘC CÁCH MẠNG MỘT-CỌNG-RƠM](https://www.facebook.com/groups/381947618639212/?multi_permalinks=3208978702602742&hoisted_section_header_type=recently_seen)

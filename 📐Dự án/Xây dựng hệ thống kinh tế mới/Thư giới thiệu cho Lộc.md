@@ -1,112 +1,71 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-05T15:03
+updated: 2025-09-16T10:30
+description: Vì sao lại giúp người không chủ động hành động?
 ---
-Chúng ta ở đây với nhau, nghĩa là đều có mong muốn xây dựng một hợp tác xã. 
+Xin chào các bạn VCIL,
 
-Lộc chưa hẳn đã tìm hiểu đủ để có mong muốn đó. 
+Minh xin tự giới thiệu, mình là Lý Minh Nhật. Mình viết bài viết này để giới thiệu với VCIL bạn Nguyễn Hữu Lộc, với mong muốn được cho bạn một cơ hội tham gia chương trình với chi phí và sự chú ý càng thấp càng tốt.
 
-Có rất nhiều 
+Lộc xuất thân từ tầng lớp động nghèo. Cũng như những người đã chứng kiến nhiều sự chật vật từ cái nghèo, Lộc luôn tìm cách để thoát khỏi nó. Lộc muốn có được sự yên tâm về tương lai của mình một cách nhanh nhất.
 
-Những người đều là hành trình tự giác ngộ bản thân. Thấy vẫn chưa có gì thoả mãn. Còn với Lộc, hình ảnh khá rõ ràng: ráng kiếm thêm tiền là sẽ thoả mãn
+Lộc may mắn có tìm tòi và biết đến những khái niệm về việc tạo dòng tiền. Đây là một việc hao tốn sự tập trung và tiền bạc, nên Lộc cần tập trung tối đa để nắm bắt cơ hội. Cho tới khi có được sự đảm bảo về dòng tiền thì khó mà làm Lộc yên tâm chia sẻ những tài nguyên đó cho việc khác.
 
-Với người hoài nghi mạnh, thì họ cần đến trực tiếp hơn. Còn với tôi, chưa cần biết đến thì tôi đã muốn làm rồi. Thế nên, dù tôi cũng hứng thú tham gia chương trình, nhưng việc giúp cho cho Lộc đi làm tôi thấy hứng thú hơn cả điều đó.
+Chương trình *Vcil Travel School Hàn Quốc* phù hợp với những ai đều có mong muốn xây dựng các các mô hình kinh tế thay thế. Lộc cho rằng cần phải được trải nghiệm trực tiếp để hiểu rõ, đầy đủ, chân thật, thực tế nhất. Nhưng vì là người không có được sự xa xỉ cho thất bại, Lộc khó có thể thử làm những thứ mơ hồ dù lợi ích được hứa hẹn là rất lớn. Vì rõ ràng là sau khi về thì dù có bị thuyết phục hoàn toàn đi chăng nữa thì ai cũng vẫn sẽ lại phải tiếp tục tham gia vào thiết chế tư bản này. Và lại phải kiếm dòng tiền. Dù đó là [[❓Dòng tiền đến từ hoại nghiệp cho ta đòn bẩy tốt để làm sinh nghiệp|❓Dòng tiền đến từ hoại nghiệp cho ta đòn bẩy tốt để làm sinh nghiệp]]. Nên tính tới tính lui thì trong thời điểm này mình vẫn phải thừa nhận là việc tham gia chương trình là một sự xao nhãng với mục tiêu đạt được sự yên tâm cho sự thong thả một cách nhanh nhất. Việc đọc và duyệt bài viết này cũng đã là một cố gắng của Lộc rồi. 
 
-Nhật có thời gian để ngheien cứu. Bỏ cả tuần chỉ để đọc các tài liệu, từ sáng đến chiều
+Mình thì luôn có sự thong thả đó. Không giống như Lộc, mình đã dành nhiều thời gian tìm hiểu và hành động từ lâu. Mình cho rằng chương trình sẽ tạo được tác động lớn hơn cho người còn nhiều sự hoài nghi và phân vân hơn là người đã có hành động. Sự cọ xát ý tưởng, trải nghiệm, niềm tin sẽ mạnh hơn cho cả hai.
 
-Việc tái hình dung cần sự thong thả. Nhật thì có, Lộc thì không.
+Chính vì như vậy, nên mình thấy việc tạo cơ hội cho Lộc đi được còn hứng thú hơn việc tự bản thân mình đi. Mặc dù mình hiểu rằng việc Lộc tự nộp đơn vẫn thể hiện tốt hơn mong muốn học hỏi và muốn hành động của Lộc, mình thấy việc đó không cần thiết cho mục tiêu xây dựng mô hình kinh tế thay thế. Lộc không có cái xa xỉ của sự thong thả lúc này. Nhưng mình có. Thế nên mình sẵn sàng đại diện cho Lộc làm việc đó. 
 
-Chưa tham gia vào nhóm sâu để cảm thấy tự tin là mình đã nghe nhóm đủ, nhưng cảm giác là câu hỏi đó vẫn chưa được để ý đến 
+Mình thấy việc làm việc với người được uỷ quyền không làm mất tính chủ động hành động của nhân vật chính. Nói theo kiểu luật sư hay công tác xã hội thì Lộc là [thân chủ](https://luatvandiendich.wordpress.com/2018/08/19/than-chu-nghia-la-gi/) của mình. Mình nghĩ rằng giúp đỡ người có ý định hành động cũng không khác với giúp người thực sự hành động là bao. Các câu trả lời đều có sự tham khảo với Lộc. 
 
+Tóm lại, đây là những lập luận của mình:
+- Lộc vừa muốn tìm hiểu thêm, vừa còn hoài nghi
+- Việc giúp người có ý định tham gia hữu ích không kém việc giúp người đã tham gia rồi. Việc thay mặt cho người đã có ý định hành động không làm mất sự chủ động của họ
+- Sự tham gia của người còn hoài nghi cho tác động không kém sự tham gia của người ủng hộ
+- Việc dồn sự tập trung và tiền bạc vào việc xây dựng dòng tiền vẫn hữu ích cho việc xây dựng mô hình kinh tế thay thế
 
-_Tôi thấy ở Pháp, các phong trào kinh tế thay thế khá phát triển, điển hình là các mô hình về kinh tế xã hội (social economy), kinh tế đoàn kết (solidarity economy)… nhưng những mô hình này vẫn là thiểu số, cùng lắm là chiếm 5% nền kinh tế. Tại sao? Tại vì người ta muốn kiếm tiền, muốn toà nhà to hơn, muốn nhiều thứ hơn, và lối tư duy này phổ biến ở mọi nơi._
-
-
-Chắc hẳn đã gặp nhiều người ngờ vực
-
-Sau khi về thì chắc chắn sẽ lại phải tiếp tục tham gia vào vòng quay tư bản. Lại muốn kiếm dòng tiền. Xem ra với mục tiêu đạt được sự thong thả nhất, thì việc suy nghĩ về các hình thức mới là một sự xao nhãng. 
-
-Như vậy, tôi trở thành kẻ làm xao nhãng của cả hai bên. 
-
-thậm chí việc tìm hiểu lịch sử kinh tế học dòng chính cũng không phải quá cần thiết cho việc xây dựng, nhưng nó sẽ cần thiết cho việc trả lời thắc mắc
-
-Những ai đã dành thời gian để làm đơn xin học bổng là người đã có chung niềm tin rồi. Nên có người không phải vậy 
-
-tầng lớp của cộng đồng VCIL.
-[[❓Tại sao ILO lại không thúc đẩy các HTX]]
-## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
-## Chia sẻ về dự án tạo tác động tích cực lên xã hội hoặc cộng đồng mà bạn đang thực thi hoặc có ý tưởng *
-Số tiền mình vay đã được dùng để tạo ra [[Sàn thương mại điện tử|nhóm bào tiền sàn thương mại điện tử]]. Đây là những thành phẩm từ hoạt động này:
-
-| Hoạt động                                                                                | Thành phẩm                                                                                                                        |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Các công việc "việc nhẹ lương cao"                                                       | Tầm 10 người tham gia                                                                                                             |
-| Ghi chép nhân học nửa mùa                                                                | [[Nhóm Biên Hoà]]                                                                                                                 |
-| Mạng kết nối nhu cầu                                                                     | [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465)                                   |
-| Hỗ trợ cho các tổ chức cùng định hướng                                                   | Các bài truyền thông cho hoạt động của các tổ chức phát triển bền vững khác như Kulavietnam, SocialLife, VCIL trong nhóm nạn nhân |
-| [[Xây dựng ngân hàng mini và mạng lưới cho vay ngang hàng\|Xây dựng quỹ tín dụng vi mô]] | [[Quỹ giúp nhau giữ tài sản thế chấp]]                                                                                            |
-| Văn bản hoá các trải nghiệm và hiểu biết sâu                                             | Các ghi chú trong kho B                                                                                                           |
-| Làm MMO                                                                                  | Các tài nguyên làm MMO                                                                                                            |
-
-Ở trên là tính những thành quả có được từ số tiền để đầu tư vào GM Mall. Nếu tính cả các hoạt động trước đây nữa thì còn thêm nữa. Tất cả những thành quả này đã làm tiền đề cho dự án [[Giúp nhau kiếm tiền]].
-
-Như đã phân tích trong bài [[Vấn đề đạo đức|Vấn đề đạo đức khi làm ảo]], việc bào tiền tư bản tương đương với việc [[Lừa đảo hội lừa đảo]]. Tuy công việc này và nhóm này có thể xem là [[Công việc vô nghĩa, tổ chức vô lý]], nhưng tìm hiểu sơ về khái niệm đó thì thấy David Graeber nói chủ yếu về những công việc và tổ chức được tư bản chủ động tạo ra, chứ không phải là để phản kháng nó.
-
-Ngoài ra, mình cũng góp phần giúp Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho ngân hàng, công ty tài chính)|điểm tín dụng hạng 2]]. Điểm tín dụng tốt như này là một loại tài nguyên để giúp mọi người vay.
-
-Có thể xem đây là khoản công và tiền mà mình bỏ ra cho những hoạt động của Quả Cầu.
-
-## Tổ chức/ đối tác nào bạn quan tâm muốn gặp gỡ và hình thức hợp tác nào bạn đang mong muốn triển khai? *
-Theo cách hiểu thông thường, mình chưa phải là một người sáng lập tổ chức nào và cũng chưa \
-.Nhưng theo quan điểm của Quả Cầu, mình chính là một người sáng lập của Quả Cầu.
-một đám mấy chim sáo
-
-Bạn muốn ứng tuyển suất học bổng nào?  *
-Suất học bổng 70% (trị giá 18.700.000 VNĐ) chi phí chương trình - chỉ dành cho Hội viên Vcil Community
-Suất học bổng 50% (trị giá 13.500.000 VNĐ) chi phí chương trình
-Suất học bổng 30% (trị giá 8.100.000 VNĐ) chi phí chương trình
-Không cần học bổng nhưng cần hỗ trợ trả góp từ 3-9 tháng
-Tôi không cần học bổng, tôi có thể chi trả toàn bộ chi phí chương trình
-Bạn mong muốn học được gì thông qua chương trình này? 
-*
-## Tại sao bạn lại đề xuất mức nhận học bổng như vậy?
-## Bạn biết đến chương trình từ đâu? (Nếu được bạn bè giới thiệu, vui lòng cho biết tên người giới thiệu)
+Có thể còn nhiều lỗ hổng và mâu thuẫn trong những lập luận này. Mình cũng chưa xác lập niềm tin mạnh mẽ vào chúng. Có thể mình sẽ thay đổi thêm. (Nói cách khác đây là một [tài liệu sống](https://en.wikipedia.org/wiki/Living_document), liên tục được cập nhật). Còn trong thời gian này, nếu chúng được chấp nhận, mình đề xuất cách lý tưởng để giúp đỡ Lộc như sau:
+- Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm. Đọc bài [[Đề xuất vay nợ|đề xuất vay nợ của Lộc]] để biết thêm chi tiết
+- Không đòi hỏi sự chủ động điền đơn từ phía Lộc. Cho phép Nhật thay mặt điền các loại đơn, mẫu nếu có thể
+- Có thể có các buổi gặp mặt để trao đổi trực tiếp với Lộc
 
 
-- Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
-- Khi có thêm một chân rết trong thiết chế tư bản
-- Khi có thể được dùng để kiểm tra tính ưu việt của hệ thống
+Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng chịu rủi ro của nhóm. Hơn nữa mình cũng biết là không đi được lần này thì chắc vẫn sẽ còn những đợt khác. Lúc đó cũng có thể đủ sự tập trung và tiền bạc hơn. Nhưng nếu đề xuất trên là ổn thì mình chưa tìm được lý do nào để phải chờ tới dịp tiếp theo. 
 
-Bài chi tiết:: [[Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế|Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?]]
+## Phụ lục
+### Khi nào thì một người có dự tính hành động?
+Để một người có ý định muốn làm một điều gì đó, thì cần phải đáp ứng những điều kiện sau: 
+- Họ có thái độ tích cực với việc làm đó không? 
+- Họ có thấy mọi người xung quanh cũng làm điều đó không? 
+- Họ có nghĩ rằng mình có khả năng đạt được kết quả không? 
 
-### Làm bàn đạp xây dựng hệ thống mới
+Đây chính là [lý thuyết về hành động có dự tính](https://vi.wikipedia.org/wiki/Lý_thuyết_hành_vi_có_kế_hoạch%23) (theory of planned behavior).
+![[Lý thuyết về hành động có dự tính.svg]]
 
-### Có được một chân rết trong thiết chế tư bản
-Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là hữu ích. Dễ nhất là kiếm việc nhẹ lương cao cho mọi người.
-Xem thêm:: [[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản]]
-[[Muốn thoát nghèo cần dòng tiền]]. [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền]]. [[Chính phủ muốn kiểm soát dòng tiền]]. Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được đang có những nhóm lợi ích nào tranh giành quyền lợi. Có quan hệ gần gũi một người có những thông tin như vậy sẽ hữu ích.
+### Tại sao người có dự tính làm nhiều thứ thì lại đau khổ?
+[TEDxSanJoseCA - Adam Gazzaley, MD, PhD - Brain: Memory and Multitasking - YouTube](https://youtu.be/tiANn5PZ4BI?si=Q4LpGinfogPfr8yU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tiANn5PZ4BI?si=qH-ENIixsDs4-5fz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Một cách nữa để có dòng tiền là [[Kiếm tiền trực tuyến (MMO)|chơi MMO]]. Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
+### Những hoạt động mà Lộc và Nhật đã làm cùng nhau
+Đây là những hoạt động của Lộc:
 
-Những ý ở trên chỉ là tầm nhìn bao quát, chưa nói được hành động cụ thể. Nó chưa phải là SMART, chưa phải là 5W1H. Ai, ở đâu, khi nào, cái gì, bằng cách nào, tại sao, bao nhiêu; những thông tin này mình có. 
+| Hoạt động                                                                        | Thành phẩm                                                                                           |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Tạo ra [[Công việc thời vụ, cộng tác viên\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
+| [[Bao nuôi]], [[Giúp nhau tăng điểm tín dụng]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
+| [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Gom tài nguyên làm MMO]]                                                                           |
+| Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
 
-Tất nhiên, những bài phân tích chuyên sâu về kinh tế, chính sách, thể chế Việt Nam nhan nhản, từ nhà nghiên cứu đến blogger ẩn danh. Thứ mình đem đến được là thứ những người bạn xung quanh sử dụng được. 
-[[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng]]
-### Dịp để kiểm tra tính ưu việt của hệ thống thay thế
-Nhật nhận thấy các diễn ngôn tân tự do cũng có xuất hiện ở mình. (Nhật cũng tự thấy mình vẫn còn lơ mơ về nó). Ở vị trí bị áp bức mà đã tiếp thu chúng như vậy, liệu rằng khi đã càng dấn sâu hơn vào hệ thống thì sẽ như thế nào? 
+Những hoạt động trên là đầu vào để Nhật làm những hoạt động sau:
 
-[[Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống]]. Người đang quay cuồng vì tiền thì sẽ tiếp nhận ý tưởng về các nền kinh tế thay thế như thế nào? Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đứa đòi nợ đến nhà làm phiền ra sao? Chữa trị bệnh ung thư của cha mẹ thế nào? Đem đến cho con mình một nền giáo dục tử tế như thế nào? Hay rốt cuộc nó vẫn là dành cho những nhóm may mắn hơn?
-
-mình có nhiều ý tưởng kiếm tiền, và cần thuê người làm. Có vẻ việc nào mình cũng đều trả công cao hơn thị trường một chút, nên đúng là giúp mình còn giúp được nhiều người khác thật. Nhưng dưới con mắt mác xít thì liệu như vậy là đã ổn không? Nhật đã thử vài lần đề cập việc trả bằng cổ phần chứ không phải là lương thì mình đều có ý né tránh. Đồng ý là khi còn nghèo thì mình thông cảm được, nhưng giả sử như đã thoát nghèo rồi thì có nên tiếp tục kỳ vọng mình trả bằng cổ phần hay không? Hay là tặc lưỡi bảo tư bản thân tả là tốt rồi?
-
-Các mô hình kinh tế thay thế hiện nay mà tôi biết (do VCIL giới thiệu) đều vẫn bảo tồn sự sở hữu tự liệu sản xuất, phương tiện sản xuất. Hay là nếu có được mô hình nhà nước phúc lợi thì cũng là đã tốt rồi? Khi nào tới được đó rồi hãy kỳ vọng tiếp? 
-
-Một người ở trong thiết chế tư bản thì sẽ chân trong chân ngòai thế nào?
-Khi đăng bài vào trong nhóm nạn nhân GM, không thấy phản ứng gì nhiều.
-
-Đang đau khổ bởi nó, nhưng chưa ngờ vực nó. Đưa thông tin đến cho họ thế nào mà không làm họ nhức đầu và trách rằng 
-
-[CÓ GÌ KHÁC KHI ĐI DU LỊCH HỌC TẬP KIỂU VCIL TRAVEL SCHOOL?](https://www.vciltravelschool.com/vi/post/c%C3%B3-g%C3%AC-kh%C3%A1c-khi-%C4%91i-du-l%E1%BB%8Bch-h%E1%BB%8Dc-t%E1%BA%ADp-ki%E1%BB%83u-vcil-travel-school)
-[HÀN QUỐC - KHOÁ HỌC NGẮN HẠN VỀ KHỞI NGHIỆP XÃ HỘI VÀ XÂY DỰNG CỘNG ĐỒNG \| Vcil Travel School](https://www.vciltravelschool.com/vi/event-details-registration/vcil-travel-school-south-korea-iii-nov-2025-from-miracle-development-to-sustainable-alternatives)
-![VCIL Travel School 2023 - Korea: From miracle development to sustainable alternatives - YouTube](https://www.youtube.com/watch?v=8CqjWrQ_EG0)
+| Hoạt động của Nhật                                                                                             | Thành phẩm                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Xây dựng nhóm [[Giúp nhau kiếm tiền]]                                                                          | Có được nhóm 10 người hoạt động                                                                                                                               |
+| Văn bản hoá các trải nghiệm và hiểu biết sâu. [Thực hành nhân học nửa mùa](https://doi-thoai.deno.dev/aC.6c.1) | [[Nhóm Biên Hoà\|Nhóm GM Mall Biên Hoà]], [[Nhóm Bình Dương 1\|Nhóm FE Bình Dương 1]]                                                                         |
+| Xây dựng mạng kết nối nhu cầu                                                                                  | [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.6c.1), [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465) |
+| Hỗ trợ cho các tổ chức cùng định hướng                                                                         | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm                     |
+| Xây dựng [[Ngân hàng mini và mạng lưới cho vay ngang hàng\|quỹ tín dụng vi mô]]                                | [[Quỹ giúp nhau giữ tài sản thế chấp]]                                                                                                                        |
+| [Xây dựng hệ thống tri thức cộng đồng](https://doi-thoai.deno.dev/of.6c.1)                                     | Các ghi chú trong kho [[Nơi này là nơi nào\|Tồn tại trong thế giới tư bản]]                                                                                   |
+| Lập trình                                                                                                      | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                                            |

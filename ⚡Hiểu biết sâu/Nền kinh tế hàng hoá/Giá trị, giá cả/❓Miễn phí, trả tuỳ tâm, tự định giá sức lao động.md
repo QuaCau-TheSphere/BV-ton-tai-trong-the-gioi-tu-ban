@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-03T10:04
+updated: 2025-09-21T22:17
 ---
 [[Mô hình kinh doanh của các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình|Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?]]
-# Miễn phí
+Khái niệm:: [[Giá trị]], [[Giá cả]]
+## Miễn phí
 Phản đối:
 - Cho miễn phí thì chỉ là tò mò
 - Không trả tiền chưa chắc là hài lòng
@@ -15,9 +16,9 @@ Phản đối:
 - [[Sự miễn phí chỉ có ích khi ta cần phản hồi của người dùng, hoặc khi nền tảng của ta cần hiệu ứng mạng|Khuyến khích họ sử dụng để có thêm phản hồi]]
 - [[Sự miễn phí chỉ có ích khi ta cần phản hồi của người dùng, hoặc khi nền tảng của ta cần hiệu ứng mạng|Tạo thêm hiệu ứng mạng]]
 
-# Miễn phí nhưng phải nói lý do vì sao thấy cần miễn phí
+## Miễn phí nhưng phải nói lý do vì sao thấy cần miễn phí
 
-# Trả tuỳ tâm
+## Trả tuỳ tâm
 Phản đối:
 - Khách hàng nhìn vào giá để đánh giá chất lượng
 
@@ -46,7 +47,7 @@ Phiên bản
 - 50% donate to charity 
 - Cho mượn nợ
 - Làm phụ để hỗ trợ
-# Tự định giá sức lao động của mình
+## Tự định giá sức lao động của mình
 Phản đối:
 - [[Việc giúp đỡ người đã giúp mình không đủ khẩn cấp hoặc nhiều cảm hứng bằng việc giải quyết vấn đề tiếp theo, hoặc đủ cảm hứng bằng việc cải tiến giải pháp hiện có]]
 - [[Phản hồi và sự giúp đỡ trả lại là những thứ xa xỉ với người được giúp]]
@@ -79,3 +80,5 @@ Ownership on their labour would increase their *intrinsic motivation* to volunte
 
 [Chinese Restaurant Adopts "Pay What You Want" Policy, Loses ,000 in a Week](https://www.odditycentral.com/news/chinese-restaurant-adopts-pay-what-you-want-policy-loses-15000-in-a-week.html)
 [microeconomics - What stops the pay-what-you-want pricing strategy from being more popular? - Economics Stack Exchange](https://economics.stackexchange.com/q/57273/45941)
+
+[[❓Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được là gì]]

@@ -42,7 +42,7 @@ aliases:
 
 ### Địa chỉ
 - Địa chỉ thường trú ( trên CCCD): A1.1912A The Goldview 346 Bến Vân Đồn, Phường 1, Quận 4 
-- Địa chỉ hiện tại: A1.1912A The Goldview 346 Bến Vân Đồn, Phường 1, Quận 4 
+- Địa chỉ hiện tại: A1.1912A The Goldview 346 Bến Vân Đồn, Phường Vĩnh Hội
 - Số năm sinh sống: 7
 - Tình trạng chỗ ở hiện tại: nhà riêng
 

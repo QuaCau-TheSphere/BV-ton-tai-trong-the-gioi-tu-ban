@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T19:23
-updated: 2025-08-16T22:04
+updated: 2025-09-16T10:31
 ---
 Liệu bạn có từng gặp phải những tình huống sau đây không:
 
@@ -21,3 +21,5 @@ Nếu những điều này nghe quen thuộc, rất có thể bạn đang ở tr
 Triết gia Harry Frankfurt đưa ra sự phân biệt giữa người nói dối (liar) và người nói điều nhảm cứt (bullshitter):
 - Người nói dối là người biết sự thật là gì, và muốn thuyết phục ta tin vào một thứ khác
 - Người nói điều nhảm cứt là người không biết sự thật là gì, hoặc không quan tâm sự thật là gì, nhưng vẫn muốn thuyết phục ta tin vào quan điểm của họ
+
+[[❓Không dễ kiếm công việc sinh nghiệp mà đáp ứng được các nhu cầu cho cuộc sống đầy đủ (không phải là dư thừa)]]

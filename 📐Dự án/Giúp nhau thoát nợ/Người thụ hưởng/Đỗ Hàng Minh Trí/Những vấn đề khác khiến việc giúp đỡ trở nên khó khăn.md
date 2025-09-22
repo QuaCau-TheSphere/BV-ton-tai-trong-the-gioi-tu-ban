@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-11T18:52
-updated: 2025-08-08T13:56
+updated: 2025-09-10T09:24
 ---
 ## Liên quan đến chuyện tiền bạc
 - [[Bằng mọi giá phải giữ điểm tín dụng cho sạch|Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn]]
@@ -20,3 +20,6 @@ updated: 2025-08-08T13:56
 - Khi hỏi lời khuyên của người khác mà câu trả lời đã từng đem lại trải nghiệm tệ thì phản ứng từ chối sự hợp lý của lời khuyên đó cao
 - Không hỏi
 [[Không muốn làm nhức đầu, nhưng lại muốn biết giá trị của việc đặt câu hỏi]]
+
+
+thấy rằng việc bị moneyveo đe doạ là đẩy mình vào đường cùng

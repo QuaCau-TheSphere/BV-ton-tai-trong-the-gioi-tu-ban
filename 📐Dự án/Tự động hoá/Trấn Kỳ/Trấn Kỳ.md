@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-28T22:41
-updated: 2025-07-09T17:32
+updated: 2025-09-16T20:08
 ---
 [[Trấn Kỳ (quang cảnh thị trường)|Tính năng của Trấn Kỳ]]: giúp tạo metadata, tự động hoá việc nhập liệu và phân loại, gắn nhãn, để biến dữ liệu phi cấu trúc thành dữ liệu có cấu trúc
 

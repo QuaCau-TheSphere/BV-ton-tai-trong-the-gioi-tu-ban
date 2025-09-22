@@ -35,5 +35,6 @@
   "obsidian-excalidraw-plugin",
   "folder-notes",
   "image-to-text-ocr",
-  "dataview-autocompletion"
+  "dataview-autocompletion",
+  "hledger-notes"
 ]

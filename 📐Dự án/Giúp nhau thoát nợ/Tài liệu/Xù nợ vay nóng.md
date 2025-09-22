@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2025-08-17T20:24
+updated: 2025-09-14T20:09
 aliases:
   - Giảm thiệt hại khi quyết định xù nợ vay nóng
 ---
@@ -23,3 +23,6 @@ Hoặc có thể giải thích với mọi người rằng mình bị tai bay v�
 Xem thêm:: [[Xù nợ ngân hàng]], [[Thương lượng với chủ nợ]]
 
 Ngân hàng cũng chẳng muốn lấy nhà, xã hội đen cũng chẳng muốn giết, chỉ hù thôi chứ nếu biết nói chuyện thì họ cũng nương. Xã hội đen dễ chơi hơn ngân hàng. Khi thoả thuận thì lập giấy.
+
+## Nơi thảo luận
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

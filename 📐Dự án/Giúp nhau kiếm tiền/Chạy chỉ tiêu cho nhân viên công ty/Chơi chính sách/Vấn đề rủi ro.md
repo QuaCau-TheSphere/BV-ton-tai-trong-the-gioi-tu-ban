@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-08-23T15:47
+updated: 2025-09-14T16:01
+Title: Vấn đề rủi ro khi làm ảo
 ---
 [[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được|Liệu công ty X có đang lừa đảo, rửa tiền không?]]
 
@@ -19,6 +20,9 @@ Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|L
 
 [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]]. Các công việc dưới đây tuy có cảm giác giống giống như thuê mượn tài khoản ngân hàng, nhưng thật ra không phải vì bạn vẫn giữ đăng nhập tài khoản trên máy bạn chứ không đưa cho ai đăng nhập trên máy của họ cả
 Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo]]
+
+Trương mỹ lan để cho người nhà cầm
+
 ## Chuyện gì sẽ xảy ra nếu các bạn bị phát hiện?
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. Hoặc chẳng qua nó nhắm mắt làm ngơ, vì bọn mình chưa đủ lớn để truy tố hay thả lưới. Mà nếu bọn mình làm lớn thì chắc đã không phải nhờ tới các bạn rồi.
 
@@ -45,3 +49,6 @@ Có thể việc này sẽ khiến công ty thấy kỳ lạ, khác biệt, khô
 [[Đối thoại với người điều hành doanh nghiệp]]
 
 ## Làm sao để giảm khả năng bị phát hiện?
+Tốt nhất là không làm
+Có mạng lưới tình báo
+Gián điệp và phản gián

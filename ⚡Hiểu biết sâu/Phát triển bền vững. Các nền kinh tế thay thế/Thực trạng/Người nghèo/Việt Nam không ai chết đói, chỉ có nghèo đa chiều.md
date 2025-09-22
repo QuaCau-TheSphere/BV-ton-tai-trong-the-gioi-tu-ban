@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-10-07T00:30
-updated: 2025-09-01T11:02
+updated: 2025-09-09T10:32
 aliases:
   - Tiêu chí mức độ thiếu hụt dịch vụ xã hội cơ bản
   - Tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025
 ---
-Khái niệm:: [[Nghèo]]
+Khái niệm:: [[Nghèo, người nghèo]]
 
 Đây là mức ở thành thị. Ở nông thôn thì tất cả các con số thu nhập giảm 500k
 

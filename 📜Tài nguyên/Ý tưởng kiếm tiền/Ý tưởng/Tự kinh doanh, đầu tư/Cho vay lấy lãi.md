@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-23T23:47
+updated: 2025-09-10T15:40
 ---
 Tính chất công việc:: [[Cần có vốn]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
@@ -15,4 +15,4 @@ WHERE file.name != this.file.name
 ```
 
 ### Ăn chênh lệch
-- [[Xây dựng ngân hàng mini và mạng lưới cho vay ngang hàng|Xây dựng quỹ tín dụng vi mô]]
+- [[Ngân hàng mini và mạng lưới cho vay ngang hàng|Xây dựng quỹ tín dụng vi mô]]

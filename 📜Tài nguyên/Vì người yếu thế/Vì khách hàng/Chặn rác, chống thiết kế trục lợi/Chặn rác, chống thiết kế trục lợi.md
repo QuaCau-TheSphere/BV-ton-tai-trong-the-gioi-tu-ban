@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-09-09T10:09
 ---
+Khái niệm:: [[Trục lợi]]
 ## Thiết kế trục lợi
 [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]]
 [How Facebook and Other Sites Manipulate Your Privacy Choices](https://www.wired.com/story/facebook-social-media-privacy-dark-patterns/)

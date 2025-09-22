@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-08-31T17:10
+updated: 2025-09-22T14:05
 aliases:
   - Ý tưởng tiết kiệm
 ---
@@ -22,3 +22,4 @@ WHERE file.name != this.file.name
 ```
 
 Xem thêm:: [[Nền kinh tế vừa đủ]]
+![[[Public] Cẩm nang Hội viên Vcil 1.0.pdf]]

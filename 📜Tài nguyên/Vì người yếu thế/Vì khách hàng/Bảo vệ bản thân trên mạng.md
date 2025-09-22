@@ -1,14 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-09T17:32
+updated: 2025-09-22T10:37
 ---
 Khái niệm:: 
-https://secdev-foundation.org/new-digital-safety-portal-for-vietnam/
+[New Digital Safety Portal for Vietnam - The SecDev Foundation](https://secdev-foundation.org/new-digital-safety-portal-for-vietnam/)
 
-https://discord.gg/XuCXETjD
+Một cộng đồng về osint: [Discord](https://discord.gg/XuCXETjD)
 
-Một cộng đồng về osint
-https://chromewebstore.google.com/detail/email-masker/oedhkcdedcfloepkpacoocblokifkgjf?hl=en&pli=1
+[Email Masker - Chrome Web Store](https://chromewebstore.google.com/detail/email-masker/oedhkcdedcfloepkpacoocblokifkgjf?hl=en&pli=1)
 
-https://facebook.com/groups/401152995234130/
+[CHÍNH SÁCH VÀ THỰC HÀNH QUYỀN RIÊNG TƯ](https://facebook.com/groups/401152995234130/)

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-16T22:04
+updated: 2025-09-11T17:55
 ---
-Khái niệm:: 
+Khái niệm:: [[Đô la]]
 [[Đô la tăng giá làm lạm phát ở các nước khác tăng]]
 Nguồn:: ![Vì Sao FED Có Quyền Lực Thay Đổi Kinh Tế Toàn Cầu? - YouTube](https://youtu.be/Zv91-zuaZCo?si=jaDE1JKtyBCi6Unm)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T16:41
+updated: 2025-09-14T18:38
 aliases:
   - Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền
 ---

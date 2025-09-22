@@ -1,0 +1,11 @@
+{
+    "id": "hledger-notes",
+    "name": "Hledger Notes",
+    "version": "1.1.2",
+    "minAppVersion": "1.0.0",
+    "description": "Create and manage hledger entries directly in your vault.",
+    "author": "Boburmirzo Khamrakulov",
+    "authorUrl": "https://github.com/bzimor",
+    "isDesktopOnly": false,
+    "fundingUrl": "https://www.buymeacoffee.com/bzimor"
+} 

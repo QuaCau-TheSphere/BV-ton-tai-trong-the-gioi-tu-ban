@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-31T16:56
+updated: 2025-09-17T11:09
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -15,6 +15,7 @@ updated: 2025-08-31T16:56
 |          |         |     |              |       |
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
+- Bạn đã làm [[Báo cáo tài chính cá nhân gồm bản thu chi cá nhân và bản cân đối tài sản|báo cáo tài chính]] và [[⚡Hiểu biết sâu/Kiếm tiền/Tài chính cá nhân/Kế hoạch tài chính cá nhân/Kế hoạch tài chính cá nhân|kế hoạch tài chính]] chưa?
 - Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 
@@ -61,7 +62,7 @@ updated: 2025-08-31T16:56
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
 	- Với lý do bạn đưa ra, bạn thấy rằng nó không thể đánh đổi với việc giúp bạn hiệu quả hơn?
-- Bạn có sẵn sàng tham gia công việc [[Giúp nhau thoát nợ]] để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
+- Bạn có sẵn sàng tham gia công việc [[Ngân hàng mini và mạng lưới cho vay ngang hàng|giúp nhau thoát nợ]] để việc hỗ trợ những người mang nợ như bạn dễ dàng hơn không?
 - Việc họ nghĩ là cần hay 
 - Bạn muốn ai sẽ hỗ trợ bạn?
 
@@ -76,3 +77,6 @@ updated: 2025-08-31T16:56
 ## Xem thêm
 - [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
 - [[Bản câu hỏi cho người muốn gửi tiền tiết kiệm]]
+
+## Nơi thảo luận
+![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

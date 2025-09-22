@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T23:08
-updated: 2025-08-23T21:27
+updated: 2025-09-09T16:52
 aliases:
   - Kula
 ---
@@ -71,3 +71,11 @@ Câu hỏi:
 Sẽ có nhiều bạn hiểu lầm đây giống mô hình đóng hụi hay đóng họ. Mô hình Quỹ khác hoàn toàn. Vì đóng hụi hay đóng họ là vòng quay đến lượt bạn thì bạn mới được vay. Chúng tôi giống dạng "ngân hàng mini" khi bạn tham gia quỹ sẵn sàng cho vay mà không cần đến lượt.
 
 Chơi hụi phải chờ đến lượt mình mới được vay
+
+
+Tại vì cái sự đúng mục đích đó là phải do bên đó xét
+Như bán đồ điện tử hay sao sao đó
+Anh nghĩ là đúng mục đích nhưng bên cula có xét đó là đúng mục đích hay không
+Mấy cái đó nó đâu có rõ ràng
+Không có giấy trắng mực đen không có cái gì chính xác chỉ qua cảm nhận cảm quan cá nhân
+Mà hai bên lại lệch nhau

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-11-09T12:38
-updated: 2025-09-01T11:02
+updated: 2025-09-21T09:17
 ---
-Khái niệm:: 
+Khái niệm:: [[Người khuyết tật]]
 Kết quả điều tra VDS 2023 cho thấy tỷ lệ người khuyết tật tham gia lực lượng lao động, tỷ lệ người khuyết tật trong độ tuổi lao động đang làm việc trong nền kinh tế thấp hơn rất nhiều so với tỷ lệ chung. Đồng thời có sự chênh lệch lớn giữa người khuyết tật và người không khuyết tật trong việc tham gia lực lượng lao động và người khuyết tật trong độ tuổi lao động đang làm việc; các tỷ lệ này có độ chênh lệch lớn hơn năm 2016. Cũng có sự khác biệt lớn của 2 tỷ lệ này theo độ tuổi và theo khuyết tật về chức năng, cụ thể như sau:
 
 Tỷ lệ người khuyết tật tham gia lực lượng lao động năm 2023 là 23,9%, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4%) chênh lệch này lớn hơn so với năm 2016 (50,4 điểm phần trăm). Khi xem xét từng nhóm tuổi khác nhau, tỷ lệ tham gia lực lượng lao động giữa 2 nhóm khuyết tật và không khuyết tật có sự khác biệt lớn nhất đối với nhóm tuổi từ 18-40 tuổi với chênh lệch 50,8 điểm phần trăm và nhóm tuổi từ 41-64 tuổi với chênh lệch là 40,6 điểm phần trăm. Kết quả này tương tự với năm 2016.

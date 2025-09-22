@@ -1,6 +1,6 @@
 ---
-created: 2025-01-16T11:36
-updated: 2025-08-23T16:42
+created: 2025-03-27T17:13
+updated: 2025-09-10T09:21
 share: true
 ---
 Người quản lý: Nguyễn Văn Đông
@@ -56,3 +56,7 @@ Tức là vấn đề ổng có thể làm khó dễ nhưng ổng biết là ổ
 [[📐Dự án/Chạy chỉ tiêu/Người thụ hưởng/Báo cáo/FE Credit]]
 
 Người làm tốt hơn nhưng ko đạt tiêu chí thì được cho nghỉ, còn người biết thể hiện siêng năng nhưng kết quả còn thấp hơn thì được giữ lại 
+
+Khái niệm:: 
+
+Nguồn:: 

@@ -1,11 +1,8 @@
 ---
 share: true
 created: 2025-01-27T08:50
-updated: 2025-07-09T17:32
+updated: 2025-09-22T10:39
 ---
-
-> [!Attention] Lưu ý
->  Hai phường Vĩnh Phú và Lái Thiêu cũng có khu phố tên là Bình Hòa, trùng tên với phường Bình Hoà
 
 Chọn kết quả khác
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-09-12T13:48
 ---
 Đáp ứng cho nhu cầu: `=filter(this.file.inlinks, (i) => contains(i.file.folder, "1 Nhu cầu người dùng"))`
 Các chương trình có tính năng này: `=filter(this.file.inlinks, (i) => contains(i.file.folder, "5 Tên chương trình"))`

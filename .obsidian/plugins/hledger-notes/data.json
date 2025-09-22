@@ -1,0 +1,16 @@
+{
+  "dailyNotesFolder": "Ξ Thiết lập",
+  "dailyNotesDateFormat": "YYYY-MM-DD",
+  "transactionHeader": "## Transactions",
+  "currencies": [
+    "kđ"
+  ],
+  "includeDateInTransactions": true,
+  "transactionLineLength": 80,
+  "amountFormat": "comma-dot",
+  "currencyPlacement": "prepend",
+  "currencySpacing": true,
+  "hledgerFolder": "Ξ Thiết lập",
+  "accountsFile": "accounts.md",
+  "hledgerDateFormat": "YYYY-MM-DD"
+}

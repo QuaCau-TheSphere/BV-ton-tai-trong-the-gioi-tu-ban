@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-09-21T09:18
 ---
 Tính chất công việc:: [[Cần biết lập trình]]
 Hình thức:: [[Gia công giải pháp]]
@@ -99,3 +99,5 @@ Tuỳ vào loại vấn đề mà sẽ xem xét nó có phải là lỗi hay kh�
 - Nếu lúc còn ít người dùng thì app không có vấn đề gì mà đến lúc người dùng tăng cao thì có vấn đề và cần cải thiện thì sẽ xét là viết một tính năng mới.
 
 [DRD TUYỂN DỤNG TƯ VẤN HỆ THỐNG QUẢN LÝ DỮ LIỆU VỀ NGƯỜI KHUYẾT TẬT VÀ ĐỐI TÁC](https://www.drdvietnam.org/vi/viec-lam-tin-hoat-dong/19270-drd-tuyen-dung-tu-van-he-thong-quan-ly-du-lieu-ve-nguoi-khuyet-tat-va-doi-tac.html)
+
+Khái niệm:: [[Người khuyết tật]]

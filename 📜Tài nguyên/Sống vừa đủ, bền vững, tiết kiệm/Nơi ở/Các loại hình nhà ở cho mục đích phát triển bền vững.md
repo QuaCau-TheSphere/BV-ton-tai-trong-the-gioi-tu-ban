@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-03T16:35
+updated: 2025-09-17T08:58
 ---
 Khái niệm:: [[Bất động sản]]
 [Liên minh Quyền Nhà ở Châu Á (ACHR) thăm và làm việc với Hiệp hội các đô thị Việt Nam](https://www.acvn.vn/index.php?route=news/news&news_id=646)
@@ -11,5 +11,5 @@ Khái niệm:: [[Bất động sản]]
 
 [[Các công ty bất động sản thà bỏ thêm tiền để giải toả hẳn khu tái định cư, vì để ở kế bên thì làm mất giá]]
 
-[[Phát triển cộng đồng làng quê, nông thôn mới]]
+[[❓Các câu hỏi cho mô hình cộng đồng làng]]
 Xem thêm:: [[Các công việc thường cung cấp chỗ ở]]
