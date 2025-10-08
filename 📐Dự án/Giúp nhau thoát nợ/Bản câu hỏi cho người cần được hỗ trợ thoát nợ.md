@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-17T11:09
+updated: 2025-10-05T10:21
 ---
 - Theo bạn đâu là cách để giúp bạn bền vững?
 - Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
@@ -15,7 +15,7 @@ updated: 2025-09-17T11:09
 |          |         |     |              |       |
 
 - Cuộc sống của bạn đã thay đổi thế nào từ lúc có nợ?
-- Bạn đã làm [[Báo cáo tài chính cá nhân gồm bản thu chi cá nhân và bản cân đối tài sản|báo cáo tài chính]] và [[⚡Hiểu biết sâu/Kiếm tiền/Tài chính cá nhân/Kế hoạch tài chính cá nhân/Kế hoạch tài chính cá nhân|kế hoạch tài chính]] chưa?
+- Bạn đã làm [[Báo cáo tài chính cá nhân gồm bản thu chi cá nhân và bản cân đối tài sản|báo cáo tài chính]] và [[Kế hoạch tài chính|kế hoạch tài chính]] chưa?
 - Chi phí sinh hoạt hàng tháng:
 
 | Khoản chi | Số tiền | Ngày chi | 

@@ -2,7 +2,7 @@
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
-updated: 2025-09-22T14:55
+updated: 2025-10-07T16:28
 aliases:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
@@ -29,7 +29,7 @@ Tiền công sẽ được ưu tiên trả theo tháng, và tuỳ thuộc vào l
 Do có rủi ro không rút tiền về được (app bắt được gian lận hoặc sập) sau 1 tháng, nên bọn mình cần bạn cùng chia sẻ rủi ro bằng việc chỉ nhận 1/3 số tiền trong trường hợp đó.
 
 ## Thông tin thêm
-Số người cần tuyển:: ∞
+Số người cần tuyển:: 0
 Hình thức công việc:: [[Công việc thời vụ, cộng tác viên]]
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
@@ -39,9 +39,9 @@ Yêu cầu công nghệ:: [[Cần máy tính đủ mạnh]] để chạy đượ
 Thời gian trả tiền:: [[Trả theo tháng]], [[Trả theo tuần]] 
 Đặc điểm khác:: [[Không cần nghe]], [[Không cần nói]], [[Không cần độ tập trung cao]], [[Không tiếp xúc với con người]]
 
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác. 
-
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
+
+> [!important] Nhìn toàn cảnh
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác. 

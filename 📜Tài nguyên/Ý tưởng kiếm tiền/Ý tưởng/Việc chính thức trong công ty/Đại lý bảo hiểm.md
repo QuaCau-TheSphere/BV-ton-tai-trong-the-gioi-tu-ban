@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T16:50
-updated: 2025-08-20T10:31
+updated: 2025-10-07T11:33
 ---
 Khái niệm:: [[Bán hàng]]
 

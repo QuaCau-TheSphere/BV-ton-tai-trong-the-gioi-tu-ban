@@ -1,13 +1,11 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-08-23T15:54
+updated: 2025-10-07T11:34
 title: Nhóm bào tiền sàn thương mại điện tử
 aliases:
   - Công việc trong sàn thương mại điện tử
 ---
-Tính chất công việc:: [[Làm qua mạng]], [[Cần khả năng ứng biến]]
-Hình thức:: [[Công việc thời vụ, cộng tác viên]]
 
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn

@@ -5,7 +5,7 @@
   "currencies": [
     "kđ"
   ],
-  "includeDateInTransactions": true,
+  "includeDateInTransactions": false,
   "transactionLineLength": 80,
   "amountFormat": "comma-dot",
   "currencyPlacement": "prepend",

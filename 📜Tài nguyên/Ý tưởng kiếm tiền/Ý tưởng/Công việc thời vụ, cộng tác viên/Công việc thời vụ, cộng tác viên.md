@@ -9,13 +9,12 @@ aliases:
   - bán thời gian
   - part-time
   - part time
-updated: 2025-09-06T16:39
+updated: 2025-10-07T15:18
 ---
 # Các công việc kiếm tiền nhanh
-Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Đây là một phần của [[Ý tưởng|Một số ý tưởng kiếm tiền]]
-[[Làm qua mạng|Làm online]]
+Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Kha khá việc làm trong đây là có thể [[làm qua mạng]]. 
+
 ## Công việc cho [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu]]
-Bài chi tiết:: [[Giúp nhau kiếm tiền]]
 
 ###  [[Sàn thương mại điện tử|Công việc trong sàn thương mại điện tử]]
 ```dataview

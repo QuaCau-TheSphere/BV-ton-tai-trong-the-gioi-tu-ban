@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-31T16:41
+updated: 2025-10-07T16:19
 ---
 Lượng thức ăn bỏ phí trong thành phố là rất lớn, đặc biệt là ở các tiệc cưới. 
 - [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham)
@@ -9,7 +9,7 @@ Lượng thức ăn bỏ phí trong thành phố là rất lớn, đặc biệt 
 - [Ngân hàng thực phẩm Việt Nam - Food Bank Việt Nam](https://foodbankvietnam.com/)
 - [Tổng Hợp Địa Chỉ Bán Cơm Từ Thiện Giá 2,000đ - The Vietnam Foodbanking Network](https://foodbankvietnam.com/tong-hop-dia-chi-ban-com-tu-thien-gia-2000d/)
 
-[[Săn điểm thưởng cho hoạt động tích cực|Săn voucher nhà hàng]]
+[[Săn điểm thưởng trên MEXC|Săn voucher nhà hàng]]
 
 Xem thêm:: [[Ý tưởng tiết kiệm tiền mua đồ ăn]]
 

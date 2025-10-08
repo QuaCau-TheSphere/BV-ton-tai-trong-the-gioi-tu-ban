@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-07T19:52
+updated: 2025-10-08T10:13
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -30,16 +30,15 @@ Với Cueball:
 	- Các mối quan hệ mới và dữ liệu khách hàng
 	- Vỏ bọc "có việc làm" để trả lời cho những kỳ vọng của những người xung quanh về tình trạng công việc của mình
 
-### Rủi ro cho mỗi bên
+### Điều kiện, rủi ro cho mỗi bên
 Với Megan: 
 - Phải tin được là Cueball sẽ trả tiền lại cho mình. Có nơi sẽ yêu cầu Cueball mở một tài khoản ngân hàng riêng rồi cho mình đăng nhập vào đó. Tuy nhiên cần nhớ là [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]].
 
 Với Cueball:
-- Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được
+- Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được. Có thể lâu lâu báo bận, nhưng làm nhiều thì cũng dễ bị sinh nghi
 - Phải chịu trách nhiệm cho những gì Megan làm. Có thể nói số tiền Cueball được nhận là tiền để Cueball làm hình nhân thế mạng cho Megan. Nhưng thường Cueball không phải lo, vì Cueball vẫn phải là người kiểm duyệt cuối cùng.
 
-Xem thêm:: [[Vấn đề đạo đức|Vấn đề đạo đức khi làm ảo]]
-Xem thêm:: [[Bao nuôi]]
+![She Had 16 JOBS… Without Doing Any Work #shorts - YouTube](https://youtube.com/shorts/vBftVEWuSFU?si=nI41iX1DFZrGr5gb)
 
 ## Một số công việc nhân sự ảo
 - Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo Việt|Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
@@ -51,6 +50,11 @@ Xem thêm:: [[Bao nuôi]]
 - cty nước lọc, lcb 10-12tr, đi khảo sát, chụp hình,
 - sendo farm, quy trình phức tạp, phải rành và biết luồng lách, lương 6-15tr, phải bỏ vốn,
 - smartpay, đi theo data có sẵn, đến để hỏi những ng đã từng xài smartpay hỏi họ có muốn vay k, lên hồ sơ cho họ, lương cứng 12tr+2tr phụ cấp+hoa hồng doanh số lên hs, thử việc 2 tháng nhận đủ lương
+
+## Xem thêm
+- [[Vấn đề đạo đức|Vấn đề đạo đức khi làm ảo]]
+- [[Bao nuôi]]
+- [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác.

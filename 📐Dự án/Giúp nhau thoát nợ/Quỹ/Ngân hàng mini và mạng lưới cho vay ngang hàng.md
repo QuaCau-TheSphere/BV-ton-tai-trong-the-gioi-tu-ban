@@ -5,7 +5,8 @@ aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Mạng lưới cho vay chéo, phi tập trung
   - Giúp nhau thoát nợ
-updated: 2025-09-17T12:15
+  - Quỹ Quả Cầu
+updated: 2025-10-03T21:00
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:

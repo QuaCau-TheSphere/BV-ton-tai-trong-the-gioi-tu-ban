@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-04T18:08
-updated: 2025-09-22T15:10
+updated: 2025-10-03T20:12
 aliases:
   - big four
   - big 4
@@ -30,3 +30,6 @@ Cách đây 10 năm do chính sách nhà nước nên các ngân hàng này ph�
 | Bản Việt   | Timo                                                                                                                                                             |
 | [[VPBank]] | [[📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]] |
 | Vietin     | VNPay                                                                                                                                                           |
+
+Có vốn hóa lớn
+

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T19:17
-updated: 2025-08-23T14:18
+updated: 2025-10-08T11:09
 ---
 ### Phụ nữ bán hàng online
 [Chị Em Kinh Doanh Online](https://www.facebook.com/groups/482840957460226)
@@ -10,4 +10,4 @@ updated: 2025-08-23T14:18
 ![\[P4Ds TALK #2\] ThS. Trương Thị Thu Trang - “Tôi khởi sự kinh doanh” Những câu chuyện tạo tác động - YouTube](https://youtu.be/_hX2Sm5aOTk?si=gzGbUJi3-nIE5HZQ)
 
 ![Webinar Phụ nữ di cư hiểu luật, sẵn sàng kinh doanh - YouTube](https://youtu.be/-jYuuQXaF8k?si=pYJ0f89yIANIhZMC)
-Xem thêm:: [[Buôn bán nhỏ]]
+Xem thêm:: [[Kinh doanh online]]

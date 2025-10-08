@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:56
-updated: 2025-09-11T09:46
+updated: 2025-10-03T20:53
 ---
 ## Ai là người muốn có giải pháp cho người đang ngập trong nợ nhất?
 Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ

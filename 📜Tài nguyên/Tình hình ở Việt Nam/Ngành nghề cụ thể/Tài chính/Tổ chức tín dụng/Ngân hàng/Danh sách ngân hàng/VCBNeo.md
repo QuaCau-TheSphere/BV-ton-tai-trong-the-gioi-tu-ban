@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-08-31T11:28
+updated: 2025-09-23T15:55
 ---
 Tên thương hiệu:: VCBNeo
 Phân loại:: [[Thương mại Cổ phần]]

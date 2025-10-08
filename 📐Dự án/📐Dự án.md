@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T09:53
-updated: 2025-08-17T08:57
+updated: 2025-09-22T15:48
 ---
 ## Đối tượng thụ hưởng
 Đều là những người còn đang chật vật trong việc đáp ứng các nhu cầu cơ bản, chưa có thời gian để khám phá những thú vui, và những người muốn giúp đỡ họ

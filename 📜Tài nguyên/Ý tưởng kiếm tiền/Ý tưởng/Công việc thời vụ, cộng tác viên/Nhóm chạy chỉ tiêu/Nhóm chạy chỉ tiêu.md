@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-08-23T15:40
+updated: 2025-10-08T10:05
 aliases:
   - Công việc của nhóm giúp nhau kiếm tiền
   - kiếm tiền
@@ -32,3 +32,7 @@ WHERE !contains(file.name, "VNPAY" )
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|Làm nhân viên ảo FE Credit]]
 
 Xem thêm:: [[Công việc thời vụ, cộng tác viên]]
+
+## Nơi thảo luận
+Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
+![](https://i.imgur.com/PffcLkI.png)

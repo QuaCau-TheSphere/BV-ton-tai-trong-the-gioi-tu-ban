@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-21T22:23
+updated: 2025-10-08T11:09
 ---
 
 [[Nhà nước tăng thêm thuế nghĩa là ngân sách đang cạn]]. [[Giá vàng tăng là dấu hiệu của bất ổn]]

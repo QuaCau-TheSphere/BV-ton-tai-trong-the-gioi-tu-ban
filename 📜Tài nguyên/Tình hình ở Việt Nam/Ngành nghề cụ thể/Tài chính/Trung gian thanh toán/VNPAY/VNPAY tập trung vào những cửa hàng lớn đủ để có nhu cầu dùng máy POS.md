@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2024-07-01T15:57
-updated: 2025-09-03T21:05
+updated: 2025-09-25T11:31
 ---
+Khái niệm:: [[Máy cà thẻ]]
+
 Đây là những đối tượng:
 - Có nhiều nhân viên
 - Có nhu cầu liên thông dữ liệu giữa QR và POS, quản lý dòng tiền

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:12
-updated: 2025-09-22T14:55
+updated: 2025-09-26T17:24
 ---
 ah, sàn với broker cấp API cho mình viết bot chứ. Nhưng cái đội lái giá thì tụi nó ko có chạy bằng bot
 
@@ -10,7 +10,7 @@ luôn cả những tay biết lái giá, đa phần tự dựng bè cánh, lập
 
 à, tức là bọn đó phải tự học code chứ ko tin tưởng bọn dev đc hả?
 
-tụi nó ko rảnh tự học như anh em mình đâu anh ![:v](https://static.xx.fbcdn.net/images/emoji.php/v9/e31/1/16/PACMAN.png) tụi nó cho chạy bằng cơm ![:v](https://static.xx.fbcdn.net/images/emoji.php/v9/e31/1/16/PACMAN.png) xây dựng hệ thống quản lý con người, phân chia lợi nhuận từ trên xuống. cái đó là skill mà tụi nó giỏi nhất
+tụi nó ko rảnh tự học như anh em mình đâu anh :v tụi nó cho chạy bằng cơm :v xây dựng hệ thống quản lý con người, phân chia lợi nhuận từ trên xuống. cái đó là skill mà tụi nó giỏi nhất
 
 
 con người có tứ đổ tường, tụi nó xài tới xài lui mấy cái đó đủ để quản lý thôi ah
@@ -21,7 +21,7 @@ họ dành thời gian ăn chơi tận hưởng, đi du lịch chứ như em mà
 
 em nói thật mà. mấy cái mastery tricks, emotion management,... nó tự hình thành suốt từ nhỏ tới lớn, họ cứ lôi ra xài thôi
 
-nh để ý như sếp em có bao giờ phải thò tay làm ko, hay là quăng cho em :v
+anh để ý như sếp em có bao giờ phải thò tay làm ko, hay là quăng cho em :v
 hmm, mấy cty khác có sợ bọn dev chôm code hoặc ý tưởng để lúc nghỉ thì tách ra làm riêng ko?
 
 cty nào cũng sợ hết anh

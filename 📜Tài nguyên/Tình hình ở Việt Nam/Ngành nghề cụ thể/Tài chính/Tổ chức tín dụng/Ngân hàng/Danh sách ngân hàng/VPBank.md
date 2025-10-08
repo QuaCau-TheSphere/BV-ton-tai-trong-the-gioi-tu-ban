@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-04T15:18
+updated: 2025-09-24T12:49
 ---
 Tên thương hiệu:: VPBank
 Phân loại:: [[Thương mại Cổ phần]]
@@ -13,3 +13,4 @@ Ngày thành lập:: 12/08/1993
 Vốn điều lệ (tỷ đồng):: 79,339.00
 
 Pin mở khóa và pin chuyển tiền phải khác nhau
+[[VPBank có vốn lớn nhất VN]]

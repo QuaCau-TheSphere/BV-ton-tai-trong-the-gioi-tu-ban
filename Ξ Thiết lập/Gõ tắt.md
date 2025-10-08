@@ -1,6 +1,6 @@
 ---
 created: 2023-05-26T14:51
-updated: 2025-08-16T22:05
+updated: 2025-10-08T11:22
 ---
 Nhu cầu:: 		nc, dy, tl
 Nhu cầu dẫn tới:: 		ncdt, ch, mt
@@ -58,3 +58,5 @@ Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(
 > [!Tip] Phím tắt\n> <kbd>|</kbd>		pt
 
 > [!Tip] Terminal\n> <kbd>|</kbd>		tm
+
+> [!attention] Nội dung dưới đây do LLM tạo ra		llm

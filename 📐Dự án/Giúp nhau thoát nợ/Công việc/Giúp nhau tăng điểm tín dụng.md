@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-14T20:51
+updated: 2025-10-03T20:12
 aliases:
   - Tìm nguồn cho mượn tiền qua đêm
+  - TÌm nguồn cho gửi casa
 ---
 Bởi vì [[Ngân hàng cấp tín dụng bằng việc nhìn số tiền trong tài khoản vào cuối ngày]], nên nếu bạn tìm nguồn cho mượn nhiều qua đêm, liên tục vài tháng thì điểm tín dụng của bạn sẽ tăng. Bạn không cần phải giữ tiền liên tục cả ngày, đến sáng trả lại cho người cho mượn cũng được, miễn là đến trước 5h chiều thì họ lại cho mượn tiếp.
 

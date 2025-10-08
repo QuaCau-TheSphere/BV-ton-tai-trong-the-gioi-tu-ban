@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-09-03T21:05
+updated: 2025-09-23T15:55
 ---
 Tên thương hiệu:: BAOVIET Bank
 Phân loại:: [[Thương mại Cổ phần]]

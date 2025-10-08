@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2024-11-18T13:26
-updated: 2025-07-09T17:32
+updated: 2025-10-08T10:00
 ---
 [[Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không]]
 
+[[Thu nhập = thời gian x giá trị x quy mô]]
 - [[Kiếm tiền trực tuyến (MMO)]]
 - SaaS
 - Cho thuê tài sản: đất, nhà

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T19:23
-updated: 2025-09-16T10:31
+updated: 2025-10-08T10:13
 ---
 Liệu bạn có từng gặp phải những tình huống sau đây không:
 
@@ -23,3 +23,4 @@ Triết gia Harry Frankfurt đưa ra sự phân biệt giữa người nói dố
 - Người nói điều nhảm cứt là người không biết sự thật là gì, hoặc không quan tâm sự thật là gì, nhưng vẫn muốn thuyết phục ta tin vào quan điểm của họ
 
 [[❓Không dễ kiếm công việc sinh nghiệp mà đáp ứng được các nhu cầu cho cuộc sống đầy đủ (không phải là dư thừa)]]
+[[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
