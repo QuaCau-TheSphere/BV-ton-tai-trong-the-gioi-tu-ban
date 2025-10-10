@@ -6,7 +6,7 @@ aliases:
   - Mạng lưới cho vay chéo, phi tập trung
   - Giúp nhau thoát nợ
   - Quỹ Quả Cầu
-updated: 2025-10-03T21:00
+updated: 2025-10-09T16:18
 ---
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
@@ -15,7 +15,7 @@ Khi một người cần vay thì sẽ có 2 nguồn để vay:
 
 Nhưng mượn từ bạn bè, người thân thì [[Các khó khăn của người cần vay và lý do từ chối cho vay|khó mở lời]], mà nếu đã mở lời thì cũng có [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ|vô số lý do để họ không cho mượn]]. Còn đi vay dịch vụ thì có thể không đủ điều kiện để vay được số tiền cần thiết, hoặc lãi quá cao. Và kể cả có vay được thì số tiền vay được cũng có thể không đủ để xử lý vấn đề. Nhưng gốc rễ của tất cả những chuyện này vẫn là họ cần mượn rất nhiều tiền. Tức là nếu cho những người này vay tiền thì gần như là chỉ một, hai lần là đã hết sạch quỹ. 
 
-Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **công việc chính của quỹ này không phải là cho vay, mà là hỗ trợ họ vay** bằng cách đứng ra mở lời cũng như đảm bảo họ sẽ trả nợ đúng cam kết. Điều đó khiến cho việc giúp đỡ họ cơ bản không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi chia sẻ giùm, ai hỏi thì thay mặt họ trả lời thắc mắc. Nhưng sự khác biệt là quỹ này sẽ hỗ trợ người đi vay và người cho vay tốt hơn. Đặc biệt là phải tạo được nhiều động lực ở người cho vay hơn là tình thương thuần tuý. Cơ bản là thay vì nói "bạn cho bạn tui vay tiền được không", có thể việc nói rằng "quỹ tín dụng vi mô bên tui muốn mời bạn làm nhà đầu tư" sẽ hấp dẫn với họ hơn. 
+Nên để đảm bảo sự bền vững, thậm chí là sự khả thi, **công việc chính của quỹ này không phải là cho vay, mà là hỗ trợ họ vay** bằng cách đứng ra mở lời cũng như đảm bảo họ sẽ trả nợ đúng cam kết. Điều đó khiến cho việc giúp đỡ họ cơ bản không khác gì mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi chia sẻ giùm, ai hỏi thì thay mặt họ trả lời thắc mắc. Nhưng sự khác biệt là quỹ này sẽ hỗ trợ người đi vay và người cho vay tốt hơn. Đặc biệt là phải tạo được nhiều động lực ở người cho vay hơn là tình thương thuần tuý. Cơ bản là thay vì nói "bạn cho bạn tui vay tiền được không", có thể việc nói rằng "quỹ tín dụng vi mô bên tui muốn mời bạn mua trái phiếu/làm nhà đầu tư" sẽ hấp dẫn với họ hơn. 
 
 Bởi vì công việc chính của quỹ không phải là cho vay, mà là hỗ trợ họ vay, nên tốt nhất nhà đầu tư nên đầu tư trực tiếp cho người cần vay, chứ không phải cho quỹ. Nói cách khác, quỹ cần giúp đỡ người cần vay tự thành lập một quỹ cho riêng mình. Nói cách khác, quỹ cần tự nhân bản chính nó.
 
@@ -38,10 +38,10 @@ Có 2 quan điểm về việc này:
 - [[Người vững vàng là người không cần phụ thuộc vào người khác]]
 - Việc phải dùng các dịch vụ tư bản phải chịu lãi cao hơn, cũng như tiếp tay cho sự bóc lột
 
-Quan điểm đầu sẽ khuyến khích người cần vay tìm tới mình thử vay từ [[Các dịch vụ cho vay tín chấp]] chính thức trước, sau đó nếu không được thì mới hỗ trợ. Nó cũng sẽ làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
+Quan điểm đầu sẽ khuyến khích người cần vay tìm tới [[Các dịch vụ cho vay tín chấp]] chính thức trước, nếu bị từ chối hết mới hỗ trợ. Nó cũng sẽ thiên về làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
 
-### Người cần vay
-Phải hoàn thành [[bản câu hỏi cho người cần được hỗ trợ thoát nợ]]. Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giúp trước, nhưng sau đó phải làm.
+### Yêu cầu với người vay
+Phải hoàn thành [[bản câu hỏi cho người cần được hỗ trợ thoát nợ]]. Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giải ngân/hỏi vay giùm trước, nhưng phải bắt họ làm sau đó.
 
 ### Phí, lãi
 [[Khuyến nghị cho các tổ chức ở VN|Nên tăng phí dịch vụ thay vì tăng lãi suất]]. Phí này cần phải đủ để đội ngũ duy trì hoạt động.
@@ -52,7 +52,7 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 - Hỗ trợ người cần vay [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ|tạo hồ sơ bản thân]] để tăng sự minh bạch, giải trình. Hướng đến sự tự trị dữ liệu để người cần vay có thể chủ động xây dựng quỹ tín dụng của họ với các mối quan hệ của mình
 - Đại diện giải đáp thắc mắc giữa các bên để giảm sự nhức đầu 
 - Hỗ trợ [[thương lượng với chủ nợ]] để giảm lãi
-- Xây dựng [[Hệ thống quản lý chi tiêu|Hệ thống quản lý chi tiêu]] một cách trực quan 
+- Xây dựng [[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ|Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]] một cách trực quan 
 - [[Các cách thức nâng hạn mức thẻ tín dụng|Hỗ trợ nâng hạn mức, điểm tín dụng]]
 - Hỗ trợ [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]] và [[Mở rộng mối quan hệ|mở rộng mối quan hệ]]
 - [[Đứng ra vay giùm, cho mượn tài sản thế chấp]]. Nếu người vay xù thì quỹ vẫn phải trả cho người cho vay. Hình thức này không khác gì một ngân hàng
@@ -64,6 +64,3 @@ Tốt nhất chỉ huy động từ những người không yêu cầu thời h�
 ## Nơi thảo luận
 ![](https://i.imgur.com/RNcEBe4.png)
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
-
-
-[Nộp đề xuất dự án Quỹ Sáng kiến Hợp Vcil](https://docs.google.com/forms/d/e/1FAIpQLSegF7LV2ju-lamJb4sKs5DU0osy1hJIxcBqwiJqohzmG9ZafA/viewform)

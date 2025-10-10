@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-01-13T09:53
-updated: 2025-09-22T15:48
+updated: 2025-10-09T07:35
 ---
 ## Đối tượng thụ hưởng
-Đều là những người còn đang chật vật trong việc đáp ứng các nhu cầu cơ bản, chưa có thời gian để khám phá những thú vui, và những người muốn giúp đỡ họ
+Những người còn đang chật vật trong việc đáp ứng các nhu cầu cơ bản, chưa có thời gian để khám phá những thú vui, và những người muốn giúp đỡ họ
 - Giúp nhau thoát nợ
 - Chạy chỉ tiêu, tìm khách hàng
 - Đáp ứng nhu cầu lẫn nhau, mở rộng mối quan hệ 
@@ -18,7 +18,6 @@ updated: 2025-09-22T15:48
 Những người mà các công ty phân loại là khách hàng tiềm năng
 Nhân viên, đại lý các công ty ngành tài chính, dưới 40 tuổi
 mạng kết nối nhu cầu
-
 
 ## Mục tiêu
 ### Trong 4 tháng
@@ -35,12 +34,12 @@ mạng kết nối nhu cầu
 - 50 người tham gia nền kinh tế không dùng tiền
 
 ## Kế hoạch hành động
-| STT | Hoạt động                                      | Thời gian thực hiện | Nhân sự phụ trách | Kết quả dự kiến                                                                              |
-| --- | ---------------------------------------------- | ------------------- | ----------------- | -------------------------------------------------------------------------------------------- |
-| 1   | Quảng bá ý tưởng                               | Tháng đầu tiên      | Nhật              | Huy động được nguồn vốn 50 triệu. 20 hồ sơ xin vay được gửi. Giải ngân được cho 5 khách hàng |
-| 2   | Hỗ trợ thành lập các quỹ tín dụng vi mô khác   | Những tháng sau     | Nhật              | 20 quỹ tín dụng vi mô mới được hỗ trợ                                                        |
-| 3   | Xây dựng mạng kết nối nhu cầu                  | Những tháng sau     | Nhật              | 50 người tham gia                                                                            |
-| 4   | Xây dựng công đoàn đủ sức đối thoại với tư bản | Những tháng sau     | Nhật              | 30% người lao động trong một công ty tham gia                                                |
+| STT | Hoạt động                                      | Kết quả dự kiến                                                                              |
+| --- | ---------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1   | Quảng bá ý tưởng                               | Huy động được nguồn vốn 50 triệu. 20 hồ sơ xin vay được gửi. Giải ngân được cho 5 khách hàng |
+| 2   | Hỗ trợ thành lập các quỹ tín dụng vi mô khác   | 20 quỹ tín dụng vi mô mới được hỗ trợ                                                        |
+| 3   | Xây dựng mạng kết nối nhu cầu                  | 50 người tham gia                                                                            |
+| 4   | Xây dựng công đoàn đủ sức đối thoại với tư bản | 30% người lao động trong một công ty tham gia                                                |
 
 Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Cùng thảo luận với họ về [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]], giúp họ [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu]], [[Tạo thu nhập thụ động]], [[mở rộng mối quan hệ]], [[chọn sản phẩm phù hợp]], [[xây dựng công đoàn]]. Như vậy họ sẽ không thấy mình đang trục lợi họ, mà chỉ muốn nâng đỡ họ. Họ sẽ không có lý do để xù mình.
 

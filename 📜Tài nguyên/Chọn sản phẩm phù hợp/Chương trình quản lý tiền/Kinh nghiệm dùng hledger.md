@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-06T15:13
+updated: 2025-10-09T15:42
 ---
-[[Danh mục tài khoản|Danh mục tài khoản của Lý Minh Nhật]]
+[[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ|Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]]
 
 | Trường được dùng | Thông tin                       | Cách phân loại            |
 | ---------------- | ------------------------------- | ------------------------- |
@@ -43,4 +43,22 @@ Tài khoản có thể được phân loại theo người sở hữu, nơi lưu
 ## Xem số tiền chuyển vào
 ```
 hledger reg --related "" 
+```
+
+```
+2025-09-24
+  expenses:primary:category  1    ; secondary:foo:bar, tertiary:baz:qux
+  assets
+
+$ hledger bal -N -t --no-elide expenses
+                   1  expenses
+                   1    primary
+                   1      category
+$ hledger bal -N -t --no-elide expenses --pivot secondary
+                   1  foo
+                   1    bar
+$ hledger bal -N -t --no-elide expenses --pivot tertiary
+                   1  baz
+                   1    qux
+
 ```

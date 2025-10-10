@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-19T18:17
+updated: 2025-10-09T16:29
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
@@ -98,7 +98,7 @@ Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng.
 Không muốn xù nào hết vì không muốn ảnh hưởng tới tín dụng, kể cả momo.
 
 #### Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?
-Em có nhiều mối quan hệ ở đây, và muốn xây dựng sự nghiệp trong ngành dịch vụ, nên không muốn ra khỏi thành phố. Việc sống ở các thành phố khác như Biên Hoà không làm giảm chi phí sống đáng kể.
+Em có nhiều mối quan hệ ở đây, và muốn xây dựng sự nghiệp trong ngành dịch vụ, nên không muốn ra khỏi thành phố. Việc sống ở các thành phố khác như Biên Hoà không làm giảm chi phí sống đáng kể. Ở Đà Nẵng tuy có ngành dịch vụ phát triển, các nhà hàng khách sạn hoặc khu du lịch chắc cũng có ký túc xá nhưng mức sống không đủ để trả nợ.
 
 ### Năng lực xoay sở
 #### Bạn nghĩ sao về quan điểm [[áp lực tạo kim cương]]? Bạn có nghĩa rằng nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên?

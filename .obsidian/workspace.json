@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a5d8e5d8ace3f56",
+            "id": "f07358f180c51005",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Chính sách nhà nước, kinh tế vĩ mô, toàn cầu hoá, kinh tế địa chính trị/Một xã hội có 1% dân siêu giàu và 99% nghèo khổ vẫn có thể Pareto hiệu quả nếu không thể giúp người nghèo hơn mà không lấy bớt của người giàu.md",
+                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Chương trình quản lý tiền/Kinh nghiệm dùng hledger.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Một xã hội có 1% dân siêu giàu và 99% nghèo khổ vẫn có thể Pareto hiệu quả nếu không thể giúp người nghèo hơn mà không lấy bớt của người giàu"
+              "title": "Kinh nghiệm dùng hledger"
+            }
+          },
+          {
+            "id": "2a1343bfea96636b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Tiêu chí giúp. Mức độ ưu tiên.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tiêu chí giúp. Mức độ ưu tiên"
+            }
+          },
+          {
+            "id": "067ed945306006ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Kế hoạch tài chính cho cá nhân, doanh nghiệp và chính phủ là khác nhau.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kế hoạch tài chính cho cá nhân, doanh nghiệp và chính phủ là khác nhau"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.0004348754883
+    "width": 313.0004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "058d2be84526927e",
@@ -187,44 +237,44 @@
       "hledger-notes:Add hledger entry": false
     }
   },
-  "active": "5a5d8e5d8ace3f56",
+  "active": "067ed945306006ac",
   "lastOpenFiles": [
-    "📐Dự án/📐Dự án.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nguyễn Đức Thịnh/Bản web.md",
-    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nguyễn Đức Thịnh/Câu hỏi cho Thịnh.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Tín dụng/Dựa trên điểm tín dụng/Ngân hàng/❓Sự khác biệt giữa mua trái phiếu và sổ tiết kiệm, giữa phát hành trái phiếu và vay nợ.md",
-    "Ξ Thiết lập/Gõ tắt.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tự đầu tư/Đặc trưng của các dự án B2B là phải giao thiệp.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Tự kinh doanh, đầu tư.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kinh doanh online.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc/Làm qua mạng.md",
-    "📜Tài nguyên/Vì người yếu thế/Phụ nữ, người di cư.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Tín dụng/Không dựa trên điểm tín dụng/Mua trước trả sau, ví trả sau, thấu chi.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Đô thị bền vững/Từ thiện, viện trợ/❓Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được là gì.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Chứng khoán/Sau khi lên sàn, vốn chủ sở hữu trở thành vốn hóa thị trường.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Sàn chứng khoán VN giới hạn biên độ dao động.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính/Sinh trắc học giúp cho nhà nước kiểm soát tài sản của người dân tốt hơn.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính/Sàn chứng khoán VN giới hạn biên độ dao động.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính/Chính phủ muốn kiểm soát dòng tiền.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính/Thuế TNCN là 10% giá trị HD đã bao gồm thuế. Thuế VAT là 10% trên phần giá trị hợp đồng trước thuế.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế toán/Kế hoạch tài chính/Có thể né thuế bằng việc nhận lương bằng cổ phiếu, vay nợ và lập quỹ từ thiện.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế toán/Kế hoạch tài chính/Làm giàu/Tỉ phú có tiền bằng việc độc quyền, thừa kế, lách luật.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế toán/Kế hoạch tài chính/Làm giàu/Người giàu mua nhiều tài sản không phải để khoe hay hưởng thụ, mà là để né thuế.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế toán/Kế hoạch tài chính/Làm giàu/Có thể né thuế bằng việc nhận lương bằng cổ phiếu, vay nợ và lập quỹ từ thiện.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế toán/Kế hoạch tài chính/Làm giàu",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế toán/Kế hoạch tài chính/New folder",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Chứng khoán/Untitled 1.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/VN ký các hiệp định thương mại đầu tiên vào năm 1995.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/GDP của VN tăng trưởng rất nhanh.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Mục tiêu/Hy sinh lạm phát cho tăng trưởng.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Chính sách nhà nước, kinh tế vĩ mô, toàn cầu hoá, kinh tế địa chính trị/Kinh tế địa chính trị",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế vĩ mô, toàn cầu hoá/Địa chính trị",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế vĩ mô, toàn cầu hoá/New folder",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Chính sách nhà nước, kinh tế vĩ mô, toàn cầu hoá, kinh tế địa chính trị/Toàn cầu hóa",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Chính sách nhà nước, kinh tế vĩ mô, toàn cầu hoá, kinh tế địa chính trị/Chính sách nhà nước",
-    "📜Tài nguyên/Cảnh giác lừa đảo/Đánh vào tình thương",
-    "📜Tài nguyên/Cảnh giác lừa đảo/Đánh vào sự uy tín",
-    "📜Tài nguyên/Cảnh giác lừa đảo/Đánh vào lòng tham",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Người làm công ăn lương là nạn nhân của lạm phát.md",
+    "📐Dự án/Giúp nhau thoát nợ/Quỹ/Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học/Tài khoản là nút, giao dịch là cạnh.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học/Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học/Bản chất của kế toán chỉ là lý thuyết đồ thị.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/PTA/Bản chất của kế toán chỉ là lý thuyết đồ thị.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/PTA/Tài khoản là nút, giao dịch là cạnh.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Nguồn vốn = tài sản = nợ phải trả + vốn chủ sở hữu.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Equity, net, balance, total là những từ tương đương nhau.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Khấu hao không quan trọng trong ngắn hạn, nhưng nó nhắc nhở rằng tài sản đang mất dần giá trị.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Hệ số thanh khoản là số tháng sống được mà không cần có thu nhập.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Bản cân đối tài sản không nói gì về tài sản vô hình.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Báo cáo tài chính cá nhân gồm bản thu chi cá nhân và bản cân đối tài sản.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/New folder",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ/Tài sản và nợ phải trả đều là vốn chủ sở hữu. Nó hữu ích khi có những cái ta không biết phải để vào đâu.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ/Tài sản hết khấu hao làm tài sản tăng sốc.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ/Nợ của khách hàng khiến cho công ty có thể có lời nhưng vẫn hết tiền.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Công thức/Nguồn vốn = tài sản = nợ phải trả + vốn chủ sở hữu.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Công thức/Equity, net, balance, total là những từ tương đương nhau.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Công thức",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Giá vốn là số tiền của hàng đã bán được. Giá thành là số tiền của tất cả hàng đã sản xuất ra.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Giá vốn/Giá vốn là số tiền của hàng đã bán được. Giá thành là số tiền của tất cả hàng đã sản xuất ra.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Giá vốn",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản/❓Sức khoẻ là tăng sản hay tiêu sản.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản/Đối lập với tiêu sản nên được gọi là tăng sản. Tài sản đã được hiểu là thứ thuộc quyền sở hữu rồi.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản/Vay nợ làm ăn là tăng sản. Gửi tiết kiệm ngân hàng là tiêu sản.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương/Thặng dư thu nhập sẽ được chi cho tăng sản hoặc tiêu sản.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương/Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương/Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Làm giàu",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính",
     "Ξ Thiết lập/Ảnh/xd3jxTnS.jpeg",
     "Ξ Thiết lập/Ảnh/3VXUxVnA.jpeg",
     "Ξ Thiết lập/Ảnh/IMpEa3rR.jpeg",

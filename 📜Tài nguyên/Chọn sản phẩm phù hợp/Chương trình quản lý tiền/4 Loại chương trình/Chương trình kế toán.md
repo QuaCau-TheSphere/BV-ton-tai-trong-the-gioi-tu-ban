@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-17T09:51
+updated: 2025-10-08T08:30
 cssclasses:
   - wide-table
 ---
 Tên chương trình:: [[Misa]], [[Beancount, hledger]]
-
+[Title Unavailable \| Site Unreachable](https://www.firefly-iii.org/)
 ```dataview
 table 
 	filter(tính-năng, (i)=>contains(i.file.folder, "Cách nhập liệu")) as "Cách nhập liệu",

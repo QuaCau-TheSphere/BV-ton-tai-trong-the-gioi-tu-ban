@@ -1,16 +1,22 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-08T11:29
+updated: 2025-10-09T16:29
 ---
+## Câu hỏi
 - Không có sao kê? 
 - Tại sao lại cần lý do nếu người ta muốn ẩn danh? 
 - Tại sao thảo luận với nhau thì không vấn đề gì, nhưng đăng hồ sơ lên cho coi thì lại ko đc? 
-- nếu làm với ai chỉ biết người đó thì coi như một người đại diện ra là được? 
+- Nếu làm với ai chỉ biết người đó thì coi như một người đại diện ra là được? 
 - Làm vì người khác. Thêm giới thiệu chương trình sẽ giúp họ vì người khác hơn? 
-- Thử ra Đà Nẵng sống chưa? Cũng có ngành dịch vụ phát triển? Các nhà hàng khách sạn ở các khu du lịch thì luôn có?
 - Tại sao cái của bên vcil em ko vấn đề gì mà cái quỹ QC thì em có?
+- Tại sao mượn anh em ko có vấn đề gì?
 - Người cho em vay có quyền thảo luận với em về những khoản nợ liên quan tới người đó, nhưng nếu nói về khoản nợ với người khác thì em sẽ thấy đó là xen vào mối quan hệ của em với người đó, dù có thể họ không thấy như vậy.
+
+## Dẫn dắt vào câu hỏi
+### Tại sao mượn anh em ko có vấn đề gì?
+### Sao không muốn mô tả chi tiết công việc?
+### Nghĩ gì về việc không giải thích cho anh hiểu?
 
 Những người nhận được đề xuất vay nợ này có thể chia sẻ cho những người họ thấy có thể giúp em mà không cần hỏi em, nhưng chỉ được nói riêng, không được trong nhóm, kể cả khi nhóm đó đều có những người muốn giúp em và không đông. Em không muốn mình là một phần của các phân tích của một nhóm. Họ thảo luận với nhau thì không vấn đề gì, nhưng em nhận tiền của ai thì chỉ biết tới người đó.
 
