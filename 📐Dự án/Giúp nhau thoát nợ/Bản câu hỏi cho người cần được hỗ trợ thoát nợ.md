@@ -34,7 +34,7 @@ updated: 2025-10-05T10:21
 ## Các cách xoay sở bạn đã áp dụng
 - Bạn đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 - Bạn nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
-- Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
+- Bạn đã dùng tới [[Vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
 - Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
 	- Vì sao bạn không thể chấp nhận mất cic?
 - Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?

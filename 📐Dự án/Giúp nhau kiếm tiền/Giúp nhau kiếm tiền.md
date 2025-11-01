@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-09-15T21:36
+updated: 2025-10-27T09:42
 aliases:
   - Lời mời tham gia nhóm giúp nhau kiếm tiền
 ---
@@ -23,6 +23,7 @@ Bài chi tiết:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý t�
 - Sự kết nối tới những cộng đồng để [[mở rộng mối quan hệ]]
 - [[Xây dựng công đoàn|Công đoàn để được bảo vệ quyền lợi trước tư bản]] 
 - Giới thiệu các công việc sinh nghiệp
+- [[Cộng đồng có chủ đích]]
 Xem thêm:: [[Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu]]
 
 ## Các công việc để phát triển nhóm 

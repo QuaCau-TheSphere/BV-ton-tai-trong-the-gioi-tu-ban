@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-10-07T16:19
+updated: 2025-10-27T10:27
 Title: Vấn đề rủi ro khi làm ảo
 ---
 [[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được|Liệu công ty X có đang lừa đảo, rửa tiền không?]]
@@ -14,7 +14,7 @@ Ví dụ như ở các sàn thương mại điện tử, nhân viên thị trư�
 Số tài khoản không dùng lại được. 
 chỉ là trục lợi lỗ hổng sàn thôi,
 Giống như bạn bỏ tiền vào Shopee hay Lazada rồi có lời từ mấy sàn đó 
-[[Săn điểm thưởng trên MEXC]]
+[[Săn điểm thưởng trên các sàn giao dịch]]
 vậy. [[Airdrop là việc thu thập khuyến mãi của dịch vụ và bán cho người khác]]
 Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]].
 

@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-14T21:21
+updated: 2025-10-12T17:03
 title: Kế hoạch tài chính cá nhân của Lý Minh Nhật
 ---
-
+[[Danh mục tài khoản của Nhật]]
 | Chỉ số tài chính                                 | Ý nghĩa                                                                 | Cách tính                                                                           | Kết quả |
 | ------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------- |
 | Hệ số thanh khoản (Liquidity ratio)              | Khả năng chi trả cho mức sống tiêu chuẩn trong trường hợp rủi ro xảy ra | Tiền mặt (hoặc tổng các khoản tương đương tiền mặt) / Chi phí tiêu chuẩn hằng tháng | 0       |

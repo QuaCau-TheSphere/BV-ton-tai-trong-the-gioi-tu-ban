@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-09T15:42
+updated: 2025-10-23T15:07
 ---
 [[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ|Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]]
 
@@ -38,7 +38,9 @@ Dùng alias trong posting thì sau này đổi danh mục cũng tiện, nhưng p
 
 include thì dùng app không gợi ý?
 
-Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng. Chỉ có thể assertion ở nơi lưu tiền
+[[Tài khoản có thể được phân loại theo người sở hữu, nơi lưu tiền, mục đích sử dụng]]. Chỉ có thể assertion ở nơi lưu tiền
+
+Thu nhập là số âm. Nếu xem tài khoản đó là thứ mình quan tâm thì chỉ là sự chuyển đổi giữa các tài khoản. Nên không để kiểu là R được. Nhưng để như vậy thì có mấy lệnh sẽ tiện
 
 ## Xem số tiền chuyển vào
 ```
@@ -61,4 +63,9 @@ $ hledger bal -N -t --no-elide expenses --pivot tertiary
                    1  baz
                    1    qux
 
+```
+
+## Thêm 
+```
+hledger accounts --directive --undeclared >> $env:LEDGER_FILE
 ```

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-15T13:59
-updated: 2025-10-07T11:34
+updated: 2025-10-27T09:40
 title: Nhóm chạy chỉ tiêu cho nhân viên VNPAY
 aliases:
   - Công việc trong VNPAY
@@ -23,7 +23,7 @@ WHERE file.name != this.file.name
 ### Bị công ty phát hiện thì sao?
 Chỉ có những ai làm nhân viên thì mới phải chịu trách nhiệm, cùng lắm là bị đuổi việc. Còn những người khác thì sẽ không vấn đề gì.
 
-Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
+Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]
 
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-10-07T11:34
+updated: 2025-10-27T09:40
 title: Nhóm bào tiền sàn thương mại điện tử
 aliases:
   - Công việc trong sàn thương mại điện tử
@@ -24,7 +24,7 @@ WHERE file.name != this.file.name
 Chỉ có những ai làm nhân viên thì mới phải chịu trách nhiệm, và họ  cùng lắm là bị đuổi việc. Còn những người khác thì sẽ không vấn đề gì.
 
 Xem thêm:: [[Vấn đề rủi ro]]
-Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
+Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]
 
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:

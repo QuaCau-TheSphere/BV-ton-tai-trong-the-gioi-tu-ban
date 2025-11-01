@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-16T22:05
+updated: 2025-10-11T15:42
 ---
 Khái niệm:: 
 Nếu việc mua không có nghĩa là sở hữu, thì piracy không có nghĩa là ăn cắp
@@ -26,3 +26,5 @@ home credit  cho ck quét mã QR cho account cá nhân
 Bọn rút tiền thì cũng từ ngân hàng mà ra. Cũng là tiền từ tay trái qua tay phải
 
 Chung tiền thì không lo bị bắt. Nhưng đứa mua thì vẫn có thể bị
+
+Tổng kết và lý thuyết hóa, chứ không phải những mẹo

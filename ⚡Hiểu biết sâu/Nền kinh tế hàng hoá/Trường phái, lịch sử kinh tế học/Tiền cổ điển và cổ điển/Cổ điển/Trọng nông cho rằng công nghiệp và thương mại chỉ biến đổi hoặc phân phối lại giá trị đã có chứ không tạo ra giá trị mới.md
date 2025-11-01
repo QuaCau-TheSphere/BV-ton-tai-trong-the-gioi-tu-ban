@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-03T09:48
+updated: 2025-10-11T10:37
 ---
 Khái niệm:: 
-**Trương phái Trọng nông – Khi đất đai được xem là nguồn của mọi của cải**
+**Trường phái Trọng nông – Khi đất đai được xem là nguồn của mọi của cải**
 
 Giữa thế kỷ 18, nước Pháp đang ở vào thế tiến thoái lưỡng nan. Trên danh nghĩa là một cường quốc châu Âu, nhưng ngân khố luôn căng thẳng, nông thôn kiệt quệ vì thuế khóa, và sản xuất công nghiệp vẫn kém xa Anh. Trong bối cảnh ấy, một nhóm trí thức và quan chức bắt đầu hoài nghi về cách mà chính phủ quản lý nền kinh tế. Họ không tin rằng việc tích trữ vàng bạc và dựng hàng rào thuế quan như tín điều của chủ nghĩa Trọng thương đang làm sẽ đưa nước Pháp đến thịnh vượng. Thay vào đó, họ quay về nhìn vào chính những cánh đồng – thứ nuôi sống phần lớn dân chúng – và đặt câu hỏi: có phải chính đất đai mới là nguồn gốc của mọi của cải?
 

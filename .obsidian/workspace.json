@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "662191f7e75b2e17",
+        "id": "15587fc18dce3ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "f07358f180c51005",
+            "id": "9884be298121a37f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Chương trình quản lý tiền/Kinh nghiệm dùng hledger.md",
+                "file": "⚡Hiểu biết sâu/Hình thức kiếm tiền/Chỉ 25% doanh nghiệp sống đến 15 năm.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kinh nghiệm dùng hledger"
-            }
-          },
-          {
-            "id": "2a1343bfea96636b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Tiêu chí giúp. Mức độ ưu tiên.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tiêu chí giúp. Mức độ ưu tiên"
-            }
-          },
-          {
-            "id": "067ed945306006ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Kế hoạch tài chính cho cá nhân, doanh nghiệp và chính phủ là khác nhau.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kế hoạch tài chính cho cá nhân, doanh nghiệp và chính phủ là khác nhau"
+              "title": "Chỉ 25% doanh nghiệp sống đến 15 năm"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -137,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.0004348754883,
-    "collapsed": true
+    "width": 313.0004348754883
   },
   "right": {
     "id": "058d2be84526927e",
@@ -237,44 +187,45 @@
       "hledger-notes:Add hledger entry": false
     }
   },
-  "active": "067ed945306006ac",
+  "active": "9884be298121a37f",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Người làm công ăn lương là nạn nhân của lạm phát.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Ý tưởng kiếm tiền từ Nhật.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Mua bán thông tin cá nhân/Các VPN bỏ tiền ra quảng cáo cho dịch vụ của mình sẽ cần thu thập dữ liệu khách hàng.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Mua bán thông tin cá nhân/Công ty VPN khó quảng cáo lý do hợp lý nhất để một người dùng VPN, vì lý do đó là thứ chính quyền không muốn.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Mua bán thông tin cá nhân/Nếu bạn rất muốn có thông tin của những người rất muốn che dấu thông tin cá nhân, hãy lập công ty VPN.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Kinh tế vỉa hè đóng góp hơn 30% lực lượng lao động.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Hoá đơn chỉ có một bản gốc.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Một số trường đại học ép nghiên cứu sinh công bố quốc tế trên các tạp chí xếp hạng để lấy xếp hạng cho trường mà hỗ trợ gần như mù mờ và bằng con số không.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Đơn vị sở hữu bản quyền có quyền thay đổi nội dung mà không thông báo tác giả. Nhưng độc giả không biết điều đó.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Người chấp nhận rủi ro sẽ có cổ phần. Người không chấp nhận rủi ro sẽ bị bóc lột.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Công việc nào ít rủi ro hoặc rủi ro nhiều nhưng việc bỏ trốn hoặc phản kháng khó tránh khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Chờ cho người khác chạy số cho mình sẽ bấp bênh vì họ phải chạy cho bản thân trước.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Tác giả và phản biện không được trả công, dù điều đó là thứ khiến bài báo có giá.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Sách lậu sẽ dần dần hết thời, vì chính nhà xuất bản và nhà sách sẽ tự in lậu. Họ nộp lưu chiểu một con số nhưng bán ra thị trường lại với một con số khác.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Điều cần làm để nâng cao văn hóa đọc không hữu ích lắm cho việc kích thích tiêu dùng trong thị trường sách.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Mức giá đắt rẻ mà đa số người đọc đánh giá chủ yếu dựa trên ký ức về những cuốn sách cách đây hơn 10 năm, khi giá cả chưa leo thang và đa phần các sách đều được trợ giá từ cơ chế bao cấp.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Trại nội dung dùng để tăng SEO.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Quảng cáo/Nhiều bài lên đầu Google không có nhiều nội dung mà chỉ chứa từ khóa để làm tăng thứ hạng.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Trại điện thoại dùng để tăng tương tác.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/SEO.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Thay vì tài trợ tiền để xuất bản, hãy tài trợ tiền để đơn vị xuất bản ấy thực hiện nghĩa vụ với cộng đồng.md",
+    "📐Dự án/Mạng kết nối nhu cầu/Tìm người ở ghép ở TP.HCM.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/Vận hành một gia đình không dễ. Ở chung đã khó còn phải ăn uống.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/Thứ mình nợ không chỉ là nợ, mà còn là một lần giúp.md",
     "📐Dự án/Giúp nhau thoát nợ/Quỹ/Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học/Tài khoản là nút, giao dịch là cạnh.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học/Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học/Bản chất của kế toán chỉ là lý thuyết đồ thị.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Bản chất toán học",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/PTA/Bản chất của kế toán chỉ là lý thuyết đồ thị.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/PTA/Tài khoản là nút, giao dịch là cạnh.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Nguồn vốn = tài sản = nợ phải trả + vốn chủ sở hữu.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Equity, net, balance, total là những từ tương đương nhau.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Khấu hao không quan trọng trong ngắn hạn, nhưng nó nhắc nhở rằng tài sản đang mất dần giá trị.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Hệ số thanh khoản là số tháng sống được mà không cần có thu nhập.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Bản cân đối tài sản không nói gì về tài sản vô hình.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo/Báo cáo tài chính cá nhân gồm bản thu chi cá nhân và bản cân đối tài sản.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Báo cáo",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/New folder",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ/Tài sản và nợ phải trả đều là vốn chủ sở hữu. Nó hữu ích khi có những cái ta không biết phải để vào đâu.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ/Tài sản hết khấu hao làm tài sản tăng sốc.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ/Nợ của khách hàng khiến cho công ty có thể có lời nhưng vẫn hết tiền.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Tài sản, nợ",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Công thức/Nguồn vốn = tài sản = nợ phải trả + vốn chủ sở hữu.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Công thức/Equity, net, balance, total là những từ tương đương nhau.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Công thức",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Giá vốn là số tiền của hàng đã bán được. Giá thành là số tiền của tất cả hàng đã sản xuất ra.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Giá vốn/Giá vốn là số tiền của hàng đã bán được. Giá thành là số tiền của tất cả hàng đã sản xuất ra.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Giá vốn",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản/❓Sức khoẻ là tăng sản hay tiêu sản.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản/Đối lập với tiêu sản nên được gọi là tăng sản. Tài sản đã được hiểu là thứ thuộc quyền sở hữu rồi.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản/Vay nợ làm ăn là tăng sản. Gửi tiết kiệm ngân hàng là tiêu sản.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương/Thặng dư thu nhập sẽ được chi cho tăng sản hoặc tiêu sản.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương/Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương/Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Tài sản",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Thu nhập thụ động, dòng tiền dương",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính/Làm giàu",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kế hoạch tài chính",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Qua mạng",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Công ty",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Công an, toà án",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Bán hàng",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/~syncthing~Dòng tiền.md.tmp",
+    "Ξ Thiết lập/Ảnh/Pasted image 20251025215632.png",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Nền kinh tế xanh/Tăng trưởng xanh",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Nền kinh tế xanh/New folder",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Cộng đồng có chủ đích/Nông thôn/Làng sinh thái",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Cộng đồng có chủ đích/Nông thôn",
     "Ξ Thiết lập/Ảnh/xd3jxTnS.jpeg",
     "Ξ Thiết lập/Ảnh/3VXUxVnA.jpeg",
     "Ξ Thiết lập/Ảnh/IMpEa3rR.jpeg",
@@ -284,7 +235,6 @@
     "Ξ Thiết lập/Ảnh/Lừa đảo/Pasted image 20250531132835.png",
     "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Pasted image 20250623195330.png",
     "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Pasted image 20250623195318.png",
-    "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Pasted image 20250723161741.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

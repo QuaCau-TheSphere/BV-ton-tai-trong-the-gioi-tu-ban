@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-23T23:38
+updated: 2025-10-25T12:16
 ---
 Mua giá sỉ, mua chung
 Cửa hàng bách hoá của mình sẽ cam kết về mặt hợp đồng với bên trang trại. 
@@ -18,5 +18,5 @@ Một năm tốn 1
 
 diony coop 
 [Cánh đồng sẻ chia- Cộng đồng tiêu dùng sản xuất bền vững Amap Viet \| Facebook](https://www.facebook.com/groups/canhdongsechia/?ref=share&mibextid=NSMWBT)
-https://youtu.be/tjKH6QHKBQU?si=XV9xmRYNxRzNbdEW
+[Triết lý ba tầng sinh thái - Vườn sinh thái của anh Chung ở Dak Lak - YouTube](https://youtu.be/tjKH6QHKBQU?si=XV9xmRYNxRzNbdEW)
 Giống như đánh future -> dùng các công cụ quản lý của future?

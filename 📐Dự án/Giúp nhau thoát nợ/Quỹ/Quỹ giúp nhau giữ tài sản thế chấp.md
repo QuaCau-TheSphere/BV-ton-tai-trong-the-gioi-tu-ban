@@ -10,7 +10,7 @@ Khi vay thế chấp ngân hàng thì ngân hàng thường định giá tài s�
 Trước mắt, để thử nghiệm, quỹ sẽ giới hạn đối tượng phục vụ là những người đang vay thẻ tín dụng bằng hình thức thế chấp tài sản. Sau khi được vay thì họ sẽ phải dùng số tiền đó để đi huỷ thẻ. 40 ngày sổ sẽ được mở khoá, và họ sẽ phải trả lại tiền vay. Lãi vay sẽ được trả một phần cho người quản lý, và một phần để trả tiền cho những ai góp tiền nhưng không cần dùng đến.
 
 ## Khác biệt với hình thức hụi thông thường
-Gọi quỹ này là một [[dây hụi]] cũng được, nhưng nó có những điểm khác biệt với các dây hụi thông thường như sau:
+Gọi quỹ này là một [[Dây hụi]] cũng được, nhưng nó có những điểm khác biệt với các dây hụi thông thường như sau:
 
 | Tiêu chí                                   | Các dây hụi thông thường           | Quỹ giúp nhau giữ tài sản thế chấp    |
 | ------------------------------------------ | ---------------------------------- | ------------------------------------- |

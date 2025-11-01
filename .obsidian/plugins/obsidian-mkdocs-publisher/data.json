@@ -80,7 +80,7 @@
     "dataview": true,
     "censorText": [
       {
-        "entry": "/\\!\\[.*\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/",
+        "entry": "/\\!\\[.*\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/g",
         "replace": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/$2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "after": true,
         "inCodeBlocks": true
@@ -150,5 +150,5 @@
     "dev": true
   },
   "tabsID": "github-configuration",
-  "tabsId": "github-configuration"
+  "tabsId": "text-conversion"
 }

@@ -6,7 +6,7 @@ updated: 2025-09-22T10:58
 Khái niệm:: [[Trả góp]]
 Lý do:: [[Luật chỉ quy định về lãi, chứ phí thì không đả động gì]]
 
-[[Các dịch vụ cho vay tín chấp]]
+[[Vay tín chấp]]
 [[Ngân hàng mini và mạng lưới cho vay ngang hàng|xây dựng quỹ tín dụng vi mô]]
 [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại]]
 

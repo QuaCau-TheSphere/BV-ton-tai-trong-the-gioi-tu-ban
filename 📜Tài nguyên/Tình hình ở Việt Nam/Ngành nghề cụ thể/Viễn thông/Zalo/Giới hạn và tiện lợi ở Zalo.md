@@ -21,5 +21,5 @@ aliases:
 | Không đăng ký mới bằng email được mà phải bằng sđt|Quên mật khẩu thì bắt buộc sim còn xài được|
 [[Zalo có 23% cổ phần là Tencent]]
 [[Tạo các nhóm Zalo]]
-
+[[Số điện thoại đã bỏ thì thông tin các dịch vụ trước đây vẫn gửi về cho chủ mới]]
 

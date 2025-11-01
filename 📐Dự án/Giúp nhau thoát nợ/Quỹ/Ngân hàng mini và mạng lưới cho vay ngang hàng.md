@@ -11,7 +11,7 @@ updated: 2025-10-09T16:18
 ## Ý tưởng
 Khi một người cần vay thì sẽ có 2 nguồn để vay:
 - Mượn từ bạn bè, người thân
-- Từ [[Các dịch vụ cho vay tín chấp]], dù đó là dịch vụ chính thức hay phi chính thức
+- Từ [[Vay tín chấp]], dù đó là dịch vụ chính thức hay phi chính thức
 
 Nhưng mượn từ bạn bè, người thân thì [[Các khó khăn của người cần vay và lý do từ chối cho vay|khó mở lời]], mà nếu đã mở lời thì cũng có [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ|vô số lý do để họ không cho mượn]]. Còn đi vay dịch vụ thì có thể không đủ điều kiện để vay được số tiền cần thiết, hoặc lãi quá cao. Và kể cả có vay được thì số tiền vay được cũng có thể không đủ để xử lý vấn đề. Nhưng gốc rễ của tất cả những chuyện này vẫn là họ cần mượn rất nhiều tiền. Tức là nếu cho những người này vay tiền thì gần như là chỉ một, hai lần là đã hết sạch quỹ. 
 
@@ -38,7 +38,7 @@ Có 2 quan điểm về việc này:
 - [[Người vững vàng là người không cần phụ thuộc vào người khác]]
 - Việc phải dùng các dịch vụ tư bản phải chịu lãi cao hơn, cũng như tiếp tay cho sự bóc lột
 
-Quan điểm đầu sẽ khuyến khích người cần vay tìm tới [[Các dịch vụ cho vay tín chấp]] chính thức trước, nếu bị từ chối hết mới hỗ trợ. Nó cũng sẽ thiên về làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
+Quan điểm đầu sẽ khuyến khích người cần vay tìm tới [[Vay tín chấp]] chính thức trước, nếu bị từ chối hết mới hỗ trợ. Nó cũng sẽ thiên về làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cấp bách.
 
 ### Yêu cầu với người vay
 Phải hoàn thành [[bản câu hỏi cho người cần được hỗ trợ thoát nợ]]. Có thể lúc khẩn cấp thì không có thời gian để làm, nếu tin được thì cứ giải ngân/hỏi vay giùm trước, nhưng phải bắt họ làm sau đó.

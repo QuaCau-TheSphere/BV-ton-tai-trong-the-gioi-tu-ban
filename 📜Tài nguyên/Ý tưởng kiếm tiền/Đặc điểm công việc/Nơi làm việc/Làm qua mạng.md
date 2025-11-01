@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2024-11-23T20:48
-updated: 2025-10-08T11:09
+updated: 2025-10-27T10:11
 aliases:
   - Làm online
 title: Công việc làm qua mạng
 ---
+# Công việc làm qua mạng
 [Cảnh báo lừa đảo việc làm online \| VTV24 - YouTube](https://youtu.be/5jeACyUQtVE?si=G6Z0MrLCxMQGAFxF)
 [[Lừa đảo tuyển dụng, môi giới việc làm]]
 
@@ -37,11 +38,13 @@ FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời
 WHERE contains(tính-chất-công-việc, [[]])
 ```
 
-## Công việc tự do
+## Công việc tự doanh (self-employed) 
 Các công việc này thường đòi hỏi sự tập trung cao, khó mà kết hợp làm với một công việc khác được
 - [[Kiếm tiền trực tuyến (MMO)]]
 - [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 - [[Kinh doanh online]]
+
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
+[[Sống vừa đủ, bền vững, tiết kiệm|Ý tưởng tiết kiệm]]

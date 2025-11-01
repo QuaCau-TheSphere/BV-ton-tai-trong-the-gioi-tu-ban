@@ -37,7 +37,7 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 // node_modules/regenerator-runtime/runtime.js
 var require_runtime = __commonJS({
   "node_modules/regenerator-runtime/runtime.js"(exports, module2) {
-    var runtime = function(exports2) {
+    var runtime = (function(exports2) {
       "use strict";
       var Op = Object.prototype;
       var hasOwn = Op.hasOwnProperty;
@@ -196,8 +196,7 @@ var require_runtime = __commonJS({
       });
       exports2.AsyncIterator = AsyncIterator;
       exports2.async = function(innerFn, outerFn, self, tryLocsList, PromiseImpl) {
-        if (PromiseImpl === void 0)
-          PromiseImpl = Promise;
+        if (PromiseImpl === void 0) PromiseImpl = Promise;
         var iter = new AsyncIterator(
           wrap(innerFn, outerFn, self, tryLocsList),
           PromiseImpl
@@ -225,8 +224,7 @@ var require_runtime = __commonJS({
             if (delegate) {
               var delegateResult = maybeInvokeDelegate(delegate, context);
               if (delegateResult) {
-                if (delegateResult === ContinueSentinel)
-                  continue;
+                if (delegateResult === ContinueSentinel) continue;
                 return delegateResult;
               }
             }
@@ -534,7 +532,7 @@ var require_runtime = __commonJS({
         }
       };
       return exports2;
-    }(
+    })(
       // If this script is executing as a CommonJS module, use module.exports
       // as the regeneratorRuntime namespace. Otherwise create a new empty
       // object. Either way, the resulting object will be used to initialize
@@ -1161,8 +1159,7 @@ var require_createWorker = __commonJS({
         payload: { langs: _langs, oem: _oem, config: _config }
       }));
       const reinitialize = (langs2 = "eng", oem2, config2, jobId) => {
-        if (lstmOnlyCore && [OEM.TESSERACT_ONLY, OEM.TESSERACT_LSTM_COMBINED].includes(oem2))
-          throw Error("Legacy model requested but code missing.");
+        if (lstmOnlyCore && [OEM.TESSERACT_ONLY, OEM.TESSERACT_LSTM_COMBINED].includes(oem2)) throw Error("Legacy model requested but code missing.");
         const _oem = oem2 || currentOem;
         currentOem = _oem;
         const _config = config2 || currentConfig;
@@ -1199,8 +1196,7 @@ var require_createWorker = __commonJS({
         }));
       };
       const detect = async (image, jobId) => {
-        if (lstmOnlyCore)
-          throw Error("`worker.detect` requires Legacy model, which was not loaded.");
+        if (lstmOnlyCore) throw Error("`worker.detect` requires Legacy model, which was not loaded.");
         return startJob(createJob({
           id: jobId,
           action: "detect",
@@ -1233,8 +1229,7 @@ var require_createWorker = __commonJS({
           resolves[promiseId]({ jobId, data: d });
         } else if (status === "reject") {
           rejects[promiseId](data);
-          if (action === "load")
-            workerResReject(data);
+          if (action === "load") workerResReject(data);
           if (errorHandler) {
             errorHandler(data);
           } else {

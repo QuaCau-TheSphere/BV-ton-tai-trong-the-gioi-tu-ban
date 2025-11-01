@@ -1,13 +1,15 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2025-09-22T14:05
+updated: 2025-10-26T17:39
 aliases:
   - Ý tưởng tiết kiệm
 ---
-- [[Ý tưởng tiết kiệm tiền mua đồ ăn]]
-- [[Ý tưởng tiết kiệm tiền sinh hoạt]]
-- [[Ý tưởng tiết kiệm tiền nhà]]
+- Vẫn tiếp tục sống trong đô thị:
+	- [[Ý tưởng tiết kiệm tiền mua đồ ăn]]
+	- [[Ý tưởng tiết kiệm tiền sinh hoạt]]
+	- [[Ý tưởng tìm nhà ở giá rẻ]]
+- Tham gia [[Cộng đồng có chủ đích]]
 
 Các cộng đồng về sống vừa đủ:
 - [Vcil Community \| Vcil Community](https://www.vcil.community/vi/about)

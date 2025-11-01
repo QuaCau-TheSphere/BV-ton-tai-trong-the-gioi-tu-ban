@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-08-16T22:05
+updated: 2025-10-27T09:40
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 aliases:
   - Dịch vụ bao nuôi ở Thuận An
@@ -45,7 +45,7 @@ Bạn sẽ đóng vai một người xin vào làm cho công ty tài chính FE �
 
 Bạn chỉ cần mỗi ngày đi bộ tầm 20 phút để checkin 13 cây. Chi tiết làm việc với app xem ở [[Hướng dẫn dùng phần mềm iCollect]]. Đừng quên rằng trong giai đoạn mới nhận việc thì bạn sẽ mất nhiều thời gian để họp hành, làm quen hơn. 
 
-Về cơ bản, bạn có thể xem như bạn đi làm, nhưng chỉ làm việc cầm chừng, đủ để không bị đuổi. Phần việc quan trọng nhất bạn sẽ bán cho người khác. Về cơ bản là 2 bạn sẽ cộng tác với nhau để cùng đạt doanh số. ([[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]). Người đó cũng kiêm luôn vai trò trợ lý của bạn, lo các vấn đề như ăn uống, giấy tờ, để bạn có thể tập trung làm những thứ có ý nghĩa với bạn hơn. Còn nếu không có ai làm thật thì bạn ăn lương thử việc rồi nghỉ cũng được.
+Về cơ bản, bạn có thể xem như bạn đi làm, nhưng chỉ làm việc cầm chừng, đủ để không bị đuổi. Phần việc quan trọng nhất bạn sẽ bán cho người khác. Về cơ bản là 2 bạn sẽ cộng tác với nhau để cùng đạt doanh số. ([[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]). Người đó cũng kiêm luôn vai trò trợ lý của bạn, lo các vấn đề như ăn uống, giấy tờ, để bạn có thể tập trung làm những thứ có ý nghĩa với bạn hơn. Còn nếu không có ai làm thật thì bạn ăn lương thử việc rồi nghỉ cũng được.
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/b4puyRN.png)

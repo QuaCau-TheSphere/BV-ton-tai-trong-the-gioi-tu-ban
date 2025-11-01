@@ -4064,7 +4064,7 @@ __export(main_exports, {
   default: () => AnotherQuickSwitcher
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian14 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 var import_ts_deepmerge2 = __toESM(require_dist());
 
 // src/app-helper.ts
@@ -5321,10 +5321,10 @@ var AppHelper = class {
 };
 
 // src/commands.ts
-var import_obsidian13 = require("obsidian");
+var import_obsidian14 = require("obsidian");
 
 // src/ui/AnotherQuickSwitcherModal.ts
-var import_obsidian5 = require("obsidian");
+var import_obsidian6 = require("obsidian");
 
 // src/keys.ts
 var import_obsidian2 = require("obsidian");
@@ -5900,9 +5900,15 @@ var createDefaultHotkeys = () => ({
     "open in popup": [],
     "open in new tab in background": [{ modifiers: ["Alt"], key: "o" }],
     "open all in new tabs": [{ modifiers: ["Mod", "Shift", "Alt"], key: "o" }],
+    "check/uncheck": [],
+    "check/uncheck and next": [],
+    "check all": [],
+    "uncheck all": [],
     preview: [{ modifiers: ["Mod"], key: "," }],
     create: [{ modifiers: ["Shift"], key: "Enter" }],
     "create in new tab": [{ modifiers: ["Mod", "Shift"], key: "Enter" }],
+    "create in new pane (horizontal)": [],
+    "create in new pane (vertical)": [],
     "create in new window": [{ modifiers: ["Mod", "Shift"], key: "o" }],
     "create in new popup": [],
     "open in default app": [],
@@ -5956,6 +5962,10 @@ var createDefaultHotkeys = () => ({
     "open in popup": [],
     "open in new tab in background": [{ modifiers: ["Alt"], key: "o" }],
     "open all in new tabs": [{ modifiers: ["Mod", "Shift", "Alt"], key: "o" }],
+    "check/uncheck": [],
+    "check/uncheck and next": [],
+    "check all": [],
+    "uncheck all": [],
     "show all results": [{ modifiers: ["Shift", "Alt"], key: "a" }],
     preview: [{ modifiers: ["Mod"], key: "," }],
     dismiss: [{ modifiers: [], key: "Escape" }]
@@ -5999,6 +6009,10 @@ var createDefaultHotkeys = () => ({
     "open in popup": [],
     "open in new tab in background": [{ modifiers: ["Alt"], key: "o" }],
     "open all in new tabs": [{ modifiers: ["Mod", "Shift", "Alt"], key: "o" }],
+    "check/uncheck": [],
+    "check/uncheck and next": [],
+    "check all": [],
+    "uncheck all": [],
     preview: [{ modifiers: ["Mod"], key: "," }],
     dismiss: [{ modifiers: [], key: "Escape" }]
   }
@@ -7131,6 +7145,86 @@ function toLeafType(evt) {
   return isModifierClick(evt) ? "new-tab" : "same-tab";
 }
 
+// src/ui/AbstractSuggestionModal.ts
+var import_obsidian5 = require("obsidian");
+var AbstractSuggestionModal = class extends import_obsidian5.SuggestModal {
+  constructor() {
+    super(...arguments);
+    this.selectedItemMap = {};
+  }
+  getItems() {
+    var _a;
+    return (_a = this.chooser.values) != null ? _a : null;
+  }
+  getSelectedItem() {
+    var _a, _b;
+    return (_b = (_a = this.getItems()) == null ? void 0 : _a[this.chooser.selectedItem]) != null ? _b : null;
+  }
+  getSelectedElement() {
+    var _a, _b;
+    return (_b = (_a = this.chooser.suggestions) == null ? void 0 : _a[this.chooser.selectedItem]) != null ? _b : null;
+  }
+  getSelected() {
+    return {
+      item: this.getSelectedItem(),
+      element: this.getSelectedElement()
+    };
+  }
+  selectNextItem() {
+    this.chooser.setSelectedItem(this.chooser.selectedItem + 1);
+  }
+  getCheckedItems() {
+    return Object.values(this.selectedItemMap);
+  }
+  async actionMultiItems(action, actionIfItemNotSelected) {
+    const items = this.getCheckedItems();
+    if (items.length > 0) {
+      for (const item2 of items) {
+        await action(item2, "check");
+      }
+      return;
+    }
+    const item = this.getSelectedItem();
+    if (!item) {
+      if (actionIfItemNotSelected) {
+        await actionIfItemNotSelected();
+      }
+      return;
+    }
+    action(item, "select");
+  }
+  async toggleCheckedItem(option) {
+    const { item, element } = this.getSelected();
+    if (!item || !element) {
+      return;
+    }
+    const path = this.toKey(item);
+    if (this.selectedItemMap[path]) {
+      delete this.selectedItemMap[path];
+    } else {
+      this.selectedItemMap[path] = item;
+    }
+    element.empty();
+    this.renderSuggestion(item, element);
+    if (option == null ? void 0 : option.moveNext) {
+      this.selectNextItem();
+    }
+  }
+  checkAll() {
+    var _a;
+    this.selectedItemMap = {};
+    for (const item of (_a = this.chooser.values) != null ? _a : []) {
+      const path = this.toKey(item);
+      this.selectedItemMap[path] = item;
+    }
+    this.updateSuggestions();
+  }
+  uncheckAll() {
+    this.selectedItemMap = {};
+    this.updateSuggestions();
+  }
+};
+
 // src/ui/icons.ts
 var FILE = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="15" height="15"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3v4a1 1 0 0 0 1 1h4"></path><path d="M17 21H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h7l5 5v11a2 2 0 0 1-2 2z"></path></g></svg>`;
 var FOLDER = `<svg viewBox="0 0 100 100" class="folder" width="17" height="17"><path fill="currentColor" stroke="currentColor" d="M6.1,8c-3.3,0-6,2.7-6,6v73.8c-0.1,0.5-0.1,0.9,0.1,1.4c0.6,2.7,3,4.8,5.9,4.8h78c3,0,5.4-2.2,5.9-5.1 c0-0.1,0.1-0.2,0.1-0.4c0,0,0-0.1,0-0.1l0.1-0.3c0,0,0,0,0-0.1l9.9-53.6l0.1-0.2V34c0-3.3-2.7-6-6-6v-6c0-3.3-2.7-6-6-6H36.1 c0,0,0,0-0.1,0c-0.1,0-0.2-0.2-0.6-0.6c-0.5-0.6-1.1-1.5-1.7-2.5c-0.6-1-1.3-2.1-2.1-3C30.9,9,29.7,8,28.1,8L6.1,8z M6.1,12h22 c-0.1,0,0.1,0,0.6,0.6c0.5,0.6,1.1,1.5,1.7,2.5c0.6,1,1.3,2.1,2.1,3c0.8,0.9,1.9,1.9,3.6,1.9h52c1.1,0,2,0.9,2,2v6h-74 c-3.1,0-5.7,2.5-5.9,5.6h-0.1L10.1,34l-6,32.4V14C4.1,12.9,4.9,12,6.1,12z M16.1,32h78c1.1,0,2,0.9,2,2l-9.8,53.1l-0.1,0.1 c0,0.1,0,0.2-0.1,0.2c0,0.1,0,0.2-0.1,0.2c0,0,0,0.1,0,0.1c0,0,0,0,0,0.1c0,0.1,0,0.2-0.1,0.3c0,0.1,0,0.1,0,0.2 c0,0.1,0,0.2,0,0.2c-0.3,0.8-1,1.4-1.9,1.4h-78c-1.1,0-2-0.9-2-2L14,34.4l0.1-0.2V34C14.1,32.9,14.9,32,16.1,32L16.1,32z"></path></svg>`;
@@ -7252,6 +7346,7 @@ function createItemDiv(item, aliases, isTitleMatched, options) {
   const itemDiv = createDiv({
     cls: [
       "another-quick-switcher__item",
+      options.selected ? "another-quick-switcher__item__selected" : "",
       item.phantom ? "another-quick-switcher__phantom_item" : "",
       item.starred ? "another-quick-switcher__starred_item" : "",
       options.hideGutterIcons ? "another-quick-switcher__gutter_hidden" : ""
@@ -7576,7 +7671,7 @@ function createElements(item, options) {
 var globalInternalStorage = {
   query: ""
 };
-var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_obsidian5.SuggestModal {
+var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends AbstractSuggestionModal {
   constructor(args) {
     var _a;
     super(args.app);
@@ -7614,7 +7709,7 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       tokens: x.basename.split(" ")
     }));
     this.indexingItems();
-    this.debounceGetSuggestions = (0, import_obsidian5.debounce)(
+    this.debounceGetSuggestions = (0, import_obsidian6.debounce)(
       (query, cb) => {
         cb(this._getSuggestions(query));
       },
@@ -7622,8 +7717,11 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       true
     );
   }
+  toKey(item) {
+    return item.file.path;
+  }
   close() {
-    if (import_obsidian5.Platform.isMobile) {
+    if (import_obsidian6.Platform.isMobile) {
       this.onClose();
     }
     super.close();
@@ -7669,7 +7767,7 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
   }
   enableFloating() {
     this.floating = true;
-    if (!import_obsidian5.Platform.isPhone) {
+    if (!import_obsidian6.Platform.isPhone) {
       setFloatingModal(this.appHelper);
     }
   }
@@ -7688,10 +7786,10 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       const cache = this.app.metadataCache.getFileCache(x);
       return {
         file: x,
-        aliases: (_a2 = (0, import_obsidian5.parseFrontMatterAliases)(cache.frontmatter)) != null ? _a2 : [],
+        aliases: (_a2 = (0, import_obsidian6.parseFrontMatterAliases)(cache.frontmatter)) != null ? _a2 : [],
         tags: this.command.searchBy.tag ? uniq([
           ...((_b = cache.tags) != null ? _b : []).map((x2) => x2.tag),
-          ...(_c = (0, import_obsidian5.parseFrontMatterTags)(cache.frontmatter)) != null ? _c : []
+          ...(_c = (0, import_obsidian6.parseFrontMatterTags)(cache.frontmatter)) != null ? _c : []
         ]) : [],
         headers: this.command.searchBy.header ? ((_d = cache.headings) != null ? _d : []).map((x2) => excludeFormat(x2.heading)) : [],
         links: this.command.searchBy.link ? uniq(
@@ -7916,7 +8014,8 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       displayAliaseAsTitle: this.settings.displayAliaseAsTitle,
       displayDescriptionBelowTitle: this.settings.displayDescriptionBelowTitle,
       hideGutterIcons: this.settings.hideGutterIcons,
-      showFuzzyMatchScore: this.settings.showFuzzyMatchScore
+      showFuzzyMatchScore: this.settings.showFuzzyMatchScore,
+      selected: Boolean(this.selectedItemMap[this.toKey(item)])
     });
     if (metaDiv == null ? void 0 : metaDiv.hasChildNodes()) {
       itemDiv.appendChild(metaDiv);
@@ -7955,8 +8054,8 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
     this.navQueue = this.navQueue.then(cb);
   }
   async chooseCurrentSuggestion(leafType, option = {}) {
-    var _a, _b, _c, _d, _e, _f;
-    const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
+    var _a, _b, _c, _d, _e;
+    const item = this.getSelectedItem();
     if (!item) {
       return null;
     }
@@ -7968,15 +8067,15 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
     let leafPriorToSameTab;
     switch (this.command.searchTarget) {
       case "file":
-        if (((_b = item.matchResults[0]) == null ? void 0 : _b.type) === "header") {
+        if (((_a = item.matchResults[0]) == null ? void 0 : _a.type) === "header") {
           const firstHeader = item.matchResults[0].meta[0];
-          offset = (_c = this.appHelper.findFirstHeaderOffset(item.file, firstHeader)) != null ? _c : void 0;
+          offset = (_b = this.appHelper.findFirstHeaderOffset(item.file, firstHeader)) != null ? _b : void 0;
         }
         break;
       case "opened file":
-        if (((_d = item.matchResults[0]) == null ? void 0 : _d.type) === "header") {
+        if (((_c = item.matchResults[0]) == null ? void 0 : _c.type) === "header") {
           const firstHeader = item.matchResults[0].meta[0];
-          offset = (_e = this.appHelper.findFirstHeaderOffset(item.file, firstHeader)) != null ? _e : void 0;
+          offset = (_d = this.appHelper.findFirstHeaderOffset(item.file, firstHeader)) != null ? _d : void 0;
         }
         this.appHelper.getFilePathsInActiveWindow;
         leafPriorToSameTab = this.appHelper.findLeaf(fileToOpened);
@@ -7998,7 +8097,7 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       this.close();
       this.navigate(() => this.isClosed);
     } else if (leafType === "same-tab") {
-      (_f = this.stateToRestore) != null ? _f : this.stateToRestore = this.appHelper.captureState(this.initialLeaf);
+      (_e = this.stateToRestore) != null ? _e : this.stateToRestore = this.appHelper.captureState(this.initialLeaf);
     }
     this.navigate(
       () => this.appHelper.openFile(
@@ -8024,7 +8123,7 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
     }
     const file = await this.appHelper.createMarkdown(this.searchQuery);
     if (!file) {
-      new import_obsidian5.Notice("This file already exists.");
+      new import_obsidian6.Notice("This file already exists.");
       return true;
     }
     this.close();
@@ -8047,6 +8146,13 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
         }
       );
     }
+  }
+  async toFileToOpened(item) {
+    let fileToOpened = item.file;
+    if (item.phantom) {
+      fileToOpened = await this.app.vault.create(item.file.path, "");
+    }
+    return fileToOpened;
   }
   setHotkeys() {
     this.scope.unregister(this.scope.keys.find((x) => x.key === "Enter"));
@@ -8083,16 +8189,64 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       }
     });
     this.registerKeys("open", async () => {
-      await this.chooseCurrentSuggestion("same-tab");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items) {
+          this.appHelper.openFile(await this.toFileToOpened(x), {
+            leafType: "new-tab",
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("same-tab");
+      }
     });
     this.registerKeys("open in new tab", async () => {
-      await this.chooseCurrentSuggestion("new-tab");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items) {
+          this.appHelper.openFile(await this.toFileToOpened(x), {
+            leafType: "new-tab",
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-tab");
+      }
     });
     this.registerKeys("open in new pane (horizontal)", async () => {
-      await this.chooseCurrentSuggestion("new-pane-horizontal");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items) {
+          this.appHelper.openFile(await this.toFileToOpened(x), {
+            leafType: "new-pane-horizontal",
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-pane-horizontal");
+      }
     });
     this.registerKeys("open in new pane (vertical)", async () => {
-      await this.chooseCurrentSuggestion("new-pane-vertical");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items) {
+          this.appHelper.openFile(await this.toFileToOpened(x), {
+            leafType: "new-pane-vertical",
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-pane-vertical");
+      }
     });
     this.registerKeys("open in new window", async () => {
       await this.chooseCurrentSuggestion("new-window");
@@ -8107,12 +8261,12 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
     });
     this.registerKeys("open all in new tabs", () => {
       this.close();
-      if (this.chooser.values == null) {
+      const items = this.getItems();
+      if (!items) {
         return;
       }
-      const items = this.chooser.values.slice().reverse();
-      for (const x of items) {
-        this.appHelper.openFile(x.file, {
+      for (const item of items) {
+        this.appHelper.openFile(item.file, {
           leafType: "new-tab-background",
           preventDuplicateTabs: this.settings.preventDuplicateTabs
         });
@@ -8132,28 +8286,43 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
     this.registerKeys("create in new tab", async () => {
       await this.handleCreateNewMarkdown(this.searchQuery, "new-tab");
     });
+    this.registerKeys("create in new pane (horizontal)", async () => {
+      await this.handleCreateNewMarkdown(
+        this.searchQuery,
+        "new-pane-horizontal"
+      );
+    });
+    this.registerKeys("create in new pane (vertical)", async () => {
+      await this.handleCreateNewMarkdown(this.searchQuery, "new-pane-vertical");
+    });
     this.registerKeys("create in new window", async () => {
       await this.handleCreateNewMarkdown(this.searchQuery, "new-window");
     });
     this.registerKeys("create in new popup", async () => {
       await this.handleCreateNewMarkdown(this.searchQuery, "popup");
     });
+    this.registerKeys("check/uncheck", async () => {
+      await this.toggleCheckedItem();
+    });
+    this.registerKeys("check/uncheck and next", async () => {
+      await this.toggleCheckedItem({ moveNext: true });
+    });
+    this.registerKeys("check all", () => {
+      this.checkAll();
+    });
+    this.registerKeys("uncheck all", () => {
+      this.uncheckAll();
+    });
     this.registerKeys("open in default app", () => {
-      var _a, _b;
-      const file = (_b = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem]) == null ? void 0 : _b.file;
-      if (!file) {
-        return;
-      }
-      this.appHelper.openFileInDefaultApp(file);
+      this.actionMultiItems((item) => {
+        this.appHelper.openFileInDefaultApp(item.file);
+      });
       this.close();
     });
     this.registerKeys("show in system explorer", () => {
-      var _a, _b;
-      const file = (_b = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem]) == null ? void 0 : _b.file;
-      if (!file) {
-        return;
-      }
-      this.appHelper.openInSystemExplorer(file);
+      this.actionMultiItems((item) => {
+        this.appHelper.openInSystemExplorer(item.file);
+      });
       this.close();
     });
     this.registerKeys("open in google", () => {
@@ -8161,21 +8330,18 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       this.close();
     });
     this.registerKeys("open first URL", async () => {
-      var _a, _b;
-      const fileToOpened = (_b = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem]) == null ? void 0 : _b.file;
-      if (!fileToOpened) {
-        return;
-      }
       this.close();
       await this.isClosed;
-      const urls = await this.appHelper.findExternalLinkUrls(fileToOpened);
-      if (urls.length > 0) {
-        activeWindow.open(urls[0]);
-      } else {
-        this.appHelper.openFile(fileToOpened, {
-          leafType: "same-tab"
-        });
-      }
+      this.actionMultiItems(async (item, mode) => {
+        const urls = await this.appHelper.findExternalLinkUrls(item.file);
+        if (urls.length > 0) {
+          activeWindow.open(urls[0]);
+        } else {
+          this.appHelper.openFile(item.file, {
+            leafType: mode === "select" ? "same-tab" : "new-tab"
+          });
+        }
+      });
     });
     const insertLinkToActiveMarkdownFile = (file, item) => {
       const saat = this.settings.searchesAutoAliasTransform;
@@ -8197,23 +8363,39 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       );
     };
     this.registerKeys("insert to editor", async () => {
-      var _a;
-      const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
-      if (!item) {
-        insertPhantomLinkToActiveMarkdownFile(this.searchQuery);
-        await this.safeClose();
-        return;
-      }
-      const file = item.file;
-      if (!file) {
-        return;
-      }
-      await this.safeClose();
-      if (this.appHelper.isActiveLeafCanvas()) {
-        this.appHelper.addFileToCanvas(file);
-      } else {
-        insertLinkToActiveMarkdownFile(file, item);
-      }
+      let offsetX = 0;
+      this.actionMultiItems(
+        async (item, mode) => {
+          await this.safeClose();
+          switch (mode) {
+            case "select":
+              if (this.appHelper.isActiveLeafCanvas()) {
+                this.appHelper.addFileToCanvas(item.file);
+              } else {
+                insertLinkToActiveMarkdownFile(item.file, item);
+              }
+              break;
+            case "check":
+              if (this.appHelper.isActiveLeafCanvas()) {
+                const cv = this.appHelper.addFileToCanvas(item.file, {
+                  x: offsetX,
+                  y: 0
+                });
+                offsetX += cv.width + 30;
+              } else {
+                insertLinkToActiveMarkdownFile(item.file, item);
+                this.appHelper.insertStringToActiveFile("\n");
+              }
+              break;
+            default:
+              throw new ExhaustiveError(mode);
+          }
+        },
+        async () => {
+          insertPhantomLinkToActiveMarkdownFile(this.searchQuery);
+          await this.safeClose();
+        }
+      );
     });
     this.registerKeys("insert to editor in background", async () => {
       var _a;
@@ -8330,12 +8512,12 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       navigate(this.currentNavigationHistoryIndex + 1);
     });
     this.registerKeys("close if opened", () => {
-      var _a, _b;
-      const file = (_b = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem]) == null ? void 0 : _b.file;
-      if (!file) {
-        return;
-      }
-      this.appHelper.closeFile(file);
+      this.actionMultiItems(async (item, mode) => {
+        this.appHelper.closeFile(item.file);
+        if (mode === "check") {
+          this.close();
+        }
+      });
     });
     const modifierKey = this.settings.userAltInsteadOfModForQuickResultSelection ? "Alt" : "Mod";
     for (const n of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
@@ -8358,9 +8540,9 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       }
       try {
         await navigator.clipboard.writeText(item.file.path);
-        new import_obsidian5.Notice("Vault path copied to clipboard");
+        new import_obsidian6.Notice("Vault path copied to clipboard");
       } catch (error) {
-        new import_obsidian5.Notice("Failed to copy vault path to clipboard");
+        new import_obsidian6.Notice("Failed to copy vault path to clipboard");
       }
     });
     this.registerKeys("copy absolute file path", async () => {
@@ -8372,9 +8554,9 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       try {
         const basePath = this.appHelper.getNormalizeVaultRootPath();
         await navigator.clipboard.writeText(`${basePath}/${item.file.path}`);
-        new import_obsidian5.Notice("Absolute file path copied to clipboard");
+        new import_obsidian6.Notice("Absolute file path copied to clipboard");
       } catch (error) {
-        new import_obsidian5.Notice("Failed to copy absolute file path to clipboard");
+        new import_obsidian6.Notice("Failed to copy absolute file path to clipboard");
       }
     });
     this.registerKeys("dismiss", async () => {
@@ -8384,8 +8566,8 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
 };
 
 // src/ui/BacklinkModal.ts
-var import_obsidian6 = require("obsidian");
-var BacklinkModal = class extends import_obsidian6.SuggestModal {
+var import_obsidian7 = require("obsidian");
+var BacklinkModal = class extends AbstractSuggestionModal {
   constructor(app, settings, initialLeaf) {
     super(app);
     this.lastOpenFileIndexByPath = {};
@@ -8403,13 +8585,16 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
     this.logger = Logger.of(this.settings);
     this.initialLeaf = initialLeaf;
     this.originFileBaseName = this.appHelper.getActiveFile().basename;
-    this.originFileBaseNameRegExp = new RegExp(this.originFileBaseName, "g");
+    this.originFileBaseNameRegExp = new RegExp(
+      escapeRegExp(this.originFileBaseName),
+      "g"
+    );
     this.limit = 255;
     this.app.workspace.getLastOpenFiles().forEach((v, i) => {
       this.lastOpenFileIndexByPath[v] = i;
     });
     this.setHotkeys();
-    this.debounceGetSuggestions = (0, import_obsidian6.debounce)(
+    this.debounceGetSuggestions = (0, import_obsidian7.debounce)(
       (query, cb) => {
         cb(this._getSuggestions(query));
       },
@@ -8417,18 +8602,21 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
       true
     );
   }
+  toKey(item) {
+    return `${item.file.path}:${item.lineNumber}`;
+  }
   async init() {
     await this.indexingItems();
   }
   onOpen() {
     var _a;
     super.onOpen();
-    if (!import_obsidian6.Platform.isPhone) {
+    if (!import_obsidian7.Platform.isPhone) {
       setFloatingModal(this.appHelper);
     }
     this.opened = true;
     if (this.settings.autoPreviewInBacklinkSearch) {
-      this.debouncePreview = (0, import_obsidian6.debounce)(
+      this.debouncePreview = (0, import_obsidian7.debounce)(
         this.preview,
         this.settings.backlinkAutoPreviewDelayMilliSeconds,
         true
@@ -8453,7 +8641,7 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
     }
   }
   close() {
-    if (import_obsidian6.Platform.isMobile) {
+    if (import_obsidian7.Platform.isMobile) {
       this.onClose();
     }
     super.close();
@@ -8561,7 +8749,10 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
     const previousPath = (_a = this.suggestions[item.order - 1]) == null ? void 0 : _a.file.path;
     const sameFileWithPrevious = previousPath === item.file.path;
     const itemDiv = createDiv({
-      cls: "another-quick-switcher__item"
+      cls: [
+        "another-quick-switcher__item",
+        this.selectedItemMap[this.toKey(item)] ? "another-quick-switcher__item__selected" : ""
+      ].filter((x) => x)
     });
     const entryDiv = createDiv({
       cls: "another-quick-switcher__item__entry"
@@ -8647,8 +8838,8 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
     this.navQueue = this.navQueue.then(cb);
   }
   async chooseCurrentSuggestion(leaf, option = {}) {
-    var _a, _b;
-    const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
+    var _a;
+    const item = this.getSelectedItem();
     if (!item) {
       return null;
     }
@@ -8656,7 +8847,7 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
       this.close();
       this.navigate(() => this.isClosed);
     } else if (leaf === "same-tab") {
-      (_b = this.stateToRestore) != null ? _b : this.stateToRestore = this.appHelper.captureState(this.initialLeaf);
+      (_a = this.stateToRestore) != null ? _a : this.stateToRestore = this.appHelper.captureState(this.initialLeaf);
     }
     this.navigate(
       () => this.appHelper.openFile(
@@ -8722,16 +8913,68 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
       );
     });
     this.registerKeys("open", async () => {
-      await this.chooseCurrentSuggestion("same-tab");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-tab",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("same-tab");
+      }
     });
     this.registerKeys("open in new tab", async () => {
-      await this.chooseCurrentSuggestion("new-tab");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-tab",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-tab");
+      }
     });
     this.registerKeys("open in new pane (horizontal)", async () => {
-      await this.chooseCurrentSuggestion("new-pane-horizontal");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-pane-horizontal",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-pane-horizontal");
+      }
     });
     this.registerKeys("open in new pane (vertical)", async () => {
-      await this.chooseCurrentSuggestion("new-pane-vertical");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-pane-vertical",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-pane-vertical");
+      }
     });
     this.registerKeys("open in new window", async () => {
       await this.chooseCurrentSuggestion("new-window");
@@ -8746,18 +8989,31 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
     });
     this.registerKeys("open all in new tabs", async () => {
       this.close();
-      if (this.chooser.values == null) {
+      const items = this.getItems();
+      if (!items) {
         return;
       }
-      const items = this.chooser.values.slice().reverse();
-      for (const x of items) {
-        await this.appHelper.openFile(x.file, {
+      this.getSelectedItem();
+      for (const item of items) {
+        await this.appHelper.openFile(item.file, {
           leafType: "new-tab",
-          line: x.lineNumber - 1,
+          line: item.lineNumber - 1,
           preventDuplicateTabs: this.settings.preventDuplicateTabs
         });
         await sleep(0);
       }
+    });
+    this.registerKeys("check/uncheck", async () => {
+      await this.toggleCheckedItem();
+    });
+    this.registerKeys("check/uncheck and next", async () => {
+      await this.toggleCheckedItem({ moveNext: true });
+    });
+    this.registerKeys("check all", () => {
+      this.checkAll();
+    });
+    this.registerKeys("uncheck all", () => {
+      this.uncheckAll();
     });
     this.registerKeys("show all results", () => {
       this.limit = Number.MAX_SAFE_INTEGER;
@@ -8779,7 +9035,7 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
 };
 
 // src/ui/FolderModal.ts
-var import_obsidian7 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 function matchQuery2(item, query, matcher, isNormalizeAccentsDiacritics) {
   const qs = query.split("/");
   const folder = qs.pop();
@@ -8826,7 +9082,7 @@ function stampMatchType(item, queries, isNormalizeAccentsDiacritics) {
   }
   return item;
 }
-var FolderModal = class extends import_obsidian7.SuggestModal {
+var FolderModal = class extends import_obsidian8.SuggestModal {
   constructor(app, settings) {
     super(app);
     this.modalEl.addClass("another-quick-switcher__modal-prompt");
@@ -8876,7 +9132,7 @@ var FolderModal = class extends import_obsidian7.SuggestModal {
   }
   async onChooseSuggestion(item) {
     if (!this.appHelper.enableFileExplorer()) {
-      new import_obsidian7.Notice("File explorer (core plugin) is not enabled.");
+      new import_obsidian8.Notice("File explorer (core plugin) is not enabled.");
       return;
     }
     this.appHelper.revealInFolder(item.folder);
@@ -8927,7 +9183,7 @@ var FolderModal = class extends import_obsidian7.SuggestModal {
 };
 
 // src/ui/GrepModal.ts
-var import_obsidian8 = require("obsidian");
+var import_obsidian9 = require("obsidian");
 
 // src/utils/grep-utils.ts
 function byteToCharPosition(text, bytePos) {
@@ -9111,7 +9367,7 @@ var globalInternalStorage2 = {
   basePath: void 0,
   selected: void 0
 };
-var GrepModal = class extends import_obsidian8.SuggestModal {
+var GrepModal = class extends AbstractSuggestionModal {
   constructor(app, settings, initialLeaf, initialQuery) {
     super(app);
     this.isClosed = new Promise((resolve) => {
@@ -9142,6 +9398,9 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
     }
     this.setHotkeys();
     this.initialQuery = initialQuery;
+  }
+  toKey(item) {
+    return `${item.file.path}:${item.lineNumber}`;
   }
   onOpen() {
     var _a;
@@ -9212,7 +9471,7 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
       promptInputContainerEl == null ? void 0 : promptInputContainerEl.after(wrapper);
       wrapper.insertAdjacentHTML("afterbegin", FOLDER);
       if (this.settings.autoPreviewInGrepSearch) {
-        this.debouncePreview = (0, import_obsidian8.debounce)(
+        this.debouncePreview = (0, import_obsidian9.debounce)(
           this.preview,
           this.settings.grepAutoPreviewDelayMilliSeconds,
           true
@@ -9487,7 +9746,10 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
     const previousPath = (_a = this.suggestions[item.order - 1]) == null ? void 0 : _a.file.path;
     const sameFileWithPrevious = previousPath === item.file.path;
     const itemDiv = createDiv({
-      cls: "another-quick-switcher__item"
+      cls: [
+        "another-quick-switcher__item",
+        this.selectedItemMap[this.toKey(item)] ? "another-quick-switcher__item__selected" : ""
+      ].filter((x) => x)
     });
     const entryDiv = createDiv({
       cls: "another-quick-switcher__item__entry"
@@ -9592,8 +9854,8 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
     this.navQueue = this.navQueue.then(cb);
   }
   async chooseCurrentSuggestion(leaf, option = {}) {
-    var _a, _b;
-    const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
+    var _a;
+    const item = this.getSelectedItem();
     if (!item) {
       return null;
     }
@@ -9601,7 +9863,7 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
       this.close();
       this.navigate(() => this.isClosed);
     } else if (leaf === "same-tab") {
-      (_b = this.stateToRestore) != null ? _b : this.stateToRestore = this.appHelper.captureState(this.initialLeaf);
+      (_a = this.stateToRestore) != null ? _a : this.stateToRestore = this.appHelper.captureState(this.initialLeaf);
     }
     this.navigate(
       () => this.appHelper.openFile(
@@ -9732,7 +9994,7 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
       "keydown",
       this.clonedInputElKeydownEventListener
     );
-    this.debounceInputEvent = this.settings.grepSearchDelayMilliSeconds > 0 ? (0, import_obsidian8.debounce)(
+    this.debounceInputEvent = this.settings.grepSearchDelayMilliSeconds > 0 ? (0, import_obsidian9.debounce)(
       () => {
         this.currentQuery = this.clonedInputEl.value;
         this.inputEl.value = this.currentQuery;
@@ -9743,7 +10005,7 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
       },
       this.settings.grepSearchDelayMilliSeconds,
       true
-    ) : (0, import_obsidian8.debounce)(
+    ) : (0, import_obsidian9.debounce)(
       () => {
         this.validateRegexInput();
       },
@@ -9782,16 +10044,68 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
       this.toggleInput();
     });
     this.registerKeys("open", async () => {
-      await this.chooseCurrentSuggestion("same-tab");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-tab",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("same-tab");
+      }
     });
     this.registerKeys("open in new tab", async () => {
-      await this.chooseCurrentSuggestion("new-tab");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-tab",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-tab");
+      }
     });
     this.registerKeys("open in new pane (horizontal)", async () => {
-      await this.chooseCurrentSuggestion("new-pane-horizontal");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-pane-horizontal",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-pane-horizontal");
+      }
     });
     this.registerKeys("open in new pane (vertical)", async () => {
-      await this.chooseCurrentSuggestion("new-pane-vertical");
+      const items = this.getCheckedItems();
+      if (items.length > 0) {
+        this.close();
+        for (const x of items.slice()) {
+          await this.appHelper.openFile(x.file, {
+            leafType: "new-pane-vertical",
+            line: x.lineNumber - 1,
+            preventDuplicateTabs: this.settings.preventDuplicateTabs
+          });
+          await sleep(0);
+        }
+      } else {
+        await this.chooseCurrentSuggestion("new-pane-vertical");
+      }
     });
     this.registerKeys("open in new window", async () => {
       await this.chooseCurrentSuggestion("new-window");
@@ -9819,6 +10133,18 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
         await sleep(0);
       }
     });
+    this.registerKeys("check/uncheck", async () => {
+      await this.toggleCheckedItem();
+    });
+    this.registerKeys("check/uncheck and next", async () => {
+      await this.toggleCheckedItem({ moveNext: true });
+    });
+    this.registerKeys("check all", () => {
+      this.checkAll();
+    });
+    this.registerKeys("uncheck all", () => {
+      this.uncheckAll();
+    });
     this.registerKeys("preview", () => this.preview());
     const modifierKey = this.settings.userAltInsteadOfModForQuickResultSelection ? "Alt" : "Mod";
     for (const n of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
@@ -9835,8 +10161,8 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
 };
 
 // src/ui/HeaderModal.ts
-var import_obsidian9 = require("obsidian");
-var HeaderModal = class extends import_obsidian9.SuggestModal {
+var import_obsidian10 = require("obsidian");
+var HeaderModal = class extends import_obsidian10.SuggestModal {
   constructor(app, settings, floating) {
     super(app);
     this.hitItems = [];
@@ -9941,7 +10267,7 @@ var HeaderModal = class extends import_obsidian9.SuggestModal {
   }
   enableFloating() {
     this.floating = true;
-    if (!import_obsidian9.Platform.isPhone) {
+    if (!import_obsidian10.Platform.isPhone) {
       setFloatingModal(this.appHelper);
     }
   }
@@ -10111,12 +10437,12 @@ var HeaderModal = class extends import_obsidian9.SuggestModal {
 };
 
 // src/ui/InFileModal.ts
-var import_obsidian10 = require("obsidian");
+var import_obsidian11 = require("obsidian");
 var globalInternalStorage3 = {
   query: "",
   selected: null
 };
-var InFileModal = class extends import_obsidian10.SuggestModal {
+var InFileModal = class extends import_obsidian11.SuggestModal {
   constructor(app, settings) {
     super(app);
     /** !Not work correctly in all cases */
@@ -10138,7 +10464,7 @@ var InFileModal = class extends import_obsidian10.SuggestModal {
     this.setPlaceholder("Type anything then shows the results");
   }
   close() {
-    if (import_obsidian10.Platform.isMobile) {
+    if (import_obsidian11.Platform.isMobile) {
       this.onClose();
     }
     super.close();
@@ -10225,7 +10551,7 @@ var InFileModal = class extends import_obsidian10.SuggestModal {
   }
   enableFloating() {
     this.floating = true;
-    if (!import_obsidian10.Platform.isPhone) {
+    if (!import_obsidian11.Platform.isPhone) {
       setFloatingModal(this.appHelper);
     }
   }
@@ -10467,8 +10793,8 @@ var InFileModal = class extends import_obsidian10.SuggestModal {
 };
 
 // src/ui/LinkModal.ts
-var import_obsidian11 = require("obsidian");
-var LinkModal = class extends import_obsidian11.SuggestModal {
+var import_obsidian12 = require("obsidian");
+var LinkModal = class extends import_obsidian12.SuggestModal {
   constructor(app, settings, initialLeaf) {
     super(app);
     this.lastOpenFileIndexByPath = {};
@@ -10490,7 +10816,7 @@ var LinkModal = class extends import_obsidian11.SuggestModal {
       this.lastOpenFileIndexByPath[v] = i;
     });
     this.setHotkeys();
-    this.debounceGetSuggestions = (0, import_obsidian11.debounce)(
+    this.debounceGetSuggestions = (0, import_obsidian12.debounce)(
       (query, cb) => {
         cb(this._getSuggestions(query));
       },
@@ -10503,7 +10829,7 @@ var LinkModal = class extends import_obsidian11.SuggestModal {
   }
   onOpen() {
     super.onOpen();
-    if (!import_obsidian11.Platform.isPhone) {
+    if (!import_obsidian12.Platform.isPhone) {
       setFloatingModal(this.appHelper);
     }
     this.opened = true;
@@ -10782,7 +11108,7 @@ var LinkModal = class extends import_obsidian11.SuggestModal {
 
 // src/ui/MoveModal.ts
 var import_moment = __toESM(require_moment());
-var import_obsidian12 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 function mergeRanges2(ranges) {
   if (ranges.length === 0) return [];
   const sorted = [...ranges].sort((a, b) => a.start - b.start);
@@ -10935,7 +11261,7 @@ function sortFolders(items, priority) {
     }
   });
 }
-var MoveModal = class extends import_obsidian12.SuggestModal {
+var MoveModal = class extends import_obsidian13.SuggestModal {
   constructor(app, settings) {
     super(app);
     this.recentFolders = [];
@@ -11056,7 +11382,7 @@ var MoveModal = class extends import_obsidian12.SuggestModal {
     if (await this.appHelper.exists(newPath)) {
       const newName = `${activeFile.basename}.${(0, import_moment.default)().format("YYYYMMDD_HHmmss_SSS")}.${activeFile.extension}`;
       newPath = `${item.folder.path}/${newName}`;
-      new import_obsidian12.Notice(
+      new import_obsidian13.Notice(
         `Since a file with the same name already exists in the destination directory, it will be moved and renamed ${newName}`
       );
     }
@@ -11112,8 +11438,8 @@ var MoveModal = class extends import_obsidian12.SuggestModal {
 var SEARCH_COMMAND_PREFIX = "search-command";
 function showSearchDialog(app, settings, command) {
   var _a, _b, _c, _d;
-  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian13.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
-  const editor = (_d = (_c = app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView)) == null ? void 0 : _c.editor) != null ? _d : null;
+  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian14.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
+  const editor = (_d = (_c = app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView)) == null ? void 0 : _c.editor) != null ? _d : null;
   const modal = new AnotherQuickSwitcherModal({
     app,
     settings,
@@ -11140,17 +11466,17 @@ function showMoveDialog(app, settings) {
 }
 async function showGrepDialog(app, settings, initialQuery) {
   var _a, _b;
-  if (!import_obsidian13.Platform.isDesktop) {
-    new import_obsidian13.Notice("Grep is not supported on mobile.");
+  if (!import_obsidian14.Platform.isDesktop) {
+    new import_obsidian14.Notice("Grep is not supported on mobile.");
     return;
   }
   if (!await existsRg(settings.ripgrepCommand)) {
-    new import_obsidian13.Notice(
+    new import_obsidian14.Notice(
       `"${settings.ripgrepCommand}" was not working as a ripgrep command. If you have not installed ripgrep yet, please install it.`
     );
     return;
   }
-  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian13.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
+  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian14.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
   const modal = new GrepModal(app, settings, activeFileLeaf, initialQuery);
   modal.open();
 }
@@ -11159,7 +11485,7 @@ async function showBacklinkDialog(app, settings) {
   if (!app.workspace.getActiveFile()) {
     return;
   }
-  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian13.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
+  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian14.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
   const modal = new BacklinkModal(app, settings, activeFileLeaf);
   await modal.init();
   modal.open();
@@ -11169,7 +11495,7 @@ async function showLinkDialog(app, settings) {
   if (!app.workspace.getActiveFile()) {
     return;
   }
-  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian13.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
+  const activeFileLeaf = (_b = (_a = app.workspace.getActiveViewOfType(import_obsidian14.FileView)) == null ? void 0 : _a.leaf) != null ? _b : null;
   const modal = new LinkModal(app, settings, activeFileLeaf);
   await modal.init();
   modal.open();
@@ -11236,7 +11562,7 @@ function createCommands(app, settings) {
       hotkeys: [],
       checkCallback: (checking) => {
         if (checking) {
-          return import_obsidian13.Platform.isDesktop;
+          return import_obsidian14.Platform.isDesktop;
         }
         showGrepDialog(app, settings);
       }
@@ -11288,7 +11614,7 @@ function createCommands(app, settings) {
 }
 
 // src/main.ts
-var AnotherQuickSwitcher = class extends import_obsidian14.Plugin {
+var AnotherQuickSwitcher = class extends import_obsidian15.Plugin {
   async onload() {
     this.appHelper = new AppHelper(this.app);
     await this.loadSettings();

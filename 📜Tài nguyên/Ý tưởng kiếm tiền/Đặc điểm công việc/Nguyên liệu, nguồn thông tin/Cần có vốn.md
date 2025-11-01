@@ -9,4 +9,4 @@ FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng"
 WHERE contains(tính-chất-công-việc, [[]])
 ```
 
-[[Các dịch vụ cho vay tín chấp]]
+[[Vay tín chấp]]

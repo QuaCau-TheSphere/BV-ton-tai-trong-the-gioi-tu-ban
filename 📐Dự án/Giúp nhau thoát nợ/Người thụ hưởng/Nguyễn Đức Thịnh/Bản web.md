@@ -91,7 +91,7 @@ Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng
 #### Bạn nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
 Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng
 
-#### Bạn đã dùng tới [[Các dịch vụ cho vay tín chấp|các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
+#### Bạn đã dùng tới [[Vay tín chấp|các dịch vụ cho vay]] nào? Vì sao chúng không phù hợp với bạn?
 Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng. Hơn nữa em muốn cắt nợ nên không muốn dùng thẻ tín dụng.
 
 #### Bạn có chấp nhận [[xù nợ ngân hàng]] không? Vì sao?

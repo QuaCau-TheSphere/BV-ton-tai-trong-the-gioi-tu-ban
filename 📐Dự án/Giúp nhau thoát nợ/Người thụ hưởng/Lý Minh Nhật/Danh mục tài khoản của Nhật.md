@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-09T15:43
+updated: 2025-10-29T10:42
 ---
 Khái niệm:: 
 Nhật là người nắm giữ tiền và trực tiếp chi tiêu cho các nhu cầu của Nhật. Một trong các nhu cầu đó là giúp mọi người và lập quỹ chung. Các giao dịch có sự có mặt của Nhật sẽ phải được xem dưới góc độ nào đây?
-- **Chi phí cho cuộc sống của Nhật là của Nhật**: Phân biệt thu nhập, chi tiêu cho mọi người. 
-- **Chi phí cho cuộc sống của Nhật là một phần chi phí của mạng lưới các cá nhân**: Tất cả các nơi lưu tiền của mọi người đều được xem là tài sản. Chỉ là sự chuyển tiền giữa các tài khoản với nhau, dù đó là giữa nhiều người. Bán hàng thì cũng thế
-- **Chi phí cho cuộc sống của Nhật là một phần chi phí của quỹ**: Chỉ những người mình xem là trong quỹ thì mới là tài sản
+- **Chi phí cho cuộc sống của Nhật là của Nhật (egocentricism)**: Phân biệt thu nhập, chi tiêu cho mọi người. 
+- **Chi phí cho cuộc sống của Nhật là một phần chi phí của mạng lưới các cá nhân (networkcentricism)**: Tất cả các nơi lưu tiền của mọi người đều được xem là tài sản. Chỉ là sự chuyển tiền giữa các tài khoản với nhau, dù đó là giữa nhiều người. Bán hàng thì cũng thế
+- **Chi phí cho cuộc sống của Nhật là một phần chi phí của quỹ (fundcentricism)**: Chỉ những người mình xem là trong quỹ thì mới là tài sản
 Nếu xem Nhật giúp quỹ, thì Nhật âm tiền, quỹ dương. Nếu xem Nhật với quỹ là một, thì việc ghi nhận là Nhật chuyển tiền vào gây hiểu nhầm
 
 [[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]]
@@ -28,8 +28,23 @@ mặt khác vẫn muốn giữ đúng nguyên tắc
 | Cà phê thảo luận                                             |                     | Chi phí                | Chi phí        | Chi phí                       |
 | Chuyển tiền giùm                                             |                     |                        |                |                               |
 
-sườn, be, cơm chả cá có khai báo không?
-Lúc thì tên doanh nghiệp là tên tài khoản (Vietinbank), lúc thì không (be) 
+Những thứ chỉ Nhật có thể hưởng được thì phải ghi ra là tài khoản của Nhật. Hoặc bằng sự không tồn tại của các tài khoản đánh dấu 
+
+## Có dùng tên doanh nghiệp để làm tên tài khoản không?
+Không đối với món hàng
+```
+2025-09-18 chợ | sườn
+    Quỹ:Quả Cầu:Tiền mặt:Bóp Nhật  -100
+    Chi phí:Thực phẩm:Thịt  +100
+2025-09-26 Quán gần nhà | Ăn trưa
+    Cá nhân:Mẹ:Tiền mặt           -500
+    Chi phí:Thực phẩm:Ăn trưa      30 ; chả cá
+    Quỹ:Quả Cầu:Tiền mặt:Bóp Nhật  470
+2025-10-07 Be | Từ nhà lên nhà dì Minh     ; Giúp:Mẹ
+    Chi phí:Đi lại:Dịch vụ:Xe máy  40 kđ
+    Quỹ:Quả Cầu:Tiền mặt:Bóp Nhật
+```
+Nhưng nếu đó là ngân hàng thì có. Vì lúc này tài khoản không phải là mục tiêu, mà là nơi lưu tiền.
 
 
 | Ví dụ                      | Mô tả                      | Tài khoản                                | Tag                                      | Chú thích |
@@ -43,6 +58,10 @@ Lúc thì tên doanh nghiệp là tên tài khoản (Vietinbank), lúc thì khô
 - Giúp:[Tên cá nhân]
 
 ## Tài khoản
+Chi phí, thu nhập là dành cho những giao dịch kiểu tiền trao cháo múc: [[Hàng hóa khiến ta không thấy các mối quan hệ xã hội đằng sau nó|không có nhu cầu biết tới các mối quan hệ xã hội đằng sau nó]]. Nói cách khác là chỉ dùng cho những thứ đã trở thành hàng hóa. 
+
+Những giao dịch mà ta muốn tham gia vào các mối quan hệ đằng sau, ví dụ như với các quỹ vi mô, thì chỉ xem là việc chuyển tiền giữa các tài khoản, không tính là chi phí hay thu nhập. 
+
 ### Chi phí
 - Giao thông
 	- Xăng/Gửi xe/Metro
@@ -68,4 +87,3 @@ Không trong ăn chính thì có thể là ăn xế, ăn vặt
 
 
 ### Thu nhập
-Hiểu theo nghĩa là người ta phải có trách nhiệm đưa tiền cho mình, không phải từ sự tương hỗ

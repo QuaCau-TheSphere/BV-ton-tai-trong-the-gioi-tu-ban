@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-24T14:44
+updated: 2025-10-27T09:40
 title: Vấn đề đạo đức khi làm ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
-Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
+Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
 
 [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]]. Trước việc các tổ chức tư bản lợi dụng điểm yếu của chúng ta và được pháp luật bảo vệ, có lẽ sẽ có hai quan điểm chính:
 - Hướng đến sự công bằng: nếu họ được phép làm thế với tôi thì tôi cũng được phép làm thế với họ

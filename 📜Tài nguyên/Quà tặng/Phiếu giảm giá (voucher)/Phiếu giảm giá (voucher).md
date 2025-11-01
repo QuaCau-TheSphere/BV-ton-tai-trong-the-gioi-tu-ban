@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2025-04-21T10:50
-updated: 2025-10-07T16:19
+updated: 2025-10-27T10:27
 ---
 Khái niệm:: 
-Xem thêm:: [[Săn điểm thưởng trên MEXC]]
+Xem thêm:: [[Săn điểm thưởng trên các sàn giao dịch]]
 
 Khuyến khích việc khai thác, không phải khuyến khích việc quan tâm lại
 [[Giảm giá không phải là quà, vì quà thì không cần phải đáp ứng ngược lại gì]]

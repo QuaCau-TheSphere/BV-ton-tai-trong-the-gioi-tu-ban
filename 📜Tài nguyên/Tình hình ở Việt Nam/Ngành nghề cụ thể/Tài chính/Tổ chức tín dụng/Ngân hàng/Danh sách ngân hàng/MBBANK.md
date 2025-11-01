@@ -11,3 +11,5 @@ SWIFT:: MSCBVNVX
 Website:: [mb.com.vn](mb.com.vn)
 Ngày thành lập:: 04/11/1994
 Vốn điều lệ (tỷ đồng):: 61,023.00
+
+Muốn đổi thiết bị là phải lên quầy, trừ ios

@@ -43,7 +43,7 @@ Hiện tại đang làm [[Đại lý bảo hiểm]] cho Cathay. Công việc
 
 Các ý tưởng khác đều có thứ bị mắc kẹt
 ### Trí nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
-### Trí đã dùng tới [[Các dịch vụ cho vay tín chấp]] nào? Vì sao chúng không phù hợp với Trí?
+### Trí đã dùng tới [[Vay tín chấp]] nào? Vì sao chúng không phù hợp với Trí?
 ### Trí có chấp nhận [[Xù nợ ngân hàng]], [[Xù nợ vay nóng]] không? Vì sao?
 Đã chấp nhận vỡ nợ trên ngân hàng, bị ghi nợ xấu trên CIC. Không dám xù nợ app đen vì sợ ảnh hưởng đến công việc, gia đình. (Đã đưa thông tin thật về chỗ làm việc, tạm trú để có được hạn mức lớn)
 

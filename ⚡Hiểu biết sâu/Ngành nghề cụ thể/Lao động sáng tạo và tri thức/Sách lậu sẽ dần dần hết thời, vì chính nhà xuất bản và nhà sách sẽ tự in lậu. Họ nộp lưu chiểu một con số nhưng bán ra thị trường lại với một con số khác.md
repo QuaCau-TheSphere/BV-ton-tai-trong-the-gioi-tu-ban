@@ -1,0 +1,9 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2025-11-01T11:12
+---
+Khái niệm:: 
+Khi tôi ra cuốn sách đầu tiên “Điệu nhạc trần gian”, tôi đã tiếp cận gần hơn những người làm sách. Lúc này, tôi mới nhận ra rằng sách lậu ở Đinh Lễ và Nguyễn Xí sẽ dần dần hết thời. Thị trường sách sẽ tốt hơn ư? Không phải! Vì chính những bên phát hành sách đóng vai nhà xuất bản và chủ động in sách lậu. Nếu các bên in sách lậu làm giảm doanh thu của các nhà sách thì bây giờ nhà xuất bản và nhà sách sẽ tự in sách lậu. Tức là, họ nộp lưu chiểu một con số, nhưng bán ra thị trường lại với một con số khác. Họ nộp lưu chiểu 1000 bản chẳng hạn, họ sẽ in 5000 đến 1 vạn bản. Với mức nộp lưu chiểu 1000 bản, họ chỉ phải nộp thuế 1000 bản và trả mức tiền nhuận bút cho tác giả hay dịch giả với mức phần trăm tương ứng (Mức nhuận bút của tác giả hay dịch giả là 7-10% giá bìa tương ứng với số lượng sách). Bạn thấy đấy, người chịu thiệt nhất chính là tác giả và dịch giả. Với cách thức này, thật sự với tư cách là người mua sách, tôi cũng không biết làm thế nào để ủng hộ tác giả, dịch giả. Bởi vì, tôi không thể phân biệt được đâu là sách lậu và đâu là sách thật nữa. Sự ăn gian giờ đây nằm trên các con số. 1000 bản nộp lưu chiểu, họ phân phối đến các thư viện, các nhà sách thuộc hệ thống nhà nước ở các địa phương. Số còn lại, họ phân phối ra Đinh Lễ, Nguyễn Xí, và rất nhiều đường dây sách giảm giá khác. Do không phải đóng thuế và trả nhuận bút cho tác giả – dịch giả, họ giảm giá đến 30-40% thì họ vẫn có lãi (Đó là còn chưa kể in sách với số lượng lớn thì giá thành in cũng rất rẻ). Với số lượng in như thế, lượng tái bản sẽ rất ít. Mà nếu có hết sách thì sẽ có hình thức gọi là “nối bản”. Những sách in ra dưới hình thức “nối bản” này sẽ không được quy đổi phần trăm ra nhuận bút của tác giả hay dịch giả).
+
+Nguồn:: [THỊ TRƯỜNG SÁCH VIỆT NAM (1): NGUỒN GỐC CỦA SÁCH GIẢM GIÁ - Book Hunter](https://bookhunter.vn/thi-truong-sach-viet-nam-1-nguon-goc-cua-sach-giam-gia/)

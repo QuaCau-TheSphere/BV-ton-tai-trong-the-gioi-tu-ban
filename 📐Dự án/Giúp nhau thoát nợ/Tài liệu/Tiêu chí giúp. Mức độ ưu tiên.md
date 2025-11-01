@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-09T11:54
+updated: 2025-10-11T15:15
 ---
 Khái niệm:: 
 [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
@@ -10,6 +10,8 @@ Khái niệm::
 - Không đóng góp
 - [[Không mô tả chi tiết công việc]]
 - Không muốn tìm hiểu, không đặt câu hỏi 
+- Không muốn ra khỏi thành phố
+- Muốn dùng tiền để đầu tư
 
 ## Mong muốn và chấp nhận
 Lý do cho việc muốn đóng góp lại:

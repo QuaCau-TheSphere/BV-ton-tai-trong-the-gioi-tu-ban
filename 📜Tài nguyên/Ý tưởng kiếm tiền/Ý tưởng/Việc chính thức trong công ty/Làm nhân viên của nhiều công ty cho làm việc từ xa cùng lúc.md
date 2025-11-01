@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-10T01:02
-updated: 2025-10-07T11:28
+updated: 2025-10-27T09:41
 ---
 Khái niệm:: 
 Cộng đồng tiếng Anh:
@@ -11,3 +11,5 @@ Cộng đồng tiếng Anh:
 ![How Guan Yue Was Overemployed With 16 Remote Jobs for 3 YEARS and NEVER SHOWED UP TO WORK… - YouTube](https://youtu.be/uHxvRzHQv8g?si=1sQUFwp4xugbKcqk)
 [[Làm nhân sự ảo|Làm nhân viên ảo là làm gì?]]
 [[Công việc vô nghĩa, tổ chức vô lý]]
+Muốn làm tốt hơn thì tạo thành một nhóm cung cấp dịch vụ (agency). [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]
+[[Giúp nhau kiếm tiền]]

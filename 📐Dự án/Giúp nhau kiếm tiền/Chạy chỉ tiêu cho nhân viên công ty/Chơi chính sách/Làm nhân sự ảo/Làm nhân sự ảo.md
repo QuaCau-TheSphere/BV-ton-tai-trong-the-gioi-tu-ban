@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-08T10:13
+updated: 2025-10-27T09:40
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -13,7 +13,7 @@ aliases:
 ## Mô tả công việc
 Nhân sự ảo là những người có nhân sự thật làm giùm. Ví dụ, Cueball và Megan cùng vào làm trong một công ty. Nhưng Megan làm cả phần việc của Cueball. Việc của Cueball chỉ là lên công ty điểm danh chấm công mà thôi. Nói cách khác, Cueball là một danh tính khác của Megan trong công ty. Công ty thấy rằng Cueball lên công ty làm việc chăm chỉ và có kết quả thì sẽ trả lương cho Cueball. Sau đó Cueball đưa lại một phần lương cho Megan. Có thể xem theo một cách khác là Cueball bán việc lại cho Megan.
 
-Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]].
+Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]].
 
 Các tên khác cho công việc này: điểm danh hộ, họp hộ, [[giữ tiền hộ]]
 

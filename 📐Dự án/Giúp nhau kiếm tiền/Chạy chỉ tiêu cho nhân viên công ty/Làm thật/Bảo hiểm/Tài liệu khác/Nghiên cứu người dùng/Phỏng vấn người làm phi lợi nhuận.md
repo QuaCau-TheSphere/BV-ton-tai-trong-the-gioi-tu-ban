@@ -49,7 +49,7 @@ Anh nghĩ gì về ý tưởng này?
 
 ### Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
 - [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
-- [[Các dịch vụ cho vay tín chấp]]
+- [[Vay tín chấp]]
 - [[Niềm tin, diễn ngôn]]
 - [[Tình Thân]]
 - Nơi gặp mặt

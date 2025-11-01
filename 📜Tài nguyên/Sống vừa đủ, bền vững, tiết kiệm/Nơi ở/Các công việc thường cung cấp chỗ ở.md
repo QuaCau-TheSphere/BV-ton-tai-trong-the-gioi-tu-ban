@@ -1,10 +1,16 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-31T16:35
 aliases:
-  - nơi ở miễn phí
+  - nơi ở giá rẻ hoặc miễn phí
+updated: 2025-10-26T17:39
 ---
+Lên chùa tu
+## Bảo vệ ca đêm
+## Nông trại
+Xem thêm:: [[Ý tưởng tìm nhà ở giá rẻ]]
+## Bảo vệ
+
 ## Quản lý ký túc xá, khu nhà trọ
 ## Quản gia
 ## Quản lý resort, khách sạn
@@ -14,15 +20,14 @@ Các resort, khách sạn 5 sao đều cung cấp ký túc xá cho nhân viên. 
 
 [Di house Đà Lạt \| Đà Lạt \| Facebook](https://www.facebook.com/dihousedalat)
 
-## F&B (nhà hàng, cafe)       
+## F&B (nhà hàng, cafe)
 Lao động phổ thông, sinh viên
 
-## Công trường / nhà máy      
+## Công trường/nhà máy
 Lao động tỉnh, kỹ thuật viên
 
-## Tàu du lịch / vùng xa      
+## Tàu du lịch/vùng xa
 Thích môi trường quốc tế, thích di chuyển
-
 
 ## [[Bao nuôi]]
 
