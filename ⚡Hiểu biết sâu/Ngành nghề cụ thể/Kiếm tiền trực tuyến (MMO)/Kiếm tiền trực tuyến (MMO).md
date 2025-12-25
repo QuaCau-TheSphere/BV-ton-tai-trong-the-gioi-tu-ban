@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-22T15:46
-updated: 2025-10-08T09:58
+updated: 2025-12-19T11:32
 ---
 Một cách để có dòng tiền là chơi MMO. Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
 

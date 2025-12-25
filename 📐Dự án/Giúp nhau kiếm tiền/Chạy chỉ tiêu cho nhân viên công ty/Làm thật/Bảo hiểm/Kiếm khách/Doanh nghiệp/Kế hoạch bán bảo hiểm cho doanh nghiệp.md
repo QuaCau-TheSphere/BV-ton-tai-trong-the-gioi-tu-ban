@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T20:39
-updated: 2025-07-09T17:32
+updated: 2025-12-19T11:32
 description: Thiết lập mối quan hệ với các CEO, kế toán, HR
 ---
 ## Ý tưởng

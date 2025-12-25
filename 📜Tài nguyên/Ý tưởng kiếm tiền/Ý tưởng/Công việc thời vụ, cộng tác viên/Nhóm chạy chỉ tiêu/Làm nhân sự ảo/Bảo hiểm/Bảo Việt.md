@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2025-08-23T13:51
+updated: 2025-12-19T11:32
 title: Làm đại lý ảo Bảo Việt
 ---
 Mô tả công việc:: 
@@ -27,9 +27,9 @@ Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc::
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận

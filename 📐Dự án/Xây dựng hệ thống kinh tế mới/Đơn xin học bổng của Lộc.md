@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-14T20:50
+updated: 2025-12-19T11:32
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
@@ -29,7 +29,7 @@ Những hoạt động này là đầu vào để Nhật làm những hoạt đ�
 | Ghi chép nhân học nửa mùa                                                                | [[Nhóm Biên Hoà]]                                                                                                                         |
 | Xây dựng mạng kết nối nhu cầu                                                            | [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465)                                           |
 | Hỗ trợ cho các tổ chức cùng định hướng                                                   | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm |
-| [[Ngân hàng mini và mạng lưới cho vay ngang hàng\|Xây dựng quỹ tín dụng vi mô]] | [[Quỹ giúp nhau giữ tài sản thế chấp]]                                                                                                    |
+| [[Quỹ tín dụng vi mô Quả Cầu\|Xây dựng quỹ tín dụng vi mô]] | [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]                                                                                                    |
 | Văn bản hoá các trải nghiệm và hiểu biết sâu                                             | Các ghi chú trong kho B                                                                                                                   |
 | Lập trình                                                                                | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                        |
 

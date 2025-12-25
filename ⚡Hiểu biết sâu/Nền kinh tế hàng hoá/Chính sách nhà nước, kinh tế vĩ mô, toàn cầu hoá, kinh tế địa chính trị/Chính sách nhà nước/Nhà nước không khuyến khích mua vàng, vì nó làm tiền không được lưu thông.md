@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T12:49
-updated: 2025-10-08T10:44
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Vàng]]
 [[Giá vàng tăng là dấu hiệu của bất ổn]]

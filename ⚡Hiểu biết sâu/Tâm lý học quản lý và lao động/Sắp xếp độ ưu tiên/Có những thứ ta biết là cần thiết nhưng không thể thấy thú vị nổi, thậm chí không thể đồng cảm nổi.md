@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:14
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [[Tiền là một động lực ngoại sinh cực kỳ tốt]]

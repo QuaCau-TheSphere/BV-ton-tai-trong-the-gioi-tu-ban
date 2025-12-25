@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-22T20:00
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: 
+Khái niệm:: [[⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Bảo hiểm/Bảo hiểm]]
 
 Nguồn:: 

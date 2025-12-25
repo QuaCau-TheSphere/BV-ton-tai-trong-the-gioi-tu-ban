@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-03T20:12
+updated: 2025-12-19T11:32
 aliases:
   - Tìm nguồn cho mượn tiền qua đêm
   - TÌm nguồn cho gửi casa

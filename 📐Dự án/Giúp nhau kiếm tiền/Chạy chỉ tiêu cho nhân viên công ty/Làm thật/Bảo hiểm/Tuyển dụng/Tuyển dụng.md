@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-08T14:00
-updated: 2025-07-09T17:32
+updated: 2025-12-19T11:32
 ---
 Mục tiêu:
 - 14 hợp đồng với phí đầu tiên trên 3tr trong tháng 10

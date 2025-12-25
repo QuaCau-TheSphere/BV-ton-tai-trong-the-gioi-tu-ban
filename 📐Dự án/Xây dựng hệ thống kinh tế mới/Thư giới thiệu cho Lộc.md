@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-16T10:30
+updated: 2025-12-19T11:32
 description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
@@ -66,6 +66,6 @@ Những hoạt động trên là đầu vào để Nhật làm những hoạt đ
 | Văn bản hoá các trải nghiệm và hiểu biết sâu. [Thực hành nhân học nửa mùa](https://doi-thoai.deno.dev/aC.6c.1) | [[Nhóm Biên Hoà\|Nhóm GM Mall Biên Hoà]], [[Nhóm Bình Dương 1\|Nhóm FE Bình Dương 1]]                                                                         |
 | Xây dựng mạng kết nối nhu cầu                                                                                  | [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.6c.1), [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465) |
 | Hỗ trợ cho các tổ chức cùng định hướng                                                                         | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm                     |
-| Xây dựng [[Ngân hàng mini và mạng lưới cho vay ngang hàng\|quỹ tín dụng vi mô]]                                | [[Quỹ giúp nhau giữ tài sản thế chấp]]                                                                                                                        |
+| Xây dựng [[Quỹ tín dụng vi mô Quả Cầu\|quỹ tín dụng vi mô]]                                | [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]                                                                                                                        |
 | [Xây dựng hệ thống tri thức cộng đồng](https://doi-thoai.deno.dev/of.6c.1)                                     | Các ghi chú trong kho [[Nơi này là nơi nào\|Tồn tại trong thế giới tư bản]]                                                                                   |
 | Lập trình                                                                                                      | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                                            |

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-14T20:43
+updated: 2025-12-19T11:32
 ---
 # Điều nhà đầu tư quan tâm
 ## Trấn Kỳ là gì
@@ -101,7 +101,7 @@ Hiện tại nhóm có 1 người làm toàn thời gian ở tất cả các v�
 # Điều muốn nhà đầu tư quan tâm
 ## Trấn Kỳ được sinh ra là để giúp Kendy
 Giúp đỡ Kendy là điều kiện tiên quyết để nhóm xem xét đề nghị đầu tư của bạn. Bạn không cần phải quan tâm đến Kendy, chỉ cần nhóm thấy được đề nghị đầu tư của bạn có lợi nhất cho Kendy thì nhóm sẽ đồng ý.
-[[Lý do viết Trấn Kỳ]], [[Ngân hàng mini và mạng lưới cho vay ngang hàng]]
+[[Lý do viết Trấn Kỳ]], [[Quỹ tín dụng vi mô Quả Cầu]]
 
 ## [[Người dùng hài lòng với chất lượng sản phẩm, không phải tốc độ làm ra nó]] 
 - [[Đa số startup không chết vì cạnh tranh với đối thủ, mà vì không có người dùng sản phẩm của mình]]

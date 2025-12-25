@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-22T08:45
-updated: 2025-10-26T16:14
+updated: 2025-12-19T11:32
 ---
 Nhà 117/2 Xô Viết Nghệ Tĩnh cho thuê:
 - Nhà 01 trệt và 02 lầu, 

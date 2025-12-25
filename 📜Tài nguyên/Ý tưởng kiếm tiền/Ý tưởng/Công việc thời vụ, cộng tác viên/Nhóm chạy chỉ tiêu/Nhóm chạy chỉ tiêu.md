@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2025-10-08T10:05
+updated: 2025-12-19T11:32
 aliases:
   - Công việc của nhóm giúp nhau kiếm tiền
   - kiếm tiền
@@ -19,7 +19,7 @@ WHERE file.name != this.file.name
 WHERE !contains(file.name, "Sàn thương mại điện tử" )
 ```
 
-### Công việc trong [[VNPAY|VNPAY]]
+### Công việc trong [[Ví điện tử|Ví điện tử]]
 ```dataview
 table số-tiền-kiếm-được as "Số tiền kiếm được", mô-tả-công-việc as "Mô tả công việc"
 FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY"

@@ -16,9 +16,9 @@ Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc::
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận

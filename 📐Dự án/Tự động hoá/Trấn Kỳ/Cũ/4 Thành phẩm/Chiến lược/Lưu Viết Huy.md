@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-12-19T11:32
 ---
 
 Mình là Huy, hiện tại có 1 anh Tùng PM hiện tại đang làm dự án về quản lý chi tiêu

@@ -2,7 +2,7 @@
 share: true
 description: "Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau. Số tiền kiếm được: 300k"
 created: 2025-03-27T17:13
-updated: 2025-10-14T10:41
+updated: 2025-12-19T11:32
 ---
 Mô tả công việc:: Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau
 Số tiền kiếm được:: 300k/10 nhóm
@@ -26,9 +26,9 @@ Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [[Làm qua mạng]]
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận

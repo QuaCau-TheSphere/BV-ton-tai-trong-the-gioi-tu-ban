@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-11T17:55
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Đô la]]
 [[Đô la tăng giá làm lạm phát ở các nước khác tăng]]

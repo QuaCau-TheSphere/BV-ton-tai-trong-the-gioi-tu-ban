@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2025-09-14T20:09
+updated: 2025-12-19T15:12
 aliases:
   - Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
@@ -12,12 +12,15 @@ aliases:
 - [[Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền|Sợ bị nghĩ là mình vòi tiền]]
 - Sợ làm mối quan hệ trở nên khó xử, đặc biệt là khi có cơ sở để thấy bị từ chối
 
-## Khó khăn của người hỗ trợ người cần vay
+## Khó khăn của người đi vay giùm
 - Không có thời gian giải thích
 - Nhiều mối quan hệ nhưng lại không biết ai sẵn sàng giúp
 - Nhức đầu vì phải chuyển lời giữa người cần vay và người được hỏi vay
-- Đã hỏi giùm cho người khác rồi. Sợ họ lại bị phiền
+- Đã hỏi giùm cho người vay khác rồi. Sợ họ lại bị phiền
 - Gặp lời khuyên rằng mình cũng không nên giúp
+- Sợ làm mối quan hệ trở nên khó xử, đặc biệt là khi có cơ sở để thấy bị từ chối
+
+Xem thêm:: [[Đứng ra vay giùm, cho mượn tài sản thế chấp]]
 
 ## Lý do từ chối cho vay
 ### Lý do về tiền
@@ -27,16 +30,17 @@ aliases:
 
 ### Lý do về sự an toàn
 - Không tiếp xúc đủ nhiều để có thể có sự tin tưởng
-- Không đảm bảo được người vay trả tiền đúng hạn
+- Không đảm bảo được người vay trả tiền đúng hạn. Có người còn cho rằng [[Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn]]
 - Giờ nhiều vụ lừa đảo qua mạng
 
 ### Lý do về sự hiệu quả trong việc giúp đỡ
 - Nghĩ rằng nếu họ vay được một lần sẽ vay thêm nhiều lần nữa, mà như vậy thì sẽ [[Giúp đỡ sẽ tạo ra sự lệ thuộc|tạo ra sự lệ thuộc]]
-- Nghĩ rằng [[Người vững vàng là người không cần phụ thuộc vào người khác]]. Việc không giúp họ là tốt cho họ vì [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên]]
+- Nghĩ rằng [[Người vững vàng là người không phụ thuộc vào người khác]]. Việc không giúp họ là tốt cho họ vì [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên]]
 - Sợ rằng cho một người vay sẽ có thêm nhiều người khác đến hỏi vay
 
-Xem thêm:: [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
-[[Làm sao cho vay mà không bị xù]], [[Xử lý người xù nợ]]
+## Xem thêm
+- [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
+- [[Làm sao cho vay mà không bị xù]], [[Xử lý người xù nợ]]
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

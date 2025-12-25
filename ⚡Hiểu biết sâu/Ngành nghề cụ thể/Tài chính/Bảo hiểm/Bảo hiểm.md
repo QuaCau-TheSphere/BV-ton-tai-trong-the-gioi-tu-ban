@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T15:04
-updated: 2025-09-26T15:40
+updated: 2025-12-19T11:32
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Causal_Loop_Diagram_of_a_Model.png)
 [System dynamics - Wikipedia](https://en.wikipedia.org/wiki/System_dynamics)

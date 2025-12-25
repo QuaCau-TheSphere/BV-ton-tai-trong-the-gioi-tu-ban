@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-09-16T10:04
+updated: 2025-12-19T10:36
 ---
 # Có thể làm eKYC ảo được không?
 eKYC phát hiện bằng việc phát hiện được các chuyển động nhỏ của cơ mặt hoặc quét chuyển động của mắt, nên nếu là quét người chết nó cũng phát hiện ra được. Nếu app đòi hỏi phải có quay mặt thì phải khớp chính xác với yêu cầu của app, nếu chỉ là video có sẵn thì không biết được. Giờ AI deepfake cũng nhiều, không chắc có thể bị nhờ AI tạo ra cái video như vậy không. Như Google Veo giới hạn có 7s mỗi video, và không chắc nó làm được vụ này không. Dù không đòi hỏi quay mặt nhưng chỉ chụp mỗi khuôn mặt thì cũng không chắc. Nếu app chỉ cần chụp ảnh giấy tờ thì đơn giản hơn. Ví dụ như để GitHub for Student Pack vì nó chỉ cần giơ thẻ sv trước camera là được nên có thể làm giả.
@@ -14,4 +14,4 @@ Thường các ngân hàng ép người dùng xài app để làm eKYC vì nó b
 
 [Vcam pro crack full](https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam "https://github.com/lequocthangg/Vcam-Pro-Crack-Full/releases/tag/vcam")
 
-[[Chỉ cần ảnh mặt trước cccd và sđt của một người là có thể truy cập được vào tài khoản ngân hàng của họ]]
+[[Chỉ cần ảnh mặt trước CCCD và SĐT của một người là có thể truy cập được vào tài khoản ngân hàng của họ]]

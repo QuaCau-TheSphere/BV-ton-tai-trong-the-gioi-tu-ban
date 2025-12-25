@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-10T17:17
-updated: 2025-09-22T22:00
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [[NS, SE, SA chỉ là đại lý, nhưng TUM là trở thành nhân viên]]

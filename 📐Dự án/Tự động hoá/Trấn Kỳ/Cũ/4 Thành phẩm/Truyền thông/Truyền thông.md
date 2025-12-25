@@ -6,7 +6,7 @@ aliases:
   - Các bài viết truyền thông về Trấn Kỳ
   - Seeding
 created: 2023-10-31T16:59
-updated: 2025-08-16T22:05
+updated: 2025-12-19T11:32
 ---
 
 [[SME, startup, khởi nghiệp]]
@@ -17,8 +17,8 @@ updated: 2025-08-16T22:05
 
 | Thành quả mong muốn                                    | Giả thiết                                         | Công việc                               |
 | ------------------------------------------------------ | ------------------------------------------------- | --------------------------------------- |
-| [[Mỗi tuần có 300 người vào trang giới thiệu Trấn Kỳ]] | [[Cứ 13 reach thì có 1 link click]]               | [[Truyền thông\|Đăng bài truyền thông]] |
-| [[Mỗi tuần tiếp cận được 4000 người]]                  | Cứ 1 người chia sẻ TK thì tiếp cận được 100 người | [[Truyền thông\|Đăng bài truyền thông]] |
+| [[Mỗi tuần có 300 người vào trang giới thiệu Trấn Kỳ]] | [[Cứ 13 reach thì có 1 link click]]               | [[📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Truyền thông/Truyền thông\|Đăng bài truyền thông]] |
+| [[Mỗi tuần tiếp cận được 4000 người]]                  | Cứ 1 người chia sẻ TK thì tiếp cận được 100 người | [[📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Truyền thông/Truyền thông\|Đăng bài truyền thông]] |
 
 
 Đối tượng: người cần tự do dữ liệu

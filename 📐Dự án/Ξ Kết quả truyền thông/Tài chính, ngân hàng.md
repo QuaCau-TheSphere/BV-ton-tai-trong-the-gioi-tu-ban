@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-27T20:51
+updated: 2025-12-19T11:32
 ---
-## [[Quỹ giúp nhau giữ tài sản thế chấp]]
+## [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]
 ### [r/TroChuyenLinhTinh](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
 [[16-08-2025]] 18:53 [Title Unavailable \| Site Unreachable](https://www.reddit.com/r/TroChuyenLinhTinh/comments/1mrt2jw/comment/n8zxkxd/)
 ### Góc nhìn ngân hàng

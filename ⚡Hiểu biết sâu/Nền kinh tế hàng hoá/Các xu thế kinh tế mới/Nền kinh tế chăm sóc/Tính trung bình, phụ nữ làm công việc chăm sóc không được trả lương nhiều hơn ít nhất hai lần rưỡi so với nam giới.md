@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-07-09T17:32
+updated: 2025-12-19T11:32
 ---
+Khái niệm:: [[Phụ nữ]]
 **Phụ nữ làm 75% khối lượng công việc** chăm sóc không lương trên toàn thế giới, ước tính khoảng **13% GDP toàn cầu**  
 (Nguồn: Viện Nghiên cứu Phát triển: Phân phối lại công việc chăm sóc không lương – Vì sao thuế lại có ý nghĩa đối với quyền của phụ nữ, Số 109 tháng 1/2016)  
 

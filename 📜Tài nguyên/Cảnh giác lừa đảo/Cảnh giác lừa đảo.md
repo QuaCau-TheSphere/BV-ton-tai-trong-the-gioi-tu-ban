@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-25T10:56
-updated: 2025-11-01T10:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Lừa đảo]], [[Khai thác điểm yếu con người]]
 ![Tất cả các kiểu lừa đảo trong 13 phút - YouTube](https://youtu.be/wGxW6CosPW4?si=lyUI07bQjWc3WOXp)
@@ -17,6 +17,7 @@ https://www.dauhieuluadao.com/
 [[Tội phạm mạng chỉ cần một phần nhỏ các cuộc tấn công thành công (ví dụ, dưới 1%) để có lợi nhuận]]
 ![[Chiêu thức giả danh công an.png]]
 ![[Các thủ đoạn lừa đảo.jpg]]
+[[Làm sao cho vay mà không bị xù]]
 
 If you take one lesson from the Consumer Reports study, it’s this: everyone is a target, and most of the defenses you’ve been told to deploy won’t help. Scams have become a machine-learning problem, not an awareness or hygiene issue.
 

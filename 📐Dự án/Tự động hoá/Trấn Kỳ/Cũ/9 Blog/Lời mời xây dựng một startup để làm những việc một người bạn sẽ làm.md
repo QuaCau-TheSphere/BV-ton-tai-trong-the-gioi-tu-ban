@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-16T22:05
+updated: 2025-12-19T11:32
 aliases:
   - Một startup làm những việc một người bạn sẽ làm
 ---
@@ -15,7 +15,7 @@ Trong thời gian qua bọn mình đã viết [Trấn Kỳ](https://lậptrình.
 Đây là các công việc luôn cần người tham gia:
 
 - [[📐 Dự án/Trấn Kỳ/4 Thành phẩm/Chiến lược/Kế hoạch phát triển Trấn Kỳ|Lên kế hoạch phát triển]]{ .md-button .md-button--primary }
-- [[Truyền thông]]{ .md-button .md-button--primary }
+- [[📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Truyền thông/Truyền thông]]{ .md-button .md-button--primary }
 - [[Tổ chức nhỏ hoặc người cần kỷ luật tài chính]]{ .md-button .md-button--primary }
 - [[Kế hoạch xây dựng cộng đồng phát triển Trấn Kỳ|Xây dựng cộng đồng phát triển Trấn Kỳ]]{ .md-button .md-button--primary }
 - [[Kế hoạch tổ chức các buổi hướng dẫn sử dụng Trấn Kỳ|Tổ chức các buổi hướng dẫn người dùng sử dụng Trấn Kỳ]]{ .md-button .md-button--primary }

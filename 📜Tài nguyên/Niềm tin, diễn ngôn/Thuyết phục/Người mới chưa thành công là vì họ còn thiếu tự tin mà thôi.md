@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-02-05T10:15
-updated: 2025-07-09T17:32
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 ![[Đặc điểm của TVV mới.png]]

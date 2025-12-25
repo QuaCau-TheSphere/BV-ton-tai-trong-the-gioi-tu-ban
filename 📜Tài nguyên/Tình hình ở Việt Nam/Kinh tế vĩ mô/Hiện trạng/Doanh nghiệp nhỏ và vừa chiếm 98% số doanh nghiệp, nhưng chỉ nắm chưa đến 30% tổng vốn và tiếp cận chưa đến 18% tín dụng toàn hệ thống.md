@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-06T09:36
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 DNNVV chiếm 98% số doanh nghiệp, nhưng chỉ nắm chưa đến 30% tổng vốn và tiếp cận chưa đến 18% tín dụng toàn hệ thống (Asian Development Bank, 2021). Ngược lại, 2% doanh nghiệp (chủ yếu là doanh nghiệp lớn) lại nắm khoảng 70% nguồn vốn kinh doanh.

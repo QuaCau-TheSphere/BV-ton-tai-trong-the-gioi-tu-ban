@@ -1,0 +1,12 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2025-12-19T11:32
+---
+Khái niệm:: [[Kế toán]]
+[Eco accounting - plaintextaccounting.org](https://plaintextaccounting.org/Eco-accounting#estimate-total-carbon-footprint)
+[[Công thức kế toán phải thay đổi]]
+[[❓Nguyên tắc về định giá tài sản vô hình cũng giống như định giá công sức lao động]]
+[[Công thức kế toán cho sở hữu tư không phù hợp với hệ thống chung]]
+
+Nguồn:: 

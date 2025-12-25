@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-11T17:55
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Đô la]]
 Bởi vì [[FED tăng lãi suất làm đô la tăng giá]], nên khi FED tăng lãi suất ngân hàng trung ương các nước khác cũng phải tăng lãi suất theo

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T20:57
-updated: 2025-08-16T22:04
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 Một người tuyển mình vào làm quản lý ảo là để họ có đạt được chỉ tiêu tuyển dụng, từ đó giữ được vị trí quản lý cấp cao của mình. Tuy nhiên, họ cũng có chỉ tiêu bán hàng, và họ không thể đẩy cho mình khi họ cũng chưa làm cho mình xong.

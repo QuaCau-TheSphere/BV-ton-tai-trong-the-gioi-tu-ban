@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-30T16:53
+updated: 2025-12-19T11:32
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
 ---
-Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [[Ngân hàng mini và mạng lưới cho vay ngang hàng]]. Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
+Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [[Quỹ tín dụng vi mô Quả Cầu]]. Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
 đứng tên sổ tiết kiệm dùm, đi đáo dùm
 
 Nên hệ thống cần phù hợp cho hệ thống có sự chuyển đổi qua nhiều giai đoạn. PTA. Khi tra bên này bên kia thì cần plaintext
@@ -46,7 +46,8 @@ Danh mục các khoản tiền liên quan tới thẻ:
 | Tiền ăn uống, cà phê, đi lại | Nơi lưu tiền của người giúp | Dịch vụ   | Không định kỳ |
 | Phí thường niên              | Thẻ                         | Ngân hàng | Hàng năm      |
 | Lãi                          | Thẻ                         | Ngân hàng | Không định kỳ |
-| Thanh toán tối thiểu         | Nơi lưu tiền của người giúp | Ngân hàng | Hàng tháng    |
+| Thanh toán                   | Nơi lưu tiền của người giúp | Ngân hàng | Hàng tháng    |
+| Trích nợ tự động             | Nơi lưu tiền của người giúp | Ngân hàng | Hàng tháng    |
 | Phí đóng thẻ                 | Nơi lưu tiền của người giúp | Ngân hàng | Một lần       |
 
 |                  | Nơi nhận                    | Bên chi   | Chu kỳ nhận   |
@@ -60,14 +61,24 @@ Những cái ở trên thì người vay phải tự bỏ, nên không khác gì
 
 Thẻ là tài sản của quỹ cho cá nhân mượn dùng. Thế nên các loại chi phí nên do người mượn trả, tuy nhiên khi lập danh mục thì nên nằm trong quỹ, không phải của người vay. (Nếu người vay phải bỏ ra phí mở thẻ, thì quỹ chỉ được thu hồi khi trả lại phí này). Phí mở thẻ, phí đáo rút không phải là phí chính thức của ngân hàng, còn phí thường niên, lãi là phí chính thức và bị trừ thẳng, nên không nên để các phí này là tài khoản con của tài khoản thẻ. Nó lại được trả bởi người vay, nên để là một phần của người vay thì cũng tiện.
 
+`Thanh toán tối thiểu` để trong nơi lưu tiền chứ không phải là chi phí
+
 ### Tài khoản giúp người vay
 ```
+2025-08-12 Biết | Đáo SeABank Nhật
+    Nơi lưu tiền:Thẻ:SeABank Nhật                  29810 kđ
+    Nơi lưu tiền:Thẻ:SeABank Nhật                 -29809 kđ
+    Thu nhập:Tài chính:Chênh lệch khi đáo             -1 kđ
+    Chi tiêu:Tài chính:Thẻ:Phí đáo:SeABank Nhật      596 kđ
+    Nơi lưu tiền                                    -596 kđ
+    (Giúp:Thịnh)                                    -595 kđ
+
 2025-08-29 | Rút tiền mẹ lần 2
-    Cá nhân:Mẹ:Thẻ:HSBC           -22134
-    Chi tiêu:Tài chính:Thẻ:Phí rút:HSBC mẹ  332
-    Nơi lưu tiền:TKTT:TPBank              21140
-    (Giúp:Lộc)                   -30001
-    Chi tiêu:Không rõ nguồn gốc   338
+    Cá nhân:Mẹ:Thẻ:HSBC                           -22134 kđ
+    Chi tiêu:Tài chính:Thẻ:Phí rút:HSBC mẹ           332 kđ
+    Nơi lưu tiền:TKTT:TPBank                       21140 kđ
+    (Giúp:Lộc)                                    -30001 kđ
+    Chi tiêu:Không rõ nguồn gốc                      338 kđ
 ```
 Dấu của giao dịch:
 - Âm:
@@ -77,13 +88,16 @@ Dấu của giao dịch:
 - 0:
 	- Mình trả nợ giùm (nợ của họ với người khác thành nợ của họ với mình)
 	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [[Giữ tiền hộ|Nhận tiền hộ]]
-	- Chi phí cho việc giúp và họ trả tại chỗ
+	- Chi phí cho việc giúp (VD: cà phê, đáo) và họ trả tại chỗ 
 - Dương:
 	- Tiền ủng hộ của mọi người
 	- Lãi sổ tiết kiệm
 	- Tiền họ đóng vào để đắp chi phí
 	- Chi phí cho việc giúp khi họ trả
 	- Tiền trả nợ của họ
+
+Cơ bản là đồng nhất với dấu giao dịch của thẻ cho họ mượn.
+
 
 [[Âm hay dương trong giao dịch là tiền ra hay tiền vào. Âm dương trong cân đối là tiền nợ hay tiền có]]. [[Số âm hay dương có ý nghĩa khác nhau tuỳ vào góc nhìn chuyển tiền hay người thực hiện giao dịch]]
 

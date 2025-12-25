@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-17T16:41
+updated: 2025-12-19T11:32
 ---
 Lý do:: [[KPI của ASM là trung bình cộng KPI của nhóm]] 
 Lý do:: [[RSM chỉ gây áp lực mồm cho ASM về việc ngăn nhân viên chạy ảo, chứ không gây áp lực qua KPI]]

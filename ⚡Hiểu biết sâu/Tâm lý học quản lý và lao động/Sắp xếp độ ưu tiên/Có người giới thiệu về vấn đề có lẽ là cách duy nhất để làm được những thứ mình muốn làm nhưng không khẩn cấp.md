@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-20T14:35
-updated: 2025-07-09T17:17
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Ưu tiên]], [[Hỗ trợ]]
 [[Vấn đề ngắn hạn hay dài hạn không quan trọng, quan trọng là làm cái này mà phải nghĩ về cái khác thì sẽ nhức đầu]]

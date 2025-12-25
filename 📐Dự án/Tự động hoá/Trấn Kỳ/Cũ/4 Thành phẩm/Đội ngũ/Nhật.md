@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-07-09T17:32
+updated: 2025-12-19T11:32
 ---
 [[Điều nhà đầu tư quan tâm và điều muốn nhà đầu tư quan tâm]]
 
@@ -12,4 +12,4 @@ updated: 2025-07-09T17:32
 | Thấy công việc giúp mở rộng thêm nhiều cơ hội | 15%      |
 
 [[Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ]] 
-[[Thịnh]]
+[[📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Đội ngũ/Thịnh]]

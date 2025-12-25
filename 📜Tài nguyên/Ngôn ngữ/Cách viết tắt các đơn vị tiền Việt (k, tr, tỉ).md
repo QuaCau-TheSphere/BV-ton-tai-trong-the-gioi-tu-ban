@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-21T22:15
-updated: 2025-08-16T22:05
+updated: 2025-12-19T11:32
 aliases:
   - 5tr hay 5 tr? Viết dính hay viết rời?
 description: 5tr hay 5 tr? Viết dính hay viết rời?
@@ -21,7 +21,7 @@ Viết sao cho dễ đọc, nhìn thấy cân xứng là được:
 | tỷ      | 5 tỷ               | 5tỷ3              | 2 - 3 tỷ    | 5 tỷ/ngày   |
 
 ## Xem `k`, `tr`, `tỉ` như là các đơn vị
-Nếu xem là đơn vị thì phải viết tách ra.
+Nếu xem là đơn vị thì phải viết tách ra:
 
 | Ký hiệu | Chỉ có phần nguyên | Có phần thập phân | Theo khoảng | Theo tốc độ |
 | ------- | ------------------ | ----------------- | ----------- | ----------- |
@@ -32,7 +32,7 @@ Nếu xem là đơn vị thì phải viết tách ra.
 Để cho chặt chẽ thì tốt nhất là phải ghi cả đơn vị vào: `kđ`, `Mđ`, `Gđ` (kilođồng, megađồng, gigađồng).
 
 ## Xem `k`, `tr`, `tỉ` như là các số đếm
-Nếu xem là số đếm thì phải viết liền 
+Nếu xem là số đếm thì phải viết liền (tương tự như `%`):
 
 | Ký hiệu | Chỉ có phần nguyên | Có phần thập phân | Theo khoảng | Theo tốc độ |
 | ------- | ------------------ | ----------------- | ----------- | ----------- |

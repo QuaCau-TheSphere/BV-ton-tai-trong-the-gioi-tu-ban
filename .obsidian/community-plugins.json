@@ -36,5 +36,6 @@
   "folder-notes",
   "image-to-text-ocr",
   "dataview-autocompletion",
-  "hledger-notes"
+  "hledger-notes",
+  "simple-columns"
 ]

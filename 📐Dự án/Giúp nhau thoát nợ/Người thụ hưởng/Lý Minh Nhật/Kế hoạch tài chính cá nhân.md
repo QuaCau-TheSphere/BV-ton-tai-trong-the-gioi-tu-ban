@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-12T17:03
+updated: 2025-12-19T11:32
 title: Kế hoạch tài chính cá nhân của Lý Minh Nhật
 ---
 [[Danh mục tài khoản của Nhật]]
+
 | Chỉ số tài chính                                 | Ý nghĩa                                                                 | Cách tính                                                                           | Kết quả |
 | ------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------- |
 | Hệ số thanh khoản (Liquidity ratio)              | Khả năng chi trả cho mức sống tiêu chuẩn trong trường hợp rủi ro xảy ra | Tiền mặt (hoặc tổng các khoản tương đương tiền mặt) / Chi phí tiêu chuẩn hằng tháng | 0       |
@@ -41,55 +42,3 @@ Quỹ đầu tư (Investment Fund)
   
 
 Mục tiêu tài chính dài hạn
-
-  
-
-Cổ phiếu
-
-  
-
-Trái phiếu
-
-  
-
-Rủi ro cao  - Lợi nhuận cao – thanh khoản rất cao
-
-  
-
-An toàn – lợi nhuận trung bình – thanh khoản thấp
-
-  
-
-Kim loại quý
-
-  
-
-Chứng chỉ quỹ
-
-  
-
-Rủi ro trung bình – Lợi nhuận trung bình -   
-
-thanh khoản cao
-
-  
-
-An toàn – lợi nhuận trung bình – thanh khoản cao
-
-  
-
-Bất động sản
-
-  
-
-Tiền mã hóa
-
-  
-
-Rủi ro trung bình  - Lợi nhuận cao 
-
-thanh khoản thấp
-
-  
-
-Rủi ro rất cao  - Lợi nhuận rất cao – thanh khoản cao

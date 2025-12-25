@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T17:29
-updated: 2025-09-22T15:17
+updated: 2025-12-19T11:32
 ---
 Đầu năm 2024 có một con bot Telegram [App](https://voz.vn/t/gia-cong-an-phuong-goi-lua-cap-nhat-can-cuoc-cong-dan.910543/). Nó cho ra toàn bộ thông tin của bạn từ CMND đến CCCD đã cập nhật. Facebook, email trả ra luôn. Không chỉ là số của một nhà mạng mà nhiều nhà mạng luôn.
 ![[1705770374571.png]]![[1705770381055.png]]

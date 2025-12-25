@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-31T17:05
+updated: 2025-12-19T11:32
 ---
 [Quỹ Khởi Sự Từ Tâm - Phi lợi nhuận](https://khoisututam.vn/)
 ![GIỚI THIỆU QUỸ KHỞI SỰ TỪ TÂM - YouTube](https://youtu.be/ZI2rTUXbuaI?si=S0BoI3omtKbRCuJ3)

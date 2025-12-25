@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9884be298121a37f",
+            "id": "be25d9a386de0058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Hình thức kiếm tiền/Chỉ 25% doanh nghiệp sống đến 15 năm.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Quỹ/Truyền thông.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chỉ 25% doanh nghiệp sống đến 15 năm"
+              "title": "Truyền thông"
+            }
+          },
+          {
+            "id": "d971c36e4538a83a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Vay nợ/Tín chấp/Không dựa trên điểm tín dụng/Vay nóng/Lãi cắt cổ ngoài việc bù đắp rủi ro còn là để thuê đòi nợ.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lãi cắt cổ ngoài việc bù đắp rủi ro còn là để thuê đòi nợ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"table số-tiền-kiếm-được as \\\"Số tiền kiếm được\", mô-tả-công-việc as \"Mô tả công việc\"\"",
+                "query": "4, 5, 10",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,17 +175,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Quỹ/Quỹ giúp nhau giữ tài sản thế chấp.md",
+                "file": "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Cộng đồng có chủ đích/Cộng đồng có chủ đích.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quỹ giúp nhau giữ tài sản thế chấp"
+              "title": "Outline of Cộng đồng có chủ đích"
+            }
+          },
+          {
+            "id": "b15b822df19f8af0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,54 +222,54 @@
       "hledger-notes:Add hledger entry": false
     }
   },
-  "active": "9884be298121a37f",
+  "active": "d971c36e4538a83a",
   "lastOpenFiles": [
+    "📐Dự án/Giúp nhau thoát nợ/Quỹ/Truyền thông.md",
+    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Vay nợ/Tín chấp/Không dựa trên điểm tín dụng/Vay nóng/Lãi cắt cổ ngoài việc bù đắp rủi ro còn là để thuê đòi nợ.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Phỏng vấn/Untitled.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xử lý người xù nợ.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Nam nguyễn.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Chính sách hoa hồng.md",
     "📐Dự án/Giúp nhau kiếm tiền/Ý tưởng kiếm tiền từ Nhật.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Mua bán thông tin cá nhân/Các VPN bỏ tiền ra quảng cáo cho dịch vụ của mình sẽ cần thu thập dữ liệu khách hàng.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Mua bán thông tin cá nhân/Công ty VPN khó quảng cáo lý do hợp lý nhất để một người dùng VPN, vì lý do đó là thứ chính quyền không muốn.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Mua bán thông tin cá nhân/Nếu bạn rất muốn có thông tin của những người rất muốn che dấu thông tin cá nhân, hãy lập công ty VPN.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Kinh tế vĩ mô/Kinh tế vỉa hè đóng góp hơn 30% lực lượng lao động.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kế toán/Hoá đơn chỉ có một bản gốc.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Một số trường đại học ép nghiên cứu sinh công bố quốc tế trên các tạp chí xếp hạng để lấy xếp hạng cho trường mà hỗ trợ gần như mù mờ và bằng con số không.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Đơn vị sở hữu bản quyền có quyền thay đổi nội dung mà không thông báo tác giả. Nhưng độc giả không biết điều đó.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Người chấp nhận rủi ro sẽ có cổ phần. Người không chấp nhận rủi ro sẽ bị bóc lột.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Công việc nào ít rủi ro hoặc rủi ro nhiều nhưng việc bỏ trốn hoặc phản kháng khó tránh khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/An toàn, rủi ro/Chờ cho người khác chạy số cho mình sẽ bấp bênh vì họ phải chạy cho bản thân trước.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Tác giả và phản biện không được trả công, dù điều đó là thứ khiến bài báo có giá.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Sách lậu sẽ dần dần hết thời, vì chính nhà xuất bản và nhà sách sẽ tự in lậu. Họ nộp lưu chiểu một con số nhưng bán ra thị trường lại với một con số khác.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Điều cần làm để nâng cao văn hóa đọc không hữu ích lắm cho việc kích thích tiêu dùng trong thị trường sách.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Mức giá đắt rẻ mà đa số người đọc đánh giá chủ yếu dựa trên ký ức về những cuốn sách cách đây hơn 10 năm, khi giá cả chưa leo thang và đa phần các sách đều được trợ giá từ cơ chế bao cấp.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Trại nội dung dùng để tăng SEO.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Quảng cáo/Nhiều bài lên đầu Google không có nhiều nội dung mà chỉ chứa từ khóa để làm tăng thứ hạng.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Kiếm tiền trực tuyến (MMO)/Trại điện thoại dùng để tăng tương tác.md",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/SEO.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Lao động sáng tạo và tri thức/Thay vì tài trợ tiền để xuất bản, hãy tài trợ tiền để đơn vị xuất bản ấy thực hiện nghĩa vụ với cộng đồng.md",
-    "📐Dự án/Mạng kết nối nhu cầu/Tìm người ở ghép ở TP.HCM.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/Vận hành một gia đình không dễ. Ở chung đã khó còn phải ăn uống.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Ngân hàng/Danh sách ngân hàng/Thứ mình nợ không chỉ là nợ, mà còn là một lần giúp.md",
-    "📐Dự án/Giúp nhau thoát nợ/Quỹ/Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Qua mạng",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Công ty",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Công an, toà án",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo/Bán hàng",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Lừa đảo, phạm tội, tham nhũng/Giả mạo, lừa đảo",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/~syncthing~Dòng tiền.md.tmp",
-    "Ξ Thiết lập/Ảnh/Pasted image 20251025215632.png",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Nền kinh tế xanh/Tăng trưởng xanh",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Nền kinh tế xanh/New folder",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Cộng đồng có chủ đích/Nông thôn/Làng sinh thái",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Cộng đồng có chủ đích/Nông thôn",
-    "Ξ Thiết lập/Ảnh/xd3jxTnS.jpeg",
-    "Ξ Thiết lập/Ảnh/3VXUxVnA.jpeg",
-    "Ξ Thiết lập/Ảnh/IMpEa3rR.jpeg",
-    "Ξ Thiết lập/Ảnh/dj-bI6Lr.jpeg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250524162159.png",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Mô tả công việc khai thác CC.png",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Pasted image 20250531132835.png",
-    "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Pasted image 20250623195330.png",
-    "Ξ Thiết lập/Ảnh/Công ty/GM Mall/Pasted image 20250623195318.png",
+    "📐Dự án/Giúp nhau kiếm tiền/Việc chống biến đổi khí hậu đang bị định hướng vào việc phụ thuộc vào những thứ đem lại lợi ích cho tư bản như vệ tinh, AI.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Giúp đỡ/Người vững vàng là người không phụ thuộc vào người khác.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ vay nóng.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính/Tài chính vi mô/Huyện cho vay tối đa 50tr, nhưng chỉ giải ngân theo gói tập thể tối thiểu 500tr.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Fiverr thiên về dự án ngắn hạn, chỉ có trả theo kết quả. Upwork có cả dự án dài hạn, có trả theo giờ.md",
+    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Người nghèo và người trung lưu có rất nhiều tiêu sản. Người giàu có tăng sản.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Khai thác điểm yếu con người.md",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Thách thức, đam mê, phát triển bản thân/Áp lực tạo kim cương.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Thách thức, đam mê, phát triển bản thân/Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên.md",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Áp lực giết chết sự sáng tạo.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Áp lực.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Luật pháp/Nếu khách hàng không rõ ngay từ đầu thì sao còn ký. Nếu đã ký thì là biết rõ rồi.md",
+    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
+    "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác, chống thiết kế trục lợi/Hệ điều hành/Chặn quảng cáo trong app Android.md",
+    "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác, chống thiết kế trục lợi/Chặn rác, chống thiết kế trục lợi.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Dịch vụ đáo rút.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Untitled.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Không dựa trên điểm tín dụng",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dựa trên điểm tín dụng",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Không dựa trên điểm tín dụng",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng",
+    "📜Tài nguyên/Cảnh giác lừa đảo/Đánh vào sự quá tải nhận thức",
+    "Ξ Thiết lập/Ảnh/Công việc/Trang 4.jpg",
+    "Ξ Thiết lập/Ảnh/Công việc/Trang 3.jpg",
+    "Ξ Thiết lập/Ảnh/Công việc/Trang 2.jpg",
+    "Ξ Thiết lập/Ảnh/Công việc/Trang 1.jpg",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Pasted image 20251210091934.png",
+    "Ξ Thiết lập/Ảnh/Công việc/Pasted image 20250707205013.png",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/1705770374571.png",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/1705770381055.png",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Pasted image 20240620101103.png",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Pasted image 20240619191052.png",
+    "Ξ Thiết lập/PDF/Ngo doc tre em.pdf",
+    "Ξ Thiết lập/PDF/[Public] Cẩm nang Hội viên Vcil 1.0.pdf",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tâm lý",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/New folder",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Kinh tế học",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

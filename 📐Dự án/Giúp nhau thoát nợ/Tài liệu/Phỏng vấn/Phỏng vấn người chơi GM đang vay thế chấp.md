@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-14T20:53
+updated: 2025-12-19T11:32
 ---
-
 ## Giả định 
 - Thấy hệ thống ngân hàng không phục vụ mình tốt hơn
 - Mong muốn có tổ chức vi mô 

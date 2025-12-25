@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-12T13:48
+updated: 2025-12-19T11:32
 ---
 Loại chương trình:: [[Template thu chi trên Excel]]
 Loại chương trình:: [[Chương trình kế toán]]

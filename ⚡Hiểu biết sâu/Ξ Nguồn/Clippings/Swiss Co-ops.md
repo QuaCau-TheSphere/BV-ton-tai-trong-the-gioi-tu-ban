@@ -3,7 +3,7 @@ title: A ‘Third Way’ Between Buying or Renting? Swiss Co-ops Say They’ve F
 source: https://www.nytimes.com/2025/08/26/realestate/switzerland-rental-coops-nonprofit-lausanne.html
 description: Nonprofits are offering cut-price apartments as a way of combating the housing affordability crisis.
 created: 2025-08-29T10:43
-updated: 2025-08-29T10:47
+updated: 2025-12-19T11:32
 ---
 A few blocks from the shores of Lake Geneva, Claude Waelti shows a visitor his apartment in one of the most desirable neighborhoods of Lausanne, the Swiss city with sweeping views of the French Alps across the lake. It has two bedrooms, a small office, a south-facing balcony — and it costs 1,760 francs (about $2,200) a month, around half the typical rents in the area.
 

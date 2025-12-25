@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-24T17:37
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
-[[TPBank cấp tiền cho ví trả sau Momo]]
+[[Dùng Momo Ví trả sau thực chất là vay của TPBank]]
 Nguồn:: 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T16:22
-updated: 2025-08-14T09:46
+updated: 2025-12-19T11:32
 ---
 ## Inclusive 
 Bao trùm, toàn diện

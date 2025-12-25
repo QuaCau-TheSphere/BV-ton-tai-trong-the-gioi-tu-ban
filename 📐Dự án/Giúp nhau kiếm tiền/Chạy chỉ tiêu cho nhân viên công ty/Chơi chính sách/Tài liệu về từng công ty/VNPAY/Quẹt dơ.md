@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2025-08-31T11:34
+updated: 2025-12-19T11:32
 ---
 Một hình thức ít rủi ro hơn là đi [[Đổi tiền, chụp hình biển hiệu, dán mã QR#Đổi tiền|đổi tiền]].
 ## Yêu cầu

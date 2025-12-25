@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-12T13:45
+updated: 2025-12-19T11:32
 ---
+Sự tin tưởng vào con người trong đô thị Việt Nam đang ở mức thấp, vì không ai kiểm soát được 
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:
 - Làm sao để người vay không có động lực xù?
 - Trong trường hợp họ vẫn xù thì làm sao để hạn chế ảnh hưởng?
@@ -12,17 +13,19 @@ Bất cứ ai có ý định xù luôn phải cân nhắc xem lần gặp khó k
 
 Việc người vay và những người cho vay có mối quan hệ trước với nhau sẽ làm giảm rủi ro xù hơn. Nếu có thêm mối quan hệ với bạn bè, người thân của họ thì càng tốt. Tức là phải có ít nhất một buổi nói chuyện với người vay và một người bạn của họ. Nếu có thể đến nhà nói chuyện với người nhà thì càng tốt. Trong buổi đó nói về lý do bị nợ và ngày phải trả, cũng như các khó khăn khác trong cuộc sống. Và khi ký giấy vay nợ thì việc họ đồng ý việc bị công khai thông tin nếu không trả nợ cũng là một lợi thế. Đây là những điều mà các ngân hàng hoặc các hội chơi hụi không có được.
 
-Những ai muốn thoát nghèo đều biết [[Cái cần không phải là có tiền, mà là có dòng tiền|thứ quan trọng không phải là tiền, mà là dòng tiền]]. Mà việc xây dựng dòng tiền, đặc biệt là với người nghèo, là không hề đơn giản. Nếu người cho vay có đang tham gia vào việc xây dựng dòng tiền mà người vay đang làm, thì họ sẽ không thể bỏ được. [[Muốn thoát nghèo cần dòng tiền|Chính động lực muốn thoát nghèo sẽ khiến họ không muốn mất đi dòng tiền này]], từ đó không muốn xù nợ.
+Những ai muốn thoát nghèo đều biết [[Cái cần không phải là có tiền, mà là có dòng tiền|thứ quan trọng không phải là tiền, mà là dòng tiền]]. Mà việc xây dựng dòng tiền, đặc biệt là với người nghèo, là không hề đơn giản. Nếu người cho vay có đang tham gia vào việc xây dựng dòng tiền mà người vay đang làm, thì họ sẽ không thể bỏ được. [[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương|Chính động lực muốn thoát nghèo sẽ khiến họ không muốn mất đi dòng tiền này]], từ đó không muốn xù nợ.
 
 Số tiền trong quỹ này sẽ được luân phiên giúp trả nợ cho nhau. Nghĩa là vai trò người vay và người cho vay sẽ luân phiên thay đổi. Họ sẽ thường xuyên tương tác với nhau để tạo thành một nhóm. Một nhóm như vậy cũng sẽ giúp cập nhật thông tin, kiến thức mới hoặc chỉ người trong ngành mới biết, từ đó giúp họ [[Mở rộng mối quan hệ|mở rộng mối quan hệ]] và có thêm [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|ý tưởng kiếm tiền]], khách hàng và nhân viên tiềm năng. Họ sẽ không muốn làm nhóm này tẩy chay mình. Báo cáo của *Nhóm Công tác Tài chính vi mô Việt Nam* cũng nhận định rằng [[Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn|cho vay theo nhóm bền vững hơn, ít bị xù hơn]]. 
 
 Phép vua thua lệ làng. Khi mà một cộng đồng như vậy được xuất hiện,  thì họ sẽ còn an tâm cho vay hơn là bắt người vay ghi giấy nợ, vì họ có sự tin tưởng lớn là người vay sẽ gạt phăng cái suy nghĩ xù nợ ngay khi nó vừa mới hiện ra. Việc xây dựng một cộng đồng như vậy có thể bắt đầu từ những buổi gặp mặt, ăn uống chung. Lâu dài hơn là xây dựng các mạng lưới kết nối nhu cầu, các hình thái kinh tế thay thế.
 
+Không dám xù cả làng
+
 Tóm lại, có những lý do sau để không xù:
 - Có ít nhất một buổi nói chuyện với người vay và một người bạn của họ. Nếu có thể đến nhà nói chuyện với người thân thì càng tốt
 - Có ký giấy vay nợ, trong đó đồng ý việc sẽ đưa thông tin lên mạng nếu không trả nợ
 - Thấy mình thực sự tử tế thì cũng sẽ tìm cách trả lại
-- Trước khi vay thì đã có tâm lý đằng nào cũng mất sổ rồi
+- Trước khi vay thì đã có tâm lý đằng nào cũng mất tài sản thế chấp rồi
 - Còn chỗ để được giúp đỡ vào lần sau
 - Cơ hội tìm kiếm dòng tiền
 - Ảnh hưởng tới người mình không thể cắt đứt mối quan hệ
@@ -34,6 +37,7 @@ Câu trả lời đơn giản là không cho vay lớn để giảm thiểu tác
 Điều này cũng giải quyết vấn đề chính quyền lo lắng về một hệ thống có dòng tiền lớn nằm ngoài tầm kiểm soát. Vì đơn giản là dòng tiền này không lớn.
 
 Xem thêm:: [[Xử lý người xù nợ]]
+Xem thêm:: [[Cảnh giác lừa đảo]]
 
 ---
 

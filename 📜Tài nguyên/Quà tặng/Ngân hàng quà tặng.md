@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2025-09-02T17:40
+updated: 2025-12-19T11:32
 description: Thử nghiệm trong việc tư duy lại hệ thống kinh tế và tiền tệ
 created: 2025-08-31T16:59
 aliases:
@@ -94,3 +94,7 @@ Hoặc quét mã sau
 Bất cứ khi nào anh/chị muốn rút tiền từ “ngân hàng" này vui lòng điền vào form đăng ký:
 
 *[https://forms.gle/75zj2sRCkTRPAbcX8](https://forms.gle/75zj2sRCkTRPAbcX8?fbclid=IwZXh0bgNhZW0CMTAAAR2xFkye6mYZwGKdav3kU69XqfbOUQfcxKiKE6gkl0NbYIotmTqe0YN5bTs_aem_JspY-gngi5A1YpK-x7eGHA)*
+
+[\[Vcil Comunity Membership - Gift bank\] Yêu cầu rút tiền](https://forms.gle/75zj2sRCkTRPAbcX8)
+
+[Free Money Day \| A more generous world is possible.](https://freemoneyday.org/)

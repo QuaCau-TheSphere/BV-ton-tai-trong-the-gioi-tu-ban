@@ -2,14 +2,13 @@
 share: true
 description: "Số tiền kiếm được: 20 k/liên hệ"
 created: 2025-04-04T22:12
-updated: 2025-10-07T15:44
+updated: 2025-12-19T11:32
 ---
 
-Mô tả công việc:: 
+Mô tả công việc:: Cung cấp họ tên và số điện thoại của người đồng ý gặp người bán hàng để nghe giới thiệu sản phẩm
 Số tiền kiếm được:: 20k/liên hệ
 
 ## Mô tả chi tiết
-Bạn chỉ cần cung cấp họ tên và số điện thoại của 
 
 ## Thông tin thêm
 Nếu bạn lo lắng rằng việc đưa thông tin sẽ làm phiền bạn mình, bạn có thể dùng [[Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình]]
@@ -21,9 +20,9 @@ Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [[Làm qua mạng]]
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận

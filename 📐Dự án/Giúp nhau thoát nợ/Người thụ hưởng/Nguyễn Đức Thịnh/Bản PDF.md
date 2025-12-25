@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2025-08-30T20:36
+updated: 2025-12-19T11:32
 ---
 # Đề xuất vay nợ của Nguyễn Đức Thịnh
 ## Đề xuất vay

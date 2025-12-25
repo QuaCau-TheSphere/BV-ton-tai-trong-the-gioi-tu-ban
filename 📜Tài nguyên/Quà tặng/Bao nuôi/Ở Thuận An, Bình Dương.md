@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-10-27T09:40
+updated: 2025-12-19T10:28
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 aliases:
   - Dịch vụ bao nuôi ở Thuận An

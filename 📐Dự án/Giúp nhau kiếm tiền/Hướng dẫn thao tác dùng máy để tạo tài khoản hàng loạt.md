@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-07-16T18:52
+updated: 2025-12-19T11:32
 ---
 Mô tả công việc:: [[Đăng ký tài khoản hàng loạt]]
 ![job reg acc cc - 300k/ngày nếu app còn hoạt động sau 1 tháng - YouTube](https://youtu.be/Nzs6cyP5rpE?si=hWqdKw5rXRy6R_0H)

@@ -1,7 +1,8 @@
 ---
 share: true
-created: 2025-04-21T12:57
-updated: 2025-07-09T17:32
+created: 2025-03-27T17:13
+updated: 2025-12-19T11:32
+description: "Số tiền kiếm được: "
 ---
 ## Gom nhóm
 ### B0. Vào app, đăng nhập

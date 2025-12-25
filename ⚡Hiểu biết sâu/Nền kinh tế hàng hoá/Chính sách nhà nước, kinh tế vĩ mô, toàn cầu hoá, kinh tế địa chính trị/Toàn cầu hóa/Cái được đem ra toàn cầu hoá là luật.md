@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-10-08T10:45
+updated: 2025-12-19T10:36
 ---
 [[Phi toàn cầu hoá là khi người ta không quan tâm đến luật nữa]] 
 

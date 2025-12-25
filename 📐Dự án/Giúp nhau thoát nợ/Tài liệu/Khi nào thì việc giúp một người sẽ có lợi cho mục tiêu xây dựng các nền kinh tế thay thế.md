@@ -2,9 +2,9 @@
 share: true
 created: 2025-03-27T17:13
 title: Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?
-updated: 2025-09-09T10:45
+updated: 2025-12-19T11:32
 ---
-Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [[Các nền kinh tế thay thế]]. Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
+Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [[Kinh tế thay thế]]. Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
 > Tại sao nên giúp người này? 
 
 Mà là:
@@ -14,6 +14,7 @@ Và:
 > Khi nào thì việc giúp một người là đáng để theo đuổi hơn việc xây dựng các nền kinh tế thay thế? 
 
 ### Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế? 
+[[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản]]
 - Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
 - Khi có thêm một chân rết trong thiết chế tư bản
 - Khi có thể được dùng để kiểm tra tính ưu việt của hệ thống
@@ -22,7 +23,6 @@ Và:
 Một ví dụ là việc xây dựng hệ thống kết nối nhu cầu. Nó cố gắng làm giảm chi phí nắm bắt thông tin và giao dịch xuống. Mà vì bất cứ hình thức kinh tế nào đều hướng tới việc tối ưu hoá nguồn lực, tài nguyên, nên bất cứ hoạt động nào liên quan tới việc này, dù mục tiêu là để phục vụ cho một hình thức kinh tế cụ thể nào đó, đều có lợi cho tất cả các hình thức kinh tế còn lại.
 
 Đó có thể là cơ hội việc làm cho nhiều người khác, các mối quan hệ và kiến thức trong ngành, v.v. Những thông tin này đều được văn bản hóa để tạo thành kho tri thức cộng đồng. 
-
 #### Khi có thêm một chân rết trong thiết chế tư bản
 Chừng nào chúng ta còn thừa nhận là chưa thể độc lập với thiết chế tư bản, chừng đó vẫn phải thừa nhận là có mối quan hệ với những người như vậy là cần thiết. 
 
@@ -68,7 +68,7 @@ Mỗi người có một trải nghiệm khác nhau, việc ép như vậy là s
 Cũng phải thừa nhận là hiện tại chỉ có những người may mắn mới đủ khả năng để tham gia vào các hình thức kinh tế thay thế đó
 
 Có thể là nghèo, nhưng vẫn may mắn ko phải chứng kiến tổn thương nhiều
-[[Muốn thoát nghèo cần dòng tiền]]
+[[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương]]
 Đôi mắt vừa đầy tình cảm mà cũng vừa lạnh. 
 Chịu đau khổ nhiều và luôn quay sang chỉ trích đặc quyền. Nhưng nó còn ko phải là Vấn đề tư duy người nghèo làm họ ko thoát đc
 Xem việc sống đơn giản, vừa đủ là nghèo khó

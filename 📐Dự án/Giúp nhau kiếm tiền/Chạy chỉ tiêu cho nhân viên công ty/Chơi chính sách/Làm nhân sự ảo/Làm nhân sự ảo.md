@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-27T09:40
+updated: 2025-12-19T11:32
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -42,7 +42,7 @@ Với Cueball:
 
 ## Một số công việc nhân sự ảo
 - Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo Việt|Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
-- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/VNPAY/Làm nhân viên ảo|VNPAY]]
+- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Ví điện tử/Làm nhân viên ảo|VNPAY]]
 - Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|FE Credit]]
 - Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Sàn thương mại điện tử/Làm nhân viên ảo|GM Mall]]
 
@@ -52,7 +52,7 @@ Với Cueball:
 - smartpay, đi theo data có sẵn, đến để hỏi những ng đã từng xài smartpay hỏi họ có muốn vay k, lên hồ sơ cho họ, lương cứng 12tr+2tr phụ cấp+hoa hồng doanh số lên hs, thử việc 2 tháng nhận đủ lương
 
 ## Xem thêm
-- [[Vấn đề đạo đức|Vấn đề đạo đức khi làm ảo]]
+- [[Vấn đề đạo đức trong việc lừa dối tư bản|Vấn đề đạo đức khi làm ảo]]
 - [[Bao nuôi]]
 - [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 

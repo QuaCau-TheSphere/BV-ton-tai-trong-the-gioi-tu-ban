@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T23:01
-updated: 2025-09-17T15:00
+updated: 2025-12-19T11:32
 ---
 ## Cách trả nợ
 Tại sao ko muốn có thêm nợ? Dù sao thì cũng ko có dòng tiền ngay mà chỉ có những hạn chót cần phải trả
@@ -33,7 +33,9 @@ Nếu là người chịu trách nhiệm như vậy thì sao lại không chịu
 Bao nhiêu người cũng vậy và họ đều cố gắng trả nợ bằng việc đi làm 
 Sợ bị đi tù là sao?
 
-## Đây là [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|một số ý tưởng kiếm tiền]]. Bạn có mong muốn tham gia vào các hoạt động nào?
+[[Thấy việc nhận sự giúp đỡ là lừa đảo người giúp mình]]
+
+## Cathay
 Đã được bao nhiêu hợp đồng rồi? 
 Vì sao cần cái thay đổi định kỳ đóng phí gấp đến như vậy khi chỉ cần làm thủ công mỗi tháng một lần và cũng ko có bao nhiêu hợp đồng? 
 Tại sao thấy việc tiếp tục đầu tư vào cathay có lợi lâu dài hơn? 

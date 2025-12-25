@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-15T16:01
-updated: 2025-10-27T09:40
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-18T21:32
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Dù các thành viên đều quản lý tiền bạc và tài sản riêng, họ tin rằng tài sản cá nhân không thuộc về riêng họ mà thuộc về cộng đồng. Niềm tin này giúp họ luôn sẵn sàng chia sẻ nguồn lực khi cộng đồng có những nhu cầu lớn về tài chính để phát triển hoặc mở rộng hoạt động cộng đồng. Điều này tạo ra một tư duy đặc trưng đó là tài sản cá nhân nhưng cộng đồng đều có thể sử dụng. Ví dụ, một thành viên đã tự bỏ chi phí để xây nhà riêng, nhưng sau đó sẵn lòng nhường lại cho một gia đình khác có nhu cầu.

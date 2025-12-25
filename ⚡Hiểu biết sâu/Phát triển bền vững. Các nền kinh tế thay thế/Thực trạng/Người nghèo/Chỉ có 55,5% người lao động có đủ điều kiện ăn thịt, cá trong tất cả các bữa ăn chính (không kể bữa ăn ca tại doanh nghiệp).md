@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-01T11:02
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Kết quả khảo sát do Tổng LĐLĐVN thực hiện trong tháng 3-4.2025 với gần 3.000 người lao động

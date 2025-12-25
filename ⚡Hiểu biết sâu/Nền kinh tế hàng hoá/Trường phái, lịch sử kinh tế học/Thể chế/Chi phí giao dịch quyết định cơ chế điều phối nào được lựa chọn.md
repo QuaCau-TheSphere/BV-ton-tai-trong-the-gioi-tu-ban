@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-03T09:48
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Chi phí giao dịch]], [[Cơ chế điều phối]]
 [[Chi phí giao dịch được quyết định bởi đặc thù tài sản, sự bất định và hành vi cơ hội]]

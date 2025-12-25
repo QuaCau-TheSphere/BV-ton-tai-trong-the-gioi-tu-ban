@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-25T19:59
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: 
+Khái niệm:: [[Nông nghiệp, nông thôn]]
 
 Nguồn:: [Vcil Community - VCIL MEMBERS’ TALKS #2: DÒNG CHẢY VĂN HÓA...](https://www.facebook.com/share/p/1CfkwLE4i9/)
 

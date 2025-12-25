@@ -1,8 +1,7 @@
 ---
 share: true
 created: 2025-01-23T09:23
-updated: 2025-07-09T17:14
+updated: 2025-12-21T14:32
 ---
-Khái niệm:: 
-
+Khái niệm:: [[Áp lực]]
 Nguồn:: 

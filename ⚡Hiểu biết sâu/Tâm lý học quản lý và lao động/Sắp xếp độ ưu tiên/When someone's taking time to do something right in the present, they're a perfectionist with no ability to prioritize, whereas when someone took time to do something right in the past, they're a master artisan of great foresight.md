@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-13T00:06
-updated: 2025-07-09T17:17
+updated: 2025-12-19T11:32
 ---
 ![](https://www.explainxkcd.com/wiki/images/f/f3/the_general_problem.png) 
 Nguồn:: [974: The General Problem - explain xkcd](https://www.explainxkcd.com/wiki/index.php/974:_The_General_Problem)

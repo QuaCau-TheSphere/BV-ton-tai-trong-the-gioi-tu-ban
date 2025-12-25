@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-23T14:28
-updated: 2025-09-22T15:23
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Bảo mật]]
 **Điều 4. Phân loại thông tin**

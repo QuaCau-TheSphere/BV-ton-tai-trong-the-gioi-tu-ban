@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-16T09:34
-updated: 2025-08-17T16:41
+updated: 2025-12-19T11:32
 aliases:
   - Luật doanh nghiệp VN
 ---

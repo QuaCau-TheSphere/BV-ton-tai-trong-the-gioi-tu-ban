@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-26T14:07
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Việc chứng nhận hữu cơ đòi hỏi: chuẩn hoá đất, nước, phân bón, thuốc bảo vệ thực vật, chu trình canh tác, chuỗi cung ứng, v.v. Với diện tích quá nhỏ, chi phí cho từng ha sẽ rất lớn, kinh tế khó khả thi.

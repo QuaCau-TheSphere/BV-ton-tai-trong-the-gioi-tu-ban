@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T12:43
-updated: 2025-09-01T11:26
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Lạm phát]]
 [[Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-09-01T11:02
+updated: 2025-12-19T11:32
 ---
 ## 1. Kinh tế phi chính thức là gì?
 
@@ -59,3 +59,5 @@ Ngoài hoạt động kinh tế phi chính thức, khu vực kinh tế chưa qua
 - Các hoạt động bị bỏ qua do thiếu sót trong hệ thống thống kê.
 
 Nguồn:: [Kinh tế phi chính thức là gì? Vì sao có thể bạn đang tham gia nền kinh tế này? | Vietcetera](https://vietcetera.com/vn/kinh-te-phi-chinh-thuc-la-gi-vi-sao-ban-co-the-dang-tham-gia-nen-kinh-te-nay)
+
+[[Kinh tế vỉa hè đóng góp hơn 30% lực lượng lao động]]

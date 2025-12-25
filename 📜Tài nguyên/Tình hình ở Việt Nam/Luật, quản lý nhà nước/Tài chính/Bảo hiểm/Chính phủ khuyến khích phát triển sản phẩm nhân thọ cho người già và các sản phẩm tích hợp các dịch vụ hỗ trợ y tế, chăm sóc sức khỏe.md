@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:14
-updated: 2025-08-17T16:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 # Chiến lược của chính phủ trong việc phát triển thị trường bảo hiểm

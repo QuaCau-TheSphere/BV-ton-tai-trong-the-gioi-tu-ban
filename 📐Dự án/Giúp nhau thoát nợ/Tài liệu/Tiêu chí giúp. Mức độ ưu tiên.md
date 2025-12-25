@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-11T15:15
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
@@ -26,5 +26,6 @@ Lý do cho việc chấp nhận không đóng góp lại:
 - Đô thị không phải nông thôn
 - Sao có thể đòi hỏi tất cả có tính cách giống mình được
 
+[[Từ thiện và những thứ có vẻ giống như nó]]
 [[📐Dự án]]
 [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

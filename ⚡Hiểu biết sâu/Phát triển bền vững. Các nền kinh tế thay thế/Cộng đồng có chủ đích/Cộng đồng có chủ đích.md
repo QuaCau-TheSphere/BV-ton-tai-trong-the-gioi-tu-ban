@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-01T10:50
+updated: 2025-12-19T11:32
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
@@ -37,6 +37,8 @@ Nếu tất cả thu nhập của thành viên đều đóng góp vào quỹ chu
 
 Bạn có thể làm thử [Community Type Quiz](https://communityfinders.com/quiz/?utm_source=kiếmtiền.quảcầu.cc) để xem mình phù hợp với loại cộng đồng nào.
 
+![Alanna Irving, Enspiral \~ Growing A New Economy \~ New Frontiers - YouTube](https://youtu.be/D-IZVlgnTFc?si=m4WerDQPRy2Qq4d8)
+
 ![What are the different kinds of intentional community? - YouTube](https://youtu.be/GlgGxhzkwoE?si=S85MwXHP5diiJ9zv)
 
 - [Intentional Communities: The Beginners Guide](https://communityfinders.com/intentional-communities/)
@@ -44,13 +46,18 @@ Bạn có thể làm thử [Community Type Quiz](https://communityfinders.com/qu
 
 ## Cộng đồng có chủ đích bên ngoài đô thị
 Mặc dù về nguyên tắc cộng đồng có chủ đích hoàn toàn có thể tồn tại bên trong đô thị, nhưng khi nhắc đến nó nhiều người thường hay nghĩ đến các mô hình đồng cư bên ngoài đô thị như làng sinh thái. Thói quen suy nghĩ này cũng có thể hiểu được, và nó cũng được củng cố bởi việc đa số các thảo luận và tài nguyên về nó cũng chỉ tập trung vào các cộng đồng đồng cư bên ngoài đô thị. Lý do có lẽ là vì:
-- Trong đô thị, giá bất động sản quá cao khiến cho khó ai có khả năng sở hữu được cả một tòa nhà hoặc một khu nhà để làm cộng đồng. Thường chỉ có các công ty bất động sản mới đủ khả năng, mà những công ty này ít khi có động lực để làm phi lợi nhuận, nhất là khi thiếu sự khuyến khích của nhà nước. Các trường hợp đang hoạt động chủ yếu là di sản từ thời các công đoàn hoạt động sôi nổi ở châu Âu. Điều đó khiến cho các mô hình sống cùng nhau, đồng cư hoặc hợp tác xã nhà ở trong đô thị ít được nhắc tới. Còn mô hình sống chung nhà thì lại quá phổ biến rồi nên chắc cũng không có gì đặc biệt để nói tới
-- Ở ngoài đô thị thì giá đất rẻ nên không cần phải xây nhà cao tầng, nên cũng chỉ có đồng cư. Ngoài ra các mục tiêu như thực hành sinh thái, thực hành tâm linh, nuôi con, dưỡng già cũng đạt được hiệu quả hơn hoặc chỉ có thể đạt được ở ngoài đô thị. Nên các cộng đồng ở ngoài đô thị có lẽ là hình thức phong phú nhất của cộng đồng có chủ đích, và có lẽ nhu cầu dùng tới khái niệm đó cũng xuất phát từ đây
+- Trong đô thị, giá bất động sản quá cao khiến cho khó ai có khả năng sở hữu được cả một tòa nhà nhiều tầng hoặc một khu nhà để làm cộng đồng. Thường chỉ có các công ty bất động sản mới đủ khả năng, mà những công ty này ít khi có động lực để làm phi lợi nhuận, nhất là khi thiếu sự khuyến khích của nhà nước. Các trường hợp đang hoạt động chủ yếu là di sản từ thời các công đoàn hoạt động sôi nổi ở châu Âu. Điều đó khiến cho các mô hình sống cùng nhau, đồng cư hoặc hợp tác xã nhà ở trong đô thị ít được nhắc tới. Còn mô hình sống chung nhà thì lại quá phổ biến rồi nên chắc cũng không có gì đặc biệt để nói tới
+- Ở ngoài đô thị thì giá đất rẻ nên không cần phải xây nhà cao tầng, nên cũng chỉ có đồng cư. Các mục tiêu như thực hành sinh thái, thực hành tâm linh, nuôi con, dưỡng già cũng đạt được hiệu quả hơn hoặc chỉ có thể đạt được ở ngoài đô thị. Nên các cộng đồng ở ngoài đô thị có lẽ là hình thức phong phú nhất của cộng đồng có chủ đích, và có lẽ nhu cầu dùng tới khái niệm đó cũng xuất phát từ đây
 
 ![The BIGGEST INTENTIONAL COMMUNITIES in the World \| ECO VILLAGES that you will want to Visit - YouTube](https://youtu.be/XsEzyeyMfgw?si=v49RePmP5CktB6pB)
 
+Cộng đồng [Enspiral](https://www.enspiral.com/) ở New Zealand xây dựng các phần mềm quản trị
+![](https://i.vgy.me/vLM190.png)
+
+[Like start-ups, most intentional communities fail – why? \| Aeon Essays](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why)
+
 ### Tham quan các cộng đồng có chủ đích bên ngoài đô thị
-Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch như là một cách để có thêm thu nhập. Các trang như [Intentional Communities Directory](https://www.ic.org/directory/) hoặc [Ecovillage Tours](https://www.ecovillagetours.com/) có danh sách các cộng đồng có chủ đích bên ngoài đô thị ở nước ngoài. Hoặc lên [r/intentionalcommunity](https://www.reddit.com/r/intentionalcommunity/) hỏi thử xem.
+[[Doanh thu chính của các cộng đồng có chủ đích thường là từ du lịch, giáo dục, đồ thủ công, nông sản|Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch như là một cách để có thêm thu nhập]]. Các trang như [Intentional Communities Directory](https://www.ic.org/directory/) hoặc [Ecovillage Tours](https://www.ecovillagetours.com/) có danh sách các cộng đồng có chủ đích bên ngoài đô thị ở nước ngoài. Hoặc lên [r/intentionalcommunity](https://www.reddit.com/r/intentionalcommunity/) hỏi thử xem.
 
 ![How to Find the Intentional Community for You - YouTube](https://www.youtube.com/live/wda3MxMqlpQ?si=H-OPSPi8Bo6eK_eu)
 ![The Biggest Challenges of Intentional Communities - YouTube](https://youtu.be/i6kuy20F2nU?si=oWyY0FNXZSLwOtrC)
@@ -61,6 +68,8 @@ Nhiều cộng đồng có chủ đích chấp nhận đón khách du lịch nh�
 - [Community Founders Circle](https://programs.communityfinders.com/founders)
 
 Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi tiết này: [[Nông nghiệp sinh thái ở Việt Nam]]
+
+Xem thêm:: [[❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị]]
 
 ## Xây dựng cộng đồng có chủ đích ở đô thị
 Ý tưởng xây dựng cộng đồng sống chung nhà:
@@ -83,4 +92,5 @@ Không phải cứ đến sống chung và gắn bó với nhau là trở thành
 
 Các đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu, toán quân du kích có nhiều nét giống cộng đồng có chủ đích hơn, khi họ phải sống chung với nhau, chia sẻ một lối sống chung và có tiếng nói với nhau. [[Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp]]. Ở những nhóm này, nếu các thành viên không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì, vì người lãnh đạo chỉ là thiểu số. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có những lúc có được sự tự trị, nhưng không chắc là luôn luôn.
 
-Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là nó không có điểm kết thúc khá rõ ràng: việc tồn tại của cộng đồng chính là mục tiêu của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh luôn (hoặc có thể nói là không bao giờ hoàn thành). Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng có thể tan rã, hoặc cần phải tìm thêm mục tiêu khác.
+Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là ở điểm kết thúc của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh có thể nói là không bao giờ hoàn thành. Các cộng đồng như này tồn tại vì các thành viên muốn có một cộng đồng như này tồn tại. Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng có thể tan rã, hoặc cần phải tìm thêm mục tiêu khác.
+

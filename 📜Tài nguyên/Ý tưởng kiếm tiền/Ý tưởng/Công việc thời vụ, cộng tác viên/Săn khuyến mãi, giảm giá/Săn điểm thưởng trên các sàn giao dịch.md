@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 10$"
 created: 2025-04-15T16:12
-updated: 2025-10-08T10:17
+updated: 2025-12-19T11:32
 aliases:
   - voucher
 ---
@@ -24,7 +24,7 @@ Nguyên liệu, nguồn thông tin::
 Nơi làm việc::  [[Làm qua mạng]]
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác:: [[Không tiếp xúc với con người]], [[Không cần nghe]],  [[Không cần nói]], [[Không cần độ tập trung cao]]
 
 ## Nơi thảo luận

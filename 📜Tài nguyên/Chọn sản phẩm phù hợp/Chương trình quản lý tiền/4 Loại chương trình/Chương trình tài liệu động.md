@@ -3,7 +3,7 @@ share: true
 cssclasses:
   - wide-table
 created: 2024-08-02T17:39
-updated: 2025-09-12T13:48
+updated: 2025-12-19T11:32
 ---
 Tên chương trình:: [[Soulver]], [[figr]]
 

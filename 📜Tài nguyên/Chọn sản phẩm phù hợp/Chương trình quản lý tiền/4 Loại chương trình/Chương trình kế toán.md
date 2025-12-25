@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-08T08:30
+updated: 2025-12-19T11:32
 cssclasses:
   - wide-table
 ---
 Tên chương trình:: [[Misa]], [[Beancount, hledger]]
-[Title Unavailable \| Site Unreachable](https://www.firefly-iii.org/)
+[Firefly III — A free and open source personal finance manager](https://www.firefly-iii.org/)
 ```dataview
 table 
 	filter(tính-năng, (i)=>contains(i.file.folder, "Cách nhập liệu")) as "Cách nhập liệu",
@@ -31,7 +31,7 @@ where file.name != "Chương trình quản lý tiền"
 Bật tốc độ x2 
 https://www.youtube.com/playlist?list=PL_-45OdYyPILsLksRzmOLUMSeBSUwkAdY
 
-## Chương trình kế toán văn bản thuần
+## Chương trình kế toán chữ trơn
 - [Plain Text Accounting](https://blog.emacsen.net/profit-first-constraints-plain-text-accounting.html "")
 - [Plain Text Accounting (PTA) - plaintextaccounting.org](https://plaintextaccounting.org/ "Plain Text Accounting (PTA) - plaintextaccounting.org")
 

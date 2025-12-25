@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-21T22:13
+updated: 2025-12-20T15:28
 aliases:
   - tài sản vô hình
 ---
@@ -11,3 +11,7 @@ Nguồn:: [Tài sản vô hình – Wikipedia tiếng Việt](https://vi.wikiped
 
 [[Ngân hàng không chấp nhận thế chấp tài sản vô hình]]
 [[❓Tài sản vô hình và hàng hoá vô hình là giống nhau]]
+[[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình]]
+[[❓Nguyên tắc về định giá tài sản vô hình cũng giống như định giá công sức lao động]]
+
+[[❓Tài sản vô hình có chi phí biên gần như bằng 0]]

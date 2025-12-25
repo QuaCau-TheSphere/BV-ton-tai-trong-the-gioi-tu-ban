@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-14T20:09
+updated: 2025-12-24T07:28
 ---
 Các tổ chức làm trong ngành tín dụng đều có quy trình đòi nợ. Quy trình đó đã được tối ưu để ép khách trả tiền rồi, mình chỉ cần lấy về học hỏi là được. Thứ khác biệt là mình vẫn làm cho người vay thấy mình muốn nâng đỡ họ chứ không ém thông tin rồi khai thác các điểm yếu của con người.
 

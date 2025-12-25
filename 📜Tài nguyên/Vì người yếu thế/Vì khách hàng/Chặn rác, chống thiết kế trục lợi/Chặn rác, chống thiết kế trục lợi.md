@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-11-01T11:02
+updated: 2025-12-20T15:52
 ---
 Khái niệm:: [[Trục lợi]], [[Khai thác điểm yếu con người]]
 ## Thiết kế trục lợi

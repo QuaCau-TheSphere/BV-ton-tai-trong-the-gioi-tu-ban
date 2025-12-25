@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T16:20
-updated: 2025-09-22T21:12
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 Lý do:: [[Phí ban đầu đúng ra nên gọi là phí bán hàng]]

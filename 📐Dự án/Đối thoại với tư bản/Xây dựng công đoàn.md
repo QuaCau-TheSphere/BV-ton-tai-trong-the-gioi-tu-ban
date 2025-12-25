@@ -1,15 +1,16 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-08-20T10:37
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 - Chiếm 50% người lao động
 [[Review công ty]]
 ```dataview
 LIST
-FROM "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Công đoàn" 
+FROM "⚡Hiểu biết sâu/Hình thức kiếm tiền/Làm thuê/Công đoàn" 
 ```
+
 
 ![Tăng lương mà không tăng ca: Quyền thương lượng tập thể là gì? - YouTube](https://youtu.be/_coyWUXt-wk?si=nAyrd1UUbrpMOubO)
 ![Vì sao nhà nước lo sợ công đoàn độc lập? - YouTube](https://youtu.be/Wq8wbXTbG6k?si=O6BaWn8NXnuxVGkY)
@@ -18,3 +19,4 @@ FROM "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Công đoàn"
 
 Hội nạn nhân 
 dù là app đàng hoàng hay đào lửa, thì chơi app nào mình cũng chỉ đang làm béo bọn TQ. Chỉ có tự hỗ trợ nhau mới là bền vững và ko ai bị bóc lột hết
+[[Xây dựng hợp tác xã nhân viên]]

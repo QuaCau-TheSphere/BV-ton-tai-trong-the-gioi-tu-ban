@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-10-07T16:53
+updated: 2025-12-19T11:32
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 2.8-3\$/h (tiếng Việt), 3.2-3.5$/h (tiếng Anh) 
@@ -20,7 +20,7 @@ Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [[Làm qua mạng]]
 Thời gian làm việc:: 
 Yêu cầu công nghệ:: [[Có laptop]]
-Thời gian trả tiền:: 
+Thời điểm trả tiền:: 
 Đặc điểm khác::
 
 ## Nơi thảo luận

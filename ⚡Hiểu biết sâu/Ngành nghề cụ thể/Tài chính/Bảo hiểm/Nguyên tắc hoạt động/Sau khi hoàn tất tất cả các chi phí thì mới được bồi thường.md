@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-18T14:25
-updated: 2025-07-09T17:17
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [[Bồi thường là trả tiền trên hoá đơn thực tế. Khoán là do người mua tự định giá của sinh mạng mình ngay từ đầu]]

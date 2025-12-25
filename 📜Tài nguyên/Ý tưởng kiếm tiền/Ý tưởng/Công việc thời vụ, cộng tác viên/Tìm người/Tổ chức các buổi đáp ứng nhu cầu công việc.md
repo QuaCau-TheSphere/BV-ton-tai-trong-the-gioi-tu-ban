@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-07T17:11
+updated: 2025-12-19T11:32
 aliases:
   - Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện
   - Lập nhóm tổ chức các buổi chia sẻ hướng dẫn
@@ -10,7 +10,7 @@ aliases:
   - Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện
 ---
 Mô tả công việc:: Tìm kiếm người tham gia, làm trợ lý khác
-Số tiền kiếm được:: 100% số tiền người tham gia trả
+Số tiền kiếm được:: [[Ý tưởng kiếm tiền từ Nhật|Tùy vào đề xuất của bạn]]
 
 ## Mô tả chi tiết
 Nếu bạn kiếm được người sẵn sàng trả tiền để tham gia [các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.4M.2) thì bạn sẽ được nhận toàn bộ số tiền họ trả.
@@ -25,7 +25,7 @@ Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [[Làm qua mạng]]
 Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền::
+Thời điểm trả tiền::
 Đặc điểm khác::
 
 ## Nơi thảo luận

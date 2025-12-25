@@ -1,18 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-11T15:42
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: 
-Nếu việc mua không có nghĩa là sở hữu, thì piracy không có nghĩa là ăn cắp
-![Áp thuế lên hộ kinh doanh: Công bằng hay khắc nghiệt? - YouTube](https://youtu.be/FldGoVbpr9o?si=Nx0RvpuczYPJufmy)
-Từ thiện khác quà tặng thế nào? Không lẽ là tặng thứ không cần?
-
-
 Phải biết cách react thì mới nói
 Thấy gì đó ko đúng, dù cũng không có cơ sở gì 
 
-Thấy việc nhận sự giúp đỡ là lừa đảo người giúp mình
+[[Thấy việc nhận sự giúp đỡ là lừa đảo người giúp mình]]
 
 Anh cứ tưởng mấy này em siêu rành chứ
 E không biết có dịch vụ đó luôn á. Nếu có thì phí cũng cao lắm, vì giờ giao dịch mua bán phải đóng thuế 8%, tính ra xài dịch vụ đáo hạn thẻ lợi hơn 2%
@@ -21,7 +15,7 @@ Doanh nghiệp doanh thu 1 năm dưới 100tr được hoàn thuế mà, với l
 
 Thường ngân hàng nó cho vay 60-70% giá trị tài sản thôi, tùy điều kiện đánh giá nhiều tiêu chí lắm.
 
-home credit  cho ck quét mã QR cho account cá nhân 
+
 
 Bọn rút tiền thì cũng từ ngân hàng mà ra. Cũng là tiền từ tay trái qua tay phải
 

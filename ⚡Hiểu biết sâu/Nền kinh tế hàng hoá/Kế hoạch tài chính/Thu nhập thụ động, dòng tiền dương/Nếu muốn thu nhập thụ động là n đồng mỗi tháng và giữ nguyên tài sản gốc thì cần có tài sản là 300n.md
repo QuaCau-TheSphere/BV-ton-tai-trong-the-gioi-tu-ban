@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-10T13:55
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Thu nhập]]
 Số tiền cần để đạt tự do tài chính phụ thuộc vào mức chi phí sinh hoạt mong muốn và tỷ suất sinh lời bền vững từ tài sản. Có hai cách tiếp cận phổ biến:

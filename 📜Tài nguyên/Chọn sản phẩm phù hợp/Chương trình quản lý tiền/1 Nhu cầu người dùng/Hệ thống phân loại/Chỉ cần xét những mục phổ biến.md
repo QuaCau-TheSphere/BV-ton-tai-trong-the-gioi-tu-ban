@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-12T13:48
+updated: 2025-12-19T11:32
 ---
 Tính năng:: [[Phân loại tự động theo quy luật]], [[Phân loại tự động theo mô hình ngôn ngữ lớn]], [[Chỉ có vài trường cơ bản]]
 

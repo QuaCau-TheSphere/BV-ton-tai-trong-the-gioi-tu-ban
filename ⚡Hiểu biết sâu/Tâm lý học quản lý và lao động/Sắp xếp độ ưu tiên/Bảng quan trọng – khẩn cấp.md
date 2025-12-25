@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-30T14:31
-updated: 2025-10-08T16:32
+updated: 2025-12-19T11:32
 ---
 ![[Eisenhower-Matrix-920x1024.png|300]]
 ![[Eisenhower-Matrix-Actions-539x600.png|300]]

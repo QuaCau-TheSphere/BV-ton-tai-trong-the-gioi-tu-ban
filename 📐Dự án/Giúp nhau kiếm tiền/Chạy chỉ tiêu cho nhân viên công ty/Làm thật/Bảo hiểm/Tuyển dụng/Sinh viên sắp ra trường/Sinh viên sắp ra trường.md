@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-26T14:46
-updated: 2025-08-16T22:02
+updated: 2025-12-19T11:32
 ---
 Tệp những người tiếp cận được danh sách sinh viên sắp ra trường:
 ```dataview

@@ -2,10 +2,13 @@
 share: true
 description: "Số tiền kiếm được: "
 created: 2025-03-27T17:13
-updated: 2025-10-07T16:50
+updated: 2025-12-19T11:32
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 150-250 k/ngày
+
+> [!important] Lưu ý
+> Công việc này không phải là một phần của [[Giúp nhau kiếm tiền|nhóm giúp nhau kiếm tiền]] cũng chưa có ai đã trực tiếp trải qua nó. Nó được ghi ra vì có thể nó hữu ích cho bạn. Bọn mình không đảm bảo thông tin được đầy đủ và trung thực.
 
 ## Mô tả chi tiết
 Bên mình cần tuyển CTV thanh toán hóa đơn điện/nước/internet/di động trả sau/ FTTH, v.v. Mình sẽ lọc và đưa các mã hóa đơn đồng thời chuyển khoản tiền cho CTV để CTV thanh toán hộ ( CTV chỉ việc nhận tiền và thanh toán, k cần bỏ tiền ra nha)
@@ -35,14 +38,12 @@ Hình thức công việc::
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [[Làm qua mạng]]
-Thời điểm làm việc::
+Thời gian làm việc::
 Yêu cầu công nghệ::
-Thời gian trả tiền:: [[Trả theo ngày]]
+Thời điểm trả tiền:: [[Trả theo ngày]]
 Đặc điểm khác::
 
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
-> [!important] Lưu ý
-> Công việc này không phải là một phần của [[Giúp nhau kiếm tiền|nhóm giúp nhau kiếm tiền]] cũng chưa có ai đã trực tiếp trải qua nó. Nó được ghi ra vì có thể nó hữu ích cho bạn. Bọn mình không đảm bảo thông tin được đầy đủ và trung thực.

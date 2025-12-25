@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-08T10:45
+updated: 2025-12-19T10:36
 ---
 Khái niệm:: 
 Làm ăn với các đối tác Châu Âu và Mỹ, trong 1 bữa nhậu sếp bên đó thật lòng với tôi 1 câu thế này: Chúng mày biết Phương Tây bọn tao giỏi nhất là xuất khẩu gì không?

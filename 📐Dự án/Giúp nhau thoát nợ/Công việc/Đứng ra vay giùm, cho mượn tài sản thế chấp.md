@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-01-14T18:51
-updated: 2025-09-14T21:17
+updated: 2025-12-19T14:39
 ---
-[[Ngân hàng mini và mạng lưới cho vay ngang hàng]]
+[[Quỹ tín dụng vi mô Quả Cầu]]
 Dùng chung CIC thì tất cả những người mượn phải kiểm soát lẫn nhau
 Nhờ vả chỉ được ít. 
 
@@ -18,3 +18,16 @@ Rủi ro với người được cho mượn tài sản thế chấp:
 
 Lợi ích:
 - Được tăng điểm tín dụng nếu người được vay giùm trả đúng hạn. Đây chính là cách mà [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)|Nhật được điểm tín dụng hạng 2]]
+
+
+
+Có 2 quan điểm về việc vay mượn:
+- [[Người vững vàng là người không phụ thuộc vào người khác]]. Nên dùng dịch vụ bên ngoài trước khi làm phiền mọi người 
+- Việc sợ làm phiền đến từ việc thiếu cộng đồng. Nên tránh việc sử dụng dịch vụ nếu có thể tạo ra cộng đồng tự giúp lẫn nhau
+
+Quan điểm đầu sẽ khuyến khích người cần vay tìm tới các dịch vụ [[vay tín chấp]] chính thức trước, nếu bị từ chối hết thì bạn bè mới hỗ trợ. Những tổ chức theo quan điểm đầu sẽ thiên về làm các hoạt động nâng điểm tín dụng. Với quan điểm sau thì quỹ sẽ hỗ trợ ngay luôn, việc tìm đến các dịch vụ kia chỉ là tạm thời trong lúc cạn tiền. Nó sẽ thiên về các hoạt động xây dựng cộng đồng. Do quỹ có thể làm cả 2 cùng lúc, nên nó cũng là cách để dung hòa các quan điểm này.
+
+Việc người bảo lãnh sẵn sàng làm trợ lý cho người vay và thay mặt người vay tìm nguồn cho vay không khác gì cả hai đang cùng nhau mở công ty làm ăn.
+
+
+[[Chủ nghĩa tân tự do]]

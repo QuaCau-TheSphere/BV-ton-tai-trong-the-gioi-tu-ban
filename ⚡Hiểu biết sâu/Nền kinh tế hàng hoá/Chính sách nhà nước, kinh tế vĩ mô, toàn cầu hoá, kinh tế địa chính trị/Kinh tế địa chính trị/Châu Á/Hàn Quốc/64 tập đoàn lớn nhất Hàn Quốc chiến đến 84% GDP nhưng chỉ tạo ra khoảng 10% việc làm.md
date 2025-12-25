@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-10-16T11:28
+updated: 2025-12-19T10:36
 ---
 Khái niệm:: [[GDP]]
 trong đó chỉ riêng Samsung chiếm hơn 19% GDP

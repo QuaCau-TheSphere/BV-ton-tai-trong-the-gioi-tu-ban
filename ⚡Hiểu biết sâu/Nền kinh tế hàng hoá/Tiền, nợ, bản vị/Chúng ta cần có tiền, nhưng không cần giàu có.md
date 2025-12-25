@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-03T10:04
+updated: 2025-12-19T11:32
 ---
 Tiền bạc có làm cho người ta hạnh phúc hay không ? Câu trả lời là có. Nhưng với một giới hạn. Giới hạn ấy là mức thu nhập 75 ngàn Đô La một năm ! Đó là kết quả của một nghiên cứu được công bố ngày 7 tháng 9, 2010 trên « Proceedings of the National Academy of Sciences », dựa trên một thống kê được thực hiện bởi viện Gallup, qua 450 ngàn câu trả lời thăm dò mức độ hạnh phúc của 1000 người Mỹ. Phân tích kết quả này, nhà Kinh Tế và Tâm Lý Học Daniel Kahneman (Nobel Kinh tế 2002), và Angus Deaton (Nobel kinh tế 2015), thuộc Đại học Princeton, cho biết là vượt quá mức thu nhập 75 ngàn Đô La một năm, cảm giác hạnh phúc sẽ không gia tăng. Sự bớt lo lắng hay bớt đau khổ cũng sẽ không suy giảm. 
 
@@ -21,8 +21,10 @@ Nguồn:: [Nguyễn Hoài Vân - Khoa Học - Xã Hội - Y Khoa : Hạnh Phúc 
 
 Tiền có mua được hạnh phúc không? Nhiều người hay trích nghiên cứu của Kahneman và Deaton, nói rằng tiền có làm tăng hạnh phúc thật, nhưng sau khoảng $75k (≈ 1.8 tỷ VND) thì hạnh phúc không tăng thêm nữa. Nghiên cứu này được thực hiện năm 2010 bằng phương pháp hỏi người phỏng vấn. Năm 2021 Killingsworth cho một kết quả ngược lại: hạnh phúc vẫn còn tiếp tục tăng sau $75k. Phương pháp nghiên cứu là khảo sát tâm trạng người tham gia qua app, 3 lần mỗi ngày trong vài tuần. Killingsworth và Kahneman mới ngồi lại với nhau để nghiên cứu kỹ hơn dữ liệu của Killingsworth. Kết quả cho thấy:  
 
-• Trước $100k (≈ 2.4 tỷ VND) thì tiền tăng hạnh phúc tăng  
-• Sau $100k thì với nhóm ít hạnh phúc nhất thì tiền tăng hạnh phúc không tăng nữa. Các nhóm còn lại thì vẫn tăng. Đặc biệt, nhóm hạnh phúc nhất thì mức độ tăng hạnh phúc tăng nhiều nhất  
+- Trước $100k (≈ 2.4 tỷ VND) thì tiền tăng hạnh phúc tăng  
+- Sau $100k thì với nhóm ít hạnh phúc nhất thì tiền tăng hạnh phúc không tăng nữa. Các nhóm còn lại thì vẫn tăng. Đặc biệt, nhóm hạnh phúc nhất thì mức độ tăng hạnh phúc tăng nhiều nhất  
   
-• Tóm tắt nhanh: https://youtu.be/vSQjk9jKarg?si=-ZZ1K4jWMhatcSnT&t=1096  
-• Bài báo chi tiết: https://www.pnas.org/doi/epdf/10.1073/pnas.2208661120
+- Tóm tắt nhanh: ![What is the secret of a good life? Lessons from the longest study on happiness - YouTube](https://youtu.be/vSQjk9jKarg?si=-ZZ1K4jWMhatcSnT&t=1096)  
+- Bài báo chi tiết: https://www.pnas.org/doi/epdf/10.1073/pnas.2208661120
+
+Khái niệm:: [[Tiền]], [[Giàu, người giàu]]

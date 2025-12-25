@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T15:33
-updated: 2025-10-27T09:40
+updated: 2025-12-19T11:32
 title: Nhóm bào tiền sàn thương mại điện tử
 aliases:
   - Công việc trong sàn thương mại điện tử
@@ -11,7 +11,7 @@ aliases:
 > Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn
 
 ```dataview
-table số-tiền-kiếm-được as "Số tiền kiếm được" , mô-tả-công-việc as "Mô tả công việc" 
+table số-tiền-kiếm-được as "Số tiền kiếm được" , mô-tả-công-việc as "Mô tả công việc", số-người-cần-tuyển as "Số người cần tuyển"
 FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Sàn thương mại điện tử"
 WHERE file.name != this.file.name
 ```

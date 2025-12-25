@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-05T10:41
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[GDP]]
 ![](https://www.visualcapitalist.com/wp-content/uploads/2025/04/Economic-Power_WEB.jpg)

@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-14T20:53
+updated: 2025-12-19T11:32
 ---
-Khái niệm:: 
-
 ### Với người hỗ trợ/tình nguyện viên
 #### Về động lực và quan điểm
 

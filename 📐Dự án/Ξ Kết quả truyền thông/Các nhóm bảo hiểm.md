@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T14:21
-updated: 2025-08-31T17:05
+updated: 2025-12-19T11:32
 ---
 ## [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
 ### SNPO
@@ -26,7 +26,7 @@ từ chối
 ### Profile Quả Cầu
 [[02-10-2024]] 13:28 https://www.facebook.com/qua.cau.the.sphere/posts/pfbid02XcePPBN8BptmhzMditmCKUtWpz6xzLNtJoQhqhaN8r91uZxaGC1gLm9Ca7s6px7Nl
 
-## [[Tại sao nên mua bảo hiểm từ Quả Cầu|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
+## [[📜Tài nguyên/Giới thiệu dịch vụ/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
 ### Page Quả Cầu
 [[10-10-2024]] https://www.facebook.com/share/p/SiFLni6x3sxLTntJ/
 Thịnh từ bỏ quyền quản trị page

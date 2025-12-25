@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-08-22T10:43
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: 
 [[Cái cần không phải là có tiền, mà là có dòng tiền]]

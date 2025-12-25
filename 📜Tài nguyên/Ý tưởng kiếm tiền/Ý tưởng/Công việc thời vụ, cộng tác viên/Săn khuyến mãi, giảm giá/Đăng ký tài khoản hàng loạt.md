@@ -2,7 +2,7 @@
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
 created: 2025-03-27T17:13
-updated: 2025-10-07T16:28
+updated: 2025-12-19T11:32
 aliases:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
@@ -34,9 +34,9 @@ Hình thức công việc:: [[Công việc thời vụ, cộng tác viên]]
 Kiến thức, kỹ năng::
 Nguyên liệu, nguồn thông tin::
 Nơi làm việc:: [[Làm qua mạng|Làm online]], [[Không cần đi lại]]
-Thời điểm làm việc:: [[Được chọn thời gian làm trong ngày]]
+Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
 Yêu cầu công nghệ:: [[Cần máy tính đủ mạnh]] để chạy được LD Player hiệu quả. Còn không bạn ra tiệm net làm cũng được
-Thời gian trả tiền:: [[Trả theo tháng]], [[Trả theo tuần]] 
+Thời điểm trả tiền:: [[Trả theo tháng]], [[Trả theo tuần]] 
 Đặc điểm khác:: [[Không cần nghe]], [[Không cần nói]], [[Không cần độ tập trung cao]], [[Không tiếp xúc với con người]]
 
 ## Nơi thảo luận

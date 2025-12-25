@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2025-10-27T09:42
+updated: 2025-12-19T11:32
 aliases:
   - Lời mời tham gia nhóm giúp nhau kiếm tiền
 ---
@@ -19,7 +19,7 @@ Bài chi tiết:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý t�
 
 ### Các tài nguyên
 - Các cách [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|tạo sinh kế, thu nhập, dòng tiền]]
-- Một [[Ngân hàng mini và mạng lưới cho vay ngang hàng|quỹ tín dụng vi mô]] để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
+- Một [[Quỹ tín dụng vi mô Quả Cầu|quỹ tín dụng vi mô]] để được vay nhanh với lãi thấp khi không còn vay được từ người thân, bạn bè
 - Sự kết nối tới những cộng đồng để [[mở rộng mối quan hệ]]
 - [[Xây dựng công đoàn|Công đoàn để được bảo vệ quyền lợi trước tư bản]] 
 - Giới thiệu các công việc sinh nghiệp

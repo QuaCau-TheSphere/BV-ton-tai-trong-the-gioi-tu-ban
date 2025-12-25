@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-13T22:10
-updated: 2025-09-21T09:17
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Người khuyết tật]]
 DRD,

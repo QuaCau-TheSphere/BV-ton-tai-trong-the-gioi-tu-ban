@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-09-26T17:26
+updated: 2025-12-19T11:32
 ---
 Khái niệm:: [[Chứng khoán]]
 [[Friedman xây dựng học thuyết tham là tốt]]
