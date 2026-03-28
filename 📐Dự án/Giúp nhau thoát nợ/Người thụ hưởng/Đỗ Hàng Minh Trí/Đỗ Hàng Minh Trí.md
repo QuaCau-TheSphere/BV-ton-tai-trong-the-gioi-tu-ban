@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2025-12-19T14:19
+updated: 2026-03-28T16:05
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 ---
 # Hồ sơ của Đỗ Hàng Minh Trí
@@ -15,7 +15,7 @@ Bài chi tiết:: [[Lý do bị nợ]]
 ### Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 Gom hết tất cả các khoản nợ vào một người cô, lãi vài triệu/tháng. 
 
-Phải [[App vay nóng|vay nóng]]
+Phải [[App vay nóng, app đen|vay nóng]]
 
 ### Cuộc sống của Trí đã thay đổi thế nào từ lúc có nợ?
 ### Chi phí sinh hoạt của Trí hiện nay như thế nào?

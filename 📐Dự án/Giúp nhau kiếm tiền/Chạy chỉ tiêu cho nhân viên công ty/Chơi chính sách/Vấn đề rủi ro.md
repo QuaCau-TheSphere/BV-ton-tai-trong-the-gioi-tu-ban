@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2025-12-19T11:32
+updated: 2026-02-01T16:04
 Title: Vấn đề rủi ro khi làm ảo
 ---
 [[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được|Liệu công ty X có đang lừa đảo, rửa tiền không?]]
@@ -19,7 +19,7 @@ vậy. [[Airdrop là việc thu thập khuyến mãi của dịch vụ và bán 
 Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]].
 
 [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]]. Các công việc dưới đây tuy có cảm giác giống giống như thuê mượn tài khoản ngân hàng, nhưng thật ra không phải vì bạn vẫn giữ đăng nhập tài khoản trên máy bạn chứ không đưa cho ai đăng nhập trên máy của họ cả
-Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo]]
+Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo, trục lợi, tham ô]]
 
 Trương mỹ lan để cho người nhà cầm
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-02-26T11:42
 ---
 Phải biết cách react thì mới nói
 Thấy gì đó ko đúng, dù cũng không có cơ sở gì 

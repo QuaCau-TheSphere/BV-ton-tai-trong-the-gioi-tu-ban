@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T19:17
-updated: 2025-12-19T11:32
+updated: 2026-02-15T22:44
 ---
 Khái niệm:: [[Phụ nữ]]
 [Tăng trưởng Kinh tế cho Phụ nữ - CARE tại Việt Nam](https://www.care.org.vn/chuong-trinh/tang-truong-kinh-te-cho-phu-nu/)
@@ -13,5 +13,5 @@ Khái niệm:: [[Phụ nữ]]
 ![\[P4Ds TALK #2\] ThS. Trương Thị Thu Trang - “Tôi khởi sự kinh doanh” Những câu chuyện tạo tác động - YouTube](https://youtu.be/_hX2Sm5aOTk?si=gzGbUJi3-nIE5HZQ)
 
 ![Webinar Phụ nữ di cư hiểu luật, sẵn sàng kinh doanh - YouTube](https://youtu.be/-jYuuQXaF8k?si=pYJ0f89yIANIhZMC)
-
+![Điều tra của BBC Newsnight: Dịch vụ 'nhận bố cho con' với giá nhiều ngàn bảng ở Anh - YouTube](https://www.youtube.com/watch?v=VX4O0mnFtLE)
 Xem thêm:: [[Kinh doanh online]]

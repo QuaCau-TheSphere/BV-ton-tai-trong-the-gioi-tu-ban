@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-20T15:35
+updated: 2026-02-03T13:53
 ---
 Khái niệm:: [[Tài sản vô hình]], [[Chi phí biên]]
 [[❓Những thứ có chi phí biên gần như bằng 0 tạo ra dòng tiền]]

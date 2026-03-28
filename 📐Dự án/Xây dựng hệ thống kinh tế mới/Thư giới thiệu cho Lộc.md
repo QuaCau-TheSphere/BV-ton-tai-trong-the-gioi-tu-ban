@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-31T17:14
 description: Vì sao lại giúp người không chủ động hành động?
 ---
 Xin chào các bạn VCIL,
@@ -27,7 +27,7 @@ Tóm lại, đây là những lập luận của mình:
 - Việc dồn sự tập trung và tiền bạc vào việc xây dựng dòng tiền vẫn hữu ích cho việc xây dựng mô hình kinh tế thay thế
 
 Có thể còn nhiều lỗ hổng và mâu thuẫn trong những lập luận này. Mình cũng chưa xác lập niềm tin mạnh mẽ vào chúng. Có thể mình sẽ thay đổi thêm. (Nói cách khác đây là một [tài liệu sống](https://en.wikipedia.org/wiki/Living_document), liên tục được cập nhật). Còn trong thời gian này, nếu chúng được chấp nhận, mình đề xuất cách lý tưởng để giúp đỡ Lộc như sau:
-- Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm. Đọc bài [[Đề xuất vay nợ|đề xuất vay nợ của Lộc]] để biết thêm chi tiết
+- Cấp học bổng với mức tối đa. Phần chi phí còn lại, *bao gồm* cả phí visa, vé máy bay, ăn sáng và tối tại Seoul và Busan trở thành khoản vay trả trong 3 năm. Đọc bài [[📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nguyễn Hữu Lộc/Đề xuất vay nợ|đề xuất vay nợ của Lộc]] để biết thêm chi tiết
 - Không đòi hỏi sự chủ động điền đơn từ phía Lộc. Cho phép Nhật thay mặt điền các loại đơn, mẫu nếu có thể
 - Có thể có các buổi gặp mặt để trao đổi trực tiếp với Lộc
 
@@ -54,7 +54,7 @@ Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng ch�
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Tạo ra [[Công việc thời vụ, cộng tác viên\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
-| [[Bao nuôi]], [[Giúp nhau tăng điểm tín dụng]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
+| [[Bao nuôi]], [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
 | [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Gom tài nguyên làm MMO]]                                                                           |
 | Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
 

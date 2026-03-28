@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2025-12-19T14:06
+updated: 2026-03-24T14:13
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
@@ -13,6 +13,7 @@ Các quỹ phù hợp cho người ở thành thị:
 - [[Tình Thân]]
 - [[Quỹ tín dụng vi mô Quả Cầu]]
 - [[Quỹ Đồng Hành]]
+- [[Các ngân hàng quà tặng, mạng kết nối nhu cầu]]
 
 Đa phần các quỹ khác chủ yếu cho nông thôn hoặc vùng sâu vùng xa, dân tộc thiểu số. Đọc [Danh bạ các tổ chức Tài chính vi mô](https://microfinance.com.vn/du-an-project/danh-ba-cac-to-chuc-tai-chinh-vi-mo/) để xem danh sách đầy đủ.
 
@@ -20,7 +21,6 @@ Các quỹ phù hợp cho người ở thành thị:
 [CEP - Grameen Bank - CEP](https://cep.org.vn/vt_doi_tac/cep-grameen-bank/)
 [[Tổ chức chính thức được huy động vốn từ nguồn tiết kiệm tự nguyện và từ thị trường thương mại]]
 
-[[Các ngân hàng quà tặng, mạng kết nối nhu cầu]]
 
 ## Mạng lưới cho vay ngang hàng
 - Danh sách người vay sẽ được liệt kê để người cho vay chọn. Người vay và người cho vay làm việc trực tiếp với nhau, không lấy tiền quỹ
@@ -34,7 +34,7 @@ Các quỹ phù hợp cho người ở thành thị:
 - Phù hợp khi:
 	- Người vay không muốn phải chịu sự phán xét của tập thể, không muốn người khác can thiệp vào mối quan hệ giữa mình và người vay, 
 	- Người vay không có nhiều tháng để thể hiện sự đáng tin của mình
-	- Người bảo lãnh sẵn sàng làm trợ lý cho người vay và thay mặt người vay tìm nguồn cho vay ([[Đứng ra vay giùm, cho mượn tài sản thế chấp|đứng ra vay giùm]])
+	- Người bảo lãnh sẵn sàng làm trợ lý cho người vay và thay mặt người vay tìm nguồn cho vay ([[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp|đứng ra vay giùm]])
 	- Người cho vay không cần biết người vay là ai, chỉ cần biết tới người đại diện
 
 ## Quỹ cổ phiếu

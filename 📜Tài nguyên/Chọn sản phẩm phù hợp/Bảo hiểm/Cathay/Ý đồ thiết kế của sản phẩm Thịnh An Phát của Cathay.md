@@ -4,7 +4,7 @@ created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 aliases:
   - Thịnh An Phát
-updated: 2025-12-19T11:32
+updated: 2026-03-28T16:36
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -67,7 +67,7 @@ Tại sao con số 250 triệu lại được chọn? Vì ở mức này thì kh
 Hay nói cách khác, bạn sẽ được nhận một phần lãi ngay lập tức sau khi mua. (Thực ra là sau 3 tuần đến 1 tháng, nhưng cũng có thể xem là ngay lập tức.)
 
 ### An toàn như ngân hàng
-Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([[Ngân hàng không thể nào sụp, vì nếu một ngân hàng sụp thì nó làm mất uy tín của cả ngành|dù điều đó là không thể]]), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản ([[Ngân hàng không thể nào phá sản mà chỉ bị sát nhập. Vì nếu để một ngân hàng phá sản thì nó làm mất uy tín của cả ngành|dù điều đó là không thể]]), bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 
 
 
@@ -115,7 +115,7 @@ Một bạn nhắn: Trường hợp của bác Nguyên Ngọc, hãy liên hệ v
 Cathay vẫn có những sản phẩm nhân thọ không cần đi khám
 
 ### An toàn hơn ngân hàng?
-[[Ngân hàng không thể nào sụp, vì nếu một ngân hàng sụp thì nó làm mất uy tín của cả ngành]]
+[[Ngân hàng không thể nào phá sản mà chỉ bị sát nhập. Vì nếu để một ngân hàng phá sản thì nó làm mất uy tín của cả ngành]]
 
 Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro có thể xem là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
 

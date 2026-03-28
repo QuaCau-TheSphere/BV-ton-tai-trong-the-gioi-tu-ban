@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-07T00:33
-updated: 2025-12-19T11:32
+updated: 2026-03-28T17:22
 aliases:
   - Đánh giá bằng kết quả chứ không phải bằng nỗ lực
 ---

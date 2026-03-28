@@ -1,15 +1,14 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-03-28T16:23
+aliases:
+  - Dịch vụ mở thẻ tín dụng
+  - Làm giấy tờ
 ---
-Quy định mở khoản vay yêu cầu BHXH, thu nhập cá nhân, sao kê lương, công ty đang làm, địa chỉ, SĐT liên hệ người thân, và hên xui đậu rớt. Để giải quyết việc này, các bên làm dịch vụ sẽ bùa số liệu và thông đồng/hối lộ người duyệt vay trong ngân hàng. Vì là số liệu bùa nên hạn mức khoản vay muốn cao bao nhiêu cũng được, nhưng họ cũng không dám làm cao để tránh việc khách xù luôn khiến cho nhân viên kinh doanh bị ngân hàng phạt.
-
-Tên gọi khác: làm giấy tờ
+[[🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/Dịch vụ mở khoản vay/Dịch vụ mở khoản vay|Dịch vụ mở khoản vay]]
 
 [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)]]
-[[Dịch vụ mở khoản vay bản chất cũng là từ ngân hàng mà ra]]
-## Đảm bảo 100%
 ### Sang Nguyễn
 - Phí 25% hạn mức thẻ
 - Tối thiểu 20tr
@@ -27,7 +26,11 @@ Tên gọi khác: làm giấy tờ
 SĐT: 0903850094
 
 Nếu là công ty tài chính thì phí 20%
+
+### Thắng
 Xem thêm:: [[Dịch vụ đáo rút]]
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+
+[MỞ THẺ TÍN DỤNG TPHCM \| Facebook](https://www.facebook.com/groups/1096833167314913)

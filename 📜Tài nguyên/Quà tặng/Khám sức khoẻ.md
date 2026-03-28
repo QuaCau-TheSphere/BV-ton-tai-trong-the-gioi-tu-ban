@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-03T23:36
-updated: 2025-12-19T11:32
+updated: 2026-03-25T13:27
 ---
 Các công ty bảo hiểm thường có các chương trình khám sức khoẻ miễn phí. Kết quả xét nghiệm sẽ không cập nhật lên hệ thống y tế, giúp bạn biết thông số nào nên điều chỉnh để cải thiện trước khi lên hợp đồng. Thường sẽ có bao ăn sáng hoặc cho ăn nhẹ.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2025-12-19T11:32
+updated: 2026-02-26T12:37
 title: Làm đại lý ảo Bảo Việt
 ---
 Mô tả công việc:: 
@@ -10,6 +10,7 @@ Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, 
 ## Mô tả chi tiết
 - [ ] Học cơ bản: 5 buổi trong 3 ngày
 - [ ] Học sản phẩm: 4 buổi trong 2 ngày
+
 ## Thông tin thêm
 - **Địa điểm học:** 233 Đồng Khởi, Sài Gòn
 - **Điều kiện dự thi:** Phải thi thử đậu 10 lần trên app thì lên công ty thi thử lần cuối. Đậu rồi mới cho đi thi thật

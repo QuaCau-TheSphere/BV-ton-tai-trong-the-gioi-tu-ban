@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-17T18:06
 ---
 ## Thông tin cơ bản
 ### Thông tin chung
@@ -29,7 +29,7 @@ Số CCCD: 079092007133
 - STK: 0331000438307
 
 ## Thông tin tài chính
-![[Điểm tín dụng của Nhật.png]]
+![[260110 Nhật.pdf]]
 
 ## Các khoản vay
 | Khoản vay                                                                                               | Hạn mức |

@@ -1,9 +1,9 @@
 ---
 share: true
-Tên vault: Tồn tại trong thế giới tư bản
+Tên vault: Tư bản và các hình thái kinh tế thay thế
 Mã vault: B2
 Mô tả vault:
 URL: https://kiếmtiền.quảcầu.cc
 created: 2024-06-19T10:23
-updated: 2025-12-19T11:32
+updated: 2026-02-10T14:04
 ---

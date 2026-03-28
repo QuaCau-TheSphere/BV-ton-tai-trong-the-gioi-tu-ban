@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-18T13:14
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
 Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
@@ -13,7 +13,7 @@ Thực ra miễn là số liệu của bạn được làm một cách hữu cơ
 Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận (consequentialism) và đạo nghĩa luận (deontology). Những người theo các trường phái này đã tranh luận nhiều lần nhưng vẫn chưa thể thuyết phục được trường phái kia thấy mình sai. Nếu bạn hướng đến sự liêm chính thì cũng không sao. Nhưng có lẽ điều đó là không đủ để những người hướng đến sự công bằng thấy họ đang sai.
 
 Điều này cũng giống như việc [[Lừa đảo hội lừa đảo]] vậy. Hai cái sai không làm nên cái đúng, nhưng nó cũng bớt tệ hơn một cái sai :-?
-
+Đạo đức giả
 Xem thêm:: [[Lách luật là phạm luật một cách đúng luật]]
 
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên

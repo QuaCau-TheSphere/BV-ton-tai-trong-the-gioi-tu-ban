@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2025-12-25T16:32
 ---
 THE LOCAL COMMUNITY FUND MODEL
 mô hình quỹ cộng đồng tại các địa phương dễ bị tổn thương xây dựng trên nền tảng quỹ chi hội
@@ -83,7 +83,8 @@ Chủ tịch hội và các trưởng chi hội được ra quyết định cu�
 - Tổng quỹ tại từng chi hội
 - Số lượng hội viên
 - Số tiền quỹ/đầu hội viên
-	…
+- …
+
 Lãi từ hoạt động cho vay từ chân quỹ phải được trả về cho hội viên theo năm. Mọi hoạt động kêu gọi đóng góp, kể cả cho mục đích liên hoan cộng đồng, phải được thực hiện sau khi đã chi trả lãi suất theo năm cho các hội viên. 
 
 Hàng năm sau khi trả lãi cho hội viên, tổ chức một buổi họp liên hội liên chi hội, với sự tham gia của chủ tịch và đại diện các chi hội, để thống nhất toàn xã về mục tiêu sử dụng nguồn vốn chung của cả xã. Để mở khả năng sử dụng nguồn vốn chung liên xã.

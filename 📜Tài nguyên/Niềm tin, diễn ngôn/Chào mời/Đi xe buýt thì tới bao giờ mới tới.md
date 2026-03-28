@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-05T23:06
-updated: 2025-12-19T11:32
+updated: 2026-03-28T17:22
 ---
 Khái niệm:: 
 Xe buýt được đi làn ưu tiên, nếu đi vào giờ cao điểm thì kẹt xe tắc đường nhiều lắm

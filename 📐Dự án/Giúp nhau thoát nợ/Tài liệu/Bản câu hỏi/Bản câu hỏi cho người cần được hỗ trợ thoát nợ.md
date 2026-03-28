@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-16T14:04
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -68,25 +68,13 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
 - Đâu là những tiêu chí để bạn có thể kết luận là mình vỡ nợ?
 - Công việc của bạn đang có những khó khăn gì?
-
-## Làm việc với người hỗ trợ
-- Bạn cần được hỗ trợ những gì?
-- Theo bạn đâu là cách để giúp bạn bền vững?
-- Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
-- Bạn nghĩ mình cần làm những gì để một người đồng ý cho bạn vay? 
-- Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, đặc biệt là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
-- Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
-- Bạn thấy thế nào về việc ghép bạn vào một nhóm vay chung? Bạn dự tính sẽ làm những gì trong nhóm? Bạn thấy có những thuận lợi và khó khăn nào cho bạn?
-- Bạn muốn đặt câu hỏi gì về người hỗ trợ bạn? 
-- Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
-	- Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
-	- Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
-- Bạn có cho rằng việc công khai thông tin về bạn nếu bạn xù là một điều hợp lý không?
-
+ 
 ## Xem thêm
 - [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
 - [[Bản câu hỏi cho người muốn tham gia góp quỹ]]
 - [[Bản câu hỏi cho người tham khảo, người hỗ trợ, người bảo lãnh]]
+
+## Làm việc với người hỗ trợ
 - [[Template câu hỏi cho người cần được hỗ trợ thoát nợ]]
 
 ## Nơi thảo luận

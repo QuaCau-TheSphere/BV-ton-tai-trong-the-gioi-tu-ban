@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-16T20:02
-updated: 2025-12-19T11:32
+updated: 2025-12-28T11:12
 aliases:
   - Danh sách các mục thu chi
 ---
@@ -23,7 +23,7 @@ a-->a3["Thụ động (Passive income)"]
 ```
 
 
-[[❓Quỹ chung là tài sản của mình hay không]]
+[[❓Quỹ chung không được xem là tài sản của mình, nhưng có tác dụng tương đương]]
 [[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]]
 [[Danh mục tài khoản của Nhật]]
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-12-19T14:17
+updated: 2026-03-28T16:59
 title: Các dịch vụ vay tín chấp
 ---
 ## Từ cá nhân
@@ -18,7 +18,7 @@ Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng n�
 | [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]                                                                                    |                               |                                                                                                                                                                                                                                                       |
 | [[Ví trả sau]]                                                                                                                                                          |                               | Momo, ZaloPay, Shopee, ShopeePay, Lazada                                                                                                                                                                                                              |
 | [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]]                                                                   | Bảng lương                    |                                                                                                                                                                                                                                                       |
-| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng\|Công ty tài chính tiêu dùng]] |                               | [[📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison |
+| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng\|Công ty tài chính tiêu dùng]] |                               | [[🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Tổ chức cụ thể/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison |
 
 ## Bảng xếp hạng
 %%Sẽ chuyển dần thành bảng sau. Để dạng này để nhỡ còn bổ sung thêm gì thì di chuyển các dòng cho dễ%%
@@ -31,7 +31,7 @@ Cao nhất là có lợi nhất.
 4. Quỹ tín dụng nhân dân   
 5. [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]]
 6. [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng|Công ty tài chính tiêu dùng]]
-7. [[App vay nóng]]
+7. [[App vay nóng, app đen]]
 
 ### Theo hạn mức
 1. [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]]
@@ -40,7 +40,7 @@ Cao nhất là có lợi nhất.
 4. [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]
 5. [[Ví trả sau]]
 6. [[Tổ chức tài chính vi mô]]
-7. [[App vay nóng]]
+7. [[App vay nóng, app đen]]
 
 ### Theo độ dễ dàng tiếp cận
 1. [[ dân   
@@ -70,4 +70,4 @@ Cao nhất là có lợi nhất.
 Kênh telesale và kênh thị trường
 [[Telesale hỏi cho đã cũng phải tự làm trên app]]
 
-[[Momo bảo chứng sẽ đáng tin hơn FE, vì FE không biết mình là ai còn Momo thì có đủ số liệu dòng tiền]]
+[[Dùng Momo để lên khoản vay dễ hơn dùng chính app công ty, vì công ty không biết mình là ai còn Momo thì có đủ số liệu dòng tiền]]

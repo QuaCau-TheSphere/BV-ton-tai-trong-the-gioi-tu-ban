@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T08:42
-updated: 2025-12-19T10:28
+updated: 2026-03-25T13:29
 description: Chỉ cần chạy ngoài đường 30 phút/ngày, bạn sẽ được bao nuôi nhà cửa, thức ăn miễn phí. Thời gian còn lại là của bạn
 aliases:
   - Dịch vụ bao nuôi ở Thuận An
@@ -41,7 +41,7 @@ Tại sao lại chọn thành phố Thuận An? Vì đây là địa bàn hoạt
 Tại sao lại chọn phường Bình Hòa? Vì đây là phường bình dân nhất, cho nên có mức giá thấp và cũng có nhiều khách hàng của FE nhất.
 
 ## Công việc cần làm
-Bạn sẽ đóng vai một người xin vào làm cho công ty tài chính FE ở bộ phận xử lý tín dụng thực địa. Bạn sẽ được giao cho 190 hồ sơ khách hàng (ở đây thường gọi là cây, là Việt hoá của từ case). 190 cây này sẽ phân bố rải rác khắp các phường ở Thuận An. Nhiệm vụ của bạn là đến từng phường và báo cáo là mình đã đến gặp khách hàng (checkin), dù thực ra là không phải. Mỗi ngày phải checkin tối thiểu 13 cây. Cả tháng phải xong 190 cây. 
+Bạn sẽ đóng vai một người xin vào làm cho công ty tài chính FE ở bộ phận xử lý tín dụng thực địa. Bạn sẽ được giao cho 190 hồ sơ khách hàng (ở đây thường gọi là cây, là từ Việt hoá của "case"). 190 cây này sẽ phân bố rải rác khắp các phường ở Thuận An. Nhiệm vụ của bạn là đến từng phường và báo cáo là mình đã đến gặp khách hàng (checkin), dù thực ra là không phải. Mỗi ngày phải checkin tối thiểu 13 cây. Cả tháng phải xong 190 cây. 
 
 Bạn chỉ cần mỗi ngày đi bộ tầm 20 phút để checkin 13 cây. Chi tiết làm việc với app xem ở [[Hướng dẫn dùng phần mềm iCollect]]. Đừng quên rằng trong giai đoạn mới nhận việc thì bạn sẽ mất nhiều thời gian để họp hành, làm quen hơn. 
 

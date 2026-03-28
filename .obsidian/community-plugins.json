@@ -37,5 +37,6 @@
   "image-to-text-ocr",
   "dataview-autocompletion",
   "hledger-notes",
-  "simple-columns"
+  "simple-columns",
+  "obsidian-path-finder"
 ]

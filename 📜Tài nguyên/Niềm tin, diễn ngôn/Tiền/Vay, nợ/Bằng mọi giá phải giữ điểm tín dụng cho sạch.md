@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:55
-updated: 2025-12-19T13:26
+updated: 2026-03-28T17:22
 ---
 Khái niệm:: 
 Lý do:: [[Muốn vay nợ cần có uy tín]], [[Có thêm tiền là cách để có thêm dòng tiền]], [[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương]]

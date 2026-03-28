@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-02-09T13:40
 aliases:
   - Hồ sơ vay của Lý Minh Nhật
 ---
@@ -21,6 +21,20 @@ aliases:
 
 ## Thông tin tín dụng
 ![[Điểm tín dụng của Nhật.png]]
+![[260110 Nhật.pdf]]
+
+Các nơi đã rớt hồ sơ
+
+| Tên công ty        | Ngày bị rớt | Ngày lên lại được |
+| ------------------ | ----------- | ----------------- |
+| Kredivo            | 11/1/2026   | 12/4/2026         |
+| Cake               |             |                   |
+| FE                 | 8/2/2026    |                   |
+| MCredit            | 8/2/2026    |                   |
+| Mirae Asset        | 8/2/2026    |                   |
+| Home Credit        | 8/2/2026    |                   |
+| Cathay United Bank | 8/2/2026    |                   |
+
 
 ## Thông tin cơ bản
 ### Thông tin chung

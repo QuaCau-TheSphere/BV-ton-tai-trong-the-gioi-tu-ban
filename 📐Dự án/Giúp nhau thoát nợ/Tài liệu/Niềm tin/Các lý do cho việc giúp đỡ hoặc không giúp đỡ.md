@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:57
-updated: 2025-12-19T11:32
+updated: 2026-03-28T14:12
 aliases:
   - được và mất
   - cân nhắc lợi hại
@@ -48,7 +48,7 @@ Xem thêm:: [[Các khó khăn của người cần vay và lý do từ chối ch
 ❓Có những cái ban đầu thấy tệ, nhưng sau đó lại thấy có ý nghĩa. Đó là sự thoả hiệp và đánh mất con người thật của mình, hay là thấy được những điều mình trước đây mình đã không thấy?
 
 ### Thấy vượt qua khả năng của mình
-- Thấy [[lo cho thân mình còn chưa xong thì lo cho ai]]
+- Thấy [[Lo cho thân mình còn chưa xong thì lo cho ai]]
 - Thấy còn nhiều trách nhiệm với những người khác 
 
 ❓[[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|Con người thường không biết được năng lực của mình? Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên?]] 

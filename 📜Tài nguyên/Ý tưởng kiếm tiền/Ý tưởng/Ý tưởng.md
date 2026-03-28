@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2025-12-19T11:32
+updated: 2026-02-10T12:41
 aliases:
-  - Kiếm tiền nhanh
-  - Kiếm dự án thuê ngoài
   - Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện
   - Làm nhân viên ăn lương
   - Đầu tư kinh doanh bán hàng

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-02-28T12:05
 ---
 Khái niệm:: 
 Họ có thể vào được tài khoản ngân hàng của mình, chỉ cần mặt trước căn cước công dân của cộng với số điện thoại của mình. 

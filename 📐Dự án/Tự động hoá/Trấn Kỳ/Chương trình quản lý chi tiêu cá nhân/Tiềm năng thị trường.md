@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-07T13:05
 ---
 ## Đối thủ cạnh tranh
 Theo dữ liệu của Money Lover, hơn 60% (1.2 triệu user) sau khi sử dụng và tải app đã xóa app hoặc không sử dụng. Daily active không thường xuyên. Một người dùng cho biết họ cũng chỉ làm những cái được nhiều người la ó nhất.

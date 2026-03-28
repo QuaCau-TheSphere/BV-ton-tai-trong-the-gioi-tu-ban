@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-07T19:36
-updated: 2025-12-19T11:32
+updated: 2026-01-14T14:13
 ---
 ## Tóm tắt
 - Trước 15h ngày 8/6 Kendy cần có 11tr để có thể có thời gian làm việc trong vòng 1 tháng

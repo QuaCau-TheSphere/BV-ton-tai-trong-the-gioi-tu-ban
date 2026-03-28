@@ -1,13 +1,17 @@
 ---
 share: true
-updated: 2025-12-19T11:32
+updated: 2026-03-25T13:05
 description: Thử nghiệm trong việc tư duy lại hệ thống kinh tế và tiền tệ
 created: 2025-08-31T16:59
 aliases:
+  - gift bank
   - vcil
 ---
-Sao kê
-https://drive.google.com/drive/folders/1IBrAo42Tk_jbl3LVNCILiI9mzFpnMScG?fbclid=IwY2xjawK7cAJleHRuA2FlbQIxMABicmlkETE2YVZ3WTJpTmZxdjFZZ29PAR4F6YCtIxUKSJ0fsMU_tO9G4QDojWN5Pc_Z5nQSbIheDaCuGd0zr3vdiea5WA_aem_maBL0GaDdRKi7jgOZ9MvkA
+- [Sao kê](https://drive.google.com/drive/folders/1IBrAo42Tk_jbl3LVNCILiI9mzFpnMScG?fbclid=IwY2xjawK7cAJleHRuA2FlbQIxMABicmlkETE2YVZ3WTJpTmZxdjFZZ29PAR4F6YCtIxUKSJ0fsMU_tO9G4QDojWN5Pc_Z5nQSbIheDaCuGd0zr3vdiea5WA_aem_maBL0GaDdRKi7jgOZ9MvkA)
+- [Phiếu yêu cầu rút tiền](https://forms.gle/75zj2sRCkTRPAbcX8)
+- [Free Money Day \| A more generous world is possible.](https://freemoneyday.org/)
+
+---
 
 ![](https://substackcdn.com/image/fetch/$s_!lPgF!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab5c2e10-6886-4f67-92ce-2464a0fafbef_1640x924.png)
 
@@ -94,7 +98,3 @@ Hoặc quét mã sau
 Bất cứ khi nào anh/chị muốn rút tiền từ “ngân hàng" này vui lòng điền vào form đăng ký:
 
 *[https://forms.gle/75zj2sRCkTRPAbcX8](https://forms.gle/75zj2sRCkTRPAbcX8?fbclid=IwZXh0bgNhZW0CMTAAAR2xFkye6mYZwGKdav3kU69XqfbOUQfcxKiKE6gkl0NbYIotmTqe0YN5bTs_aem_JspY-gngi5A1YpK-x7eGHA)*
-
-[\[Vcil Comunity Membership - Gift bank\] Yêu cầu rút tiền](https://forms.gle/75zj2sRCkTRPAbcX8)
-
-[Free Money Day \| A more generous world is possible.](https://freemoneyday.org/)

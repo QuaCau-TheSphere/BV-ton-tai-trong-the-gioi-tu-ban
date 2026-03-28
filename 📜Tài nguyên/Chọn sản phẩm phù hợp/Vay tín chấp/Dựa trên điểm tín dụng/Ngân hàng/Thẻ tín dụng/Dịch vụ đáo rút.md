@@ -1,21 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-20T15:52
+updated: 2026-03-28T15:48
 aliases:
   - Lê Ngọc Biết
+  - VNC
 ---
-Mặc dù [[Cấm rút tiền tại cửa hàng để tránh việc rửa tiền|Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền]], nhưng [[Các dịch vụ rút đáo hoạt động công khai]].
-
-Các nơi rút thẻ ngại khách rút ví trả sau vì [[Ở ví trả sau, thuế được trừ tự động mỗi giao dịch. Ở thẻ tín dụng thì cuối tháng mới trừ]]
-[[Dịch vụ đáo lấy 2% là sát rồi]]
-[[Các chỗ đáo ngại thẻ JCB vì phí cao và dễ bị theo dõi máy POS]]
-Xem thêm:: [[Dịch vụ mở khoản vay]]
-
-Nhân viên đáo nói là có gì hỏi anh chủ.
-Một phần lý do nhiều người gãy nợ một phần vì phí đáo rút cao.
-
-[[Quỹ tín dụng vi mô Quả Cầu]], để bền vững hơn, ít lệ thuộc vào thẻ hơn
+[[Dịch vụ đáo rút thẻ]]
 
 | Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
 | ------------ | ----------------------- | ------- | ------- | -------- |
@@ -23,7 +14,6 @@ Một phần lý do nhiều người gãy nợ một phần vì phí đáo rút 
 |              | 297 Ngô Gia Tự          | 1.6     | 1.6     |          |
 Các ngày 4, 5, 10, 15 là ngày cao điểm. Ra có khi phải chờ lâu 
 
-## Đánh giá một số dịch vụ rút đáo 
 ## Nghi ngờ lừa đảo
 ### Lê Ngọc Biết
 #### Chính sách ban đầu
@@ -51,6 +41,8 @@ SĐT: 0909 205 202
 Nhân viên dùng nick của Biết, nhưng khi hỏi về chính sách thì lại nói có gì hỏi trực tiếp Biết chứ tụi em không biết
 
 Tới tháng 12/2025 thì ko còn thuê ở Q4 nữa. Nhắn cho Bảo thì chỉ dẫn tới tiệm khác
+
+Sau đó nhắn thì không trả lời gì thêm
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

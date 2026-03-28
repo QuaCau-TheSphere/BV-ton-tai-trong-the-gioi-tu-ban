@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T21:14
-updated: 2025-12-19T11:32
+updated: 2026-03-28T16:34
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
 aliases:
   - Tại sao nên mua bảo hiểm từ Quả Cầu?
@@ -22,8 +22,8 @@ Vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay b
 Bọn mình cam kết không khai thác cảm xúc của bạn, tạo gánh nặng trong suy nghĩ hoặc lợi dụng sự ngại mất lòng của bạn, mà chỉ muốn nâng đỡ lý tính bạn. Vì Quả Cầu chạy theo sự bền vững chứ không chạy theo lợi nhuận nên bọn mình không sợ bị bạn từ chối. Bạn có không mua thì bọn mình vẫn luôn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn. Bọn mình có thể mạnh dạn nói như vậy vì [[#Bạn không phải trả tiền hoa hồng cho bọn mình]].
 
 Bọn mình sẽ minh bạch hết mức có thể. Tại website kiếmtiền.quảcầu.cc, bạn sẽ biết được:
-- [[⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Bảo hiểm/Bảo hiểm|Các kiến thức và hiểu biết sâu]] về bảo hiểm. Không chỉ là kiến thức cơ bản mà còn là từ các chia sẻ của những người đã lăn lộn cá nhân chứ không được dạy lý thuyết, hoặc từ các nghiên cứu, kể cả khi việc biết đến chúng làm giảm nhu cầu mua bảo hiểm của bạn.
-- [[📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Bảo hiểm/Bảo hiểm|Các chính sách của các công ty mà bọn mình thu thập và phân tích được]]
+- [[🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Bảo hiểm|Các kiến thức và hiểu biết sâu]] về bảo hiểm. Không chỉ là kiến thức cơ bản mà còn là từ các chia sẻ của những người đã lăn lộn cá nhân chứ không được dạy lý thuyết, hoặc từ các nghiên cứu, kể cả khi việc biết đến chúng làm giảm nhu cầu mua bảo hiểm của bạn.
+- [[🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Chính sách công ty/Chính sách công ty|Các chính sách của các công ty mà bọn mình thu thập và phân tích được]]
 - [[📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Bảo hiểm|Kế hoạch bán hàng của bọn mình]]
 
 Với những thông tin sâu hơn (như thông tin của những người tham gia), bọn mình cũng sẽ thoải mái cho xem nếu như bọn mình cũng tin được rằng bạn cũng [[#Bọn mình đứng về người yếu thế|đứng về người yếu thế]].

@@ -1,7 +1,10 @@
 ---
 share: true
-created: 2025-01-10T12:14
-updated: 2025-12-19T11:32
+created: 2025-03-27T17:13
+updated: 2026-03-28T17:22
 aliases:
   - Sợ bị nghĩ là mình vòi tiền
 ---
+Khái niệm:: 
+
+Nguồn:: 

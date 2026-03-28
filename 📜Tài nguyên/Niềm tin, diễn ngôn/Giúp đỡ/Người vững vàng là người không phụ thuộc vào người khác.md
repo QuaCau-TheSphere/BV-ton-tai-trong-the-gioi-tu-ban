@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-20T17:48
-updated: 2025-12-19T14:27
+updated: 2026-03-28T17:22
 ---
 [[Giúp đỡ sẽ tạo ra sự lệ thuộc]]
 [[Áp lực tạo kim cương]]

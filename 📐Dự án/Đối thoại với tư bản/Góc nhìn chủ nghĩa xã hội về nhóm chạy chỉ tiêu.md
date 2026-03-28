@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-24T14:55
-updated: 2025-12-19T11:32
+updated: 2026-02-26T12:54
 ---
 Nhân viên bán hàng của các công ty tài chính thường được áp đặt chỉ tiêu (KPI). Khi các công ty, tập đoàn đặt việc tối đa hoá lợi nhuận lên hàng đầu, [[Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình|họ sẽ thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình]], và áp đặt các chỉ tiêu (KPI) hằng tháng, và dùng hoa hồng để tạo động lực. Bởi vì [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]], nên các nhân viên bán hàng được đào tạo với các tình huống khác nhau để gỡ bỏ sự từ chối. Nên để kiếm được đồng tiền, họ không còn cách nào khác là từ bỏ vai trò là người nâng đỡ suy nghĩ lý tính của khách hàng nữa, mà chỉ còn [[Người bán hàng giống như giao diện giọng nói của một cái máy hơn là một con người thật|giao diện giọng nói của một cái máy hơn là một con người thật]]. Và họ phải xem điều mình làm [[Bán hàng bằng sự sợ hãi, nhưng lại xem đó là giọt mồ hôi quý giá|là giọt mồ hôi quý giá, là ý nghĩa của việc lao động]]. [[Để kiếm được đồng tiền, người bán hàng phải ráng chen vào chỗ đã có người đáp ứng nhu cầu rồi. Phải cạnh tranh với những người giống mình]]. [[Các từ khách hàng, chăm sóc, tư vấn, quà tặng vốn không có nghĩa là phải chấp nhận điều kiện của mình mới được nhận, nhưng thực chất lại được dùng như vậy trong quá trình bán hàng|Các từ "khách hàng", "chăm sóc", "tư vấn", "quà tặng" vốn không có nghĩa là phải chấp nhận điều kiện của mình mới được nhận, nhưng thực chất lại được dùng như vậy trong quá trình bán hàng]]
 

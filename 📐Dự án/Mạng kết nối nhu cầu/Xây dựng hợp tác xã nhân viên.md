@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-02-03T13:55
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
 ---
@@ -13,7 +13,8 @@ Những thông tin không dễ để biết. Không phải vì nó nội bộ. K
 
 Điều gì khiến nhân viên ngân hàng không đăng lên các nhóm xem phim? Có được thông tin tức thời về các nhu cầu khác nhau. Phim thì chỉ là nhóm phim, muốn đồ ăn thì phải qua nhóm đồ ăn. Tức là vẫn phải chịu khó săn. Còn cái này là như một cổng thông tin, hỏi và được trả lời. 
 
- Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng nguồn
+ Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng ngành dịch vụ.
+ 
 ## Điều gì khiến họ có động lực để chia sẻ vào?
 - Kiếm tiền cho bản thân (đạt KPI)?
 - Đáp lại một lợi ích đã được nhận trước đó?
@@ -39,8 +40,6 @@ Không phải sản phẩm nào cũng có thể được đánh giá bởi một
 - [[Xây dựng công đoàn]]
 - [Bản đồ tri thức cộng đồng ](https://obsidian.quảcầu.cc/📜Tài%20nguyên/Nhu%20cầu%20công%20việc/Viết%20và%20chia%20sẻ%20tri%20thức/Chia%20sẻ%20kho%20tri%20thức%20của%20mình%20cho%20mọi%20người?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=C1&utm_content=📐Dự+án%2FMạng+kết+nối+nhu+cầu%2FXây+dựng+hợp+tác+xã+nhân+viên.md&utm_term=). Khác gì cái kho này?
 
-
-
 ## Những mô hình khác cũng đáp ứng nhu cầu người dùng tốt hơn
 Không thực sự đáp ứng những nhu cầu thiết yếu, chỉ đáp ứng những thứ giải trí, những thứ không khó để có
 Cạnh tranh với vi mô mới là điều quan trọng hơn. Ví dụ như việc vay nợ, việc giới thiệu các vi mô sẽ giết chết mọi nhân viên bán hàng, vì không một chương trình khuyến mãi nào có thể che đậy được một sự thật là lãi vay là cao. Và các chương trình khuyến mãi chủ yếu là vào những ngành giải trí, không phải là thiết yếu. 
@@ -58,10 +57,10 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 
 
 
-[[❓vốn xã hội, vốn biểu tượng, vốn văn hóa là tài sản vô hình]]
+[[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình]]
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái
 
-Công xã là việc bị đánh thuế 100%
+[[Công xã là việc bị đánh thuế 100%]]
 Doanh nghiệp xã hội

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T21:34
-updated: 2025-12-19T11:32
+updated: 2026-01-12T12:09
 ---
 Khái niệm:: 
 Cướp biển hoạt động bằng thương hiệu. So với lực lượng quân đội, thì nếu xảy ra đánh nhau thì người bị thiệt nhiều hơn là chúng, nên chúng cần được mọi người truyền tai nhau rằng chúng rất ác để họ tự động đầu hàng

@@ -1,0 +1,17 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2026-02-03T15:11
+---
+Tập trung xây dựng tài sản vô hình: [[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình|vốn xã hội, vốn biểu tượng, vốn văn hóa, vốn kiến thức]]. [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]. [[❓Các loại tài sản hữu hình, thời gian, công sức là các loại tài sản càng dùng càng mất. Các loại tài sản còn lại càng dùng càng có thêm]]
+
+Trú ẩn trong loại tài sản có khả năng sinh lợi tự động
+
+## Chuyển đổi sang tiền
+Thanh khoản thấp, như ôm một đống đất không bán được thì cũng như không
+
+Thuyết trình, đi làm
+
+## Nhỡ khẩn cấp thì sao
+## Kiếm gì ăn
+[[Cộng đồng có chủ đích]]

@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2024-06-19T18:51
-updated: 2025-12-19T11:32
+updated: 2026-02-26T12:18
+description: Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc
+aliases:
+  - Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc?
 ---
-
 [SocialLife Community](https://www.facebook.com/groups/607055182969235/posts/2126257434382328/)
 [Vietnam Marxist Study Group | Facebook](https://www.facebook.com/groups/347957905776254/posts/1463725287532838)
 
@@ -11,3 +13,5 @@ Mình muốn hiểu quan điểm về cho tiền của người cho vay tiền (
 
 ![[Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg]]
 [[Mỹ đề cao tư bản, nhưng định hình thể chế philanthropy thông qua luật. Châu Âu áp thuế thu nhập rất cao]]
+
+[[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản]]

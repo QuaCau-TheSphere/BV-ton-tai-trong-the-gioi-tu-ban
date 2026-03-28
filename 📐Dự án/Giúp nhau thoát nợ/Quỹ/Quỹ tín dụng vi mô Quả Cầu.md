@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T15:15
+updated: 2026-03-24T14:13
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -19,11 +19,10 @@ Nhưng:
 
 Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiều người cùng tham gia hỗ trợ họ. Một trong những cách thường gặp là [[Gây quỹ cộng đồng]], như mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi vận động mọi người tham gia, chia sẻ. Nhưng giải pháp này có những vấn đề, ở cả phía cá nhân người cho tiền cũng như ở mô hình. Với người cho tiền, dù [[sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa]], [[Việc mất tiền làm tâm lý con người bị đau dù có thể nó vô lý|việc mất tiền vẫn làm cho tâm lý của họ bị đau]]. Với mô hình, nó không chú trọng vào việc xây dựng cộng đồng hay thay đổi hệ thống, mà chỉ dừng ở mức [[từ thiện]].
 
-Các mô hình như [[Quỹ Đồng Hành]] 
-[[VSLA đặc biệt phù hợp với những người muốn kết hợp giữa việc tiết kiệm có kỷ luật và tạo tác động xã hội tích cực trong cộng đồng]]
+Các mô hình như [[Quỹ Đồng Hành]], [[VSLA đặc biệt phù hợp với những người muốn kết hợp giữa việc tiết kiệm có kỷ luật và tạo tác động xã hội tích cực trong cộng đồng|VSLA]]
 Song song với việc xây dựng các hình thức kinh tế thay thế phi tư bản, một giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn đã từng cho bạn bè mình mượn tiền và muốn chuyện này được giải quyết triệt để hơn, bạn có thể cân nhắc tham gia quỹ.
 
-phù hợp với người sẵn sàng [[Đứng ra vay giùm, cho mượn tài sản thế chấp]]
+phù hợp với người sẵn sàng [[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp]]
 
 ## Mô hình hoạt động
 Mọi thành viên của quỹ sẽ được tham gia vào mọi quyết định của quỹ. Cách thức ra quyết định sẽ theo hướng dẫn trong [Sổ tay Enspiral](https://handbook.enspiral.com/agreements/decisions.html).
@@ -61,8 +60,10 @@ Xem thêm:: [[Danh mục tài khoản và ý nghĩa bảng cân đối của qu�
 ### Pháp lý
 Một điều chắc chắn là quỹ sẽ không đăng ký làm tổ chức tài chính vi mô, vì [[Tổ chức tài chính vi mô chính thức phải có chủ là tổ chức chính trị - xã hội được thành lập hợp pháp, và khách hàng phải được xác nhận là nghèo hoặc từng nghèo]].
 
+Có thể nó sẽ hoạt động dưới hình thức hợp tác xã, doanh nghiệp xã hội hoặc chỉ đơn giản là doanh nghiệp. Nhưng nếu nó có hệ thống thông tin tốt thì chỉ cần là một nhóm, cộng đồng, mạng lưới, liên minh các cá nhân có chung mục tiêu là được. Lúc đó nên tránh gọi là quỹ vì nó tạo cảm giác là một thể thống nhất.
+
 ## Tình hình tài chính
-Toàn bộ nguồn vốn hiện tại đều đến từ [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)|Nhật]]. Hiện tại đang cho 3 bạn vay gần 50tr, trong đó gồm các khoản vay từ thẻ tín dụng sau:
+Hiện tại nguồn vốn đang đến từ [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)|Nhật]]. Hiện tại đang cho 3 bạn vay gần 50tr, trong đó gồm các khoản vay từ thẻ tín dụng sau:
 
 | Khoản vay                                                                                               | Hạn mức |
 | ------------------------------------------------------------------------------------------------------- | ------- |
@@ -77,7 +78,7 @@ Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ:
 ### Nhu cầu của những người vay hiện tại
 Trong 6 tháng tiếp theo mỗi tháng vẫn tiếp tục cho vay tiếp 15tr, với mục tiêu giữ điểm tín dụng cho những người vay. Giả sử mỗi người đóng góp 1tr thì mỗi tháng cần 15 người tham gia. Mời bạn đề xuất khoản cho vay bạn thấy phù hợp và an toàn với bạn.
 
-Tham khảo [[Đề xuất vay nợ|đề xuất vay nợ của một bạn]] để hiểu thêm.
+Tham khảo [[📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nguyễn Hữu Lộc/Đề xuất vay nợ|đề xuất vay nợ của một bạn]] để hiểu thêm.
 
 ## Công việc
 ### Nhóm công việc tìm kiếm người cho vay

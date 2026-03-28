@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15587fc18dce3ce7",
+        "id": "5999653f1c532883",
         "type": "tabs",
         "children": [
           {
-            "id": "be25d9a386de0058",
+            "id": "cda0d801645d843b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Quỹ/Truyền thông.md",
+                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Tìm nguồn cho mượn tiền qua đêm.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Truyền thông"
+              "title": "Tìm nguồn cho mượn tiền qua đêm"
             }
           },
           {
-            "id": "d971c36e4538a83a",
+            "id": "0f9a4cb43fb4d415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Vay nợ/Tín chấp/Không dựa trên điểm tín dụng/Vay nóng/Lãi cắt cổ ngoài việc bù đắp rủi ro còn là để thuê đòi nợ.md",
+                "file": "⚡Hiểu biết sâu/Ξ Nguồn/Cảm nghĩ sau khi xem phim.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lãi cắt cổ ngoài việc bù đắp rủi ro còn là để thuê đòi nợ"
+              "title": "Cảm nghĩ sau khi xem phim"
+            }
+          },
+          {
+            "id": "f56e33137b935a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Xù nợ ngân hàng"
+            }
+          },
+          {
+            "id": "c9f897e9efdc8a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Nguyên tắc hoạt động/Một nửa dân số Mỹ có bảo hiểm nhân thọ.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Một nửa dân số Mỹ có bảo hiểm nhân thọ"
+            }
+          },
+          {
+            "id": "d80d2ff622640b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Chính sách công ty/Công ty tài chính tiêu dùng/Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an"
+            }
+          },
+          {
+            "id": "460f23acbc14ea37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/Mua đô.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mua đô"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4, 5, 10",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.0004348754883
+    "width": 299.0040512084961
   },
   "right": {
     "id": "058d2be84526927e",
@@ -190,8 +286,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -204,6 +300,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "hledger-notes:Add hledger entry": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -211,65 +314,58 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "open-vscode:VSCode": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
-      "hledger-notes:Add hledger entry": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d971c36e4538a83a",
+  "active": "776a43425fc4ec1e",
   "lastOpenFiles": [
-    "📐Dự án/Giúp nhau thoát nợ/Quỹ/Truyền thông.md",
-    "⚡Hiểu biết sâu/Ngành nghề cụ thể/Tài chính/Vay nợ/Tín chấp/Không dựa trên điểm tín dụng/Vay nóng/Lãi cắt cổ ngoài việc bù đắp rủi ro còn là để thuê đòi nợ.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Phỏng vấn/Untitled.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xử lý người xù nợ.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Nam nguyễn.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Chính sách hoa hồng.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Ý tưởng kiếm tiền từ Nhật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Việc chống biến đổi khí hậu đang bị định hướng vào việc phụ thuộc vào những thứ đem lại lợi ích cho tư bản như vệ tinh, AI.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Giúp đỡ/Người vững vàng là người không phụ thuộc vào người khác.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ vay nóng.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Luật, quản lý nhà nước/Tài chính/Tài chính vi mô/Huyện cho vay tối đa 50tr, nhưng chỉ giải ngân theo gói tập thể tối thiểu 500tr.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Fiverr thiên về dự án ngắn hạn, chỉ có trả theo kết quả. Upwork có cả dự án dài hạn, có trả theo giờ.md",
-    "⚡Hiểu biết sâu/Hình thức kiếm tiền/Người nghèo và người trung lưu có rất nhiều tiêu sản. Người giàu có tăng sản.md",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Khai thác điểm yếu con người.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Thách thức, đam mê, phát triển bản thân/Áp lực tạo kim cương.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Thách thức, đam mê, phát triển bản thân/Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Áp lực giết chết sự sáng tạo.md",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Áp lực.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Luật pháp/Nếu khách hàng không rõ ngay từ đầu thì sao còn ký. Nếu đã ký thì là biết rõ rồi.md",
-    "⚡Hiểu biết sâu/Nền kinh tế hàng hoá/Kinh tế chính trị/Chủ nghĩa tư bản, tân tự do/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
-    "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác, chống thiết kế trục lợi/Hệ điều hành/Chặn quảng cáo trong app Android.md",
-    "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác, chống thiết kế trục lợi/Chặn rác, chống thiết kế trục lợi.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Dịch vụ đáo rút.md",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Untitled.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Không dựa trên điểm tín dụng",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dựa trên điểm tín dụng",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Không dựa trên điểm tín dụng",
-    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng",
-    "📜Tài nguyên/Cảnh giác lừa đảo/Đánh vào sự quá tải nhận thức",
-    "Ξ Thiết lập/Ảnh/Công việc/Trang 4.jpg",
-    "Ξ Thiết lập/Ảnh/Công việc/Trang 3.jpg",
-    "Ξ Thiết lập/Ảnh/Công việc/Trang 2.jpg",
-    "Ξ Thiết lập/Ảnh/Công việc/Trang 1.jpg",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Pasted image 20251210091934.png",
-    "Ξ Thiết lập/Ảnh/Công việc/Pasted image 20250707205013.png",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/1705770374571.png",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/1705770381055.png",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Pasted image 20240620101103.png",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Pasted image 20240619191052.png",
-    "Ξ Thiết lập/PDF/Ngo doc tre em.pdf",
-    "Ξ Thiết lập/PDF/[Public] Cẩm nang Hội viên Vcil 1.0.pdf",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Tâm lý",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/New folder",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Kinh tế học",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Mua đô.md",
+    "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/Mua đô.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm.md",
+    "🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Chính sách công ty/Chính sách công ty.md",
+    "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/PPPAY.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Ví điện tử/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
+    "📜Tài nguyên/Tình hình ở Việt Nam/Niềm tin, diễn ngôn/Niềm tin, diễn ngôn.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Tiền là nguồn gốc của tội lỗi.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Tiền không mua được hạnh phúc.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Người khôn không làm kinh tế được, chỉ có người ngu mới làm được.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Doanh nhân chỉ biết kiếm tiền.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Cứ xem người giàu hút máu thì sẽ mãi chẳng giàu được.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Công ty trả tiền để mình làm việc khó, chứ không phải để mình kêu ca.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Cái gì không mua được bằng tiền thì mua được bằng rất nhiều tiền.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Có vay có trả.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Chuyện nợ nần là chuyện riêng của cá nhân.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Cho người khác biết tình hình nợ sẽ làm họ nghĩ là mình vòi tiền.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Bằng mọi giá phải giữ điểm tín dụng cho sạch.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Người nghèo ăn xổi ở thì.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Người nghèo lười biếng.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Cái cần không phải là có tiền, mà là có dòng tiền.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Kiếm ăn/Đồng tiền đi liền khúc ruột.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Kiếm ăn/Tự nuôi sống bản thân.md",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Kiếm ăn",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Giá trị",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Tuyển dụng",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Đánh giá",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Vĩ mô",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền",
+    "📜Tài nguyên/Niềm tin, diễn ngôn/Thách thức, đam mê, phát triển bản thân",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260312131914.png",
+    "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131914.png",
+    "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131907.png",
+    "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131859.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260312131907.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260312131859.png",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Điểm tín dụng của Nhật.png",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/Điểm tín dụng của Nhật.png",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/Pasted image 20250703094050.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

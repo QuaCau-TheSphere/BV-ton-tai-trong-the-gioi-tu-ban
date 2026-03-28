@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-04-07T15:27
-updated: 2025-12-19T11:32
+updated: 2026-03-28T14:12
 aliases:
   - Liệu công ty X có đang lừa đảo, rửa tiền không?
   - App lừa đảo vẫn lên được mấy cái appstore
 ---
 ## Sao công ty này lại cho nhiều khuyến mãi quá vậy? Có phải là lừa đảo không?
-Có một niềm tin phổ biến rằng [[không có gì là miễn phí thực sự cả]]. Nên nếu mà có ai cho mình nhiều tiền như vậy thì chắc là lừa đảo. Khi đối diện với các hoài nghi như vậy, các công ty thường lập luận rằng họ có giấy phép kinh doanh hợp pháp, và có hàng chục văn phòng đại diện toàn quốc với hàng ngàn nhân viên. Khách hàng nghi ngờ thì cứ mời lên trụ sở công ty để kiểm chứng. Thậm chí cứ việc đi tố cáo công an thoải mái. "Tôi biết cái công ty này đang lừa đảo nè. Hãy bắt bọn chúng đi".
+Có một niềm tin phổ biến rằng [[Không có gì là miễn phí thực sự cả]]. Nên nếu mà có ai cho mình nhiều tiền như vậy thì chắc là lừa đảo. Khi đối diện với các hoài nghi như vậy, các công ty thường lập luận rằng họ có giấy phép kinh doanh hợp pháp, và có hàng chục văn phòng đại diện toàn quốc với hàng ngàn nhân viên. Khách hàng nghi ngờ thì cứ mời lên trụ sở công ty để kiểm chứng. Thậm chí cứ việc đi tố cáo công an thoải mái. "Tôi biết cái công ty này đang lừa đảo nè. Hãy bắt bọn chúng đi".
 
 Nhưng nghĩ kỹ lại thì không phải cứ có giấy tờ hợp pháp thì là không lừa đảo. Có mấy vụ mua bán đất bằng giấy tờ giả các kiểu. Tương tự, các lập luận rằng nó có app trên CH Play và Appstore cũng không đảm bảo rằng nó không lừa đảo. App lừa đảo vẫn lên được mấy cái Appstore. Nhưng những vụ đó có vẻ như khác với các công ty này ở chỗ nó không cần tuyển nhiều người. Các công ty mà thực sự mở được nhiều văn phòng như vậy chắc không dại gì làm giấy tờ giả, nên ta có thể bỏ qua trường hợp này.
 [[Những trang web giả mạo không chỉ dùng để lừa người dân, mà còn có thể dùng khi cần hạ thấp uy tín công ty thật]]

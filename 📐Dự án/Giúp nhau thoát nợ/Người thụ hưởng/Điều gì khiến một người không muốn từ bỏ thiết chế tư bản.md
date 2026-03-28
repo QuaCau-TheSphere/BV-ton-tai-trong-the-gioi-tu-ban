@@ -1,13 +1,11 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
-Aliases:
-  - Lý do, tại sao, lý do
+updated: 2026-02-26T12:15
 title: Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?
+Aliases:
+  - Lý do, tại sao, vì sao
 ---
-
-
 - Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
 - Khi có thêm một chân rết trong thiết chế tư bản
 - Khi có thể được dùng để kiểm tra tính ưu việt của hệ thống
@@ -67,3 +65,4 @@ em nghĩ không cần phải độc lập với tư bản đâu ạ, vì căn b�
 
 [[Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế|Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?]]
 [[Xù nợ ngân hàng]]
+[[❓Điều gì khiến một người có tiền nhiều tới mức đầu tư cũng ko hết vẫn ko muốn cho tiền？Tại sao việc đáp ứng nhu cầu người khác lại không mạnh hơn việc tối đa hoá tiền？]]

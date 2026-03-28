@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-24T20:12
 ---
 Khái niệm:: [[Bất động sản]]
 [Liên minh Quyền Nhà ở Châu Á (ACHR) thăm và làm việc với Hiệp hội các đô thị Việt Nam](https://www.acvn.vn/index.php?route=news/news&news_id=646)
@@ -29,3 +29,4 @@ Xem thêm:: [[Các công việc thường cung cấp chỗ ở]]
 Đến 2019, mạng lưới quỹ cộng đồng mở rộng ra 30 thành phố. Quỹ CDF tại các thành phố quay vòng đã hỗ trợ thêm 148 dự án hạ tầng cơ sở
 
 
+Quỹ phát triển cộng đồng CDF: [Community Development Fund \| NGO Vietnam](https://www.cdfvn.org/)

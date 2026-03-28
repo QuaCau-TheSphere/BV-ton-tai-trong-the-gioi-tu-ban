@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-03T21:46
 ---
 Khái niệm:: 
 - 1600s: Châu Âu thực hiện viễn chinh xâm lược
@@ -23,7 +23,7 @@ tư bản đã có từ thời tiền xu, nhưng chủ nghĩa tư bản chỉ c�
 
 [[Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu]]
 
-[[Tiền mã hoá đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó]]
+[[Tiền mã hóa đã có từ trước, nhưng tới khủng hoảng 2008 thì người ta mới chú ý tới nó]]
 Nguồn:: [[Tiền – sự thật về thứ không có thật]]
 
 [[Số tiền mà ngân hàng cho mình vay không phải là thứ do ngân hàng nhà nước in ra, mà chỉ là con số họ có thể đặt tuỳ thích]]

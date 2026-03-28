@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-07T13:07
 ---
 Tính năng:: [[Nhập liệu được trên Google Keep]]
 Tính năng:: [[Nhập liệu được bằng file text]]

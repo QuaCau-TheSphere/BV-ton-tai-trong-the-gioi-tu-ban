@@ -1,9 +1,11 @@
 ---
 share: true
 created: 2025-09-22T08:45
-updated: 2025-12-19T11:32
+updated: 2026-01-01T15:42
+aliases:
+  - xvnt
 ---
-Nhà 117/2 Xô Viết Nghệ Tĩnh cho thuê:
+Nhà 117/2 Xô Viết Nghệ Tĩnh là nhà 3 tầng, mỗi tầng cho thuê:
 - Nhà 01 trệt và 02 lầu, 
 - Mặt tiền khoảng 7 m, sâu 6.8 m
 - Mỗi tầng đều có nhà vệ sinh

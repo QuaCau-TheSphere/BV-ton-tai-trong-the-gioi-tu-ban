@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-19T16:13
-updated: 2025-12-19T11:32
+updated: 2026-02-09T16:10
 ---
 [[Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình]]
 ## Tiêu chí cho buổi gặp thành công là gì?

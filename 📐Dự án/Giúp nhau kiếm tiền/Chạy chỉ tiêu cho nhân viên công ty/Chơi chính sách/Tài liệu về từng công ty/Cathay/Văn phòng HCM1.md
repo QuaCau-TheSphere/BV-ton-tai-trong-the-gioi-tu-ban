@@ -1,6 +1,6 @@
 ---
 created: 2024-11-22T13:47
-updated: 2025-12-19T11:32
+updated: 2026-03-28T15:23
 ---
 200% có 3 lý do:
 - Đẩy cho người cấp dưới
@@ -15,7 +15,7 @@ updated: 2025-12-19T11:32
 
 Bên ngoài vui vẻ với nhau nhưng bên trong chẳng giúp nhau gì
 
-[[📜Tài nguyên/Tình hình ở Việt Nam/Ngành nghề cụ thể/Tài chính/Bảo hiểm/Nhân sự/Cathay/Cathay|Chính sách nhân sự ở Cathay]]
+[[🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Chính sách công ty/Nhân sự/Cathay/Cathay|Chính sách nhân sự ở Cathay]]
 
 ## Chị Hà
 Nếu cứ làm theo cathay thì sẽ được thì Tại sao chị Hà phải khóc? 

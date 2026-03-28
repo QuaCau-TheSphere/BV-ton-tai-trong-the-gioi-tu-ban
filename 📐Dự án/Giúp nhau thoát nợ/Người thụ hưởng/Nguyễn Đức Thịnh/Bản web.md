@@ -1,7 +1,6 @@
 ---
-share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-03-28T14:12
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
 ---
 ## Thông tin chính
@@ -46,45 +45,8 @@ Gia đình không hỗ trợ được vì không có tiền:
 - Mẹ: nghỉ hưu sớm ở nhà trông em
 
 Công việc đủ tiền chỉ có ở khu trung tâm
-#### Tình hình nợ hiện nay (cập nhật 21/11/2025)
-##### Nợ tín dụng
-|                     | Momo VTS  | Momo Vay Nhanh | Shopee VTD 1 | Shopee VTD 2 | Shopee VTD 3 | Shopee trả sau                                                           |
-| ------------------- | --------- | -------------- | ------------ | ------------ | ------------ | ------------------------------------------------------------------------ |
-| Tổng số tiền đã vay |           | 32tr           | 6tr          | 2tr          | 2tr          | Chưa có thời gian cộng vì tính theo từng đơn hàng, mà đặt nhiều đơn hàng |
-| Tổng đã trả         |           |                |              |              |              |                                                                          |
-| Tổng còn phải trả   |           |                |              |              |              |                                                                          |
-| Tất toán            | Ko có     | 45.418.310     | Ko có        | Ko có        | Ko có        | Ko có                                                                    |
-| 12                  | 1.349.969 | 3.156.000      | 1.197.903    | 399.301      | 399.301      | 938.894                                                                  |
-| 1                   | 0         | nt             | nt           | nt           | nt           | nt                                                                       |
-| 2                   | 0         | nt             | nt           | nt           | nt           | 790.906                                                                  |
-| 3                   | 0         | nt             | 0            | nt           | nt           | 548.084                                                                  |
-| 4                   | 0         | nt             | 0            | 0            | nt           | 548.075                                                                  |
-| Tháng cuối          | 12/2025   | 12/2027: nt    | 2/2026       | 3/2026       | 4/2026       | 5: 318.143, 6: 223.359, 7 → 11: 147.624,                                 |
-
-|                     | Kredivo    | FE             | HD Visa        | HD tín dụng | Thẻ SeaBank Nhật | OCB Thịnh |
-| ------------------- | ---------- | -------------- | -------------- | ----------- | ---------------- | --------- |
-| Tổng số tiền đã vay | 8tr        | 34.887.000     | 19tr           | 5tr         | 30               | 7tr       |
-| Tồng đã trả         |            | 1.658.120 x 2  | 1.473.000      |             |                  |           |
-| Tổng còn phải trả   |            | 1.658.120 x 34 | 1.473.000 x 17 |             |                  |           |
-| Tất toán            | 8.559.985  | Đợi tới kỳ     | Đợi tới kỳ     | 5tr         | 29.888.918       | 6.950.000 |
-| 12                  | 1.218.199  | 1.658.120      |                | 5tr         |                  |           |
-| 1                   | nt         | nt             |                |             |                  |           |
-| 2                   | nt         | nt             |                |             |                  |           |
-| 3                   | nt         | nt             |                |             |                  |           |
-| Tháng cuối          | 6/2026: nt | 10/2028        | 4/2027         |             |                  |           |
-
-- Tổng các khoảng có thể tất toán: 90.817.218
-
-##### Nợ bạn bè, người thân
-| Khoản nợ | Số tiền                               | Thời hạn trả | Lãi | Lý do                   |
-| -------- | ------------------------------------- | ------------ | --- | ----------------------- |
-| Nhật     | 700k + 1495k + 1300k + nửa chỉ + boya | ∞            | 0   | Sinh hoạt               |
-| Trí      | 300k                                  | ∞            | 0   | Sinh hoạt               |
-| Đồng     | 2500k                                 | ∞            | 0   | Sinh hoạt               |
-| Linh     | 1tr                                   | 12/2025      | 0   | Sinh hoạt               |
-| Mẹ Ân    | 8tr                                   | 10/2026      | 0   | Sinh hoạt               |
-| Mẹ Tuyên | 6tr                                   | 10/2026      | 0   | Sinh hoạt               |
-| Tuyên    | 8tr                                   | 10/2026      | 0   | Đt chết cần mua cái mới |
+#### Tình hình nợ hiện nay
+Xem chi tiết trên [Tình hình nợ của Nguyễn Đức Thịnh - Google Trang tính](https://docs.google.com/spreadsheets/d/1E2aHvDHg9rRPPBcJN_ufgF94y88HnJrjSAJyDMa6SnA/edit?usp=sharing)
 
 #### Đã xong
 
@@ -107,8 +69,6 @@ Em có nhiều dự định để làm về mảng nghệ thuật, em cần tinh
 Em có ước mơ trả hết nợ để có cuộc sống yên bình hơn. Em không có ước mơ kiểu kinh doanh đổi đời hay gì, chỉ muốn làm người tốt, có thể tham gia hỗ trợ những bạn bè xung quanh và những người em quan tâm
 
 Em cảm ơn vì đã quan tâm tới vấn đề này của em.
-
-Trở thành địa ngục
 
 #### Chi phí sinh hoạt hàng tháng
 | Khoản chi tiêu | Số tiền |
@@ -137,7 +97,7 @@ Không muốn xù nào hết vì không muốn ảnh hưởng tới tín dụng,
 Em có nhiều mối quan hệ ở đây, và muốn xây dựng sự nghiệp trong ngành dịch vụ, nên không muốn ra khỏi thành phố. Việc sống ở các thành phố khác như Biên Hoà không làm giảm chi phí sống đáng kể. Ở Đà Nẵng tuy có ngành dịch vụ phát triển, các nhà hàng khách sạn hoặc khu du lịch chắc cũng có ký túc xá nhưng mức sống không đủ để trả nợ.
 
 ### Năng lực xoay sở
-#### Bạn nghĩ sao về quan điểm [[áp lực tạo kim cương]]? Bạn có nghĩa rằng nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên?
+#### Bạn nghĩ sao về quan điểm [[Áp lực tạo kim cương]]? Bạn có nghĩa rằng nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên?
 Câu chuyện sẽ ở việc họ chọn loại áp lực nào. Em chọn việc ở lại SG và vay để em có chỗ đứng để có cuộc sống tốt hơn.
 
 #### Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?

@@ -1,20 +1,21 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T13:01
+updated: 2026-01-31T17:14
+aliases:
+  - Mua trái phiếu
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 
 
 ## Mô tả chi tiết
 ### Hỗ trợ cá nhân
-- [[Đề xuất vay nợ|Đề xuất vay nợ của Nguyễn Hữu Lộc]]
+- [[📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Nguyễn Hữu Lộc/Đề xuất vay nợ|Đề xuất vay nợ của Nguyễn Hữu Lộc]]
 - [[Bản web|Đề xuất vay nợ của Nguyễn Đức Thịnh]]
 
 ### Tham gia các tổ chức tín dụng vi mô
 - [[Quỹ tín dụng vi mô Quả Cầu|Xây dựng quỹ tín dụng vi mô]]
 - [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]
-- [[Quỹ Đồng Hành]]
 
 ## Thông tin thêm
 Tính chất công việc:: [[Cần có vốn]]

@@ -2,13 +2,13 @@
 share: true
 description: "Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau. Số tiền kiếm được: 300k"
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-01-03T16:37
 ---
 Mô tả công việc:: Tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau
 Số tiền kiếm được:: 300k/10 nhóm
 
 ## Mô tả chi tiết
-Các công ty như [[Chính sách cho nhân viên|GM Mall]] giao chỉ tiêu cho nhân viên tạo các nhóm Zalo khách hàng. Nếu các nhân viên muốn tạo khách hàng ảo thì cần các tạo các nhóm Zalo ảo luôn.
+Có các công ty giao chỉ tiêu cho nhân viên tạo các nhóm Zalo khách hàng. Những nhóm này sẽ được dùng để qua mặt công ty.
 
 Bạn cần tạo 10 nhóm Zalo, mỗi nhóm có 10 tài khoản khác nhau, đảm bảo là tài khoản ở trong nhóm 1 tháng. Nếu thoát sớm thì cần kiếm tài khoản khác bổ sung.
 

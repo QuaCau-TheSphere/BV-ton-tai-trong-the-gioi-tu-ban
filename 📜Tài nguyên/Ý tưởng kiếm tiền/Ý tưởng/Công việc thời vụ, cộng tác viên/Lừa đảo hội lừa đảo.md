@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-03T13:29
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -17,9 +17,10 @@ Những hình thức lừa đảo trên telegram xưa giờ là không mới. G�
 Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và thanh toán qua USDT.
 
 ![https://www.youtube.com/watch?v=AC6Bar_DxaM](https://www.youtube.com/watch?v=AC6Bar_DxaM&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExRDBkeFdGN0N6d0xGQU5sRwEebwWp2Odjlef7SPdozIIFTjGbKXZ54MXEpZBRViwSoWElCFOjt3ehlK9I1A4_aem_2fgIxeuXzaWdMLFn0265rQ)
+![Scammer Payback Answers Scam Questions \| Tech Support \| WIRED - YouTube](https://youtu.be/6nfGwSw-I14?si=kSwo_qgduxYViw0h)
 ## Mô tả chi tiết
 ## Thông tin thêm
-[[Cảnh giác lừa đảo]]
+[[Cảnh giác lừa đảo, trục lợi, tham ô]]
 
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.

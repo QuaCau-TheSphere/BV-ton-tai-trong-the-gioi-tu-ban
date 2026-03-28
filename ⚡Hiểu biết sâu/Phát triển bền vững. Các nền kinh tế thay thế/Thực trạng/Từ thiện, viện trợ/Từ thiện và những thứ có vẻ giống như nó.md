@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-24T16:57
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
   - Các hình thức cho tiền
@@ -9,6 +9,8 @@ cssClasses:
   - wide-table
 ---
 Khái niệm:: [[Quà tặng]], [[Từ thiện]]
+Nếu xét theo hướng công bằng xã hội, đạo đức cá nhân, thì dù có thiếu bền vững đến mấy cũng phải làm. Và đó không phải là cảm tính
+
 [[Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng]]
 Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận là việc làm từ thiện là gây hại, thì cũng không có cơ sở để lên án người làm từ thiện được? 
 
@@ -18,12 +20,13 @@ Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận l�
 | Viện trợ                                                                                                      |                             |                         |                                |                    |                                 |                                            |                  |                   |                                           |                                             |
 | Tài trợ                                                                                                       |                             |                         |                                |                    | ✔                               | ✔                                          |                  |                   | Tùy                                       | Tùy                                         |
 | [[Tặng quà]]                                                                                                  |                             | ✔                       |                                |                    |                                 |                                            |                  |                   |                                           |                                             |
-| Trả cho người sau                                                                                             | ✔                           | ✔                       | ✔                              |                    |                                 |                                            |                  |                   |                                           |                                             |
+| [[Trả cho người sau (trả tới)]]                                                                               | ✔                           | ✔                       | ✔                              |                    |                                 |                                            |                  |                   |                                           |                                             |
 | Trả tùy tâm, cho tự định giá sức lao động                                                                     |                             | ✔                       | ✔                              | ✔                  |                                 |                                            | ✔                |                   |                                           |                                             |
 | Giảm giá, cho miễn phí                                                                                        |                             |                         |                                |                    |                                 |                                            |                  |                   |                                           |                                             |
 | [[Gây quỹ cộng đồng]]                                                                                         |                             |                         |                                |                    |                                 | ✔                                          |                  |                   | Ít                                        | Nhiều                                       |
 | [[Thu nhập cơ bản vô điều kiện không bằng đáp ứng nhu cầu cơ bản vô điều kiện\|Thu nhập cơ bản vô điều kiện]] |                             |                         |                                |                    |                                 |                                            | ✔                | ✔                 | Ít                                        | Ít                                          |
 | [[Nền kinh tế quà tặng]]                                                                                      |                             |                         | ✔                              | ✔                  |                                 |                                            |                  |                   | Ít                                        | Ít                                          |
+| Nghĩa vụ đạo đức                                                                                              |                             |                         |                                |                    |                                 |                                            | ✔                |                   |                                           |                                             |
 
 | Dự án cụ thể                                                                                                 | Thấy người nhận đáng thương | Muốn làm người nhận vui | Thấy cảm hứng bởi sự hào phóng | Tin vào sự trù phú | Xây dựng nội lực của người nhận | Thấy người nhận đang làm điều mình muốn có | Công bằng xã hội | Thay đổi hệ thống | Công sức người cho phải bỏ ra để cho được | Công sức người nhận phải bỏ ra để nhận được |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------- | ----------------------- | ------------------------------ | ------------------ | ------------------------------- | ------------------------------------------ | ---------------- | ----------------- | ----------------------------------------- | ------------------------------------------- |

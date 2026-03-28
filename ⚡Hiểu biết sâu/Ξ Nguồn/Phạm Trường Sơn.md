@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-02-16T17:31
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -141,7 +141,7 @@ nguyễn sĩ dũng chuyên nghiên cứu về tổ chức
 ### Sao thấy anh ko làm nhiều về hướng chống tư bản? 
 ### Vì sao anh không hỗ trợ họ tiếp cận các dịch vụ tài chính chính thức?
 ### Tại sao các tổ chức ctxh anh tham gia như scdr ko tạo một quỹ vi mô? 
-### 
+### Sao trong các tài liệu CTXH không thấy nói gì về việc xây dựng các quỹ vi mô?
 
 ## Vì sao anh không lo lắng là mình đang bị để ý? Dù sao anh cũng là người có tiếng trong cộng đồng mà
 Tiền giải ngân của tphcm chỉ giải ngân được 12% mà quy trình ko phê duyệt được. Nó là một bí ẩn

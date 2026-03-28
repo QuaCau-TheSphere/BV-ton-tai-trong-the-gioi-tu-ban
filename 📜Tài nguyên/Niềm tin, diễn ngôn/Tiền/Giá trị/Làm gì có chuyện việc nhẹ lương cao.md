@@ -1,0 +1,9 @@
+---
+share: true
+created: 2025-04-24T17:50
+updated: 2026-03-28T17:22
+---
+Khái niệm:: 
+[[Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể]]
+[[Không có gì là miễn phí thực sự cả]]
+Nguồn::

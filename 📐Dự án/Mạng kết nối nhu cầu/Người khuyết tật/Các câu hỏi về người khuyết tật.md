@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T20:08
-updated: 2025-12-19T11:32
+updated: 2026-01-02T13:26
 ---
 Em xin tự giới thiệu, em tên là Lý Minh Nhật. Em sẽ tự định danh mình là một người làm nghiên cứu và hoạt động xã hội tự do. Đây là [LinkedIn](https://doi-thoai.deno.dev/r8.2D.1) của em. Em cũng có tham vấn anh Phạm Trường Sơn của nhóm SNPO vài lần, anh ấy cũng có thể cho trung tâm góc nhìn của anh về em. Sau khi tìm hiểu kỹ về website và các hoạt động của trung tâm, em có một số vấn đề muốn được trao đổi và mong nhận được sự tham vấn từ trung tâm.
 
