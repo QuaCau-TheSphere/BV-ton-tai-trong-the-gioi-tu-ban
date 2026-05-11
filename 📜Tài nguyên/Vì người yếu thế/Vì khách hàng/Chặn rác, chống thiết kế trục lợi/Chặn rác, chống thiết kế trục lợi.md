@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-20T15:52
+updated: 2026-05-03T12:41
 ---
 Khái niệm:: [[Trục lợi]], [[Khai thác điểm yếu con người]]
+
 ## Thiết kế trục lợi
 [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]]
 [How Facebook and Other Sites Manipulate Your Privacy Choices](https://www.wired.com/story/facebook-social-media-privacy-dark-patterns/)
@@ -14,6 +15,8 @@ Khái niệm:: [[Trục lợi]], [[Khai thác điểm yếu con người]]
 ## Thiết kế nhân văn
 [teaserbot-labs/delightful-humane-design: A curated list of humane design resources for UX designers and developers. - delightful-humane-design - Codeberg.org](https://codeberg.org/teaserbot-labs/delightful-humane-design "teaserbot-labs/delightful-humane-design: A curated list of humane design resources for UX designers and developers. - delightful-humane-design - Codeberg.org")
 
+[ReVanced](https://revanced.app/)
+[UnTrap for YouTube](https://untrap.app/)
 ```dataview
 LIST rows.file.link
 FROM "📜Tài nguyên/Vì người yếu thế/Vì khách hàng/Chặn rác, chống thiết kế trục lợi"

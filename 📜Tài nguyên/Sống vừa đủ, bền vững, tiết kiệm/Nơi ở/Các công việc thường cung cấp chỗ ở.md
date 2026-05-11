@@ -3,12 +3,13 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - nơi ở giá rẻ hoặc miễn phí
-updated: 2026-01-24T20:11
+updated: 2026-05-11T14:29
 ---
 Lên chùa tu
 ## Bảo vệ ca đêm
 ## Nông trại
 Xem thêm:: [[Ý tưởng tìm nhà ở giá rẻ]]
+
 ## Bảo vệ
 
 ## Quản lý ký túc xá, khu nhà trọ
@@ -32,3 +33,5 @@ Thích môi trường quốc tế, thích di chuyển
 ## [[Bao nuôi]]
 
 Xem thêm:: [[Các loại hình nhà ở cho mục đích phát triển bền vững]]
+
+[The end of Couchsurfing](https://brenontheroad.com/the-end-of-couchsurfing/)

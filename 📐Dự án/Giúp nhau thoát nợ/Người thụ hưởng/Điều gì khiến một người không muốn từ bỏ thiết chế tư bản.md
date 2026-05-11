@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-26T12:15
+updated: 2026-04-03T13:50
 title: Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?
 Aliases:
   - Lý do, tại sao, vì sao
@@ -17,7 +17,7 @@ Bài chi tiết:: [[Khi nào thì việc giúp một người sẽ có lợi cho
 ### Có được một chân rết trong thiết chế tư bản
 
 ### Dịp để kiểm tra tính ưu việt của hệ thống thay thế
-[[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương]]. [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền]]. [[Chính phủ muốn kiểm soát dòng tiền]]. Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được đang có những nhóm lợi ích nào tranh giành quyền lợi. Có quan hệ gần gũi một người có những thông tin như vậy sẽ hữu ích.
+[[Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương]]. [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]]. [[Chính phủ muốn kiểm soát dòng tiền]]. Xen ra để thoát nghèo không thể không có hiểu biết về bản đồ dòng tiền. Càng lên được các vị trí cao càng thấy được đang có những nhóm lợi ích nào tranh giành quyền lợi. Có quan hệ gần gũi một người có những thông tin như vậy sẽ hữu ích.
 
 Một cách nữa để có dòng tiền là [[Kiếm tiền trực tuyến (MMO)|chơi MMO]]. Do đặc tính của phần mềm là có chi phí biên bằng 0 nên cũng không cần bóc lột thặng dư lao động của một vài người (trừ thằng dev và vài người làm cùng), nên cũng không phải tham gia sâu vào hệ thống tư bản cho lắm. Chỉ cần có kiến thức công nghệ thông tin trong một số mảng nhất định là làm được. 
 

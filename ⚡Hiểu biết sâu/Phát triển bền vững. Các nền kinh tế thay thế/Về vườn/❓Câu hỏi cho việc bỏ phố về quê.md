@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-05-04T12:50
 ---
 Khái niệm:: [[Nông nghiệp, nông thôn]]
 ![VCIL MEMBERS’ TALKS #2: DÒNG CHẢY VĂN HÓA LÚA MÙA \| Chú Tư Việt - YouTube](https://youtu.be/1UP1-JzNjoQ?si=McI8qwkSw82e0_2Y)

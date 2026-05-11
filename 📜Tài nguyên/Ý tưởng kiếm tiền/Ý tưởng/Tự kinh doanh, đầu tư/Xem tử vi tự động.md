@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-05-04T12:48
 ---
 Tính chất công việc:: [[Hiểu về hệ thống]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
@@ -13,6 +13,7 @@ chỉ như dạng document thôi, ko dùng được
 
 luận không phải là đoán
 Ranh giới giữa học thuật và ảo thuật rất mong manh
+[TuVi PKB — Tử vi Đẩu số Personal Knowledge Database](https://www.tuvi-pkb.com/)
 
 ## Không có demo
 Vì không thực sự nắm chắc kết quả của một tương tác cụ thể

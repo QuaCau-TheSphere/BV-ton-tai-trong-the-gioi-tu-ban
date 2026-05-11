@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-02-18T13:14
+updated: 2026-05-12T00:47
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
 Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
@@ -15,6 +15,7 @@ Có lẽ đây là một phần trong sự mâu thuẫn giữa hệ quả luận
 Điều này cũng giống như việc [[Lừa đảo hội lừa đảo]] vậy. Hai cái sai không làm nên cái đúng, nhưng nó cũng bớt tệ hơn một cái sai :-?
 Đạo đức giả
 Xem thêm:: [[Lách luật là phạm luật một cách đúng luật]]
+[[Thiếu liêm chính|Các hình thức của sự tệ]]
 
 ## Tôi thấy việc lừa dối người chưa làm hại tôi trước là điều không nên
 Quản lý cũng chỉ là người làm công ăn lương chứ không phải là cổ đông, nên về cơ bản họ cũng chịu sự bóc lột của tư bản. Đáng lẽ nạn nhân thì cần đoàn kết với nhau chứ không phải là lừa dối nhau chứ? Mà sự đoàn kết đòi hỏi sự thành thật. Đặc biệt là với các quản lý thể hiện sự quan tâm thực sự với nhân viên của mình. Cảm giác phải lừa dối người thực sự có quan tâm mình rất là khó chịu.

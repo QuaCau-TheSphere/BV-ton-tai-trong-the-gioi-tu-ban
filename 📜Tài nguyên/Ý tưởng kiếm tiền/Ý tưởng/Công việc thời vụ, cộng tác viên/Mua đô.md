@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-03-28T17:29
+updated: 2026-04-15T20:53
 description: "Số tiền kiếm được: "
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 
 
 ## Mô tả chi tiết
-[[🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/Mua đô]]
+[[Thu mua ngoại tệ]]
 
 ## Thông tin thêm
 Số tiền đầu tư:: 0

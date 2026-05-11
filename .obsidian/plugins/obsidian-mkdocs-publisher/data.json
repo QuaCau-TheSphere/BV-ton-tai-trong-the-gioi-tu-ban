@@ -9,6 +9,7 @@
       "folderName": "github-publisher"
     },
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "tokenSecret": "enveloppe-github-token",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
@@ -37,7 +38,7 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 0
+        "rateLimit": 5000
       }
     ],
     "verifiedRepo": true,
@@ -95,10 +96,12 @@
       "internal": true,
       "unshared": false,
       "wiki": true,
+      "wikiDisplayText": false,
       "slugify": "disable",
       "unlink": false,
       "relativePath": true,
-      "textPrefix": "/"
+      "textPrefix": "/",
+      "slugifyAnchor": "disable"
     }
   },
   "embed": {

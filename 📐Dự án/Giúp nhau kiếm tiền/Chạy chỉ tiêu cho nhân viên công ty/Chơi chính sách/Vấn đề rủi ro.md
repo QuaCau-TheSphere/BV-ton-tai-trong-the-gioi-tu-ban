@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2026-02-01T16:04
+updated: 2026-05-12T00:58
 Title: Vấn đề rủi ro khi làm ảo
 ---
 [[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được|Liệu công ty X có đang lừa đảo, rửa tiền không?]]
@@ -19,7 +19,7 @@ vậy. [[Airdrop là việc thu thập khuyến mãi của dịch vụ và bán 
 Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]].
 
 [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]]. Các công việc dưới đây tuy có cảm giác giống giống như thuê mượn tài khoản ngân hàng, nhưng thật ra không phải vì bạn vẫn giữ đăng nhập tài khoản trên máy bạn chứ không đưa cho ai đăng nhập trên máy của họ cả
-Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo, trục lợi, tham ô]]
+Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo]]
 
 Trương mỹ lan để cho người nhà cầm
 
@@ -27,11 +27,11 @@ Trương mỹ lan để cho người nhà cầm
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. Hoặc chẳng qua nó nhắm mắt làm ngơ, vì bọn mình chưa đủ lớn để truy tố hay thả lưới. Mà nếu bọn mình làm lớn thì chắc đã không phải nhờ tới các bạn rồi.
 
 [[❓Chuyển tiền trực tiếp từ ]]
-[[Cấm rút tiền tại cửa hàng để tránh việc rửa tiền|Luật cấm rút tiền mặt tại cửa hàng để tránh việc rửa tiền]]. Nhưng đó là rút tiền mặt. Nhưng nếu cửa hàng chuyển trực tiếp lại cho mình thì sao?
-Bài chi tiết:: [[Vì các ví điện tử đứng ra bảo lãnh cho người quẹt, nên một giao dịch khi quẹt qua chúng sẽ trở thành một giao dịch mua hàng sạch trong mắt ngân hàng]]
+[[Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền|Luật cấm rút tiền mặt tại cửa hàng để tránh việc rửa tiền]]. Nhưng đó là rút tiền mặt. Nhưng nếu cửa hàng chuyển trực tiếp lại cho mình thì sao?
+Bài chi tiết:: [[Các giao dịch dùng qua ví điện tử sẽ trở thành sạch trong mắt ngân hàng]]
 
 Mỗi lần chỉ 20k
-[[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông, hoặc thậm chí là rửa tiền]] 
+[[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]] 
 
 ## Chuyện gì sẽ xảy ra nếu tôi bị phát hiện là đang tiếp tay cho các bạn?
 Do đây không phải là vi phạm pháp luật, nên công ty sẽ chỉ phạt nội bộ mà thôi. Hình phạt có thể là từ không tính KPI đến đuổi luôn. Dù sao thì cũng không ảnh hưởng gì đến các bạn.

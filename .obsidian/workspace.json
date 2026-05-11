@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5999653f1c532883",
+        "id": "daaabd5a88d936d3",
         "type": "tabs",
         "children": [
           {
-            "id": "cda0d801645d843b",
+            "id": "6add867b9947216a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Tìm nguồn cho mượn tiền qua đêm.md",
+                "file": "⚡Hiểu biết sâu/⚡Hiểu biết sâu.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tìm nguồn cho mượn tiền qua đêm"
-            }
-          },
-          {
-            "id": "0f9a4cb43fb4d415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Ξ Nguồn/Cảm nghĩ sau khi xem phim.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cảm nghĩ sau khi xem phim"
-            }
-          },
-          {
-            "id": "f56e33137b935a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Xù nợ ngân hàng"
-            }
-          },
-          {
-            "id": "c9f897e9efdc8a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Nguyên tắc hoạt động/Một nửa dân số Mỹ có bảo hiểm nhân thọ.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Một nửa dân số Mỹ có bảo hiểm nhân thọ"
-            }
-          },
-          {
-            "id": "d80d2ff622640b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Chính sách công ty/Công ty tài chính tiêu dùng/Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an"
-            }
-          },
-          {
-            "id": "460f23acbc14ea37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/Mua đô.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mua đô"
+              "title": "⚡Hiểu biết sâu"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"lừa đảo\" \"tư bản\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,8 +166,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -304,7 +184,6 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "hledger-notes:Add hledger entry": false,
       "bases:Create new base": false,
@@ -315,57 +194,58 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-vscode:VS Code": false
     }
   },
-  "active": "776a43425fc4ec1e",
+  "active": "6add867b9947216a",
   "lastOpenFiles": [
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Mua đô.md",
-    "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/Mua đô.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo hiểm.md",
-    "🛖Ngành nghề cụ thể/Tài chính/Bảo hiểm/Chính sách công ty/Chính sách công ty.md",
-    "🛖Ngành nghề cụ thể/Tài chính/Tổ chức tín dụng/Dịch vụ phụ trợ/PPPAY.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Ví điện tử/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
-    "📜Tài nguyên/Tình hình ở Việt Nam/Niềm tin, diễn ngôn/Niềm tin, diễn ngôn.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Tiền là nguồn gốc của tội lỗi.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Tiền không mua được hạnh phúc.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Người khôn không làm kinh tế được, chỉ có người ngu mới làm được.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Doanh nhân chỉ biết kiếm tiền.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Cứ xem người giàu hút máu thì sẽ mãi chẳng giàu được.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Công ty trả tiền để mình làm việc khó, chứ không phải để mình kêu ca.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức/Cái gì không mua được bằng tiền thì mua được bằng rất nhiều tiền.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Có vay có trả.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Chuyện nợ nần là chuyện riêng của cá nhân.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Cho người khác biết tình hình nợ sẽ làm họ nghĩ là mình vòi tiền.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ/Bằng mọi giá phải giữ điểm tín dụng cho sạch.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Việc có được dòng tiền là cánh cửa để đạt được ước mơ thay đổi cuộc sống.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Người nghèo ăn xổi ở thì.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Người nghèo lười biếng.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Muốn thoát nghèo cần dòng tiền, chứ không phải là làm công ăn lương.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo/Cái cần không phải là có tiền, mà là có dòng tiền.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Kiếm ăn/Đồng tiền đi liền khúc ruột.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Kiếm ăn/Tự nuôi sống bản thân.md",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Đạo đức",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Vay, nợ",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Nghèo",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Kiếm ăn",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Giá trị",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/Tuyển dụng",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Đánh giá",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Vĩ mô",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Thách thức, đam mê, phát triển bản thân",
+    "💸Hình thức kiếm tiền/Chỉ 25% doanh nghiệp sống đến 15 năm.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/An toàn thông tin/Tội phạm mạng chỉ cần một phần nhỏ các cuộc tấn công thành công (ví dụ, dưới 1%) để có lợi nhuận.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Việc giặt đồ chung làm nói chuyện với nhau được nhiều hơn.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Việc dùng khái niệm sở hữu làm ta mất đi trách nhiệm với tự nhiên.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật/Tỷ lệ người khuyết tật tham gia lực lượng lao động là 23,9%, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4%).md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật/Tỉ lệ khuyết tật của người 16 tuổi trở lên là 5.59% ở thành thị, 8.36% ở nông thôn.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật/Nhân viên khuyết tật có giá trị năng suất thấp hơn nhân viên trung bình, nhưng tốt hơn so với nhân viên trung bình về các yếu tố tin cậy và các yếu tố duy trì nhân viên.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Kinh tế phi chính thức/❓Kinh tế phi chính thức cảm giác là không tốt. Có lẽ nên thay bằng kinh tế vô hình.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Kinh tế phi chính thức",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Hệ thống không được thiết kế để khuyến khích sự phản tư.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Có vẻ như các tổ chức tài chính vi mô đều từ chối người đang nợ.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Các đô thị vô cùng đông đúc, nhưng tỷ lệ người cảm thấy cô đơn lại tăng lên.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Các trường học chính thống thường không tạo ra không gian để chất vấn hay thảo luận về các vấn đề của tư bản.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Các quỹ dự án tốn tiền cho nhân sự, làm cho nhiều dự án nhỏ tốn thời gian và đa phần các thời gian đó bị phí.md",
+    "🛖Ngành nghề cụ thể/Phát triển bền vững/❓Điều gì khiến một người có tiền nhiều tới mức đầu tư cũng ko hết vẫn ko muốn cho tiền？Tại sao việc đáp ứng nhu cầu người khác lại không mạnh hơn việc tối đa hoá tiền？.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Từ thiện và những thứ có vẻ giống như nó.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Trả cho người sau (trả tới).md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Sự hào phóng mà người sau cảm thấy do được trả bởi người trước có thể khiến cho họ muốn cho tiền ăn xin.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Nhà tài trợ yêu cần người nhận minh bạch được, nhưng người nhận không yêu cầu nhà tài trợ minh bạch được.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Nhiều tổ chức quốc tế cử các chuyên gia đến các quốc gia khác để giúp đỡ, nhưng thực tế là họ không hề hiểu về văn hóa, hệ sinh thái hay truyền thống bản địa.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Mỹ đề cao tư bản, nhưng định hình thể chế philanthropy thông qua luật. Châu Âu áp thuế thu nhập rất cao.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Gây quỹ cộng đồng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Các tổ chức tôn giáo không có sứ mệnh phát triển cộng đồng, chỉ có sứ mệnh thương người.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Các tổ chức quốc tế chỉ hướng đến xoá đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Các tổ chức bảo vệ môi trường có thể được tài trợ bởi những nguồn có mục tiêu phi môi trường.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người nghèo",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người lao động",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Phương thức lừa đảo/Đánh vào mong muốn kiếm tiền nhanh/GM/Nhân sự",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Phương thức lừa đảo/Đánh vào mong muốn kiếm tiền nhanh/GM/Khách hàng",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Phương thức lừa đảo/Đánh vào mong muốn kiếm tiền nhanh/GM",
+    "Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Giả mạo, lừa đảo/GM/Nhân sự",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260509132332.png",
+    "Ξ Thiết lập/Ảnh/PPPAY/Tường trình cho ngân hàng.png",
+    "Ξ Thiết lập/Ảnh/PPPAY/OKPAY.png",
+    "Ξ Thiết lập/Ảnh/OKPAY.png",
+    "Ξ Thiết lập/Ảnh/Tường trình cho ngân hàng.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260312131914.png",
     "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131914.png",
     "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131907.png",
     "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131859.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260312131907.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260312131859.png",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Điểm tín dụng của Nhật.png",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/Điểm tín dụng của Nhật.png",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/Pasted image 20250703094050.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-04T11:08
-updated: 2026-03-24T14:13
+updated: 2026-04-02T13:28
 aliases:
   - Các lý do khiến cho một người khó mở lời hỏi mượn tiền người xung quanh
 ---
@@ -44,3 +44,8 @@ Xem thêm:: [[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế ch
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+
+tư duy khan hiếm
+Cạnh tranh dịch vụ
+Tỉ lệ thất bại của các dự án mạng lưới
+Với mỗi cá nhân, tạo thành một nhóm những người quan tâm đến cuộc sống của cá nhân đó

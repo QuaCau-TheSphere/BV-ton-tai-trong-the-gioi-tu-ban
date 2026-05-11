@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-09T15:34
+updated: 2026-04-02T17:11
 ---
 Khái niệm:: 
 Theo đó, người không có khả năng chi trả mà bùng nợ có thể sẽ bị xử phạt về tội lạm dụng tín nhiệm chiếm đoạt tài sản. Mức phạt đối với tội lạm dụng tín nhiệm chiếm đoạt tài sản được quy định tại Điều 175 Bộ luật hình sự 2015 ([sửa đổi](https://plo.vn/ban-doc/cai-chinh/ "sửa đổi"), bổ sung 2017) cao nhất lên đến 20 năm tù.
@@ -17,3 +17,6 @@ Không những vậy, đối với những người kích động, xúi giục, 
 [Đi tù vì trốn nợ](https://vov2.vov.vn/phap-luat/di-tu-vi-tron-no-51855.vov2)
 
 Nguồn:: [Vay nợ rồi “bùng nợ” ngân hàng có vi phạm pháp luật?](https://plo.vn/vay-no-roi-bung-no-ngan-hang-co-vi-pham-phap-luat-post782503.html)
+
+Như vậy, trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay. Tuy nhiên, nếu bên vay **không có khả năng trả nợ khi đến hạn vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ… thì pháp luật cũng sẽ **không truy cứu trách nhiệm hình sự.**
+[Làm ăn thua lỗ, không trả được nợ có phải đi tù không?](https://luatvietnam.vn/tin-phap-luat/lam-an-thua-lo-khong-tra-duoc-no-co-phai-di-tu-khong-230-34052-article.html)

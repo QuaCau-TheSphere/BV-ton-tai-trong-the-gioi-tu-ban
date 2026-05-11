@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2025-12-19T11:32
+updated: 2026-04-08T17:32
 aliases:
   - bán bảo hiểm
   - thu hút khách hàng
@@ -17,9 +17,11 @@ Kiểm tra [[Giả thiết về tỉ lệ chuyển đổi]]
 [[Xây dựng thương hiệu tự động trên MXH]]
 Đến [[Những nơi giúp mở rộng mối quan hệ với doanh nghiệp]], 
 [[Kế hoạch bán bảo hiểm cho cá nhân]]
+
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
 
+[[Làm cho thông điệp hấp dẫn và dễ hiểu]]: vẽ truyện tranh 
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu
 - Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó

@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-04-15T21:04
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -34,8 +34,14 @@ Nền kinh tế vừa đủ
 	- [[An ninh mạng ở Việt Nam rất tệ]]
 
 ## [[📜Tài nguyên]]
-- Nghiệp vụ, chính sách của một công ty cụ thể
 - Bối cảnh thực tế, áp dụng ở VN
+
+## [[🛖Ngành nghề cụ thể]]
+- Nghiệp vụ, nguyên lý hoạt động, quy trình xử lý
+- Chiến lược, chính sách
+- Thống kê nội bộ
+- Mối quan hệ giữa các công ty
+
 ## [[📐Dự án]]
 
 Tuy nhiên nếu có thể kết hợp nó thành động cơ của bên liên quan thì sẽ cố gắng chuyển đổi

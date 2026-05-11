@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T14:39
-updated: 2025-12-19T11:32
+updated: 2026-03-28T21:17
 ---
 Khái niệm:: 
 
@@ -14,6 +14,8 @@ Khái niệm::
 | Quản lý tài chính | DER             |
 
 Nguồn:: [[Ảnh hưởng của các tổ chức tài chính vi mô đối với tài chính toàn diện.pdf]]
+
+[Alternative financial service - Wikipedia](https://en.wikipedia.org/wiki/Alternative_financial_service)
 
 ```dataview
 LIST rows.file.link

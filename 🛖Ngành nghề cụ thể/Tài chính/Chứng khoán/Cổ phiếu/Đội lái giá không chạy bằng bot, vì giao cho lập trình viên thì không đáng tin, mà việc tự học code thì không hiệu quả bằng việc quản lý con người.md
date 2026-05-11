@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-14T18:12
-updated: 2026-03-04T22:36
+updated: 2026-04-02T19:38
 ---
 ah, sàn với broker cấp API cho mình viết bot chứ. Nhưng cái đội lái giá thì tụi nó ko có chạy bằng bot
 
@@ -30,3 +30,6 @@ cty nào cũng sợ hết anh
 tầng quản lý họ sẽ dựa vào thế mạnh của họ là tiền. nếu như trường hợp Quyết còi bị đập, là vì ổng ko chịu thoả thuận với các bên khác, nên bị đánh hội đồng luôn.
 
 tụi dev nguy hiểm hơn vì khả năng tụi nó mà tách ra thì scale nhanh, khó bị đè chết sớm, thành ra đám programmer là ít được đám management tin tưởng nhất, có bị bào thì cũng bị bào sức nhiều nhất
+
+
+![Ai là “nhà cái” trên thị trường chứng khoán? - YouTube](https://youtu.be/UXfDqORhxIc?si=KF5Lqb_HTxV5BQLs)

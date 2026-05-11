@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-03T21:46
+updated: 2026-04-03T13:59
 ---
 Khái niệm:: 
 - 1600s: Châu Âu thực hiện viễn chinh xâm lược
@@ -11,6 +11,7 @@ Khái niệm::
 - 1694: Ngân hàng quốc gia Anh được thành lập
 - 1715: John Law, một người nghiện cờ bạc, thành lập ngân hàng Pháp, và thất bại
 [[Các nền tảng của tài chính hiện đại bắt đầu tại Hà Lan]]
+
 ## Ngân hàng dự trữ một phần (fractional reserve banking) 
 [[Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có]]
 

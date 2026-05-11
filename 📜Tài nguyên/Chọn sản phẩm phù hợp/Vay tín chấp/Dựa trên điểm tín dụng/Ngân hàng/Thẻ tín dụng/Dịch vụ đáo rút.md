@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-03-28T15:48
+updated: 2026-04-15T20:52
 aliases:
   - Lê Ngọc Biết
   - VNC
 ---
-[[Dịch vụ đáo rút thẻ]]
+[[Đáo rút thẻ tín dụng]]
 
 | Tên cơ sở    | Địa chỉ                 | Phí rút | Phí đáo | Ưu đãi   |
 | ------------ | ----------------------- | ------- | ------- | -------- |

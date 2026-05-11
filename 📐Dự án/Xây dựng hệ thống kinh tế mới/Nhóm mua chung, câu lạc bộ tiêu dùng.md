@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-26T11:49
+updated: 2026-04-14T14:49
 ---
+![Vcil Members' Talks #7: Kiến Tạo Sinh Nghiệp Thúc Đẩy Sự Thay Đổi Lối Sống và Chuỗi Thực Phẩm - YouTube](https://youtu.be/QR6yMaEwgCs?si=5vdpVdbR3zAqoXLZ)
 # Tái Hình Dung Hệ Thống Thực Phẩm: Giới Thiệu Câu Lạc Bộ Tiêu Dùng Vcil (Vcil Consumers Club)
 Ngày nay, hệ thống thực phẩm công nghiệp hiện đại đã khiến mối quan hệ giữa người sản xuất và người tiêu dùng trở nên xa cách và vô danh. Thay vì trực tiếp biết được ai là người trồng rau, nuôi cá hay làm ra từng sản phẩm trên bàn ăn, chúng ta chỉ thấy những gói hàng đóng hộp, những thương hiệu lớn trên kệ siêu thị. Hệ thống này vận hành theo chuỗi cung ứng dài, từ nhà cung cấp, nhà sản xuất, khâu phân phối đến bán lẻ rồi mới đến tay người tiêu dùng. Chính sự tách rời và phức tạp này đã khiến chúng ta mất đi quyền kiểm soát, không thể biết thực phẩm mình tiêu thụ được trồng và sản xuất ra sao, có an toàn, thân thiện với môi trường và tôn trọng con người hay không.
 

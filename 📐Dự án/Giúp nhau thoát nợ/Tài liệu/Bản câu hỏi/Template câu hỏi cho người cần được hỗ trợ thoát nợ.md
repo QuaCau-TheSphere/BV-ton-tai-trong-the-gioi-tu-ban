@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-04-21T00:01
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ? 
@@ -72,7 +72,7 @@ updated: 2025-12-19T11:32
 ### Có vô vàn những người mắc nợ như bạn. Tại sao bạn nên được giúp hơn những người khác?
 ### Là người mang nợ, bạn sẽ rất bận để trả nợ. Nhưng việc cho vay đòi hỏi sự tin tưởng, vốn đến từ sự minh bạch và giải trình. Bạn sẽ làm gì để đảm bảo thông tin được thông suốt, nhất là khi bạn đang cảm thấy mệt mà thấy câu hỏi không giúp gì được cho bạn?
 ### Bạn nghĩ mình cần làm những gì để kiếm được một người có tiền và để họ đồng ý cho bạn vay? 
-### Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn thì bạn sẽ làm gì?
+### - Nếu bạn đã thấy mình đã cố gắng giải thích nhưng bạn vẫn thấy người giúp bạn chưa hiểu được ý bạn hoặc thấy quan điểm của bạn là hợp lý, từ đó khiến cho họ không làm theo đúng ý bạn, thì bạn sẽ làm gì?
 ### Người giúp bạn có thể nói chuyện với những người giúp khác không?
 ### Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
 #### Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?

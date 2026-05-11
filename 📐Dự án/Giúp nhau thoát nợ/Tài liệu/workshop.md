@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-04-02T20:48
 ---
 Tín dụng được dùng nhiều hơn 
 Bộ các tiêu chí đánh giá: tổng tài sản, tổng nguồn vốn
@@ -14,7 +14,7 @@ Lịch sử thu nhập: tăng dần đều (có tiến triển), tăng bất th�
 [[Vay thẻ tín dụng thì được tích đến cuối kỳ, xong rồi thì lại được vay lại dùng lại. Vay bằng hình thức khác thì mỗi kỳ phải trả, và  khi trả xong hết rồi thì không được vay lại]]
 Tiền vay dài thì ngân hàng phải tính tiền của mình phải dư trả trong một thời gian rất dài. Còn tín dụng thì chỉ cần tính tiền của mình đủ để trả lãi và 
 
-[[Cho vay cá nhân lợi hơn là cho vay doanh nghiệp]]
+[[❓Ngân hàng cho cá nhân vay lợi hơn là cho doanh nghiệp vay]]
 
 Hồi xưa ngân hàng có một tiêu chí quan trọng để yêu cầu mua bảo hiểm vay là sự phụ thuộc vào 
 

@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-03T13:55
+updated: 2026-04-14T14:34
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
+  - Làm sao để tìm được thông tin giảm giá tốt nhất?
 ---
 # Làm sao để tìm được thông tin giảm giá tốt nhất? 
 ## Khác gì với mấy trang săn giá rẻ? 

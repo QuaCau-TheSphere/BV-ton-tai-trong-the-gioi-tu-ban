@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-01T21:15
-updated: 2025-12-19T11:32
+updated: 2026-05-03T12:41
 ---
 ## uBlock Origin
 Thường mọi người thấy các trình duyệt hay giới thiệu Adblock. Nhưng nó không mạnh bằng
@@ -11,4 +11,4 @@ Thường mọi người thấy các trình duyệt hay giới thiệu Adblock. 
 
 ## No thanks, I don't care about cookie
 ## Facebook 
-Bài chi tiết:: [[Giảm rác trên mạng xã hội]]
+Bài chi tiết:: [[Giảm rác trên mạng xã hội (Facebook, YouTube)]]

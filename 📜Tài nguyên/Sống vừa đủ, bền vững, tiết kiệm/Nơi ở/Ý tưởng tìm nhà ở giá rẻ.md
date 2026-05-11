@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T16:22
-updated: 2025-12-19T11:32
+updated: 2026-05-03T12:40
 ---
 - [[Ra khỏi thành phố sống]]
 - Ở ngoại ô và gần các bến xe, ga tàu

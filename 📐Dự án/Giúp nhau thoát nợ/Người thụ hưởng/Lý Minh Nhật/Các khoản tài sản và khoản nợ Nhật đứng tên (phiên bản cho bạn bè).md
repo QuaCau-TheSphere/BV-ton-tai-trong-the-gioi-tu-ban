@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-03-24T14:13
+updated: 2026-04-15T20:41
 aliases:
   - nhờ Nhật đứng tên
 ---
@@ -35,7 +35,7 @@ Lộc chọn Vietinbank vì [[Vietcombank, VietinBank, Agribank, và BIDV là c�
 ## Xem thêm
 - [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho ngân hàng, công ty tài chính)]]
 - [[📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/Kế hoạch tài chính cá nhân|Kế hoạch tài chính cá nhân của Nhật]]
-- [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Dịch vụ mở khoản vay]]
+- [[Đánh giá một số dịch vụ mở khoản vay]]
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

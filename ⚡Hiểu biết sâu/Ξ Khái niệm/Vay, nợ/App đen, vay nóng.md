@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-06T11:52
-updated: 2026-03-28T16:05
+updated: 2026-04-15T20:54
 ---
-[[App vay nóng, app đen]]
+[[Vay nóng]]
 ```dataview
 LIST rows.file.link
 WHERE contains(khái-niệm, [[]])
