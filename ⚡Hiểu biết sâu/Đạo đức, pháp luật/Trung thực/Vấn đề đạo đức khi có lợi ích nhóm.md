@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-15T23:31
+updated: 2026-06-05T23:33
 ---
 Khái niệm:: 
 Bản chất chính là lợi ích nhóm, tham nhũng.
@@ -12,6 +12,8 @@ Theo bài [Trách nhiệm xã hội của trí thức qua trường hợp Chomsk
 
 Cái ác cũng nhân danh mục đích cao cả. Hệ quả luận
 Do cố bám thành phố tốt hơn. 
-[[Vấn đề đạo đức trong việc lừa dối tư bản]]
+[[Vấn đề đạo đức trong việc lừa dối cấp trên]]
 Tốt nhất là đi tu?
+[[Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi]]
+
 Nguồn:: 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2026-03-24T14:13
+updated: 2026-06-05T16:47
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế

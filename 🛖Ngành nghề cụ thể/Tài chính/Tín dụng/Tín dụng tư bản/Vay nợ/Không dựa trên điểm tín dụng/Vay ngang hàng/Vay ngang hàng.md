@@ -1,7 +1,9 @@
 ---
 share: true
 created: 2023-05-27T20:18
-updated: 2026-04-15T20:56
+updated: 2026-06-05T16:46
+aliases:
+  - Sàn cho vay ngang hàng
 ---
 [[Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]] 
 [Luật pháp hóa hoạt động cho vay ngang hàng tại Việt Nam | Tạp chí Kinh tế và Dự báo](https://kinhtevadubao.vn/luat-phap-hoa-hoat-dong-cho-vay-ngang-hang-tai-viet-nam-27130.html)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-12T00:58
+updated: 2026-06-05T23:20
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -25,7 +25,7 @@ Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và than
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.
 
-Xem thêm:: [[Vấn đề đạo đức trong việc lừa dối tư bản|Vấn đề đạo đức khi làm ảo]]
+Xem thêm:: [[Vấn đề đạo đức trong việc lừa dối cấp trên|Vấn đề đạo đức khi làm ảo]]
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 

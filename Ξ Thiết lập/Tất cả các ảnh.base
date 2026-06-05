@@ -1,0 +1,70 @@
+filters:
+  and:
+    - |-
+      ["gif","jpeg", "jpg", "png","svg","webp"
+      ].contains(file.ext)
+formulas:
+  Size (kB): (file.size/1024).round(1)
+  Referrer: file.backlinks.map(file(value))
+  Untitled: image(file)
+properties:
+  file.name:
+    displayName: Document
+  file.ext:
+    displayName: Extension
+  file.folder:
+    displayName: Location
+  formula.Untitled:
+    displayName: Preview
+views:
+  - type: cards
+    name: Orphans 🖼️
+    filters:
+      and:
+        - formula.Referrer.isEmpty()
+    order:
+      - file.name
+      - file.ext
+      - formula.Size (kB)
+      - file.folder
+    sort:
+      - property: file.ext
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.ext: 105
+    rowHeight: medium
+    imageFit: ""
+    cardSize: 230
+    imageAspectRatio: 1
+    image: file.file
+  - type: table
+    name: Orphans
+    filters:
+      and:
+        - formula.Referrer.isEmpty()
+    order:
+      - file.name
+      - formula.Untitled
+      - file.ext
+      - formula.Size (kB)
+      - file.folder
+      - file.backlinks
+    sort:
+      - property: file.ext
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.ext: 105
+    imageFit: ""
+    cardSize: 230
+    imageAspectRatio: 1
+    image: file.file
+  - type: table
+    name: Tất cả ảnh
+    order:
+      - file.name
+      - formula.Untitled
+      - file.backlinks

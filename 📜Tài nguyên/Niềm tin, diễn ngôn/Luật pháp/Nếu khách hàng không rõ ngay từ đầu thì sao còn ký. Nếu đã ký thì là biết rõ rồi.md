@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T17:06
-updated: 2026-03-28T17:22
+updated: 2026-06-05T23:10
 ---
 Khái niệm:: [[Bán hàng]]
 Không để khách hỏi xa 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-14T15:06
+updated: 2026-06-05T18:40
 aliases:
   - Mua đồ ăn giá rẻ
   - Kiếm đồ ăn miễn phí
@@ -9,7 +9,7 @@ aliases:
 ---
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
-- Tham gia các [[nhóm mua chung, câu lạc bộ tiêu dùng]]
+- Tham gia các [[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng]]
 - Săn [[Phiếu giảm giá (voucher)]]
 - Aeon sau 9h tối bán đồ ăn đại hạ giá
 

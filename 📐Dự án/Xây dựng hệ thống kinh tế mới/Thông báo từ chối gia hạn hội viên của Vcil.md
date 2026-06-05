@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-05-11T21:49
+updated: 2026-05-29T23:08
 ---
 ## Vcil gửi 23/4/2026
 Chào anh Lý Minh Nhật,
@@ -203,67 +203,112 @@ Chúc anh Nhật mạnh khỏe.
 Thân ái,
 
 ## Nhật sắp gửi (nháp)
-### Nhà tắm
-Phòng tắm và phòng ngủ là khu vực riêng của những người đã đăng ký lưu trú — những người này, như Cát Tường, đã đi qua một quy trình riêng để được ở và được hướng dẫn cụ thể về cách sử dụng không gian.
+Phần 2 mình sẽ chủ yếu đặt câu hỏi để làm rõ hơn các ý của các bạn.
 
-Thế nào là người có liên quan?
-Những khách đến chơi khác có cần phải có sự đồng ý tường minh của Ly hoặc Trinh để được sử dụng nhà tắm không?
+### Không gian Living Lab
+> Phòng tắm và phòng ngủ là khu vực riêng của những người đã đăng ký lưu trú — những người này, như Cát Tường, đã đi qua một quy trình riêng để được ở và được hướng dẫn cụ thể về cách sử dụng không gian.
+
+Mình muốn hỏi các bạn:
+- Hướng dẫn về cách sử dụng không gian đã nói gì về việc cho phép khách đến chơi sử dụng nhà tắm?
+- Tường cho phép mình sử dụng là có làm theo hướng dẫn đó hay không? Nếu có thì tại sao mình vẫn không được sử dụng? Nếu không thì các bạn đã có những xử lý gì với Tường?
+- Những khách đến chơi trước đây và sau này có cần phải có sự đồng ý tường minh của Ly hoặc Trinh để được sử dụng nhà tắm không?
+- Tại sao không sử dụng cách hiểu thông thường là nếu một người được mời đến chơi thì được phép sử dụng nhà tắm? Tại sao không sử dụng cách hiểu thông thường là nếu một người được một người trong nhà đồng ý sử dụng nhà tắm thì được phép sử dụng nhà tắm? 
+
+> hội viên được sử dụng không gian chung [...] không gian chung tại Living Lab bao gồm nhà bếp và các khu vực sinh hoạt phía trước
+- Như vậy mình có quyền sử dụng phòng khách. Vậy tại sao mình nhờ giữ đồ rồi ra ngoài đường nằm cũng không được?
+- Tại sao mình bị từ chối lưu trú ở đây? Lý do được đưa ra là hết chỗ. Có thật là đã kín hết chỗ, không thể thêm được một ai ở khu vực này không?
+
+> Tôn trọng ranh giới không gian riêng tư của những người đang sống tại Living Lab, bao gồm việc chỉ sử dụng khu vực chung sau khi được xác nhận rõ ràng từ những người có liên quan.
+- Thế nào là người có liên quan? Như Tường hay Mẫu thì có được xem là người có liên quan không? Và chẳng phải là mọi hội viên đều được sử dụng khu vực chung đó sao?
+- Trinh và Ly đã nói gì về chuyện này? Tại sao lúc đó không trao đổi luôn với mình?
 
 ### Ngân hàng quà tặng
-Lúc đầu vẫn duyệt 
-vì sao không nói ngay từ đầu là tiền chỉ dành cho nội bộ? Thế nào là nội bộ? 
+> Việc dùng Gift Bank để trả nợ cho người ngoài cộng đồng có nghĩa là nguồn lực của hội viên đang được chuyển ra ngoài phạm vi cộng đồng, tới một người không có bất kỳ ràng buộc hay trách nhiệm gì với hệ thống. 
 
-### Copyleft
-Theo [Wikipedia](https://www.pcworld.com/article/529195/article-6782.html) thì khái niệm copyleft là do FSF đặt ra, nên nếu xét về nghĩa gốc thì phải dùng theo cách hiểu của FSF. Ngay cả nếu muốn mở rộng cách hiểu ra thì cũng cần đảm bảo là những người theo cách hiểu gốc không bị loại trừ. Nếu không bao gồm cách hiểu gốc thì nó là cách hiểu khác, không phải cách hiểu rộng.
+Thế nào là chuyển ra ngoài phạm vi cộng đồng? Một người lấy tiền từ quỹ để mua đồ, thì tiền đã được chuyển tới người bán hàng, một người không có bất kỳ ràng buộc hay trách nhiệm gì với hệ thống. Vậy thì họ khác gì trong trường hợp này?
 
-Mình e là từ này vốn đã có một nghĩa nhất định và khó mà mở rộng ra rồi.
-Cũng không cần thiết phải dùng, vì theo mình hiểu về bản quyền thì ý tưởng hay mô hình không được bản quyền. 
-Cách hiểu của các bạn, nếu xem là cách hiểu mở rộng, thì sẽ không loại trừ các nghĩa vụ của các bạn trong việc cung cấp mã nguồn các phần mềm các bạn viết, kể cả website. Mã nguồn trong quá trình xây dựng, chưa ở trạng thái ổn định hoàn toàn có thể chia sẻ mà không gây rủi ro gì. Như mình có phân tích là dữ liệu vận hành của cộng đồng không phải là mã nguồn. Có lẽ ngoại lệ duy nhất là vì 
+Những lần đầu các bạn vẫn duyệt chuyển tiền. Nếu lúc đó đã có vấn đề tại sao các bạn vẫn chuyển? Tại sao lúc đó không thảo luận với mình ngay?
 
-chứa dữ liệu vận hành của cộng đồng, và có những phần chưa ở trạng thái ổn định để chia sẻ rộng rãi mà không gây rủi ro
-Việc tiếp cận mã nguồn không chỉ ùng để phát triển website
+> Việc dùng Gift Bank để đóng phí hội viên tạo ra một vòng lặp nội bộ: tiền từ quỹ chung được dùng để duy trì quyền truy cập vào chính quỹ đó, trong khi không có nguồn đầu vào mới. Nếu mô hình này nhân rộng, quỹ sẽ không còn tài nguyên để hỗ trợ cho bất kỳ ai.
 
-Có những rủi ro gì? 
-Nhân tiện, copyleft không phải là đối n [[Copyleft không phải là từ bỏ copyright, mà là sử dụng copyright để đảm bảo sự tự do của người dùng thay vì tước đoạt nó]]
+Tại sao không có nguồn đầu vào mới? Đâu có lý do gì để một người dùng tiền quỹ để có được quyền truy cập vào quỹ sẽ luôn không trả lại đâu? Mà kể cả họ có làm điều đó, thì đâu có nghĩa những người còn lại cũng sẽ không đóng vào?
 
-[Just a moment...](https://opensource.stackexchange.com/q/15753/6810)
+> Ngân hàng sẽ hoạt động một cách hữu cơ và năng động với Vcil Community và Hội viên là những người đồng sỡ hữu. Những nguyên tắc vận hành có thể được điều chỉnh, thông qua tiến trình đối thoại và đồng thuận của thành viên trong cộng đồng.
 
-Và cuối cùng, kể cả khi vấn đề bảo mật là đủ chính đáng để không cung cấp mã nguồn, thì các bạn cũng có nghĩa vụ giải thích ra. Và điều đó không trở thành lý do để cấu thành 
-hiểu rằng đó là do sự yếu kém của các bạn trong việc xây dựng. Việc mình đòi quyền truy cập
+Tiến trình đối thoại và đồng thuận của thành viên trong cộng đồng đã được thực hiện thế nào? Tại sao các bạn có thể thay mặt các đồng sở hữu (chính là các hội viên) để quyết định đâu là mục đích chính đáng, tinh thần của hệ thống, hay lẽ thường tình?
 
-Giấy phép cụ thể cho những gì các bạn nói là gì?
 ### Vi phạm pháp luật
-Thấy các bạn cũng đáo thẻ
-Nếu là đứng tên tài khoản thì đúng là có nguy cơ, nhưng nếu vậy thì chỉ cần thòng thêm câu "miễn là không vi phạm pháp luật" là được?
+> anh đã nhiều lần chia sẻ trong cộng đồng những thông tin không phù hợp liên quan đến vấn đề nợ và hệ thống tài chính. Đây là những thông tin có dấu hiệu vi phạm pháp luật.
+
+Thứ duy nhất mình thấy là mình nói và có phạm luật là việc đáo thẻ tín dụng. Mình nói vì mình thấy là các bạn cũng làm tương tự. Điều đó nhất quán với tinh thần thượng tôn pháp luật của các bạn thế nào?
+
+Các bạn nói là những thông tin. Vậy còn những thông tin nào khác?
+
+Mình biết còn những hội viên khác cũng đi đáo thẻ. Các bạn sẽ xử lý những trường hợp này thế nào?
+
+Xem thêm: [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đáo hạn thẻ tín dụng” - Cổng Thông tin điện tử thành phố Đà Nẵng](https://danang.gov.vn/vi/w/xu-ly-mot-loat-vu-dung-may-pos-rut-tien-hoac-dao-han-the-tin-dung-i)
 
 ### Diễn giải
-Ranh giới của cộng đồng là gì? 
-Sao lúc đó không nói?
+> Chúng tôi không có ý định quy kết anh
 
-Việc phân tích vấn đề theo cách nhìn về quyền và nghĩa vụ là không sai, nhưng theo mình nó làm giới hạn khả năng thông cảm của bản thân và sự đối thoại, nhất là trong trường hợp chỉ là hiểu nhầm hơn là cố ý vi phạm. Ví dụ, mọi người cũng không có nghĩa vụ phải hiểu rằng vào nhà tắm phải xin phép, rằng copyleft của các bạn là, hay tất cả những hiểu lầm bất lợi cho các bạn khác.
+Các bạn liệt kê ra ý này vì muốn chứng tỏ là mình vi phạm "các nguyên tắc và giá trị chung của cộng đồng". Vậy sao lại gọi là không quy kết?
+
+> Người nghe không có nghĩa vụ phải đoán hiểu đâu là đùa, đâu là thật.
+
+Quyền và nghĩa vụ là những thuật ngữ thường thấy trong luật pháp. Để một quyền hoặc nghĩa vụ được duy trì một cách có ý nghĩa đòi hỏi sự tồn tại của một lực lượng có sức mạnh, và lực lượng đó sẽ duy trì trật tự bằng việc đảm bảo các bên tuân thủ nghĩa vụ của mình bằng sức mạnh của mình. Sự viện dẫn đến nó sẽ cần thiết khi những cách thức trao đổi khác đã thất bại. Nếu viện dẫn sớm hơn thì cũng không sai, nhưng theo mình thì nên tránh nếu không muốn khả năng thông cảm của các bên tham gia đối thoại bị giới hạn. 
+Suy đoán vô tội.
+Ví dụ, nếu người A không có nghĩa vụ phải đoán hiểu ý của người B, thì người A cũng không có quyền đòi hỏi người B phải đoán hiểu ý mình. Người B hoàn toàn có thể từ chối thông cảm cho A nếu A gặp giới hạn về năng lực.
+
+Mình thấy các bạn đang kêu gọi hội viên thông cảm cho sự thiếu năng lực của các bạn:
+
+> Hiện tại chúng tôi vẫn đang xử lý thủ công, nên không có khả năng chăm sóc cá nhân từng trường hợp một — đó cũng là lý do tại sao việc chủ động liên hệ với đội ngũ khi có vấn đề là điều chúng tôi rất khuyến khích.
+
+Hội viên đóng tiền vào hoàn toàn có quyền đòi hỏi những quyền lợi mà các bạn truyền thông. Nếu có gì không hiểu rõ thì trao đổi là được. Nhưng nếu bỏ qua luôn việc trao đổi và nhảy ngay đến việc sử dụng khái niệm quyền và nghĩa vụ thì: họ không có nghĩa vụ phải chủ động liên hệ với các bạn
+
+> Bên cạnh câu nói này, chúng tôi cũng đã nhận được phản hồi từ nhiều hội viên khác về hành vi và lời nói của anh trong một số buổi sinh hoạt chung ở Đà Nẵng và TP.HCM
+
+Mình đã có ngôn ngữ và hành vi thế nào?
+
+
+
+
+- Các bạn là cộng đồng loại 2, không phải loại 1. Nghĩa là sự tham gia, làm chủ của cộng đồng chỉ ở một mức độ nhất định, không phải là triệt để. Sẽ có những quyết định ảnh hưởng đến cộng đồng mà cộng đồng không được biết và thảo luận, vì được xếp loại là thông tin nội bộ
+
+Ví dụ, mọi người cũng không có nghĩa vụ phải hiểu cộng đồng theo định nghĩa của các bạn không bao gồm việc 
+
+
+
+### Cộng đồng 
+
+Và thay vì chào đón một cách diễn giải mới, các bạn chọn đóng cửa với nó. Tất nhiên các bạn không có nghĩa vụ phải làm điều đó. Nhưng một người cởi mở thì sẽ làm điều đó.
 
 Mình không nói cách hiểu về cộng đồng của các bạn là sai. Mình chỉ ra một thực tế là sẽ có những người có cách hiểu khác, và họ có vấn đề với cách hiểu của các bạn. Các bạn phải biện minh được vì sao các bạn chọn cách hiểu này
 
-Việc lựa chọn cách hiểu đồng nghĩa là các bạn phải luôn chuẩn bị để gặp các sự không hài lòng đó. Mình cho rằng cách tốt nhất là nói thẳng ra ngay từ đầu
-
-Hiểu rằng đoàn kết là việc quan trọng, nhưng thế nào là mất đoàn kết. Một người nếu diễn giải rằng  sẽ thấy việc chia sẻ sự thật không gây mất đoàn kết, thậm chí còn giúp đoàn kết hơn, thì  Rồi sẽ đụng chạm giá trị
-
-Mình đã có ngôn ngữ và hành vi nào khác
-Bạn liệt kê ra vì muốn chứng to mình vi phạm, vậy sao lại gọi là không quy kết?
-Với những gì các bạn đã truyền thông và chưa đủ để người khác đủ hiểu các quy định của các bạn, các bạn sẽ làm gì tiếp theo? Có ý định thảo luận với cộng đồng về những vấn đề này không?
+Việc đi theo cách hiểu nào đó đòi hỏi phải chuẩn bị khi gặp các phản ứng  gặp các sự không hài lòng đó. Mình cho rằng cách tốt nhất là nói thẳng ra ngay từ đầu
 
 giả sử cộng đồng quyết định rằng ở đây ưu tiên giá trị này hơn, thì không có cơ chế để làm điều đó
+Có nhiều cách để bảo vệ tính bền vững của cộng đồng. Có thể cộng đồng thấy có những trường hợp cho, có cái không cho. 
 
-Tường trình, 
-Bảo vệ tính bền vững của cộng đồng thì . Nhưng có nhiều cách để bảo vệ. Có thể cộng đồng thấy có những trường hợp cho, có cái không cho. 
 
-law by spirit and by word 
 
-Copyleft: what interpretations and expectations are reasonable?
 
-An author says their program is copyleft, but not specify what license they use. Now, it seems to me that copy
-Về cơ bản, các bạn không đánh giá được mức độ bảo mật của hệ thống mình thế nào, và cũng không thể giữ cho nó bí mật được. Nếu các bạn đã thấy nó không ổn định để mà thấy việc chia sẻ mã nguồn đem lại rủi ro cho người sử dụng, thì bản thân việc sử dụng nó cũng đã là rủi ro rồi. Nếu các bạn đã quan tâm đến bảo mật, thì cách tốt nhất là dừng việc sử dụng nó cho tới khi các bạn vá xong hết lỗi. Việc không chia sẻ mã nguồn không làm giảm khả năng nó bị tấn công.
+> Sau khi xem xét lại toàn bộ, chúng tôi nhận thấy rằng một phần của những phản hồi này đến từ việc anh chưa nắm đủ cách Vcil vận hành. 
 
-Reference:
-- [Copyleft - Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
-- [What is Copyleft? - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/copyleft.html)
+Một phần của những phản hồi này đến từ việc mình chưa nắm đủ cách Vcil vận hành. Vậy phần còn lại là gì?
+
+> Nếu có câu hỏi hoặc bất đồng về cách vận hành, chia sẻ trực tiếp theo cách xây dựng — không theo hướng đưa ra những luận điểm có thể gây mất đoàn kết.
+
+- Thế nào là trực tiếp? Thế nào là theo cách xây dựng? Các bạn đã làm những điều đó với mình chưa, hay làm mất đoàn kết với mình luôn?
+- Thế nào là mất đoàn kết? Một người nếu thấy rằng sẽ thấy việc chia sẻ điều họ thấy không gây mất đoàn kết, thậm chí còn giúp đoàn kết hơn, nhưng các bạn thấy là mất đoàn kết thì chuyện gì sẽ xảy ra?
+
+Cuối cùng, đây là những câu hỏi còn lại của mình:
+- Với những gì các bạn đã truyền thông và chưa đủ để người khác đủ hiểu các quy định của các bạn, các bạn sẽ làm gì tiếp theo? Có ý định thảo luận với cộng đồng về những vấn đề này không?
+- Tường trình về trường hợp chặn chị Thắm 
+- Vì sao các bạn không để cộng đồng được thảo luận và quyết định các vấn đề của cộng đồng?
+
+
+
+- Các lời mời, nội quy, tinh thần, cách làm việc v.v. có những ngoại lệ hoặc cách hiểu không được ghi ra một cách tường minh
+- Nếu có cách hiểu sai hay phạm vào những ngoại lệ đó thì không chắc sẽ được thông báo để có những trao đổi, điều chỉnh kịp thời. Kể cả khi có nói chuyện với nhau thì có thể sẽ là về những chủ đề khác hơn là chuyện thông báo vi phạm
+- Nếu vi phạm đủ nhiều thì sẽ có thể bị hủy luôn tư cách hội viên mà không được báo trước
+- Sự đóng góp cho cộng đồng phải được hiểu là đem lại những gì các bạn cần

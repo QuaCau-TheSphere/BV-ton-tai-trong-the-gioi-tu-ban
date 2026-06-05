@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T21:11
-updated: 2026-05-12T00:56
+updated: 2026-06-05T23:32
 ---
 [[Nhánh lập pháp cần duy trì những lợi ích ngầm cho một số đối tượng để nhánh hành pháp còn có nhân sự làm việc]]
 Nguồn:: ![The Rules for Rulers - YouTube](https://youtu.be/rStL7niR7gs?si=u5nw6yL7SY6BhTwg)

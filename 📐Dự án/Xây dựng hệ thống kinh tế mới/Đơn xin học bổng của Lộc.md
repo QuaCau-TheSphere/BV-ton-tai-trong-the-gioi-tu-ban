@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-24T23:19
+updated: 2026-06-05T11:50
 ---
 
 ## Miêu tả ngắn gọn về bản thân (ví dụ: sở thích, đam mê, nguyện vọng, ước mơ, định hướng...)  *
@@ -18,7 +18,7 @@ Tôi là Nguyễn Hữu Lộc, sinh ngày 25/06/1999. Tôi thích chạy bộ, �
 | Hoạt động của tôi                                                               | Thành phẩm                                                                                                                 |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Tạo ra [[Công việc thời vụ, cộng tác viên\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                                      |
-| [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho ngân hàng, công ty tài chính)\|điểm tín dụng hạng 2]] |
+| [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Hồ sơ vay\|điểm tín dụng hạng 2]] |
 | [[Gom tài nguyên làm MMO]]                                                       |                                                                                                                            |
 
 Những hoạt động này là đầu vào để Nhật làm những hoạt động sau:

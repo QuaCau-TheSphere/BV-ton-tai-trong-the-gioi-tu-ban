@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-03T14:02
+updated: 2026-06-03T15:10
 ---
-Khái niệm:: 
+Khái niệm:: [[Đáo]]
 Dù [[Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền|Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền]]
 
 Một bảng quảng cáo ở một quán cà phê:
@@ -16,4 +16,4 @@ Tiệm đáo rút ngay tại Vinhome Grand Park
 
 [[Ngân hàng không có động lực bắt đáo vì ngân hàng cũng kiếm được tiền từ việc mình đáo]]
 
-Nguồn:: 
+Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]

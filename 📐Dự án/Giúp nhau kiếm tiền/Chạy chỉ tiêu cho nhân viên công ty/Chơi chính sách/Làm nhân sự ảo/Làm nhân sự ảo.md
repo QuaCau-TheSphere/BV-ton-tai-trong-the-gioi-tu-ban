@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-06-05T23:20
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -52,7 +52,7 @@ Với Cueball:
 - smartpay, đi theo data có sẵn, đến để hỏi những ng đã từng xài smartpay hỏi họ có muốn vay k, lên hồ sơ cho họ, lương cứng 12tr+2tr phụ cấp+hoa hồng doanh số lên hs, thử việc 2 tháng nhận đủ lương
 
 ## Xem thêm
-- [[Vấn đề đạo đức trong việc lừa dối tư bản|Vấn đề đạo đức khi làm ảo]]
+- [[Vấn đề đạo đức trong việc lừa dối cấp trên|Vấn đề đạo đức khi làm ảo]]
 - [[Bao nuôi]]
 - [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 

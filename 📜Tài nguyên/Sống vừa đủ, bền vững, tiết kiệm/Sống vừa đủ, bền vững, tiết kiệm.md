@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2026-03-25T13:02
+updated: 2026-05-21T21:50
 aliases:
   - Ý tưởng tiết kiệm
 ---
@@ -18,4 +18,6 @@ WHERE file.name != this.file.name
 ```
 
 Xem thêm:: [[Nền kinh tế vừa đủ]]
+[[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]]
+
 ![[[Public] Cẩm nang Hội viên Vcil 1.0.pdf]]

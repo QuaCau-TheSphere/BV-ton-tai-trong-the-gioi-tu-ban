@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2025-12-19T11:32
+updated: 2026-05-18T15:50
 ---
 Tên thương hiệu:: Nam A Bank
 Phân loại:: [[Thương mại Cổ phần]]
@@ -11,3 +11,6 @@ SWIFT:: NAMAVNVX
 Website:: [nam a bank.com.vn](nam a bank.com.vn)
 Ngày thành lập:: 21/10/1992
 Vốn điều lệ (tỷ đồng):: 13,726.00
+
+
+Mở tài khoản tại quầy thì cần sđt đúng với sđt đã đăng ký trên vneid

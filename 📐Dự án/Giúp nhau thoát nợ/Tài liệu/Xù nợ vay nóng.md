@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T21:17
-updated: 2026-01-01T11:51
+updated: 2026-06-05T12:00
 aliases:
   - Giảm thiệt hại khi quyết định xù nợ vay nóng
 ---
@@ -14,7 +14,7 @@ Khái niệm:: [[App đen, vay nóng]]
 | Kéo đến nhà                | Chuyển chỗ trọ trước khi xù, hoặc trọ ở những nơi mà khách lên phải có sự đồng ý của chủ nhà hoặc bảo vệ                                                                                 |
 | Kéo đến nơi làm việc       | Nghỉ việc trước khi xù                                                                                                                                                                   |
 
-Hoặc có thể giải thích với mọi người rằng mình bị tai bay vạ gió, nó đòi lộn người mà mình giải thích nhưng vẫn không chịu tin. Hoặc là lừa đảo, mua được thông tin của mình ở đâu đó rồi cứ khủng bố tinh thần đại, ai yếu bóng vía thì mất tiền. Hơn nữa, vì [[App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay]], nên *có thể* cũng sẽ không đến tận nơi để đòi mà chỉ gọi điện làm phiền. Chỉ có vay trực tiếp mới đến tận nhà.
+Hoặc có thể giải thích với mọi người rằng mình bị tai bay vạ gió, nó đòi lộn người mà mình giải thích nhưng vẫn không chịu tin. Hoặc là lừa đảo, mua được thông tin của mình ở đâu đó rồi cứ khủng bố tinh thần đại, ai yếu bóng vía thì mất tiền. Nên đây là một rủi ro mới trong xã hội mà mọi người cần chấp nhận, giống như đi đường bị hỏng xe vậy. Hơn nữa, vì [[App đen thực chất là tụi Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay]], nên *khả năng cao* là cũng sẽ không đến tận nơi để đòi mà chỉ gọi điện làm phiền. Chỉ có vay trực tiếp mới đến tận nhà.
 
 [[❓App đen không có số của người thân mình]]
 [[❓App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu]]
@@ -27,6 +27,7 @@ Ngân hàng cũng chẳng muốn lấy nhà, xã hội đen cũng chẳng muốn
 [[Réo gọi làm phiền liên tục. Trả xong vẫn bị gọi trong mấy ngày|Réo gọi làm phiền liên tục. Trả xong vẫn bị gọi trong mấy ngày]]
 
 [Loan shark - Wikipedia](https://en.wikipedia.org/wiki/Loan_shark)
-[Fetching Title#xy1u](https://vov2.vov.vn/phap-luat/di-tu-vi-tron-no-51855.vov2)
+[Đi tù vì trốn nợ](https://vov2.vov.vn/phap-luat/di-tu-vi-tron-no-51855.vov2)
+
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

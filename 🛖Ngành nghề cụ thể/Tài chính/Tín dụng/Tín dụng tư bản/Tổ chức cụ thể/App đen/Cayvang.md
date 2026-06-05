@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-13T17:17
-updated: 2026-04-15T20:54
+updated: 2026-06-05T12:00
 ---
 Loại dịch vụ:: [[Vay nóng]]
 
@@ -27,4 +27,4 @@ Trước khi "gia hạn":
 Sau khi "gia hạn": 
 ![](https://media.discordapp.net/attachments/953628307314855999/1276470340507275366/image.png?ex=66c9a524&is=66c853a4&hm=de76a53f27602ebcf9949bf8d4ad7581f7f762f3b74a8b06d10fb39a46db6512&=&format=webp&quality=lossless&width=778&height=671)
 
-[[App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay]]
+[[App đen thực chất là tụi Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay]]

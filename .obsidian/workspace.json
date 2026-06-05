@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6add867b9947216a",
+            "id": "819de9173a1f7b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/⚡Hiểu biết sâu.md",
+                "file": "📐Dự án/Xây dựng hệ thống kinh tế mới/bảo mật vcil.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "⚡Hiểu biết sâu"
+              "title": "bảo mật vcil"
+            }
+          },
+          {
+            "id": "5b9711a6fdc5d981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Giả sử có thắng kiện thì vẫn là án dân sự, đối phương được quyền trả chậm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Giả sử có thắng kiện thì vẫn là án dân sự, đối phương được quyền trả chậm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +190,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -180,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -194,48 +219,50 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VS Code": false
     }
   },
-  "active": "6add867b9947216a",
+  "active": "5b9711a6fdc5d981",
   "lastOpenFiles": [
-    "💸Hình thức kiếm tiền/Chỉ 25% doanh nghiệp sống đến 15 năm.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/An toàn thông tin/Tội phạm mạng chỉ cần một phần nhỏ các cuộc tấn công thành công (ví dụ, dưới 1%) để có lợi nhuận.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Việc giặt đồ chung làm nói chuyện với nhau được nhiều hơn.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Việc dùng khái niệm sở hữu làm ta mất đi trách nhiệm với tự nhiên.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật/Tỷ lệ người khuyết tật tham gia lực lượng lao động là 23,9%, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4%).md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật/Tỉ lệ khuyết tật của người 16 tuổi trở lên là 5.59% ở thành thị, 8.36% ở nông thôn.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật/Nhân viên khuyết tật có giá trị năng suất thấp hơn nhân viên trung bình, nhưng tốt hơn so với nhân viên trung bình về các yếu tố tin cậy và các yếu tố duy trì nhân viên.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người khuyết tật",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Kinh tế phi chính thức/❓Kinh tế phi chính thức cảm giác là không tốt. Có lẽ nên thay bằng kinh tế vô hình.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Kinh tế phi chính thức",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Hệ thống không được thiết kế để khuyến khích sự phản tư.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Có vẻ như các tổ chức tài chính vi mô đều từ chối người đang nợ.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Các đô thị vô cùng đông đúc, nhưng tỷ lệ người cảm thấy cô đơn lại tăng lên.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Các trường học chính thống thường không tạo ra không gian để chất vấn hay thảo luận về các vấn đề của tư bản.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Các quỹ dự án tốn tiền cho nhân sự, làm cho nhiều dự án nhỏ tốn thời gian và đa phần các thời gian đó bị phí.md",
-    "🛖Ngành nghề cụ thể/Phát triển bền vững/❓Điều gì khiến một người có tiền nhiều tới mức đầu tư cũng ko hết vẫn ko muốn cho tiền？Tại sao việc đáp ứng nhu cầu người khác lại không mạnh hơn việc tối đa hoá tiền？.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Từ thiện và những thứ có vẻ giống như nó.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Trả cho người sau (trả tới).md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Sự hào phóng mà người sau cảm thấy do được trả bởi người trước có thể khiến cho họ muốn cho tiền ăn xin.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Nhà tài trợ yêu cần người nhận minh bạch được, nhưng người nhận không yêu cầu nhà tài trợ minh bạch được.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Nhiều tổ chức quốc tế cử các chuyên gia đến các quốc gia khác để giúp đỡ, nhưng thực tế là họ không hề hiểu về văn hóa, hệ sinh thái hay truyền thống bản địa.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Mỹ đề cao tư bản, nhưng định hình thể chế philanthropy thông qua luật. Châu Âu áp thuế thu nhập rất cao.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Gây quỹ cộng đồng.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Các tổ chức tôn giáo không có sứ mệnh phát triển cộng đồng, chỉ có sứ mệnh thương người.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Các tổ chức quốc tế chỉ hướng đến xoá đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ/Các tổ chức bảo vệ môi trường có thể được tài trợ bởi những nguồn có mục tiêu phi môi trường.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Từ thiện, viện trợ, tài trợ",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người nghèo",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Người lao động",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Phương thức lừa đảo/Đánh vào mong muốn kiếm tiền nhanh/GM/Nhân sự",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Phương thức lừa đảo/Đánh vào mong muốn kiếm tiền nhanh/GM/Khách hàng",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Phương thức lừa đảo/Đánh vào mong muốn kiếm tiền nhanh/GM",
-    "Hình thức kiếm tiền/Thiếu liêm chính/Cảnh giác lừa đảo/Giả mạo, lừa đảo/GM/Nhân sự",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Luật dân sự (civil law) của VN giống như luật tư (private law) của Anh Mỹ.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Nền kinh tế thế giới và khung pháp luật thương mại, tài chính toàn cầu chịu nhiều ảnh hưởng của thông luật.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Tình tiết tăng nặng hoặc giảm nhẹ.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Giả sử có thắng kiện thì vẫn là án dân sự, đối phương được quyền trả chậm.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Chỉ can thiệp hình sự khi các biện pháp dân sự và hành chính không đủ khả năng xử lý hoặc khi hành vi vi phạm đạt đến mức độ nguy hiểm cần thiết.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Cơ chế giải quyết tranh chấp dân sự có thời gian giải quyết kéo dài và hiệu quả thi hành án chưa cao như ở hình sự.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Luật hình sự không được thiết kế để trở thành phản xạ mặc định cho mọi sai sót trong quản lý.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Dữ liệu cá nhân/Dữ liệu y tế đang đợi bên bộ công an làm ổn mã định danh.md",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Dữ liệu cá nhân/Chính sách phát quà 100.000 đồng qua chuyển khoản chỉ mất chi phí dưới một phần ngàn GDP mà có thêm quyền lực biểu tượng và hạ tầng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Quỹ từ thiện không được đầu tư. Quỹ đầu tư không được nhận tiền của cộng đồng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Luật pháp chỉ hiểu về kinh doanh, chứ không hiểu về phi lợi nhuận.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Đóng góp từ thiện cho thiên tai bão lũ, khẩn cấp phải được giao về Mặt trận Tổ quốc Việt Nam.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Chính thức hoá khi lập quỹ là chết với luật tín dụng.md",
+    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Chính phủ làm từ thiện thì được, chứ không nên thúc đẩy xã hội.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Kho địa điểm để chọn nơi gặp mặt.md",
+    "🛖Ngành nghề cụ thể/Xây dựng, bất động sản/Đằng sau mỗi mét vuông đất còn có lịch sử gia đình, ký ức cộng đồng, kế sinh nhai, không gian học tập, y tế, mạng lưới xã hội, và cảm giác công bằng.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Trung thực/Vấn đề đạo đức trong việc lừa dối cấp trên.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Trung thực/Có hai quan điểm chính khi bị trục lợi.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Trung thực/Vấn đề đạo đức khi có lợi ích nhóm.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư.md",
+    "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/Rất nhiều luật không thể tốt hơn là vì không thể quản lý nổi.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/MH.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/Lách luật là phạm luật một cách đúng luật.md",
+    "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Pháp nhân",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Gia công giải pháp cho doanh nghiệp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Học tập, phát triển bản thân",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Tín dụng",
+    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
+    "Ξ Thiết lập/Templates/New folder",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Dòng tiền cụ thể nửa cuối năm 2025.png",
+    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự",
+    "📜Tài nguyên/Chính sách nhà nước/Quy định, luật/New folder",
+    "Ξ Thiết lập/Ảnh/Hacked by LittleDemon.png",
+    "Ξ Thiết lập/Tất cả các ảnh.base",
+    "Ξ Thiết lập/Ảnh/Các mô hình tài chính chung.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260509132332.png",
     "Ξ Thiết lập/Ảnh/PPPAY/Tường trình cho ngân hàng.png",
     "Ξ Thiết lập/Ảnh/PPPAY/OKPAY.png",
@@ -243,9 +270,6 @@
     "Ξ Thiết lập/Ảnh/Tường trình cho ngân hàng.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260312131914.png",
     "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131914.png",
-    "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131907.png",
-    "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131859.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260312131907.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

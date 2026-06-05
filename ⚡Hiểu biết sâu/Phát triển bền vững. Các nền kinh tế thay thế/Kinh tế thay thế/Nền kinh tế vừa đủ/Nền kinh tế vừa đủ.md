@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-12-15
-updated: 2025-12-19T11:32
+updated: 2026-05-21T21:50
 aliases:
   - Sự giàu có đích thực là gì?
 ---
@@ -61,3 +61,5 @@ Một số hình ảnh được cung cấp bởi [มูลนิธิกสิ
 Nguồn:: [Sự giàu có đích thực là gì? - Vcil Community’s Newsletter](https://vcil.substack.com/p/su-giau-co-ich-thuc-la-gi?r=1rvqpc&utm_campaign=post&utm_medium=web)
 [[❓Có hình thức kinh tế nào hoạt động tốt ở đô thị không, hay toàn chỉ ở nông thôn]]
 [[Sống vừa đủ, bền vững, tiết kiệm]]
+[[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]]
+

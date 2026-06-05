@@ -2,11 +2,11 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-04-21T20:59
+updated: 2026-06-05T23:13
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
-  - bùng, quịt
+  - bùng, quịt, mất khả năng trả nợ
 ---
 ## Các lý do không muốn mất điểm tín dụng
 Tại sao [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]]? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?
@@ -20,10 +20,11 @@ Những người không muốn mất điểm tín dụng vì lý do này thườ
 
 Nhà nghiên cứu [Helena Norberg-Hodge](https://en.wikipedia.org/wiki/Helena_Norberg-Hodge) trong video này đến ngôi làng Ladakh và hỏi một người địa phương chỉ cho mình biết ngôi nhà nghèo nhất trong làng ở đâu. Người đó không biết phải trả lời thế nào vì họ không biết nghèo là gì. 8 năm sau, Helena quay lại thì lại được nghe chính người này nói là họ nghèo quá và mong được giúp đỡ.
 ![Paradise With Side Effects - YouTube](https://www.youtube.com/watch?v=KFnUV389vXg)
+Việc thay đổi cuộc sống nằm ở trong suy nghĩ
 
-Thường giải pháp tối ưu đòi hỏi phải [[Ra khỏi thành phố sống]] và chịu làm nông. Nông dân áp dụng [[Nền kinh tế vừa đủ]] thì sẽ không cơ cực. Tất nhiên một người không có kiến thức nông nghiệp mà chuyển về làm nông ngay thì cũng rủi ro. Nhưng cũng có nhiều hội nhóm sẵn sàng giúp đỡ.
+Thường giải pháp tối ưu đòi hỏi phải tự làm ra lương thực cho mình. Tức là làm nông. Xem bài [[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]].
 
-Kể cả khi vẫn ở trong điều kiện cũ, thì phải bao nhiêu tiền thì mới có cuộc sống mới. Giờ giả sử hết nợ và vẫn giữ được điểm tín dụng thì khác biệt thế nào? Giờ chờ thêm 5 năm thì có khác biệt gì?
+Còn nếu ta không muốn [[Ra khỏi thành phố sống]], thì phải bao nhiêu tiền thì mới có cuộc sống mới. Giờ giả sử hết nợ và vẫn giữ được điểm tín dụng thì khác biệt thế nào? Giờ chờ thêm 5 năm thì có khác biệt gì?
 
 Tham gia các quỹ tín dụng vi mô thì vẫn vay được. 
 
@@ -31,7 +32,7 @@ Tài sản vô hình tạo ra dòng tiền
 
 dòng tiền, [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]. Dòng tiền được tạo từ những cái đó cũng có.
 [[❓Tài sản vô hình có chi phí biên gần như bằng 0]]
-
+[[❓Có hình thức kinh tế nào hoạt động tốt ở đô thị không, hay toàn chỉ ở nông thôn]]
 Hơn nữa, việc mất điểm tín dụng khác với việc không vay được ngân hàng. Các [[Đánh giá một số dịch vụ mở khoản vay|dịch vụ mở khoản vay]] vẫn làm được cho khách hàng nợ xấu. Ngay chính cả Nhật dù có điểm tín dụng đạt mức cấp 2 vẫn phải qua dịch vụ mới vay được, chứ tự làm thì cũng không được. Nếu có điểm cũng không chắc vay được, mà mất điểm thì cũng vẫn vay được, thì có điểm để làm gì?
 
 ### Lý do 2: Không muốn người thân bị làm phiền
@@ -50,7 +51,7 @@ Ngoài ra:
 [Debt collection - Wikipedia](https://en.wikipedia.org/wiki/Debt_collection)
 
 ### Lý do 3: Lúc mình khó khăn thì ngân hàng đã giúp đỡ rồi. Bây giờ đòi xù thì không hợp tình hợp lý
-Vậy mình phải trả nợ bao nhiêu tiền thì là hợp tình hợp lý? Giả sử số tiền đó là X, nếu mình đã trả đủ X rồi, thì về mặt đạo đức mình đã hoàn thành nghĩa vụ trả nợ chưa? Nếu chưa thì cần xem lại X. Nếu rồi thì phần còn lại mình phải gánh có phải chỉ là sự bóc lột thôi không? Nếu phải thì tội gì phải bị bóc lột?
+Vậy mình phải trả nợ bao nhiêu tiền thì là hợp tình hợp lý? Giả sử số tiền đó là X, nếu mình đã trả đủ X rồi, thì về mặt đạo đức mình đã hoàn thành nghĩa vụ trả nợ chưa? Nếu chưa thì nâng X lên. Nếu rồi thì phần còn lại mình phải gánh có phải chỉ là sự bóc lột thôi không? Nếu phải thì tội gì phải bị bóc lột?
 
 Nó không phải là mồ hôi xương máu của người cho vay
 
@@ -62,16 +63,17 @@ Tham gia vào các ngân hàng vi mô
 ### Lý do 4: Lúc vay mình đã đồng ý rồi. Giờ phá cam kết thì chứng tỏ mình không giữ uy tín, muốn trục lợi
 Lập luận không khác lý do 3 cho lắm. Tại sao lại phải giữ uy tín với người xem mình như là một loại tài nguyên để khai thác? 
 
-Cụ thể hơn, khi các nhân viên bán hàng đến thuyết phục, không phải lúc nào họ cũng là người nâng đỡ suy nghĩ lý tính của khách hàng. Khi được đào tạo họ đều được dạy việc [[Khai thác điểm yếu con người]]. Tại sao một người như vậy lại xứng đáng được giữ uy tín?
+Cụ thể hơn, khi các nhân viên bán hàng đến thuyết phục, không phải lúc nào họ cũng là người nâng đỡ suy nghĩ lý tính của khách hàng. Khi được đào tạo họ đều được học rằng [[Khai thác điểm yếu con người]]. Tại sao một người như vậy lại xứng đáng được giữ uy tín?
 
-[[Vấn đề đạo đức trong việc lừa dối tư bản]]
+[[Có hai quan điểm chính khi bị trục lợi]]
 [[Nếu khách hàng không rõ ngay từ đầu thì sao còn ký. Nếu đã ký thì là biết rõ rồi]]
 
 Cho vay là một hình thức đầu tư. 
 Là tham hay là tin vào lực lượng hành pháp? Nếu vấn đề ở lực lượng hành pháp thì sao gọi là mình trục lợi được?
 
 ### Lý do 5: Ngân hàng sẽ kiện mình ra tòa, thậm chí đi tù
-Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không làm **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì cũng sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bên bị chứng minh là mình có ý định vay để xù ngay từ đầu, thì sẽ phạm tội "lợi dụng tín nhiệm chiếm đoạt tài sản".
+Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay làm **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì cũng sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bên bị chứng minh là mình có ý định vay để xù ngay từ đầu, thì sẽ phạm tội "lợi dụng tín nhiệm chiếm đoạt tài sản".
+[[Nếu hành vi gian dối nhằm mục đích chiếm đoạt tài sản thì mới cấu thành tội phạm. Nếu không thì chỉ là vi phạm về dân sự, kinh tế]]
 [Làm ăn thua lỗ, không trả được nợ có phải đi tù không?](https://luatvietnam.vn/tin-phap-luat/lam-an-thua-lo-khong-tra-duoc-no-co-phai-di-tu-khong-230-34052-article.html)
 
 Không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ có muốn theo đuổi vụ kiện hay không.
@@ -118,3 +120,4 @@ Khái niệm:: [[Nợ xấu]]
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
+

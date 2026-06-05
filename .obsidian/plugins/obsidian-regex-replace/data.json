@@ -1,6 +1,6 @@
 {
-  "findText": "^(Q)",
-  "replaceText": "## Q",
+  "findText": "^(\\d\\.)",
+  "replaceText": "## $1",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-23T20:48
-updated: 2025-12-19T11:35
+updated: 2026-06-05T15:32
 aliases:
   - Làm online
 title: Công việc làm qua mạng được
@@ -33,7 +33,7 @@ Các công việc này thường đòi hỏi sự tập trung cao, khó mà kế
 - [[Kiếm tiền trực tuyến (MMO)]]
 - [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 - [[Kinh doanh online]]
-- [[Bán bộ thẻ học từ vựng tiếng Anh nâng cao]]
+- [[Bộ thẻ học từ vựng tiếng Anh nâng cao]]
 
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:

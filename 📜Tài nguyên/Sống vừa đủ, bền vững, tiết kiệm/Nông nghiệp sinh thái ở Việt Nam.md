@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-16T14:08
+updated: 2026-05-21T21:51
 aliases:
   - làng sinh thái ở Việt Nam
 ---
@@ -47,9 +47,7 @@ Dù dựa vào tri thức bản địa kết hợp với quan sát, bản chất
 Người thực hành nông nghiệp sinh thái cho rằng không thể có tăng trưởng vô hạn trên hành tinh hữu hạn, rằng không thể xem kinh tế, xã hội và sinh thái là đồng đẳng với nhau, để mà xem coi
 
 [[Trong suốt hơn nửa thế kỷ, phần lớn các giải Nobel Kinh tế đều tôn vinh những học giả củng cố mô hình tăng trưởng kinh tế]]
+[[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]]
 
 Khái niệm:: [[Nông nghiệp, nông thôn]]
 [[Tạo dòng tiền từ nông nghiệp sinh thái]]
-
-[LÀM NÔNG MÀ KHÔNG ĐẤT, KHÔNG TIỀN,... - Nông Trại Bảo Bảo](https://www.facebook.com/share/p/1646a7r9ky/)
-

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-14T14:34
+updated: 2026-06-05T18:40
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
@@ -49,7 +49,7 @@ Những thứ giải trí thì không cạnh tranh , tập trung vào sân bay, 
 
 Tại sao không phải là [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|Các ý tưởng kiếm tiền]]
 
-[[Nhóm mua chung, câu lạc bộ tiêu dùng]]
+[[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng]]
 
 
 Không phải là cần tiền, mà là cần tiếp tục ở trong hệ thống tư bản, khi mà

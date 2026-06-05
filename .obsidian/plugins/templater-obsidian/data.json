@@ -27,16 +27,16 @@
       "template": "Ξ Thiết lập/Templates/Nhu cầu công nghệ.md"
     },
     {
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng",
-      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền.md"
-    },
-    {
       "folder": "⚡Hiểu biết sâu/Ξ Khái niệm",
       "template": "Ξ Thiết lập/Templates/Khái niệm.md"
     },
     {
-      "folder": "📜Tài nguyên/Tài nguyên chạy ảo/Tài khoản ngân hàng",
-      "template": "Ξ Thiết lập/Templates/Tài nguyên chạy ảo/Tài khoản ngân hàng.md"
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên",
+      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/Công việc thời vụ.md"
+    },
+    {
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư",
+      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/Ý tưởng kinh doanh.md"
     }
   ],
   "enable_file_templates": false,

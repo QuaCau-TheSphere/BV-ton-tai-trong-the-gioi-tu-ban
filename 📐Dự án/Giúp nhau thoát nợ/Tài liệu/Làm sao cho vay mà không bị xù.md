@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-05-12T00:58
+updated: 2026-06-05T16:51
 ---
 Sự tin tưởng vào con người trong đô thị Việt Nam đang ở mức thấp, vì không ai kiểm soát được 
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:

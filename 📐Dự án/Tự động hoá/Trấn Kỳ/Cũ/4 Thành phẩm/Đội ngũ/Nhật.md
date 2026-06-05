@@ -1,15 +1,15 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-05-21T16:42
 ---
 [[Điều nhà đầu tư quan tâm và điều muốn nhà đầu tư quan tâm]]
 
-| Tiêu chí                                      | Trọng số |
-| --------------------------------------------- | -------- |
-| [[📐Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Kendy cần gì\|Giúp Trí hết căng thẳng]]     | 70%      |
-| Có thể linh hoạt hạn chót                     | 15%      |
-| Thấy công việc giúp mở rộng thêm nhiều cơ hội | 15%      |
+| Tiêu chí                                                                              | Trọng số |
+| ------------------------------------------------------------------------------------- | -------- |
+| [[📐Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Kendy cần gì\|Giúp Trí hết căng thẳng]] | 70%      |
+| Có thể linh hoạt hạn chót                                                             | 15%      |
+| Thấy công việc giúp mở rộng thêm nhiều cơ hội                                         | 15%      |
 
 [[Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ]] 
 [[📐Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Đội ngũ/Thịnh]]

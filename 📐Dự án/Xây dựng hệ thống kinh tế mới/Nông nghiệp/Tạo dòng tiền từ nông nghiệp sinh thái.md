@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-28T11:57
+updated: 2026-05-21T21:35
 ---
 Khái niệm:: 
 
@@ -15,4 +15,5 @@ Khái niệm::
 5) Tạo mô hình tuần hoàn sử dụng tối đa tất cả thứ có trong vườn.
 6) Kiên trì và kiên trì. Chi phí cho sự kiên trì là đưa khoản chi về thấp nhất, tăng thu (bằng kỹ năng làm sản phẩm → bán hàng → nuôi vườn) hoặc làm thêm 1 nghề khác để nuôi vườn. Trong 3-5 đầu khoản thu ít
 
+[[Nền kinh tế vừa đủ]]
 Nguồn:: 

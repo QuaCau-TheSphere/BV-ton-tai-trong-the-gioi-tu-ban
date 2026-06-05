@@ -1,0 +1,8 @@
+---
+share: true
+created: 2025-03-27T17:13
+updated: 2026-06-05T23:50
+---
+Khái niệm:: [[Luật Việt Nam]]
+[[Nền kinh tế thế giới và khung pháp luật thương mại, tài chính toàn cầu chịu nhiều ảnh hưởng của thông luật]]
+Nguồn:: [TORT LAW HAY BỒI... - Vietnam Legal & Economic Career - VLEC](https://www.facebook.com/vlecforum/posts/tort-law-hay-bồi-thường-thiệt-hại-ngoài-hợp-đồng-theo-thông-luật-common-lawtort-/1105131913339933%2f)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-03-24T14:13
+updated: 2026-06-05T11:41
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -72,8 +72,10 @@ Hiện tại nguồn vốn đang đến từ [[Các khoản tài sản và kho�
 | Vietcombank JCB                                                                                         | 5tr     |
 | Momo ví trả sau                                                                                         | 3tr     |
 
-![[Pasted image 20251210091934.png]]
+![[Dòng tiền cụ thể nửa cuối năm 2025.png]]
 Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ:
+
+Xem cụ thể tại [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)]]
 
 ### Nhu cầu của những người vay hiện tại
 Trong 6 tháng tiếp theo mỗi tháng vẫn tiếp tục cho vay tiếp 15tr, với mục tiêu giữ điểm tín dụng cho những người vay. Giả sử mỗi người đóng góp 1tr thì mỗi tháng cần 15 người tham gia. Mời bạn đề xuất khoản cho vay bạn thấy phù hợp và an toàn với bạn.

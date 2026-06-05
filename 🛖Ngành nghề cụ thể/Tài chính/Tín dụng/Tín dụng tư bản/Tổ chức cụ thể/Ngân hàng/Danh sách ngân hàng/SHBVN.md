@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-01-12T11:03
+updated: 2026-05-18T15:51
 aliases:
   - Shinhanbank
 ---
@@ -17,3 +17,6 @@ Vốn điều lệ (tỷ đồng):: 5,709.90
 ## Ghi chú về app
 - Bắt tạo câu hỏi bảo mật ngay lúc đăng nhập 
 - Không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY
+- Tên đăng nhập phải có chữ
+- Bàn phím riêng
+- Mật khẩu không được có 4 số liên tục
