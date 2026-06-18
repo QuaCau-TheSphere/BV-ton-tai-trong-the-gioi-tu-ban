@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-28T13:28
+updated: 2026-06-07T16:25
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
 ---
-Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [[Quỹ tín dụng vi mô Quả Cầu]]. Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
+Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [[Quỹ tín dụng Quả Cầu]]. Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
 đứng tên sổ tiết kiệm dùm, đi đáo dùm
 
 Nên hệ thống cần phù hợp cho hệ thống có sự chuyển đổi qua nhiều giai đoạn. PTA. Khi tra bên này bên kia thì cần plaintext

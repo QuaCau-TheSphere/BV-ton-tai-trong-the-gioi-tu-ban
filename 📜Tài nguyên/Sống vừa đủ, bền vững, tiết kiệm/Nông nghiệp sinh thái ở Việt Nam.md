@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-05-21T21:51
+updated: 2026-06-16T13:19
 aliases:
   - làng sinh thái ở Việt Nam
 ---
@@ -28,7 +28,7 @@ Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đ�
 - [Vcil Travel School](https://www.vciltravelschool.com/)
 - [XomTour - Conscious Travel, Local Impact \| Da Nang \| Facebook](https://www.facebook.com/XomTour/)
 
- VCIL có chính sách hoa hồng cho người giới thiệu. Nếu bạn nói với họ là do mình giới thiệu thì mình sẽ trả lại tiền hoa hồng đó cho các bạn. Xem bài chi tiết: [[Chính sách hoa hồng]]
+ VCIL có chính sách hoa hồng cho người giới thiệu. Nếu bạn nói với họ là do mình giới thiệu thì mình sẽ trả lại tiền hoa hồng đó cho các bạn. Xem bài chi tiết: [[📜Tài nguyên/Giới thiệu dịch vụ/Giới thiệu dịch vụ]]
  Cynthia 
 
 ### Khác biệt giữa các nhóm

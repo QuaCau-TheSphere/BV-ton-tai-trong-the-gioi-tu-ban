@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-04T22:22
+updated: 2026-06-14T21:53
 aliases:
   - Xây dựng cộng đồng có chủ đích ở TP.HCM
   - hợp tác xã nhà ở
@@ -12,9 +12,9 @@ Xem thêm:: [[Ý tưởng tìm nhà ở giá rẻ]]
 
 Sâu xa hơn là xây dựng [[Cộng đồng có chủ đích]]
 
-Nhà ở [[117 Xô Viết Nghệ Tĩnh]] phù hợp để làm cộng đồng có chủ đích cho khoảng 10 người, nhưng chủ nhà đang tính sửa lại để chỉ cho thuê từng tầng. Nếu gom được nhóm trước khi chủ nhà sửa nhà thì sẽ có lợi.
+Nhà ở [[Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM]] phù hợp để làm cộng đồng có chủ đích cho khoảng 10 người, nhưng chủ nhà đang tính sửa lại để chỉ cho thuê từng tầng. Nếu gom được nhóm trước khi chủ nhà sửa nhà thì sẽ có lợi.
 
-Có thể thay nhau làm việc nhà, hoặc hùn tiền cho một người làm công việc nội trợ. Người đó có thể kết hợp với các [[Công việc thời vụ, cộng tác viên]] hoặc [[Bao nuôi]]  
+Có thể thay nhau làm việc nhà, hoặc hùn tiền cho một người làm công việc nội trợ. Người đó có thể kết hợp với các [[Các công việc kiếm tiền nhanh]] hoặc [[Bao nuôi]]  
 
 [[Vận hành một gia đình không dễ. Ở chung đã khó còn phải ăn uống]]
 [[Các công việc thường cung cấp chỗ ở]]

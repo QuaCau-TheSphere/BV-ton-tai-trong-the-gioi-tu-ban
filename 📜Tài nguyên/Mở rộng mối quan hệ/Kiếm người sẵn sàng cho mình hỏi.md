@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-14T21:04
 description: Làm sao để tìm được người để mình hỏi kỹ về nhu cầu của họ một cách hiệu quả nhất?
 aliases:
   - Làm sao để kiếm người nhận làm phỏng vấn?
@@ -19,3 +19,5 @@ Có nhiều cách diễn đạt khác nhau:
 ## Các cửa hàng, chương trình, lớp học, CLB sẵn sàng hỗ trợ giảm giá hoặc miễn phí cho người làm khảo sát, phỏng vấn
 
 ## Các hoạt động gây quỹ bằng việc giới thiệu khảo sát, phỏng vấn của nhà tài trợ cho người ủng hộ
+
+[[Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình]]

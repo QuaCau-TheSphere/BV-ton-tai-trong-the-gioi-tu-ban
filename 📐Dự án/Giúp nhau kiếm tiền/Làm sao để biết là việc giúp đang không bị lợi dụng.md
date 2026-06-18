@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-08T13:19
 ---
 Khái niệm:: 
 [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
@@ -12,3 +12,5 @@ Khái niệm::
 - Đối thoại
 
 Câu hỏi: Có nên buộc họ cam kết phải thảo luận, hay là cứ để họ chừng nào muốn thảo luận thì thảo luận? Vì nếu không thì họ sẽ muốn theo đuổi những thách thức mới hơn là muốn thảo luận. Có thể sẽ luôn thấy còn những nhu cầu khác cần được đáp ứng
+
+[[Giúp nhau kiếm tiền]]

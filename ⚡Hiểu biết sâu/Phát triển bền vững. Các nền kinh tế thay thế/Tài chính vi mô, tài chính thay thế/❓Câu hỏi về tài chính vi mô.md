@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - thịnh kula
-updated: 2026-01-27T17:13
+updated: 2026-06-07T16:25
 ---
 ## Sao việc về làm nông khó khăn đến mức vậy
 ## Vẫn làm chỗ làm nợ lương có khác gì với làm ăn thua lỗ ko?
@@ -28,7 +28,7 @@ kỹ năng sống + âm tiền: R&D + chuyên môn hóa?
 - Hệ thống quản trị là Google Sheet. Vấn đề là việc nhập từ sao kê ngân hàng mất công, để mấy tuần mới nhập một lần
 - Có bảo lãnh rồi vẫn cần hộ khẩu để làm đúng quy trình
 
-## [[Quỹ tín dụng vi mô Quả Cầu|Giúp nhau thoát nợ]]
+## [[Quỹ tín dụng Quả Cầu|Giúp nhau thoát nợ]]
 - Giúp người kế bên
 
 Giải trình, minh bạch cản trở việc giải ngân. [[Khả năng tiếp cận vốn quan trọng hơn giá vốn]]

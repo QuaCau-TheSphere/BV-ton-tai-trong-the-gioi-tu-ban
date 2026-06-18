@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T16:26
-updated: 2026-03-28T16:29
+updated: 2026-06-07T14:19
 ---
 Khái niệm:: 
 Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa chỉ thủ công. Đã nhập rồi nhưng vẫn cứ phải làm lại. Nếu không quá bất tiện thì có thể lên trực tiếp công ty luôn để thử xem việc khai báo có đỡ nhức đầu hơn không.
@@ -15,6 +15,7 @@ Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa ch�
 [[FE có vốn điều lệ hơn 10 ngàn tỷ đồng. Xếp hàng thứ 2 là Easy Credit với 3 ngàn tỷ]]
 
 [[Dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên mạng là dữ liệu cá nhân cơ bản chứ không phải là nhạy cảm]]
+[[Khoản vay của tổ chức tài chính tiêu dùng|Cách làm việc của nhân viên thu hồi nợ]]
 
 ```dataview
 LIST rows.file.link

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-16T09:34
-updated: 2026-06-05T23:53
+updated: 2026-06-16T13:51
 aliases:
   - Luật doanh nghiệp VN
 ---
@@ -35,5 +35,5 @@ Tài sản: có 3 cách chính:
 - Tài sản chung: Cái gì làm từ ngày kết hôn là của chung hết. bỏ 1 đồng vẫn có quyền ngang nhau
 
 Câu hỏi:: Hợp tác xã
-Nguồn:: [[MH]]
+Nguồn:: [[Mỹ Hạnh]]
 Khái niệm:: [[Luật Việt Nam]]

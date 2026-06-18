@@ -31,12 +31,16 @@
       "template": "Ξ Thiết lập/Templates/Khái niệm.md"
     },
     {
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên",
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh",
       "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/Công việc thời vụ.md"
     },
     {
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư",
       "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/Ý tưởng kinh doanh.md"
+    },
+    {
+      "folder": "📜Tài nguyên/Giới thiệu dịch vụ",
+      "template": "Ξ Thiết lập/Templates/Giới thiệu dịch vụ.md"
     }
   ],
   "enable_file_templates": false,

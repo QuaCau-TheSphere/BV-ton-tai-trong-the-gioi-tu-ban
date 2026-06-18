@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-04-02T23:25
+updated: 2026-06-06T00:01
 ---
-Khái niệm:: [[Ví trả sau]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Ví trả sau]]
 
  Phí trả chậm là khoản phí mà TPBank sẽ thu khi hóa đơn của khách hàng đã quá hạn thanh toán. Phí được tính dựa vào số ngày quá hạn của khách hàng.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T23:20
+updated: 2026-06-16T13:50
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -15,7 +15,7 @@ Nhân sự ảo là những người có nhân sự thật làm giùm. Ví dụ,
 
 Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]].
 
-Các tên khác cho công việc này: điểm danh hộ, họp hộ, [[giữ tiền hộ]]
+Các công việc khác có tính chất tương tự: điểm danh hộ, họp hộ, [[giữ tiền hộ]], [[Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả|Làm đáp viên cho phỏng vấn, khảo sát. Làm khán giả cho sự kiện]]
 
 ### Lợi ích cho mỗi bên
 Với Megan:
@@ -38,30 +38,23 @@ Với Cueball:
 - Có những lúc công ty họp đột xuất hoặc đào tạo dài ngày thì phải sắp xếp thời gian chạy lên được. Có thể lâu lâu báo bận, nhưng làm nhiều thì cũng dễ bị sinh nghi
 - Phải chịu trách nhiệm cho những gì Megan làm. Có thể nói số tiền Cueball được nhận là tiền để Cueball làm hình nhân thế mạng cho Megan. Nhưng thường Cueball không phải lo, vì Cueball vẫn phải là người kiểm duyệt cuối cùng.
 
-![She Had 16 JOBS… Without Doing Any Work #shorts - YouTube](https://youtube.com/shorts/vBftVEWuSFU?si=nI41iX1DFZrGr5gb)
-
-## Một số công việc nhân sự ảo
-- Bảo hiểm: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Bảo Việt|Bảo Việt]], [[Prudential]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/Bảo hiểm/Cathay|Cathay]]
-- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Ví điện tử/Làm nhân viên ảo|VNPAY]]
-- Tài chính tiêu dùng: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Làm nhân sự ảo/FE Credit|FE Credit]]
-- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên/Nhóm chạy chỉ tiêu/Sàn thương mại điện tử/Làm nhân viên ảo|GM Mall]]
-
-- cty gia dụng bên TQ, mỗi ngày đi 2-3 cửa hàng chụp hình, lcb 8-10tr,
-- cty nước lọc, lcb 10-12tr, đi khảo sát, chụp hình,
-- sendo farm, quy trình phức tạp, phải rành và biết luồng lách, lương 6-15tr, phải bỏ vốn,
-- smartpay, đi theo data có sẵn, đến để hỏi những ng đã từng xài smartpay hỏi họ có muốn vay k, lên hồ sơ cho họ, lương cứng 12tr+2tr phụ cấp+hoa hồng doanh số lên hs, thử việc 2 tháng nhận đủ lương
+## Một số công việc thường tuyển nhân sự ảo
+- Bảo hiểm: [[Học làm đại lý Bảo Việt|Bảo Việt]], [[Làm đại lý ảo Prudential|Prudential]], [[Làm đại lý ảo Cathay|Cathay]]
+- Trung gian thanh toán: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh/Gian lận công ty/Ví điện tử/Làm nhân viên ảo|VNPAY]]
+- Tài chính tiêu dùng: [[Làm nhân viên ảo FE Credit|FE Credit]]
+- Sàn thương mại điện tử: [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh/Gian lận công ty/Sàn thương mại điện tử/Làm nhân viên ảo|GM Mall]]
 
 ## Xem thêm
-- [[Vấn đề đạo đức trong việc lừa dối cấp trên|Vấn đề đạo đức khi làm ảo]]
-- [[Bao nuôi]]
+- [[Các câu hỏi cho nhân viên chơi chính sách]]. [[Các câu hỏi khi làm cộng tác viên cho nhân viên chơi chính sách]]
+- [[Công việc vô nghĩa, tổ chức vô lý]]
+- [[Vấn đề đạo đức trong việc lừa dối cấp trên|Vấn đề đạo đức khi làm nhân viên ảo]]
 - [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
+- [[Bao nuôi]]
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác.
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.
 
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
-Tính chất công việc:: [[Mỗi tuần lên công ty một buổi]], [[Không phải lúc nào cũng biết lịch trước được]], [[Làm thuê cho người khác]], [[Công việc thời vụ, cộng tác viên]]
 
 ## Nơi thảo luận
-[[Công việc vô nghĩa, tổ chức vô lý]]
 ![](https://i.imgur.com/utzUsO2.png)

@@ -1,7 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T23:30
+updated: 2026-06-16T13:47
+aliases:
+  - Vấn đề đạo đức khi làm nhân viên ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
 Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
@@ -30,7 +32,7 @@ Hơn nữa, kể cả khi họ thông đồng với bạn, cũng vẫn phải nh
 Khi [[Xây dựng công đoàn|lập được công đoàn có tiếng nói]], đảm bảo rằng việc họ tham gia không làm họ mất việc. 
 
 ## Xem thêm
-- [[Vấn đề rủi ro]]
+- [[Các câu hỏi khi làm cộng tác viên cho nhân viên chơi chính sách]]
 - [[Công việc vô nghĩa, tổ chức vô lý]]
 - [[Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu]]
 - [[Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH]]

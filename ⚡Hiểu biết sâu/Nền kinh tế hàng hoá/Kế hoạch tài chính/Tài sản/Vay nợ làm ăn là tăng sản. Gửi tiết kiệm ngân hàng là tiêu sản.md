@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2025-09-08T22:13
-updated: 2025-12-19T11:32
+updated: 2026-06-06T00:00
 ---
-Khái niệm:: [[Tài sản]], [[⚡Hiểu biết sâu/Ξ Khái niệm/Vay, nợ/Nợ]]
+Khái niệm:: [[Tài sản]], [[Nợ]]

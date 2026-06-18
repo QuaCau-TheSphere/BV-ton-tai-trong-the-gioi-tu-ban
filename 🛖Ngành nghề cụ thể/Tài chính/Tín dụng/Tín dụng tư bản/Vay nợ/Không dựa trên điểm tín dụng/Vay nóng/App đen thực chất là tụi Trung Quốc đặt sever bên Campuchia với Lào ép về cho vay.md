@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T16:39
-updated: 2026-04-15T22:59
+updated: 2026-06-12T20:53
 ---
 Khái niệm:: [[App đen, vay nóng]], [[Trung Quốc]]
 
@@ -54,3 +54,4 @@ chứ toàn nuôi béo rồi thịt để lấy thành tích
 ![Kế hoạch tẩu thoát khỏi "địa ngục" ở bên kia biên giới \| VTV đặc biệt BẪY - YouTube](https://youtu.be/TisXdOkK6Ac?si=6a3VdDOi6cr1zsjr)
 ![Giải thích nền kinh tế Campuchia trong 15 phút - YouTube](https://youtu.be/hl1MdCfct5c?si=r7x63lTfjx9wOjEj)
 ![HÌNH ẢNH CÔNG AN, NGÂN HÀNG VIỆT NAM BÊN TRONG KHU LỪA ĐẢO Ở CAMPUCHIA - YouTube](https://youtu.be/Ui14IMDJ2Z0?si=4WONYzJ-CmS0qY4L)
+[Title Unavailable \| Site Unreachable](https://vnexpress.net/canh-sat-dot-kich-bat-83-nguoi-trung-quoc-lap-dai-ban-doanh-lua-dao-tai-tp-hcm-5084968.html?utm_source=facebook&utm_medium=fanpage_VnE&utm_term=mix&utm_campaign=phuonguyen)

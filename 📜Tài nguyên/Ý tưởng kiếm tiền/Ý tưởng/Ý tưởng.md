@@ -1,13 +1,8 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-02-10T12:41
+updated: 2026-06-14T21:50
 aliases:
-  - Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện
-  - Làm nhân viên ăn lương
-  - Đầu tư kinh doanh bán hàng
-  - Tạo lợi nhuận
-  - Tạo sinh kế, thu nhập, dòng tiền
   - So sánh các yêu cầu đầu vào của các ý tưởng kiếm tiền
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
@@ -15,40 +10,11 @@ description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của ch�
 title: Một số ý tưởng kiếm tiền
 ---
 [How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
- 
+- [[Kiếm tiền nhanh|Các công việc kiếm tiền nhanh]]
+- [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư|Các ý tưởng kinh doanh, đầu tư]]
+
 [[Sống vừa đủ, bền vững, tiết kiệm]]
 
-## [[Công việc thời vụ, cộng tác viên]]
-
-```dataview
-Table tính-chất-công-việc as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Công việc thời vụ, cộng tác viên" 
-WHERE file.name != this.file.name
-WHERE !contains(file.folder, "ảo" )
-```
-
-## Việc chính thức trong công ty
-```dataview
-Table tính-chất-công-việc as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Việc chính thức trong công ty" 
-WHERE file.name != this.file.name
-```
-
-## Gia công giải pháp
-Đây là các giải pháp đã được đặt hàng. Nếu bạn kiếm được người sẵn sàng trả tiền để được có những cái này thì chúng ta sẽ cùng thoả thuận số tiền mỗi người được nhận. 
-```dataview
-Table tính-chất-công-việc as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Gia công giải pháp" 
-WHERE file.name != this.file.name
-```
-
-## Tự kinh doanh, đầu tư, bỏ vốn
-```dataview
-Table tính-chất-công-việc as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư" 
-WHERE file.name != this.file.name
-SORT tính-chất-công-việc desc
-```
 
 ## Các nơi giới thiệu việc làm
 [Evenbreak - Award-winning Job board for disabled people](https://www.evenbreak.com/)

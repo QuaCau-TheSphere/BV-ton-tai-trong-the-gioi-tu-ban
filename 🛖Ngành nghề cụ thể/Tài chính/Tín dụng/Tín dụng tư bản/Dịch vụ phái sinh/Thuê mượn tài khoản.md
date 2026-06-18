@@ -1,13 +1,13 @@
 ---
-updated: 2026-05-29T16:24
+updated: 2026-06-12T16:06
 created: 2025-03-27T17:13
 aliases:
-  - PPPAY, OKPAY, MSTG
+  - PPPAY, OKPAY, MSTG, Tibbers
 ---
 [[Thiếu liêm chính|Lừa đảo]]
 Thẻ ở đây chỉ đơn giản là tài khoản ngân hàng, không phải là thẻ tín dụng.
 Có một người bấm duyệt tất cả, nên mới có tình trạng là rất nhiều giao dịch ra vào trong cùng một thời điểm.
-
+tibber là HR. Quảng cáo đi Armenia 
 ## Các bộ phận trong công ty
 Okpay với MSTG là 2 bộ phận của công ty
 
@@ -80,6 +80,17 @@ Khi tài khoản bị khóa, bắt phải chụp màn hình đăng nhập của 
 
 Nhiều acc ra vô, chết, có khi không nhớ là thẻ đã bị mất liên kết
 
+ngân hàng không có điều tra hay gửi cho cơ quan chức năng đâu ạ trường hợp gửi cho cơ quan chức năng là anh bị truy nã hoặc có dấu hiệu đặc biệt nghiêm trọng 
+
+Kính gửi Quý Ngân hàng,  
+Tôi tên là ...................., chủ tài khoản số ....................  
+Trước đây, do thiếu hiểu biết và chủ quan trong việc quản lý tài khoản, tôi đã để bên thứ ba sử dụng tài khoản của mình cho hoạt động kinh doanh mà họ giới thiệu là bán hàng trực tuyến. Tôi không trực tiếp quản lý hoặc thực hiện các giao dịch phát sinh trên tài khoản trong thời gian này.  
+Sau khi tài khoản bị khóa, tôi đã tìm hiểu và được giải thích rằng các giao dịch liên quan đến hoạt động bán hàng nội bộ. Tuy nhiên, tôi không được cung cấp đầy đủ chứng từ hoặc tài liệu xác thực để kiểm chứng bản chất các giao dịch. Hiện tôi không còn khả năng liên hệ với các cá nhân liên quan. Việc trao đổi trước đây chủ yếu thông qua Telegram với các tài khoản "motngayimc" (được giới thiệu là nhân sự) và "vinamypham" (được giới thiệu là bộ phận hỗ trợ xử lý tài khoản ngân hàng), nhưng hiện các tài khoản này đã khóa hoặc ngừng liên lạc.  
+Tôi nhận thức được trách nhiệm của chủ tài khoản và thành thật nhìn nhận sai sót trong việc quản lý tài khoản của mình. Tôi cam kết hợp tác đầy đủ, cung cấp mọi thông tin và tài liệu hiện có để phục vụ quá trình xác minh.  
+Kính đề nghị Quý Ngân hàng xem xét rà soát vụ việc và, sau khi hoàn tất các thủ tục xác minh cần thiết, hỗ trợ cho tôi được đóng tài khoản và nhận lại số dư hợp pháp còn lại theo quy định.  
+Xin chân thành cảm ơn.  
+Người làm đơn  
+
 ## Thuế
 
 Ngoại bộ khác nội bộ
@@ -107,3 +118,5 @@ Những vấn đề bên chủ thẻ ngân hàng sẽ hỗ trợ xử lý 100% m
 - Khi có vấn đề cần chủ thẻ đi xử lý và ghi âm cuộc nói chuyện trực tiếp với bên ngân hàng để có đầy đủ chứng cứ và lý do bị khóa thẻ cho bên công ty
 
 ![[OKPAY.png]]
+
+Lưu ý giúp e các thẻ khóa mình đồng ý trừ cọc thì khi ngưng hợp tác bên em sẽ xóa hết thông tin nên k hỗ trợ mình xử lý tiếp được nhé ạ

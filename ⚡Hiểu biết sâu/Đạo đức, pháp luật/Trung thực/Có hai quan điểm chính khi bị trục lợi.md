@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T23:55
+updated: 2026-06-06T12:34
 ---
+
 Có lẽ sẽ có hai quan điểm chính về cách phản ứng khi bị trục lợi:
 - Hướng đến sự công bằng: nếu họ được phép làm thế với tôi thì tôi cũng được phép làm thế với họ
 - Hướng đến sự liêm chính: nếu tôi cũng làm giống như họ thì tôi không có tư cách để phê phán họ
@@ -26,3 +27,4 @@ Giải pháp thì cũng nhiều người nói rồi. Người bình thường kh
 - [[Vấn đề đạo đức trong việc lừa dối cấp trên]]
 
 Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]
+

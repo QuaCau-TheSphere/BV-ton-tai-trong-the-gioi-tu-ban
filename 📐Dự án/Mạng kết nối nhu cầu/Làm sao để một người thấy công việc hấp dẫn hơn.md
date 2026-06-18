@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T21:24
-updated: 2026-04-03T13:50
+updated: 2026-06-14T21:42
 aliases:
   - Tạo thêm sự hấp dẫn cho công việc
 ---
@@ -14,4 +14,4 @@ Khái niệm::
 - Giúp phát triển bản thân
 [[Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên]]
 [[Quản lý ép chỉ tiêu cả chủ nhật]]
-[[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu cho nhân sự]]
+[[Gian lận công ty|Nhóm chạy chỉ tiêu cho nhân sự]]

@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2026-02-02T18:21
+updated: 2026-06-07T16:25
 ---
 # Đề xuất vay nợ
 Bọn mình cần huy động tiền khoản 100 - 150 tr để giúp một người bạn nhẹ gánh hơn trong việc trả nợ. 
@@ -19,4 +19,4 @@ Cơ bản không khác gì bán trái phiếu cả.
 Lãi suất là 8%/3 năm.
 
 ## Giới thiệu về quỹ giúp nhau thoát nợ
-[[Quỹ tín dụng vi mô Quả Cầu|Giúp nhau thoát nợ]]
+[[Quỹ tín dụng Quả Cầu|Giúp nhau thoát nợ]]

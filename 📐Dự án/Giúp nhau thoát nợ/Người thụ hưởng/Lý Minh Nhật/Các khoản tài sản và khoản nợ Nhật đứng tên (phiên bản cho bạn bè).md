@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T12:17
+updated: 2026-06-07T16:25
 aliases:
   - nhờ Nhật đứng tên
 ---
@@ -24,7 +24,7 @@ Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ.
 ## Điểm tín dụng
 ![[Điểm tín dụng của Nhật.png]]
 
-Điểm tín dụng của Nhật chủ yếu dùng để [[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp|vay giùm người khác]]. Nói cách khác nó trở thành tài nguyên cho [[Quỹ tín dụng vi mô Quả Cầu]]. Nhật chấp nhận [[Xù nợ ngân hàng]] và [[Xù nợ vay nóng]], vì điều kiện sống của Nhật cho phép làm việc này mà không ảnh hưởng tới công việc hay người xung quanh. Tuy nhiên ai cũng muốn Nhật [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]].
+Điểm tín dụng của Nhật chủ yếu dùng để [[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp|vay giùm người khác]]. Nói cách khác nó trở thành tài nguyên cho [[Quỹ tín dụng Quả Cầu]]. Nhật chấp nhận [[Xù nợ ngân hàng]] và [[Xù nợ vay nóng]], vì điều kiện sống của Nhật cho phép làm việc này mà không ảnh hưởng tới công việc hay người xung quanh. Tuy nhiên ai cũng muốn Nhật [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]].
 
 ## Các khoản đã xong
 Những cái ở dưới đây đã hết hiệu lực

@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2026-05-22T16:09
+updated: 2026-06-14T21:29
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ?
@@ -61,7 +61,7 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Tạo ra [[Công việc thời vụ, cộng tác viên\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
+| Tạo ra [[Các công việc kiếm tiền nhanh\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
 | [[Bao nuôi]], [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
 | [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Gom tài nguyên làm MMO]]                                                                           |
 | Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
@@ -74,7 +74,7 @@ Những hoạt động trên là đầu vào để Nhật làm những hoạt đ
 | Văn bản hoá các trải nghiệm và hiểu biết sâu. [Thực hành nhân học nửa mùa](https://doi-thoai.deno.dev/aC.6c.1) | [[Nhóm Biên Hoà\|Nhóm GM Mall Biên Hoà]], [[Nhóm Bình Dương 1\|Nhóm FE Bình Dương 1]]                                                                         |
 | Xây dựng mạng kết nối nhu cầu                                                                                  | [Discord Quả Cầu](https://doi-thoai.deno.dev/discordQC.6c.1), [Nhóm Zalo chia sẻ công việc, cơ hội của các nạn nhân của GM Mall](https://zalo.me/g/ojezyd465) |
 | Hỗ trợ cho các tổ chức cùng định hướng                                                                         | Chia sẻ các bài truyền thông về các hoạt động của các tổ chức phát triển bền vững khác (như Kulavietnam, SocialLife, VCIL) trong các nhóm                     |
-| Xây dựng [[Quỹ tín dụng vi mô Quả Cầu\|quỹ tín dụng vi mô]]                                | [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]                                                                                                                        |
+| Xây dựng [[Quỹ tín dụng Quả Cầu\|quỹ tín dụng vi mô]]                                | [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]                                                                                                                        |
 | [Xây dựng hệ thống tri thức cộng đồng](https://doi-thoai.deno.dev/of.6c.1)                                     | Các ghi chú trong kho [[Nơi này là nơi nào\|Tồn tại trong thế giới tư bản]]                                                                                   |
 | Lập trình                                                                                                      | Tạo danh bạ khách hàng vay FE Credit từ visit form                                                                                                            |
 

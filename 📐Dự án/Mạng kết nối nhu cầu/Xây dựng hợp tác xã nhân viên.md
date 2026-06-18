@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T18:40
+updated: 2026-06-16T13:19
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
@@ -27,7 +27,7 @@ Giả sử A và B đều là thành viên của nhóm và đều có cùng lợ
 
 Cạnh tranh giữa các nhân viên có thể được loại bỏ bằng việc nhóm nhận một đầu, còn sau đó chọn ngẫu nhiên một người, hoặc họ phải chia đều. Nhưng nói chung thì càng qua nhiều người thì lợi ích càng bị chia nhỏ.
 
-[[Chính sách hoa hồng]]
+[[📜Tài nguyên/Giới thiệu dịch vụ/Giới thiệu dịch vụ]]
 
 ## Nằm trong những mô hình nào?
 Nếu xét về việc làm việc chung với nhau thì đây là một hợp tác xã. Nếu xét đây là một nhóm nhân viên ở các ngành khác nhau, thì đây là một công đoàn.
@@ -65,3 +65,4 @@ Cộng sản là tư bản sinh thái
 
 [[Công xã là việc bị đánh thuế 100%]]
 Doanh nghiệp xã hội
+[[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng|Nhóm mua chung, câu lạc bộ tiêu dùng]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-26T13:12
+updated: 2026-06-07T16:25
 ---
 Khi vay thế chấp ngân hàng thì ngân hàng thường định giá tài sản thấp hơn giá trị thị trường. Đã thế chỉ được vay tối đa 80% mức định giá đó. Nhưng nếu mất khả năng trả nợ và phải bị cấn tài sản thì mất hết luôn.
 
@@ -16,7 +16,7 @@ Trước mắt, để thử nghiệm, quỹ sẽ giới hạn đối tượng ph
 | Người được chọn vay                        | Người trả lãi nhiều nhất           | Người sắp tới kỳ đáo hạn thẻ          |
 | Điều kiện được nhận vay                    | Không có                           | Chỉ được dùng để giữ tài sản thế chấp |
 
-Đây là một hình thức của [[Quỹ tín dụng vi mô Quả Cầu]].
+Đây là một hình thức của [[Quỹ tín dụng Quả Cầu]].
 
 ## Nhỡ bị xù thì sao?
 Bài chi tiết:: [[Làm sao cho vay mà không bị xù]], [[Xử lý người xù nợ]]

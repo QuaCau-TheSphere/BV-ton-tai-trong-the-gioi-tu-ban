@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "819de9173a1f7b5d",
+            "id": "2cef337b91c9f2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Xây dựng hệ thống kinh tế mới/bảo mật vcil.md",
+                "file": "⚡Hiểu biết sâu/Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Các khái niệm tập đoàn hay hệ sinh thái đánh lừa cảm giác về một sức mạnh tổng hợp, nhưng khi có sự cố thì sẽ tan thành từng mảnh pháp nhân độc lập.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bảo mật vcil"
+              "title": "Các khái niệm tập đoàn hay hệ sinh thái đánh lừa cảm giác về một sức mạnh tổng hợp, nhưng khi có sự cố thì sẽ tan thành từng mảnh pháp nhân độc lập"
             }
           },
           {
-            "id": "5b9711a6fdc5d981",
+            "id": "c210552e2b199572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Giả sử có thắng kiện thì vẫn là án dân sự, đối phương được quyền trả chậm.md",
+                "file": "🛖Ngành nghề cụ thể/Tài chính/Kế toán/Báo cáo/Nên dùng công thức chi phí = doanh thu - lợi nhuận hơn là công thức lợi nhuận = doanh thu - chi phí.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Giả sử có thắng kiện thì vẫn là án dân sự, đối phương được quyền trả chậm"
+              "title": "Nên dùng công thức chi phí = doanh thu - lợi nhuận hơn là công thức lợi nhuận = doanh thu - chi phí"
+            }
+          },
+          {
+            "id": "18f5b96fe132692b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛖Ngành nghề cụ thể/Tài chính/Kế toán/Báo cáo/Nếu sai sót là trọng yếu hoặc có gian lận thì cần dùng điều chỉnh hồi tố. Nếu không thì dùng điều chỉnh phi hồi tố.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nếu sai sót là trọng yếu hoặc có gian lận thì cần dùng điều chỉnh hồi tố. Nếu không thì dùng điều chỉnh phi hồi tố"
+            }
+          },
+          {
+            "id": "68bf079af9116447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Thế chế/Ở Việt Nam, sự nghiệp chính trị thường phụ thuộc nhiều vào niên hạn, cơ cấu hay tín nhiệm nội bộ. Ở Trung Quốc, trọng tâm được đặt vào thành tích có thể đo lường.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ở Việt Nam, sự nghiệp chính trị thường phụ thuộc nhiều vào niên hạn, cơ cấu hay tín nhiệm nội bộ. Ở Trung Quốc, trọng tâm được đặt vào thành tích có thể đo lường"
+            }
+          },
+          {
+            "id": "020e889d4d9d83c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💸Hình thức kiếm tiền/Thiếu liêm chính/Thiếu liêm chính.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thiếu liêm chính"
+            }
+          },
+          {
+            "id": "1f79d7da4e0f3d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐Dự án/Xây dựng hệ thống kinh tế mới/Thông báo từ chối gia hạn hội viên của Vcil.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thông báo từ chối gia hạn hội viên của Vcil"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"lừa đảo\" \"tư bản\" ",
+                "query": "Lotus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,11 +205,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.0040512084961
+    "width": 299.0040512084961,
+    "collapsed": true
   },
   "right": {
     "id": "058d2be84526927e",
@@ -129,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐Dự án/Giúp nhau thoát nợ/Công việc/Quỹ/Quỹ giúp nhau giữ tài sản thế chấp.md",
+                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quỹ giúp nhau giữ tài sản thế chấp"
+              "title": "Backlinks for Tự kinh doanh, đầu tư"
             }
           },
           {
@@ -190,12 +288,11 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,54 +319,54 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "5b9711a6fdc5d981",
+  "active": "020e889d4d9d83c2",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Luật dân sự (civil law) của VN giống như luật tư (private law) của Anh Mỹ.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Nền kinh tế thế giới và khung pháp luật thương mại, tài chính toàn cầu chịu nhiều ảnh hưởng của thông luật.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Tình tiết tăng nặng hoặc giảm nhẹ.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Giả sử có thắng kiện thì vẫn là án dân sự, đối phương được quyền trả chậm.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Chỉ can thiệp hình sự khi các biện pháp dân sự và hành chính không đủ khả năng xử lý hoặc khi hành vi vi phạm đạt đến mức độ nguy hiểm cần thiết.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Cơ chế giải quyết tranh chấp dân sự có thời gian giải quyết kéo dài và hiệu quả thi hành án chưa cao như ở hình sự.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Luật hình sự không được thiết kế để trở thành phản xạ mặc định cho mọi sai sót trong quản lý.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự/Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Dữ liệu cá nhân/Dữ liệu y tế đang đợi bên bộ công an làm ổn mã định danh.md",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Dữ liệu cá nhân/Chính sách phát quà 100.000 đồng qua chuyển khoản chỉ mất chi phí dưới một phần ngàn GDP mà có thêm quyền lực biểu tượng và hạ tầng.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Quỹ từ thiện không được đầu tư. Quỹ đầu tư không được nhận tiền của cộng đồng.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Luật pháp chỉ hiểu về kinh doanh, chứ không hiểu về phi lợi nhuận.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Đóng góp từ thiện cho thiên tai bão lũ, khẩn cấp phải được giao về Mặt trận Tổ quốc Việt Nam.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Chính thức hoá khi lập quỹ là chết với luật tín dụng.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/New folder/Thiện nguyện cộng đồng/Chính phủ làm từ thiện thì được, chứ không nên thúc đẩy xã hội.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Kho địa điểm để chọn nơi gặp mặt.md",
-    "🛖Ngành nghề cụ thể/Xây dựng, bất động sản/Đằng sau mỗi mét vuông đất còn có lịch sử gia đình, ký ức cộng đồng, kế sinh nhai, không gian học tập, y tế, mạng lưới xã hội, và cảm giác công bằng.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Trung thực/Vấn đề đạo đức trong việc lừa dối cấp trên.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Trung thực/Có hai quan điểm chính khi bị trục lợi.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Trung thực/Vấn đề đạo đức khi có lợi ích nhóm.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư.md",
-    "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/Rất nhiều luật không thể tốt hơn là vì không thể quản lý nổi.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/MH.md",
-    "⚡Hiểu biết sâu/Đạo đức, pháp luật/Luật, nhà nước/Lách luật là phạm luật một cách đúng luật.md",
-    "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Pháp nhân",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Gia công giải pháp cho doanh nghiệp",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Học tập, phát triển bản thân",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Tín dụng",
-    "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền",
-    "Ξ Thiết lập/Templates/New folder",
+    "📜Tài nguyên/Cảnh giác lừa đảo/Cảnh giác lừa đảo.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/❓Hệ thống thông tin cần dễ hiểu cho cả những người không rành công nghệ.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Thiếu liêm chính.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Lương khoán cũng giống trả tiền công cho cộng tác viên, nhưng phải đạt một mức độ chỉ tiêu thì mới được nhận, dưới mức đó thì không nhận được gì.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/❓Đa cấp lợi ở một chỗ là nó tạo động lực để người cấp trên đồng hành cùng cấp dưới nhiều hơn.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Thời gian làm việc mỗi tháng thực chất nên chỉ là 3 tuần. Tuần cuối cùng chỉ là để phòng hờ.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Số lượng tuyển được cao lắm là 50%.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Nhân sự khi thăng tiến sẽ làm hụt chỉ tiêu nhân sự của quản lý.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/KPI không giảm vào những tháng có ngày nghỉ lễ.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/KPI của ASM là trung bình cộng KPI của nhóm.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Khác biệt giữa lương cứng, lương khoán, thù lao, tiền công, hoa hồng, thưởng, phụ cấp.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Các công ty tài chính đa phần đều thiên về lương khoán.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý là người được công ty uỷ quyền, và chỉ được ăn tiền ở đúng công ty đó. Môi giới là người làm cho khách hàng, và có thể ăn tiền từ nhiều công ty.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý không liên quan gì đến hợp đồng, vì đó là giao kết giữa công ty và khách hàng.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Nhân viên không bị mất lương trong những tháng nhiều ngày nghỉ, nhưng đại lý thì mất thu nhập.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Lương liên quan đến bảo hiểm y tế, bảo hiểm xã hội, công đoàn.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Các trang freelance toàn agency làm.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự",
+    "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Pháp nhân/Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó.md",
+    "⚡Hiểu biết sâu/Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Thế chế/Quốc hội không họp thường xuyên bằng Ủy ban Thường vụ Quốc hội.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Kiếm tiền trực tuyến (MMO)/Trại nội dung dùng để tăng SEO.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)/Các cửa hàng điện thoại dễ đăng ký tài khoản vì có nhiều SIM.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)/Vì VAC cần thu thập hành vi, đôi khi một tuần tới một tháng sau mới ban, nên mình cũng có một tuần tới một tháng để khai thác.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)/VIA là tài khoản đã được xác thực.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Sàn lừa đảo",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Công ty tư bản",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Làm kết quả ảo/Sàn lừa đảo",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Làm kết quả ảo/Công ty tư bản",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính/Làm kết quả ảo",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Các công việc kiếm tiền nhanh/Công việc gian lận công ty/Làm nhân sự ảo/Bảo hiểm",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260613154747.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260613154617.png",
     "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Dòng tiền cụ thể nửa cuối năm 2025.png",
-    "⚡Hiểu biết sâu/Chính sách nhà nước/Quy định, luật/Hình sự",
-    "📜Tài nguyên/Chính sách nhà nước/Quy định, luật/New folder",
     "Ξ Thiết lập/Ảnh/Hacked by LittleDemon.png",
-    "Ξ Thiết lập/Tất cả các ảnh.base",
     "Ξ Thiết lập/Ảnh/Các mô hình tài chính chung.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260509132332.png",
     "Ξ Thiết lập/Ảnh/PPPAY/Tường trình cho ngân hàng.png",
     "Ξ Thiết lập/Ảnh/PPPAY/OKPAY.png",
     "Ξ Thiết lập/Ảnh/OKPAY.png",
     "Ξ Thiết lập/Ảnh/Tường trình cho ngân hàng.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260312131914.png",
-    "Ξ Thiết lập/Ảnh/Tín dụng/Pasted image 20260312131914.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

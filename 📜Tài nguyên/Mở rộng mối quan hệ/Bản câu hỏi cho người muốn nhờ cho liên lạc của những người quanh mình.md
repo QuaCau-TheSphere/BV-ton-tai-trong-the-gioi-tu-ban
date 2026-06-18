@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-11T13:25
-updated: 2026-04-03T15:02
+updated: 2026-06-14T21:04
 aliases:
   - Lo lắng khi bị nhờ cho liên lạc
   - nhờ giới thiệu
@@ -18,3 +18,4 @@ bạn cũng thấy sản phẩm này ok với người đang đầu tư hay ti�
 [[Bản câu hỏi cho người muốn người giới thiệu ngồi cùng với chứ không phải chỉ là giới thiệu]]
 
 [[Cung cấp thông tin liên lạc, làm cầu nối]]
+[[Kiếm người sẵn sàng cho mình hỏi|Làm sao để kiếm người nhận làm phỏng vấn?]]

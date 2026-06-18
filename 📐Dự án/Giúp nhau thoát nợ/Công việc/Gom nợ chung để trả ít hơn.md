@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-03-24T14:13
+updated: 2026-06-07T16:25
 description: mỗi người được 315tr
 ---
 ## Tóm tắt
@@ -23,4 +23,4 @@ description: mỗi người được 315tr
 
 ## Xem thêm
 - [[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp]]
-- [[Quỹ tín dụng vi mô Quả Cầu]]
+- [[Quỹ tín dụng Quả Cầu]]

@@ -2,11 +2,11 @@
 share: true
 created: 2025-03-27T17:13
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-06-05T23:13
+updated: 2026-06-07T14:13
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
-  - bùng, quịt, mất khả năng trả nợ
+  - bùng, quịt, mất khả năng trả nợ, vỡ nợ
 ---
 ## Các lý do không muốn mất điểm tín dụng
 Tại sao [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]]? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?
@@ -58,7 +58,16 @@ Nó không phải là mồ hôi xương máu của người cho vay
 Đáo thì chưa trả ngân hàng, nhưng ngân hàng vẫn thu được gián tiếp từ bên đáo
 
 #### Không công bằng cho những người trả đúng hạn
+Em không trả → ngân hàng chịu lỗ so với cam kết trước chủ sở hữu vốn → họ sẽ tăng lãi suất, siết chặt điều kiện vay cho tất cả khách hàng khác, bao gồm những người lương thiện đang trả đúng hạn. Kết quả là người tốt chịu thiệt, bạn được lợi. Đây chính là vấn đề bất công mà bài viết đang chưa giải quyết được. Cố tình lợi mình mà hại người là một vi phạm đạo đức cơ bản.
+
+Như đã nói, ở đời muốn không va chạm, ma sát thì tốt nhất không tham gia cuộc chơi. Đi tu xuất thế là một cách rời bỏ cuộc chơi vật chất. Còn đã tham gia cuộc chơi rồi thì cần tự chịu trách nhiệm thay vì đổ thừa người khác muốn lừa mình. Sau đó quay qua lừa lại tổ chức. Đây chính là luân hồi trong bể khổ. Và con người lừa nhau bao nhiêu kiếp sống rồi vẫn chưa thoát được
+
+ở đây là mình không chủ động lợi mình hại người. Từ đầu mình vẫn trả, chỉ là bây giờ gánh ko nổi nữa. Mình cũng không có lợi gì ở đây, chỉ là giữa hai cái tệ cho mình thì chọn cái bớt tệ hơn. Và người bị thiệt ở đây thì chủ yếu là ngân hàng, và họ ko quá thiệt so với lợi nhuận của họ. Còn với các khách hàng đang vay khác thì cần thêm bằng chứng là họ sẽ bị thiệt nặng. Vì với ngân hàng thì hành động của mình cũng đã được tính từ trước dưới dạng xác suất khách hàng trả chậm rồi
+   
+có thể đọc thêm về cuốn Nợ của David Graber
 Tham gia vào các ngân hàng vi mô
+
+[[Ngân hàng có lợi nếu nhân viên và khách hàng hiểu vỡ nợ là xù nợ]]
 
 ### Lý do 4: Lúc vay mình đã đồng ý rồi. Giờ phá cam kết thì chứng tỏ mình không giữ uy tín, muốn trục lợi
 Lập luận không khác lý do 3 cho lắm. Tại sao lại phải giữ uy tín với người xem mình như là một loại tài nguyên để khai thác? 

@@ -1,13 +1,17 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-05T16:58
+updated: 2026-06-12T20:59
 ---
 ## Thị trường & đối thủ cạnh tranh
+[[Vay tín chấp|Các dịch vụ vay tín chấp]] khác.
+
 ## Đối tượng phục vụ 
 
 ## Hiểu biết sâu
 [[Vay ngang hàng]]
+[[Gần một nửa người VN có vay, trong đó lượng vay tổ chức tài chính là 18.45%]]
+[[Cho vay theo nhóm bền vững hơn, ít bị xù hơn. Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn]] 
 
 ## Chiến lược tiếp cận
 ## Sản phẩm, giải pháp 

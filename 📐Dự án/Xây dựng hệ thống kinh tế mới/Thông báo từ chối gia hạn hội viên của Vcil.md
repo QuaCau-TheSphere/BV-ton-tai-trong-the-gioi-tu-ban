@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-05-29T23:08
+updated: 2026-06-17T22:10
 ---
 ## Vcil gửi 23/4/2026
 Chào anh Lý Minh Nhật,
@@ -219,7 +219,8 @@ Mình muốn hỏi các bạn:
 - Tại sao mình bị từ chối lưu trú ở đây? Lý do được đưa ra là hết chỗ. Có thật là đã kín hết chỗ, không thể thêm được một ai ở khu vực này không?
 
 > Tôn trọng ranh giới không gian riêng tư của những người đang sống tại Living Lab, bao gồm việc chỉ sử dụng khu vực chung sau khi được xác nhận rõ ràng từ những người có liên quan.
-- Thế nào là người có liên quan? Như Tường hay Mẫu thì có được xem là người có liên quan không? Và chẳng phải là mọi hội viên đều được sử dụng khu vực chung đó sao?
+- Thế nào là người có liên quan? Như Tường hay Mẫu thì có được xem là người có liên quan không? Tại sao họ không được là người ủy quyền mặc định cho việc sử dụng?
+- Và chẳng phải là mọi hội viên đều được sử dụng khu vực chung đó sao?
 - Trinh và Ly đã nói gì về chuyện này? Tại sao lúc đó không trao đổi luôn với mình?
 
 ### Ngân hàng quà tặng
@@ -237,17 +238,27 @@ Tại sao không có nguồn đầu vào mới? Đâu có lý do gì để một
 
 Tiến trình đối thoại và đồng thuận của thành viên trong cộng đồng đã được thực hiện thế nào? Tại sao các bạn có thể thay mặt các đồng sở hữu (chính là các hội viên) để quyết định đâu là mục đích chính đáng, tinh thần của hệ thống, hay lẽ thường tình?
 
+Lẽ thường tình là thấy chết thì cứu, hay là 
 ### Vi phạm pháp luật
 > anh đã nhiều lần chia sẻ trong cộng đồng những thông tin không phù hợp liên quan đến vấn đề nợ và hệ thống tài chính. Đây là những thông tin có dấu hiệu vi phạm pháp luật.
 
 Thứ duy nhất mình thấy là mình nói và có phạm luật là việc đáo thẻ tín dụng. Mình nói vì mình thấy là các bạn cũng làm tương tự. Điều đó nhất quán với tinh thần thượng tôn pháp luật của các bạn thế nào?
 
-Các bạn nói là những thông tin. Vậy còn những thông tin nào khác?
+Các bạn nói là mình đã chia sẽ "những thông tin...có dấu hiệu vi phạm pháp luật". Vậy ngoài thông tin về đáo thẻ mình còn những thông tin dấu hiệu vi phạm pháp luật nào khác?
 
 Mình biết còn những hội viên khác cũng đi đáo thẻ. Các bạn sẽ xử lý những trường hợp này thế nào?
 
 Xem thêm: [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đáo hạn thẻ tín dụng” - Cổng Thông tin điện tử thành phố Đà Nẵng](https://danang.gov.vn/vi/w/xu-ly-mot-loat-vu-dung-may-pos-rut-tien-hoac-dao-han-the-tin-dung-i)
 
+### Thượng tôn pháp luật
+Nếu các bạn chỉ nói là tuân thủ pháp luật, thì mình không có gì để nói thêm. Nhưng vì các bạn nói là "thượng tôn pháp luật", nên mình nghĩ phải nói vài lời. 
+
+Việc tách bạch đạo đức khỏi pháp luật
+Bộ phận thi hành "án" , chứ không phải là một tổng thể mù mờ. Nó không phải là "Việt Nam" hoặc "Nhà nước Việt Nam" sẽ có quyền quyết định, mà là tòa án
+
+Nếu các bạn cũng muốn mọi người có tinh thần thượng tôn pháp luật, thì các bạn cũng nên làm gương trước.
+
+Biết luật chơi
 ### Diễn giải
 > Chúng tôi không có ý định quy kết anh
 
@@ -312,3 +323,6 @@ Cuối cùng, đây là những câu hỏi còn lại của mình:
 - Nếu có cách hiểu sai hay phạm vào những ngoại lệ đó thì không chắc sẽ được thông báo để có những trao đổi, điều chỉnh kịp thời. Kể cả khi có nói chuyện với nhau thì có thể sẽ là về những chủ đề khác hơn là chuyện thông báo vi phạm
 - Nếu vi phạm đủ nhiều thì sẽ có thể bị hủy luôn tư cách hội viên mà không được báo trước
 - Sự đóng góp cho cộng đồng phải được hiểu là đem lại những gì các bạn cần
+
+
+nếu lúc đó không nói rõ  thì cần được hiểu theo nghĩa rộng nhất

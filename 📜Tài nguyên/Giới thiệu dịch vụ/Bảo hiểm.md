@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-09T21:14
-updated: 2026-03-28T16:34
+updated: 2026-06-14T21:29
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
 aliases:
   - Tại sao nên mua bảo hiểm từ Quả Cầu?
@@ -61,4 +61,4 @@ Nếu bạn mua combo thì bạn sẽ được:
 Các buổi này sẽ nói đến khi bạn muốn ngừng thì thôi. Nếu bạn không cần có thể chuyển quyền lợi này cho người khác.
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Công việc thời vụ, cộng tác viên|các công việc kiếm tiền nhanh]] khác.
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Các công việc kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.

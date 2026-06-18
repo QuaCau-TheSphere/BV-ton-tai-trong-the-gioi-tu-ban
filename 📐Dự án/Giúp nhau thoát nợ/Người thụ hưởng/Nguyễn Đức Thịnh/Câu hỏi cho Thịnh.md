@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T17:13
-updated: 2026-06-04T15:24
+updated: 2026-06-16T12:51
 share: true
 ---
 ## Câu hỏi
@@ -43,3 +43,5 @@ Ngoài ra:
 
 
 Đi tư vấn luật sư?
+Vụ vcb sao không nói chuyện trực tiepes với Trí được?
+

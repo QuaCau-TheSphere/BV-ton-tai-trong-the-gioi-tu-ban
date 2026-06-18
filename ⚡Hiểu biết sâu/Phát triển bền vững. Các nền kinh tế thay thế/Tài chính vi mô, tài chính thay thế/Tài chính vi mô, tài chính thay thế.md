@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-14T14:39
-updated: 2026-03-28T21:17
+updated: 2026-06-12T20:58
 ---
 Khái niệm:: 
 
@@ -16,6 +16,8 @@ Khái niệm::
 Nguồn:: [[Ảnh hưởng của các tổ chức tài chính vi mô đối với tài chính toàn diện.pdf]]
 
 [Alternative financial service - Wikipedia](https://en.wikipedia.org/wiki/Alternative_financial_service)
+[Tài chính phi tập trung - Xu thế tài chính mở](https://tapchinganhang.gov.vn/tai-chinh-phi-tap-trung-xu-the-tai-chinh-mo.htm)
+[Một số thách thức của Fintech đối với ngành dịch vụ tài chính của Việt Nam](https://tapchinganhang.gov.vn/mot-so-thach-thuc-cua-fintech-doi-voi-nganh-dich-vu-tai-chinh-cua-viet-nam.htm)
 
 ```dataview
 LIST rows.file.link

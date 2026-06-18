@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2026-04-08T17:32
+updated: 2026-06-14T21:42
 aliases:
   - bán bảo hiểm
   - thu hút khách hàng
@@ -33,7 +33,7 @@ Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong s
 
 Bất cứ ai cũng có thể tham gia: nhân viên, bạn bè, con cái, v.v.
 
-Xem thêm:: [[Nhóm chạy chỉ tiêu|Nhóm chạy chỉ tiêu (KPI) cho nhân viên]]
+Xem thêm:: [[Gian lận công ty|Nhóm chạy chỉ tiêu (KPI) cho nhân viên]]
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/6TJxtif.png)
