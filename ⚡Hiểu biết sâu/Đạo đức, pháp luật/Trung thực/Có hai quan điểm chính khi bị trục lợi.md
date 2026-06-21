@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-06T12:34
+updated: 2026-06-21T16:20
 ---
 
 Có lẽ sẽ có hai quan điểm chính về cách phản ứng khi bị trục lợi:
@@ -22,7 +22,7 @@ Giải pháp thì cũng nhiều người nói rồi. Người bình thường kh
 [[Bao nhiêu kẻ phạm tội được viết trên các báo là vì ngày xưa đã bị đẩy vào sự cùng cực]]
 
 
-- [[Thiếu liêm chính|Các hình thức của sự tệ]]
+- [[Vi phạm quy định hoặc thiếu liêm chính|Các hình thức của sự tệ]]
 - [[Vấn đề đạo đức khi có lợi ích nhóm]]
 - [[Vấn đề đạo đức trong việc lừa dối cấp trên]]
 

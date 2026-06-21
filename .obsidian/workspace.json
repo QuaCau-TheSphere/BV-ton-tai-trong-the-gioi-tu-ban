@@ -37,79 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛖Ngành nghề cụ thể/Tài chính/Kế toán/Báo cáo/Nên dùng công thức chi phí = doanh thu - lợi nhuận hơn là công thức lợi nhuận = doanh thu - chi phí.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nên dùng công thức chi phí = doanh thu - lợi nhuận hơn là công thức lợi nhuận = doanh thu - chi phí"
-            }
-          },
-          {
-            "id": "18f5b96fe132692b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛖Ngành nghề cụ thể/Tài chính/Kế toán/Báo cáo/Nếu sai sót là trọng yếu hoặc có gian lận thì cần dùng điều chỉnh hồi tố. Nếu không thì dùng điều chỉnh phi hồi tố.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nếu sai sót là trọng yếu hoặc có gian lận thì cần dùng điều chỉnh hồi tố. Nếu không thì dùng điều chỉnh phi hồi tố"
-            }
-          },
-          {
-            "id": "68bf079af9116447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Thế chế/Ở Việt Nam, sự nghiệp chính trị thường phụ thuộc nhiều vào niên hạn, cơ cấu hay tín nhiệm nội bộ. Ở Trung Quốc, trọng tâm được đặt vào thành tích có thể đo lường.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ở Việt Nam, sự nghiệp chính trị thường phụ thuộc nhiều vào niên hạn, cơ cấu hay tín nhiệm nội bộ. Ở Trung Quốc, trọng tâm được đặt vào thành tích có thể đo lường"
-            }
-          },
-          {
-            "id": "020e889d4d9d83c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💸Hình thức kiếm tiền/Thiếu liêm chính/Thiếu liêm chính.md",
+                "file": "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Việc sản xuất truyền thống đòi hỏi phải chấp nhận việc chất lượng không đồng đều.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thiếu liêm chính"
+              "title": "Việc sản xuất truyền thống đòi hỏi phải chấp nhận việc chất lượng không đồng đều"
             }
           },
           {
@@ -149,6 +77,54 @@
               },
               "icon": "lucide-file",
               "title": "Thông báo từ chối gia hạn hội viên của Vcil"
+            }
+          },
+          {
+            "id": "c3341b61c617c42d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛖Ngành nghề cụ thể/Y tế/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chỉ có người thân được bảo lãnh, chứ bạn bè thì không"
+            }
+          },
+          {
+            "id": "2aa49c113a038ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Nếu không theo công pháp quốc tế thì doanh nghiệp nước ngoài không tin tưởng  hoặc nắm hết được luật VN. Nếu theo thì phải tốn chi phí cho luật sư có trình độ quốc tế và cho việc hầu kiện ở nước ngoài.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nếu không theo công pháp quốc tế thì doanh nghiệp nước ngoài không tin tưởng  hoặc nắm hết được luật VN. Nếu theo thì phải tốn chi phí cho luật sư có trình độ quốc tế và cho việc hầu kiện ở nước ngoài"
             }
           }
         ],
@@ -319,44 +295,44 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "020e889d4d9d83c2",
+  "active": "2aa49c113a038ce3",
   "lastOpenFiles": [
-    "📜Tài nguyên/Cảnh giác lừa đảo/Cảnh giác lừa đảo.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/❓Hệ thống thông tin cần dễ hiểu cho cả những người không rành công nghệ.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Thiếu liêm chính.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Lương khoán cũng giống trả tiền công cho cộng tác viên, nhưng phải đạt một mức độ chỉ tiêu thì mới được nhận, dưới mức đó thì không nhận được gì.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/❓Đa cấp lợi ở một chỗ là nó tạo động lực để người cấp trên đồng hành cùng cấp dưới nhiều hơn.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Thời gian làm việc mỗi tháng thực chất nên chỉ là 3 tuần. Tuần cuối cùng chỉ là để phòng hờ.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Số lượng tuyển được cao lắm là 50%.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Nhân sự khi thăng tiến sẽ làm hụt chỉ tiêu nhân sự của quản lý.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/KPI không giảm vào những tháng có ngày nghỉ lễ.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/KPI của ASM là trung bình cộng KPI của nhóm.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Khác biệt giữa lương cứng, lương khoán, thù lao, tiền công, hoa hồng, thưởng, phụ cấp.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI/Các công ty tài chính đa phần đều thiên về lương khoán.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý, lương khoán, KPI",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý là người được công ty uỷ quyền, và chỉ được ăn tiền ở đúng công ty đó. Môi giới là người làm cho khách hàng, và có thể ăn tiền từ nhiều công ty.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Đại lý không liên quan gì đến hợp đồng, vì đó là giao kết giữa công ty và khách hàng.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Nhân viên không bị mất lương trong những tháng nhiều ngày nghỉ, nhưng đại lý thì mất thu nhập.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Lương liên quan đến bảo hiểm y tế, bảo hiểm xã hội, công đoàn.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Các trang freelance toàn agency làm.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Mô hình nhân sự",
-    "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Pháp nhân/Luật VN không định nghĩa doanh nghiệp, mà chỉ nói về các yếu tố tạo nên nó.md",
-    "⚡Hiểu biết sâu/Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Thế chế/Quốc hội không họp thường xuyên bằng Ủy ban Thường vụ Quốc hội.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Kiếm tiền trực tuyến (MMO)/Trại nội dung dùng để tăng SEO.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)/Các cửa hàng điện thoại dễ đăng ký tài khoản vì có nhiều SIM.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)/Vì VAC cần thu thập hành vi, đôi khi một tuần tới một tháng sau mới ban, nên mình cũng có một tuần tới một tháng để khai thác.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)/VIA là tài khoản đã được xác thực.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Kiếm tiền trực tuyến (MMO)",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Sàn lừa đảo",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận/Công ty tư bản",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Gian lận",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Làm kết quả ảo/Sàn lừa đảo",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Làm kết quả ảo/Công ty tư bản",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính/Làm kết quả ảo",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Các công việc kiếm tiền nhanh/Công việc gian lận công ty/Làm nhân sự ảo/Bảo hiểm",
+    "Nơi này là nơi nào.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Việc trì hoãn giúp đánh giá được mức độ quan trong.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Sự trì hoãn giúp giảm những hệ quả không lường trước được.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Sự chuyên môn hoá khiến ta không được tự đáp ứng nhu cầu của mình mà phải đáp ứng nhu cầu người khác để họ đáp ứng nhu cầu của mình.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Những tác giả của những app quản lý công việc cũng cảm thấy app của họ không thể giúp quản lý công việc một cách hiệu quả được.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Những công việc chưa hoàn thành sẽ ám ảnh ta (hiệu ứng Zeigarnik).md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Khi làm xong một việc hiệu quả hơn, ít khi nào ta dùng thời gian rảnh để chơi, mà sẽ kiếm thêm việc để làm.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Những app quản lý công việc mang trong mình những giá trị văn hoá.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Điều quan trọng thì thường hiếm khi khẩn cấp, và điều khẩn cấp thì thường hiếm khi quan trọng.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Ý tưởng sinh ra không theo độ khẩn cấp.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Vấn đề ngắn hạn hay dài hạn không quan trọng, quan trọng là làm cái này mà phải nghĩ về cái khác thì sẽ nhức đầu.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Việc nghĩ về sản phẩm lôi cuốn hơn việc nghĩ về thành quả rất nhiều.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Số lượng vấn đề tìm ra trong 1 buổi có thể nhiều hơn số lượng vấn đề có thể giải quyết trong 1 tháng.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Nhiều khi không chịu đi bán vì việc code tiếp sẽ có lợi hơn khi sản phẩm rồi sẽ cần phải code tiếp.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Muốn thấy được những vấn đề lớn cần sự thong thả.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Lý do mọi người hay gặp nước đến chân mới nhảy, không giải quyết chuyện quan trọng khi vấn đề còn nhỏ là vì ta không có đầu óc để nghĩ đến nó.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có những thứ ta biết là cần thiết nhưng không thể thấy thú vị nổi, thậm chí không thể đồng cảm nổi.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có những cái ta cần làm trước khi ta thấy cần làm.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có người giới thiệu về vấn đề có lẽ là cách duy nhất để làm được những thứ mình muốn làm nhưng không khẩn cấp.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Bỏ công đi học lập trình thì không đáng, nhưng không biết thì sẽ rất lệ thuộc vào người khác.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Bảng quan trọng – khẩn cấp.md",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Môi trường làm việc",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Kỹ năng, động lực",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Giúp đỡ nhau",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Game hoá",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Thành lập doanh nghiệp/Pháp nhân",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Thành lập doanh nghiệp/Khởi nghiệp",
+    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Thành lập doanh nghiệp/B2B",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154747.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154617.png",
     "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Dòng tiền cụ thể nửa cuối năm 2025.png",

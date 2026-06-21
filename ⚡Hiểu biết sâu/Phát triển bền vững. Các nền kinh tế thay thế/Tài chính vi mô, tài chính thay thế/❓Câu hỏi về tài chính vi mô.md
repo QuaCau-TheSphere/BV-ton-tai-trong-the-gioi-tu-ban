@@ -3,7 +3,7 @@ share: true
 created: 2025-03-27T17:13
 aliases:
   - thịnh kula
-updated: 2026-06-07T16:25
+updated: 2026-06-21T20:38
 ---
 ## Sao việc về làm nông khó khăn đến mức vậy
 ## Vẫn làm chỗ làm nợ lương có khác gì với làm ăn thua lỗ ko?

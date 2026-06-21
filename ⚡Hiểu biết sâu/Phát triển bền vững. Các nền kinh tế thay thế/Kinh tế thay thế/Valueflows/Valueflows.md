@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-29T13:39
+updated: 2026-06-21T20:38
 ---
 [Valueflows](https://www.valueflo.ws/)
 ```dataview

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: 
 Để giữ nước để phục vụ tưới tiêu, sinh hoạt các nhà kỹ thuật đã khuyên nông dân đào ao nuôi cá và tích nước cho sản xuất và sinh hoạt. Độ sâu ao tối thiểu phải đạt 4,0 m. Với độ sâu này trong điều kiện bốc hơi mạnh dưới cái nắng 40oC của mùa khô kéo dài 6 tháng thì nước trong ao không bị cạn kiệt, bảo đảm đủ cho tiêu dùng trong suốt mùa khô (xem ảnh).

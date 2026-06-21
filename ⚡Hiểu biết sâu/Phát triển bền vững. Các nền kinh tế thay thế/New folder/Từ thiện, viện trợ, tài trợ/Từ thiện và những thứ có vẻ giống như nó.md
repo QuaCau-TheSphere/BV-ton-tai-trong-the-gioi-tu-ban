@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T14:35
+updated: 2026-06-21T20:38
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
   - Các hình thức cho tiền

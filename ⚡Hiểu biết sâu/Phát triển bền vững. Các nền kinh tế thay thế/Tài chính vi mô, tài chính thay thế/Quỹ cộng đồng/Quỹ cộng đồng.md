@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-05-18T12:22
+updated: 2026-06-21T20:38
 ---
 
 Đây là biểu đồ về sự phát triển về kích cỡ (size) và sự chuyên nghiệp quản lý, cũng như tính pháp lý của mô hình tài chính tự quản hỗ trợ.

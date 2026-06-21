@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: 
 ​​Vì KF phát triển và lớn mạnh một cách tự nhiên chứ không phải được quy hoạch, nên các cơ sở vật chất khá trải rộng khắp ngôi làng. Họ chăm sóc nhiều cánh đồng, nhà kính và thậm chí cả ao sen, và nhiều trong số đó thậm chí không phải do họ sở hữu. Cho tới hiện tại (tháng 06/2025), diện tích đất nông nghiệp mà KF đang canh tác đó là **25ha**, trong đó **90% đi mượn miễn phí**. Do quá trình đô thị hóa và dân số Nhật Bản già hóa trầm trọng, nhiều nông dân địa phương không thể tự mình làm ruộng được nữa và không có con cái nối nghiệp. Một số người trong số họ đã nhờ cộng đồng chăm sóc, và vì vậy họ đã mở rộng mà không cần mua đất.

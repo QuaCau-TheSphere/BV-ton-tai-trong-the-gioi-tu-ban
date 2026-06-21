@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-27T15:58
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: [[Thu nhập thụ động]]
 [Thu nhập cơ bản vô điều kiện – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Thu_nhập_cơ_bản_vô_điều_kiện)

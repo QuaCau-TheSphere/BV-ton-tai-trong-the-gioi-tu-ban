@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: 
 **Hệ thống IAM (Independent Audit by Many)** của Seikatsu Club là một cơ chế chứng nhận thực phẩm độc đáo, do chính các thành viên tiêu dùng – phần lớn là phụ nữ nội trợ – trực tiếp thực hiện, thay vì phụ thuộc vào các tổ chức chứng nhận chuyên nghiệp hay bên thứ ba. IAM hướng đến việc tạo ra một phương thức đảm bảo chất lượng thực phẩm có tính **dân chủ, minh bạch và gần gũi** hơn với đời sống người tiêu dùng.

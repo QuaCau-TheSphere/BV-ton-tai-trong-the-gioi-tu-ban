@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-17T22:10
+updated: 2026-06-19T09:35
 ---
 ## Vcil gửi 23/4/2026
 Chào anh Lý Minh Nhật,
@@ -250,6 +250,8 @@ Mình biết còn những hội viên khác cũng đi đáo thẻ. Các bạn s�
 
 Xem thêm: [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đáo hạn thẻ tín dụng” - Cổng Thông tin điện tử thành phố Đà Nẵng](https://danang.gov.vn/vi/w/xu-ly-mot-loat-vu-dung-may-pos-rut-tien-hoac-dao-han-the-tin-dung-i)
 
+Thấy chết mà không cứu, dù có điều kiện để cứu, thì là vi phạm pháp luật. Mình thắc mắc không biết là việc từ chối giúp đỡ sau khi biết là cứu người thì có được xem là vi phạm pháp luật hay không.
+
 ### Thượng tôn pháp luật
 Nếu các bạn chỉ nói là tuân thủ pháp luật, thì mình không có gì để nói thêm. Nhưng vì các bạn nói là "thượng tôn pháp luật", nên mình nghĩ phải nói vài lời. 
 
@@ -259,6 +261,8 @@ Bộ phận thi hành "án" , chứ không phải là một tổng thể mù m�
 Nếu các bạn cũng muốn mọi người có tinh thần thượng tôn pháp luật, thì các bạn cũng nên làm gương trước.
 
 Biết luật chơi
+dây dưa không phải là điều các  bạn muốn, dù nó sẽ rất có giá trị trong việc mở rộng hiểu biết
+
 ### Diễn giải
 > Chúng tôi không có ý định quy kết anh
 

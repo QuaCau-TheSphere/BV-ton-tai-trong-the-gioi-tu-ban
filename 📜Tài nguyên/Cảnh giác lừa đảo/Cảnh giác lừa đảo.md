@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-25T10:56
-updated: 2026-05-12T00:56
+updated: 2026-06-21T16:20
 ---
 Khái niệm:: [[Lừa đảo]], [[Khai thác điểm yếu con người]]
 ![Tất cả các kiểu lừa đảo trong 13 phút - YouTube](https://youtu.be/wGxW6CosPW4?si=lyUI07bQjWc3WOXp)
@@ -18,7 +18,7 @@ https://www.dauhieuluadao.com/
 ![[Chiêu thức giả danh công an.png]]
 ![[Các thủ đoạn lừa đảo.jpg]]
 [[Làm sao cho vay mà không bị xù]]
-[[Thiếu liêm chính]]
+[[Vi phạm quy định hoặc thiếu liêm chính]]
 If you take one lesson from the Consumer Reports study, it’s this: everyone is a target, and most of the defenses you’ve been told to deploy won’t help. Scams have become a machine-learning problem, not an awareness or hygiene issue.
 
 Until defenses catch up, the only real advice for both consumers and companies is to assume every inbound communication is a setup. Verify, delay and reward skepticism.

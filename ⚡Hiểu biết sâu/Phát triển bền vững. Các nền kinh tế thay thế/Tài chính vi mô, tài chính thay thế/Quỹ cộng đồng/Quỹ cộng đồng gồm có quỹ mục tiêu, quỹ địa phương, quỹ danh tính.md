@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-25T19:14
+updated: 2026-06-21T20:38
 ---
 ## Quỹ mục tiêu
 Định dạng: các cộng đồng có chung một mục tiêu tập hợp đóng góp nguồn lực để cùng thực hiện mục tiêu một cách có chiến lược.

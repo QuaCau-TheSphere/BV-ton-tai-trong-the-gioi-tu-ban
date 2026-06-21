@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-02-26T12:31
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: [[Nông nghiệp, nông thôn]]
 Thấy người ta đi phun thuốc thì cũng hỏi thăm. Dù họ có dùng thuốc thì họ luôn có điều gì đó thú vị để học hỏi. Nên việc họ dùng thuốc ko phải là điều mình quan tâm nhất ở họ, nên cũng dễ hòa đồng với họ hơn

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: 
 ![](https://substackcdn.com/image/fetch/$s_!ccHK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F876c6668-b61b-4c7a-9874-f796541993ab_1358x444.png)

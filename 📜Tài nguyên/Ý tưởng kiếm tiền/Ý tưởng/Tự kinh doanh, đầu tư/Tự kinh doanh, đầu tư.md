@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-14T21:50
+updated: 2026-06-19T21:19
 title: Các ý tưởng kinh doanh, đầu tư
 aliases:
   - Đầu tư kinh doanh bán hàng
@@ -32,7 +32,7 @@ FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đ
 ```
 
 ## Xem thêm
-- [[Tự lập doanh nghiệp]]
+- [[Thành lập doanh nghiệp]]
 - [[Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch]]
 
 ## Nơi thảo luận

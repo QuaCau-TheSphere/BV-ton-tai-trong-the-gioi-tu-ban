@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-04T22:24
+updated: 2026-06-21T20:38
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã

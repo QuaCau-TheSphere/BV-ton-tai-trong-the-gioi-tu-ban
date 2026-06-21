@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2026-06-16T13:48
+updated: 2026-06-21T16:20
 ---
 Đây là giải thích chi tiết cho công việc [[Giữ tiền hộ]].
 
@@ -20,12 +20,12 @@ Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|L
 Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo]]
 
 ## Đây là thiếu liêm chính
-Đúng vậy, [[Thiếu liêm chính]]. [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]
+Đúng vậy, [[Vi phạm quy định hoặc thiếu liêm chính]]. [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]
 [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
 
 ## Chuyện gì sẽ xảy ra nếu tôi bị phát hiện là đang tiếp tay cho gian lận?
 Do đây không phải là vi phạm pháp luật, nên công ty sẽ chỉ phạt nội bộ mà thôi. Tức là chỉ ảnh hưởng tới nhân viên, chứ không ảnh hưởng gì đến người ngoài.
-
+[[Vi phạm kỷ luật là một phần của vi phạm pháp luật, nhưng nghĩ là không phải cũng không sao]]
 ## Làm sao chắc chắn đây không phải là vi phạm pháp luật?
 Trương mỹ lan để cho người nhà cầm
 [[Công ty khuyến mãi nhiều là vì số tiền bỏ ra cho mình nhỏ hơn số tiền nhận được|Liệu công ty X có đang lừa đảo, rửa tiền không?]]

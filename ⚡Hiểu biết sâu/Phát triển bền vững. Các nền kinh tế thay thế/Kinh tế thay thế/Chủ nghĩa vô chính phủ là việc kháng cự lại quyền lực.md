@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-09T18:27
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: 
 [[Bạo lực là thứ giới hạn lựa chọn của chủ thể. Quyền lực là khả năng thay đổi phổ lựa chọn khả dĩ của họ]]

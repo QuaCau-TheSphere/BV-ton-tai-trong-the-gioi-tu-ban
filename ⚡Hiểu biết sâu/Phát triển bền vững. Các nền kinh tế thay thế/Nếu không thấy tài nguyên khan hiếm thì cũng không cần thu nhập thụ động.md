@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: [[Thu nhập thụ động]]
 ![The Cult of "Passive Income" \| Internet Analysis - YouTube](https://www.youtube.com/watch?v=28AcLdc-QbY)

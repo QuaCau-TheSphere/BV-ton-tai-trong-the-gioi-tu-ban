@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-06-16T13:19
+updated: 2026-06-21T16:43
 aliases:
   - làng sinh thái ở Việt Nam
 ---
@@ -21,7 +21,7 @@ Một số bài viết của họ liên quan đến nông nghiệp:
 - [Chứng chỉ hữu cơ đang giết ước mơ nông hộ](https://www.facebook.com/share/p/1BUgAMmkzS/)
 
 ### VCIL
-Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đồng, xóa bỏ [[Tư duy khan hiếm]], xây dựng các mô hình kinh tế và tài chính thay thế hơn là tập trung vào nông nghiệp sinh thái. Nhưng vì các [[cộng đồng có chủ đích]] là một mô hình để đạt được mục tiêu đó, và vì nhiều cộng đồng có chủ đích là các làng sinh thái, nên họ cũng có nhiều kết nối tới các làng sinh thái trong và ngoài nước. Họ có các chương trình du lịch học tập cộng đồng ở Ấn Độ, Hàn Quốc, Thái Lan. Ở Việt Nam thì có tới các cộng đồng Hòa Bắc (Đà Nẵng), Cẩm Kim (Hội An), Sa Huỳnh (Quảng Ngãi).
+Sứ mệnh của VCIL có vẻ thiên về kết nối nguồn lực cộng đồng, xóa bỏ [[Tư duy khan hiếm]], xây dựng các mô hình kinh tế và tài chính thay thế hơn là tập trung vào nông nghiệp sinh thái. Nhưng vì các [[Cộng đồng có chủ đích]] là một mô hình để đạt được mục tiêu đó, và vì nhiều cộng đồng có chủ đích là các làng sinh thái, nên họ cũng có nhiều kết nối tới các làng sinh thái trong và ngoài nước. Họ có các chương trình du lịch học tập cộng đồng ở Ấn Độ, Hàn Quốc, Thái Lan. Ở Việt Nam thì có tới các cộng đồng Hòa Bắc (Đà Nẵng), Cẩm Kim (Hội An), Sa Huỳnh (Quảng Ngãi).
 
 ![VCIL Travel School 2023 - Korea: From miracle development to sustainable alternatives - YouTube](https://youtu.be/8CqjWrQ_EG0?si=CGf1RSHBYihSz4Mm)
 

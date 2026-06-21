@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-05-04T12:51
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: [[Nông nghiệp, nông thôn]]
 Chắc hẳn “trào lưu” của một vài năm trở lại đây là về vườn, nhưng có lẽ nhiều bạn chưa thật sự hiểu hết nghĩa của "chữ" về vườn. Bạn có thể cho rằng đó là:

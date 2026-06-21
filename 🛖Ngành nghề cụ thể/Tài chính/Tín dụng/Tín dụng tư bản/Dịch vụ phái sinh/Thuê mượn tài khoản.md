@@ -1,10 +1,10 @@
 ---
-updated: 2026-06-12T16:06
+updated: 2026-06-21T16:20
 created: 2025-03-27T17:13
 aliases:
   - PPPAY, OKPAY, MSTG, Tibbers
 ---
-[[Thiếu liêm chính|Lừa đảo]]
+[[Vi phạm quy định hoặc thiếu liêm chính|Lừa đảo]]
 Thẻ ở đây chỉ đơn giản là tài khoản ngân hàng, không phải là thẻ tín dụng.
 Có một người bấm duyệt tất cả, nên mới có tình trạng là rất nhiều giao dịch ra vào trong cùng một thời điểm.
 tibber là HR. Quảng cáo đi Armenia 
@@ -81,6 +81,8 @@ Khi tài khoản bị khóa, bắt phải chụp màn hình đăng nhập của 
 Nhiều acc ra vô, chết, có khi không nhớ là thẻ đã bị mất liên kết
 
 ngân hàng không có điều tra hay gửi cho cơ quan chức năng đâu ạ trường hợp gửi cho cơ quan chức năng là anh bị truy nã hoặc có dấu hiệu đặc biệt nghiêm trọng 
+
+ngân hàng  sẽ yêu cầu kiểm sát viên yêu cầu mình tự  nguyện đóng tài khoản  nếu muốn rút tiền đang kẹt
 
 Kính gửi Quý Ngân hàng,  
 Tôi tên là ...................., chủ tài khoản số ....................  

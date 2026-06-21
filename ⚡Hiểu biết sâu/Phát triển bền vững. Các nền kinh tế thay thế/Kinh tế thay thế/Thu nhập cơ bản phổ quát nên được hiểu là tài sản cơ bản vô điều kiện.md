@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-27T17:13
-updated: 2026-01-27T15:57
+updated: 2026-06-21T20:38
 ---
 Khái niệm:: [[Thu nhập thụ động]]
 **Bregman:** Tôi nghĩ [UBI] nên được đưa ra thảo luận như một lựa chọn chính sách rất nghiêm túc ngay bây giờ. Có lẽ chúng ta không nên gọi nó là thu nhập cơ bản phổ quát. "Thu nhập" gợi ý rằng nó đến từ công việc. Có lẽ chúng ta nên gọi nó là **tài sản cơ bản phổ quát** — hơi giống Alaska. Alaska phát hiện ra rất nhiều dầu mỏ và quyết định: _Chúng ta sẽ chia cổ tức đó cho tất cả cư dân._ Tôi nghĩ chúng ta cần một thứ như vậy để phân phối khoản lợi nhuận khổng lồ từ AI, nếu không những gì bạn nhận được chỉ là một hình thức phong kiến mới — nếu chúng ta chưa ở đó rồi.
