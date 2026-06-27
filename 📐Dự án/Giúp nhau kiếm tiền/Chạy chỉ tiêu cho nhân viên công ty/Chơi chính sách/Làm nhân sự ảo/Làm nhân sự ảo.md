@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-16T13:50
+updated: 2026-06-27T17:05
 aliases:
   - Làm nhân viên ảo là làm gì?
   - Làm đại lý ảo là làm gì?
@@ -15,7 +15,7 @@ Nhân sự ảo là những người có nhân sự thật làm giùm. Ví dụ,
 
 Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]].
 
-Các công việc khác có tính chất tương tự: điểm danh hộ, họp hộ, [[giữ tiền hộ]], [[Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả|Làm đáp viên cho phỏng vấn, khảo sát. Làm khán giả cho sự kiện]]
+Các công việc khác có tính chất tương tự: điểm danh hộ, họp hộ, [[Giữ tiền hộ]], [[Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả|Làm đáp viên cho phỏng vấn, khảo sát. Làm khán giả cho sự kiện]]
 
 ### Lợi ích cho mỗi bên
 Với Megan:

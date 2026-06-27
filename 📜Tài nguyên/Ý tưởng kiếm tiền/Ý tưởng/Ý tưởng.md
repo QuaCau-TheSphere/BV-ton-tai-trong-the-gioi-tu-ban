@@ -1,22 +1,20 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-06-14T21:50
+updated: 2026-06-27T14:43
 aliases:
-  - So sánh các yêu cầu đầu vào của các ý tưởng kiếm tiền
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---
-[How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
 - [[Kiếm tiền nhanh|Các công việc kiếm tiền nhanh]]
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư|Các ý tưởng kinh doanh, đầu tư]]
 
-[[Sống vừa đủ, bền vững, tiết kiệm]]
-
+Thay vì kiếm thêm tiền, thử dùng ít tiền hơn? [[Sống vừa đủ, bền vững, tiết kiệm]]
 
 ## Các nơi giới thiệu việc làm
+[How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
 [Evenbreak - Award-winning Job board for disabled people](https://www.evenbreak.com/)
 
 ## Nơi thảo luận

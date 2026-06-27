@@ -1,9 +1,141 @@
-6/21/2026, 8:38:44 PM [error]: 
+6/27/2026, 4:25:17 PM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:39:9565)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:39:10806)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:223:1200)
 
-6/21/2026, 8:38:48 PM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 9:38:49 PM.
+6/27/2026, 4:25:17 PM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 5:25:23 PM.
+
+6/27/2026, 5:18:24 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Người làm công đóng thuế trước, chi tiêu sau. Doanh nghiệp chi tiêu trước, đóng thuế sau.md / Sun Jun 21 2026 20:38:09 GMT+0700 (Indochina Time) vs Fri Jun 05 2026 12:50:05 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:26 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Người nghèo và người trung lưu có rất nhiều tiêu sản. Người giàu có tăng sản.md / Sun Jun 21 2026 20:38:09 GMT+0700 (Indochina Time) vs Fri Jun 05 2026 12:50:05 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:27 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Kim tứ đồ.md / Sun Jun 21 2026 20:38:09 GMT+0700 (Indochina Time) vs Fri Jun 05 2026 12:50:05 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:29 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác/Không tiếp xúc với con người.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:29 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác/Không cần độ tập trung cao.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:30 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác/Không cần đi lại.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:31 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác/Không cần nói.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:32 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác/Không cần nhìn.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:33 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác/Không cần nghe.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:34 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng/Biết tiếng Anh.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:35 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng/Hiểu về hệ thống.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:36 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng/Cần khả năng ứng biến.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:36 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng/Cần tên tuổi, uy tín, chứng nhận.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:39 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Cần máy tính đủ mạnh.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:41 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Cần biết cách ẩn danh.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:41 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ/Có laptop.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:43 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Giới/Chỉ nữ.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:44 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Giới/Chỉ nam.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:46 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm trả tiền/Trả theo tháng.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:46 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm trả tiền/Trả theo tuần.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:48 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm trả tiền/Trả theo ngày.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:49 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm trả tiền/Trả theo giờ.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:51 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Không yêu cầu.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:51 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời gian làm việc/Không phải lúc nào cũng biết lịch trước được.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:52 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời gian làm việc/Được chọn thời gian làm trong ngày.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:56 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời gian làm việc/Mỗi tuần lên công ty một buổi.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:57 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc/Làm ngoài đường.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:18:57 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc/Đi ra ngoại thành hoặc tỉnh khác.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:01 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc/Làm văn phòng.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:04 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nguyên liệu, nguồn thông tin/Không tốn diện tích.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:06 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nguyên liệu, nguồn thông tin/Cần nhiều tài khoản hoặc thẻ ngân hàng.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:07 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nguyên liệu, nguồn thông tin/Cần nguồn nguyên liệu lớn với giá rẻ.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:08 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nguyên liệu, nguồn thông tin/Cần có sẵn tài khoản ngân hàng.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:09 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Xin tài trợ.md / Wed Jan 14 2026 13:09:40 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:12 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng kiếm tiền.md / Tue Jun 16 2026 13:30:32 GMT+0700 (Indochina Time) vs Fri Mar 20 2026 13:32:22 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:14 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng.md / Sat Jun 27 2026 14:43:38 GMT+0700 (Indochina Time) vs Sun Jun 14 2026 23:11:51 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:15 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư.md / Sat Jun 27 2026 14:44:14 GMT+0700 (Indochina Time) vs Sun Jun 14 2026 23:11:51 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:26 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Học tập, phát triển bản thân/Tổ chức các buổi thảo luận, chia sẻ, lớp học ngắn, các buổi huấn luyện.md / Tue Jun 16 2026 21:24:32 GMT+0700 (Indochina Time) vs Sun Jun 14 2026 23:11:51 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:40 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh/Săn khuyến mãi, giảm giá/Đăng ký tài khoản Binance.md / Fri Jun 26 2026 16:29:33 GMT+0700 (Indochina Time) vs Sun Jun 14 2026 23:11:51 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:47 PM [debug]: 
+	edited file : 📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh/Kiếm tiền nhanh.md / Tue Jun 16 2026 13:17:12 GMT+0700 (Indochina Time) vs Sun Jun 14 2026 23:11:51 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:49 PM [debug]: 
+	edited file : 📜Tài nguyên/Ngôn ngữ/Dịch thuật ngữ.md / Sat Jun 27 2026 11:02:19 GMT+0700 (Indochina Time) vs Wed Apr 22 2026 11:17:19 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:57 PM [debug]: 
+	edited file : 📜Tài nguyên/Sống vừa đủ, bền vững, tiết kiệm/Nơi ở/Người không có căn cước.md / Wed Jan 14 2026 13:09:30 GMT+0700 (Indochina Time) vs Fri Dec 19 2025 14:00:17 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:58 PM [debug]: 
+	edited file : 📜Tài nguyên/Sống vừa đủ, bền vững, tiết kiệm/Sống vừa đủ, bền vững, tiết kiệm.md / Tue Jun 16 2026 13:05:40 GMT+0700 (Indochina Time) vs Fri Jun 05 2026 12:50:05 GMT+0700 (Indochina Time)
+
+6/27/2026, 5:19:59 PM [debug]: 
+	edited file : 📜Tài nguyên/Sống vừa đủ, bền vững, tiết kiệm/Nông nghiệp sinh thái ở Việt Nam.md / Sun Jun 21 2026 16:43:44 GMT+0700 (Indochina Time) vs Fri Jun 05 2026 12:50:05 GMT+0700 (Indochina Time)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-04T15:54
-updated: 2026-06-21T16:20
+updated: 2026-06-26T09:11
 ---
 1. [ ] Vi phạm đạo đức 
 2. [ ] Vi phạm pháp luật
@@ -12,6 +12,7 @@ updated: 2026-06-21T16:20
 7. [ ] Tham gia [[ESG]]
 8. [ ] Minh bạch chiến lược
 9. [ ] Được tham gia quyết định
+10. [ ] Không sử dụng dịch vụ của những nơi tệ
 
 ![Tất cả các bài truyền thông của các công ty lớn trong 15 phút - YouTube](https://youtu.be/zyApRta3ZNQ?si=ethxsICNd-3f8v_-)
 Tại sao ít lợi nhuận hơn thì sẽ bị giết chết trên thị trường?

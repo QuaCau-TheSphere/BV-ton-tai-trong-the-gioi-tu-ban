@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 200k"
 created: 2025-03-27T17:13
-updated: 2026-06-14T21:29
+updated: 2026-06-26T16:29
 ---
 Mô tả công việc:: Đăng ký tài khoản Binance mới theo link [này](https://www.binance.com/referral/mystery-box/lny-2026/claim?ref=GRO_40244_EOX6Q), kyc, làm nhiệm vụ nhanh 10ph 
 Số tiền kiếm được:: 200k
@@ -20,11 +20,18 @@ chưa kể points vào ngày 16th, thì ngày 1st sẽ bị mất đi
 
 100$ casa = +1 balance points
 1000$ casa = +2 balance points
-khi a tích đủ điểm ( thường total cần trên 220 alpha points) có các chương trình nhận quà
-Một là airdrop, chia ra làm 2:
+
+Khi bạn tích đủ điểm (thường cần tổng cộng trên 220 điểm alpha) thì bạn có thể tham gia các chương trình nhận quà.
+
+Có cách để tham gia: airdrop, hoặc tham gia sự kiện sinh token
+
+## Airdrop
+Chia ra làm 2:
 - giật cô hồn = first come first serve
 - hoặc là kèo 2 lớp: lớp 1 nhận trước với điểm cao, 18h sau lớp 2 nhận sau với điểm thấp hơn
-Hai là tge = mua IDO = new token generation = được mua các đồng token mới với giá siêu rẻ (1 vốn 10 lời). Sẽ có rule cho từng token này. Thường là deposit max 3 bnb hoặc 7 bnb tuỳ kèo. Sau 2 tiếng deposit, nhận lại bnb + new token
+
+## Sự kiện sinh token
+Sự kiện sinh token ([TGE (token generation event)](https://www.binance.com/en/academy/glossary/token-generation-event-tge)) = mua IDO = new token generation = được mua các đồng token mới với giá siêu rẻ (1 vốn 10 lời). Sẽ có rule cho từng token này. Thường là deposit max 3 bnb hoặc 7 bnb tuỳ kèo. Sau 2 tiếng deposit, nhận lại bnb + new token
 các kèo airdrop và tge đều ko có calendar, nhưng ngày nào cũng có kèo
 được update ở trang này : alpha123.uk
 thường sẽ thông báo lúc 13h, các kèo sẽ tầm 15h hoặc 18h hoặc 20h

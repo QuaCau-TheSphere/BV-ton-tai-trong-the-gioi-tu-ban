@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2026-06-06T00:05
+updated: 2026-06-27T17:10
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -36,7 +36,7 @@ Nền kinh tế vừa đủ
 ## [[📜Tài nguyên]]
 - Bối cảnh thực tế, áp dụng ở VN
 
-## [[🛖Ngành nghề cụ thể]]
+## [[🧑‍🌾Ngành nghề cụ thể]]
 - Nghiệp vụ, nguyên lý hoạt động, quy trình xử lý
 - Chiến lược, chính sách
 - Thống kê nội bộ

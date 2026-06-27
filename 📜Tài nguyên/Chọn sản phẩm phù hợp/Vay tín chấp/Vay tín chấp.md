@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2026-06-07T16:25
+updated: 2026-06-27T17:10
 title: Các dịch vụ vay tín chấp
 aliases:
   - Các hình thức cho vay
@@ -20,7 +20,7 @@ Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng n�
 | [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]                                                                            |                               |                                                                                                                                                                                                               |
 | [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ví trả sau\|Ví trả sau]]                                                               |                               | Momo, ZaloPay, Shopee, ShopeePay, Lazada                                                                                                                                                                      |
 | [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]]                                    | Bảng lương                    |                                                                                                                                                                                                               |
-| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng\|Công ty tài chính tiêu dùng]] |                               | [[🛖Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Công ty tài chính tiêu dùng/FE Credit/FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison |
+| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng\|Công ty tài chính tiêu dùng]] |                               | [[FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison |
 
 ## Bảng xếp hạng
 %%Sẽ chuyển dần thành bảng sau. Để dạng này để nhỡ còn bổ sung thêm gì thì di chuyển các dòng cho dễ%%

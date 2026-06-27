@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cef337b91c9f2be",
+            "id": "31dd7ff627fc9db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Các khái niệm tập đoàn hay hệ sinh thái đánh lừa cảm giác về một sức mạnh tổng hợp, nhưng khi có sự cố thì sẽ tan thành từng mảnh pháp nhân độc lập.md",
+                "file": "🛖Ngành nghề cụ thể/Tài chính/Kế toán/Bản chất toán học, hệ thống thông tin/Khi hệ thống kế toán có thể quy giản thành ngôn ngữ hình thức, các phương pháp điều khiển ngôn ngữ này sẽ mạnh hơn các phương pháp đang được sử dụng.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,40 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Các khái niệm tập đoàn hay hệ sinh thái đánh lừa cảm giác về một sức mạnh tổng hợp, nhưng khi có sự cố thì sẽ tan thành từng mảnh pháp nhân độc lập"
+              "title": "Khi hệ thống kế toán có thể quy giản thành ngôn ngữ hình thức, các phương pháp điều khiển ngôn ngữ này sẽ mạnh hơn các phương pháp đang được sử dụng"
             }
           },
           {
-            "id": "c210552e2b199572",
+            "id": "fdf41a2bd5ed864b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💸Hình thức kiếm tiền/Tự lập doanh nghiệp/Việc sản xuất truyền thống đòi hỏi phải chấp nhận việc chất lượng không đồng đều.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Việc sản xuất truyền thống đòi hỏi phải chấp nhận việc chất lượng không đồng đều"
-            }
-          },
-          {
-            "id": "1f79d7da4e0f3d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Xây dựng hệ thống kinh tế mới/Thông báo từ chối gia hạn hội viên của Vcil.md",
+                "file": "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Dịch vụ phái sinh/Đáo rút thẻ tín dụng/Ngân hàng không có động lực bắt đáo vì ngân hàng cũng kiếm được tiền từ việc mình đáo.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thông báo từ chối gia hạn hội viên của Vcil"
+              "title": "Ngân hàng không có động lực bắt đáo vì ngân hàng cũng kiếm được tiền từ việc mình đáo"
             }
           },
           {
-            "id": "c3341b61c617c42d",
+            "id": "97e7b1ec5388360a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛖Ngành nghề cụ thể/Y tế/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
+                "file": "📐Dự án/📐Dự án.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chỉ có người thân được bảo lãnh, chứ bạn bè thì không"
-            }
-          },
-          {
-            "id": "2aa49c113a038ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Nếu không theo công pháp quốc tế thì doanh nghiệp nước ngoài không tin tưởng  hoặc nắm hết được luật VN. Nếu theo thì phải tốn chi phí cho luật sư có trình độ quốc tế và cho việc hầu kiện ở nước ngoài.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nếu không theo công pháp quốc tế thì doanh nghiệp nước ngoài không tin tưởng  hoặc nắm hết được luật VN. Nếu theo thì phải tốn chi phí cho luật sư có trình độ quốc tế và cho việc hầu kiện ở nước ngoài"
+              "title": "📐Dự án"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,13 +133,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.0040512084961,
-    "collapsed": true
+    "width": 299.0040512084961
   },
   "right": {
     "id": "058d2be84526927e",
@@ -295,44 +245,44 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "2aa49c113a038ce3",
+  "active": "97e7b1ec5388360a",
   "lastOpenFiles": [
-    "Nơi này là nơi nào.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Việc trì hoãn giúp đánh giá được mức độ quan trong.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Sự trì hoãn giúp giảm những hệ quả không lường trước được.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Sự chuyên môn hoá khiến ta không được tự đáp ứng nhu cầu của mình mà phải đáp ứng nhu cầu người khác để họ đáp ứng nhu cầu của mình.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Những tác giả của những app quản lý công việc cũng cảm thấy app của họ không thể giúp quản lý công việc một cách hiệu quả được.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Những công việc chưa hoàn thành sẽ ám ảnh ta (hiệu ứng Zeigarnik).md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Khi làm xong một việc hiệu quả hơn, ít khi nào ta dùng thời gian rảnh để chơi, mà sẽ kiếm thêm việc để làm.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá/Những app quản lý công việc mang trong mình những giá trị văn hoá.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Điều quan trọng thì thường hiếm khi khẩn cấp, và điều khẩn cấp thì thường hiếm khi quan trọng.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Ý tưởng sinh ra không theo độ khẩn cấp.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Vấn đề ngắn hạn hay dài hạn không quan trọng, quan trọng là làm cái này mà phải nghĩ về cái khác thì sẽ nhức đầu.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Việc nghĩ về sản phẩm lôi cuốn hơn việc nghĩ về thành quả rất nhiều.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Số lượng vấn đề tìm ra trong 1 buổi có thể nhiều hơn số lượng vấn đề có thể giải quyết trong 1 tháng.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Nhiều khi không chịu đi bán vì việc code tiếp sẽ có lợi hơn khi sản phẩm rồi sẽ cần phải code tiếp.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Muốn thấy được những vấn đề lớn cần sự thong thả.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Lý do mọi người hay gặp nước đến chân mới nhảy, không giải quyết chuyện quan trọng khi vấn đề còn nhỏ là vì ta không có đầu óc để nghĩ đến nó.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có những thứ ta biết là cần thiết nhưng không thể thấy thú vị nổi, thậm chí không thể đồng cảm nổi.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có những cái ta cần làm trước khi ta thấy cần làm.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có người giới thiệu về vấn đề có lẽ là cách duy nhất để làm được những thứ mình muốn làm nhưng không khẩn cấp.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Bỏ công đi học lập trình thì không đáng, nhưng không biết thì sẽ rất lệ thuộc vào người khác.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Bảng quan trọng – khẩn cấp.md",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Tối ưu hoá",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Môi trường làm việc",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Kỹ năng, động lực",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Giúp đỡ nhau",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Tâm lý học quản lý và lao động/Game hoá",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Thành lập doanh nghiệp/Pháp nhân",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Thành lập doanh nghiệp/Khởi nghiệp",
-    "⚡Hiểu biết sâu/Vận hành doanh nghiệp/Thành lập doanh nghiệp/B2B",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Số điện thoại.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Cướp.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Kiếm tiền.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Nhà nước/Luật",
+    "🧑‍🌾Ngành nghề cụ thể/🧑‍🌾Ngành nghề cụ thể.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Dịch vụ phái sinh/Đáo rút thẻ tín dụng/Dịch vụ đáo rút thì cũng từ ngân hàng mà ra. Cũng là tiền từ tay trái qua tay phải.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Dịch vụ phái sinh/Đáo rút thẻ tín dụng/Ngân hàng không có động lực bắt đáo vì ngân hàng cũng kiếm được tiền từ việc mình đáo.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Dịch vụ phái sinh/Đáo rút thẻ tín dụng/Đáo rút thẻ tín dụng.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Bảo hiểm/Bảo hiểm.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tài chính.md",
+    "Ξ Thiết lập/Inbox.md",
+    "Ξ Thiết lập/nháp.md",
+    "Ξ Thiết lập/Sửa gần đây.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Ξ Nguồn.md",
+    "⚡Hiểu biết sâu/⚡Hiểu biết sâu.md",
+    "📜Tài nguyên/📜Tài nguyên.md",
+    "📐Dự án/📐Dự án.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Trung gian thanh toán/Chính sách công ty/Chính sách công ty.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Dịch vụ phái sinh/Mở khoản vay/Mở khoản vay.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Quy trình, nghiệp vụ/Quy trình, nghiệp vụ.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Ngân hàng.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Dựa trên điểm tín dụng/Khoản vay của tổ chức tài chính tiêu dùng/Khoản vay của tổ chức tài chính tiêu dùng.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Vay nợ.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Chứng khoán/Chứng khoán.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Bảo hiểm/Nguyên tắc hoạt động/Nguyên tắc hoạt động.md",
+    "🎁Phát triển bền vững. Các nền kinh tế thay thế/New folder/Hội, nhóm",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm hình sự/Tấn công mạng/Mua bán thông tin cá nhân/Tài khoản ngân hàng ảo",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm dân sự/Làm kết quả ảo/Các công việc/Ví điện tử",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm dân sự/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm dân sự/Làm kết quả ảo/Các công việc/Bảo hiểm",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm hình sự/Tấn công mạng/VPN",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm hình sự/Tấn công mạng/Mua bán thông tin cá nhân",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm dân sự/Làm kết quả ảo/Các công việc",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Vi phạm hình sự/Tấn công mạng",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154747.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154617.png",
     "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Dòng tiền cụ thể nửa cuối năm 2025.png",
