@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-05T14:39
+updated: 2026-07-07T12:59
+created: 2025-07-27T11:39
 ---
 Khái niệm:: [[Trục lợi]], [[Khai thác điểm yếu con người]]
 

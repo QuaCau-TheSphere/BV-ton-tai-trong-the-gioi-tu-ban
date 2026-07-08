@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T21:01
+updated: 2026-07-07T13:00
+created: 2025-09-14T10:28
 ---
 Khái niệm:: 
 [[Tài khoản là nút, giao dịch là cạnh]]

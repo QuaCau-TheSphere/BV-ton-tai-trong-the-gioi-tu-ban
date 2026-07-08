@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T13:03
+updated: 2026-07-07T12:58
+created: 2025-05-06T14:11
 ---
 Khái niệm:: [[Nhà nước]]
 

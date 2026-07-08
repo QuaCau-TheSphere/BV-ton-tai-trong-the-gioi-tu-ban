@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
 ---
 Nguồn:: [# Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools/)
 [[Những công việc chưa hoàn thành sẽ ám ảnh ta (hiệu ứng Zeigarnik)]]

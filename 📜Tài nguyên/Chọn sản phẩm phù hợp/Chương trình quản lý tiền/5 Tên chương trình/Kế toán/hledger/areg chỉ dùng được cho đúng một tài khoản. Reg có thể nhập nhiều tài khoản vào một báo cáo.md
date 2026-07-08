@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
+created: 2025-11-03T20:38
 ---
 Khái niệm:: 
 When there are multiple matches, the alphabetically-first choice can be surprising; eg if you have `assets:per:checking 1` and `assets:biz:checking 2` accounts, `hledger areg checking` would select `assets:biz:checking 2`. It's just a convenience to save typing, so if in doubt, write the full account name, or a distinctive substring that matches uniquely.

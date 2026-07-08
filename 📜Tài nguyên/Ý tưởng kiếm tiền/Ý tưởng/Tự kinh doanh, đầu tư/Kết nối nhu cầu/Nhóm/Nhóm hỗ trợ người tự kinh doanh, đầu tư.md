@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-14T20:36
+updated: 2026-07-07T13:00
 aliases:
   - Nhóm agency
+created: 2026-06-05T16:58
 ---
 ## Thị trường & đối thủ cạnh tranh
 Các nhóm agency, các freelancer

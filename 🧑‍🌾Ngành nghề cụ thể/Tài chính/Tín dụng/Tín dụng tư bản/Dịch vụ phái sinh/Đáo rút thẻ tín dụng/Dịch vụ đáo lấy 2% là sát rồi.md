@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-04-15T23:34
-updated: 2026-06-25T11:06
+updated: 2026-07-07T13:00
 ---
-Khái niệm:: [[Đáo]]
+Khái niệm:: [[Đáo, rút thẻ tín dụng]]
 Thực chất khi làm đáo là sự hợp tác của 3 bên:
 - Bên cấp máy pos
 - Cửa hàng, đăng ký địa điểm kinh doanh

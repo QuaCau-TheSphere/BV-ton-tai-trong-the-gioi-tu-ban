@@ -1,6 +1,6 @@
 ---
 created: 2023-05-26T14:51
-updated: 2026-06-27T17:13
+updated: 2026-07-07T13:00
 ---
 ```dataview
 List dateformat(file.mtime, "d MMM") 

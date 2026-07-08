@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T15:41
+updated: 2026-07-07T13:00
+created: 2026-06-07T15:24
 ---
 Khái niệm:: [[Luật các tổ chức tín dụng]], [[Hội đồng quản trị]]
 **Điều kiện để được cấp Giấy phép đối với quỹ tín dụng nhân dân**

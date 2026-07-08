@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-16T14:51
-updated: 2026-04-02T17:21
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Phá sản]]
 Lý do:: [[Để người dân nghi ngờ một ngân hàng sẽ làm sụp đổ cả hệ thống ngân hàng]]. Mà [[Ngân hàng chính là kênh huy động tiền của nhà nước]]

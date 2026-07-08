@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-15T12:46
-updated: 2026-03-28T15:59
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[App đen, vay nóng]]
 

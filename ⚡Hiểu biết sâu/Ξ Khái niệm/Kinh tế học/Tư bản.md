@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2025-12-25T17:41
+updated: 2026-07-07T12:58
 ---
 Hôm nay, một người em trong nhóm chia sẻ với tôi là bạn ấy thấy một bài viết trên mạng xã hội với luận điểm: "Chủ nghĩa tư bản lợi dụng các phong trào xã hội (môi trường, giới,...)".
 

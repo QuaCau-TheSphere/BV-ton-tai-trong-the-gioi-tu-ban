@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-22T12:44
+updated: 2026-07-07T13:00
+created: 2026-06-22T12:42
 ---
 Khái niệm:: 
 VD: Cái cây cắm dưới đất thì là bất động sản, nhưng cắm trong chậu thì là động sản

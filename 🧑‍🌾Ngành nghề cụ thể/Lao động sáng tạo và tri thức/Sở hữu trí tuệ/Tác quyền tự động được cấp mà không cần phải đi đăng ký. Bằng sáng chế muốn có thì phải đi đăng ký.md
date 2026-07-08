@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-05-14T22:57
+updated: 2026-07-07T13:00
+created: 2026-05-14T15:37
 ---
 Khái niệm:: 
 [[Tác quyền bảo hộ hình thức biểu đạt của một ý tưởng (expression of an idea). Bằng sáng chế bảo hộ bản thân ý tưởng]]

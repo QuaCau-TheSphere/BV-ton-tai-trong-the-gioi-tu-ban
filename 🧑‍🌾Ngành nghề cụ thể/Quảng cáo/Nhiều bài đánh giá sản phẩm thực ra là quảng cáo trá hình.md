@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-11-01T09:57
 ---
 Khái niệm:: [[Quảng cáo]], [[Thao túng]], [[Khai thác điểm yếu con người]]
 [[Nhiều bài lên đầu Google không có nhiều nội dung mà chỉ chứa từ khóa để làm tăng thứ hạng]]

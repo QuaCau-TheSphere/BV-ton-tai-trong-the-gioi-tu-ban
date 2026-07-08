@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-17T11:09
 ---
 Khái niệm:: [[Tài sản vô hình]]
 [[Báo cáo tài chính cá nhân gồm bản thu chi cá nhân và bản cân đối tài sản]]

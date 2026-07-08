@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:29
 ---
 
 | Loại hình                            | Nhân viên                        | Đại lý                              | Cộng tác viên cho công ty        | Cộng tác viên cho nhân viên/đại lý |

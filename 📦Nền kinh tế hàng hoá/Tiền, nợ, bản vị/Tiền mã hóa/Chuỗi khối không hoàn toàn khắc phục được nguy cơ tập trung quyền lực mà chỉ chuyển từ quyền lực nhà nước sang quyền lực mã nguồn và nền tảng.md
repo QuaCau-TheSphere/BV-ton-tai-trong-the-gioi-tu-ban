@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-01-29T13:41
+updated: 2026-07-07T13:00
+created: 2025-08-29T08:30
 ---
 Khái niệm:: [[Tiền mã hóa]]
 [[Các chuỗi khối lớn ngày nay được vận hành bởi số ít mining-pool hoặc validator có quy mô công nghiệp]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-05T23:50
+updated: 2026-07-07T12:59
+created: 2026-06-03T22:11
 ---
 Khái niệm:: [[Luật Việt Nam]]
 [[Nền kinh tế thế giới và khung pháp luật thương mại, tài chính toàn cầu chịu nhiều ảnh hưởng của thông luật]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
+created: 2025-11-03T20:37
 ---
 Khái niệm:: 
 use `aregister` for reviewing and reconciling real-world asset/liability accounts - use `register` for reviewing detailed revenues/expenses.

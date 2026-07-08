@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T00:49
-updated: 2026-06-07T14:42
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Tài chính vi mô]]
 

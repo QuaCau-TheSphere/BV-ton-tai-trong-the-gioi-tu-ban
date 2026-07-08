@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-07T12:39
+updated: 2026-07-07T13:00
+created: 2026-01-10T12:19
 ---
 Khái niệm:: 
 [[OCB]], [[VPBank]], [[TPBank]]

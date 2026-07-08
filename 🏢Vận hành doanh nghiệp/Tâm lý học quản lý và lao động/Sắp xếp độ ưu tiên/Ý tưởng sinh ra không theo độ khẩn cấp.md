@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-02T14:48
-updated: 2026-06-21T20:38
+updated: 2026-07-06T21:09
 ---
 Khái niệm:: 
 Lý do:: [[Khoảnh khắc loé sáng ý tưởng thường đến vào những lúc ta không tập trung chú ý]]

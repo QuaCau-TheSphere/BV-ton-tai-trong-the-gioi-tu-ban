@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-13T16:35
-updated: 2026-04-15T21:01
+updated: 2026-07-07T13:00
 ---
 Đây là những điều nhân viên FE sẽ nói khi gặp chất vấn:
 Một cách nào đó nhân viên cũng tin như vậy
@@ -31,7 +31,7 @@ Thực tế, hỗ trợ khách hàng ở đây là [[Phương pháp xử lý PTP
 > - c. Con cô vay thì cô là mẹ thì cô phải có trách nhiệm và nghĩa vụ trả nợ cho con cô
 > - d. Phân tích hệ lụy rủi ro có thể ảnh hưởng đến khách hàng và những người thân của khách hàng 
 
-Tuy nhiên vẫn có trường hợp nhân viên làm sai nhưng công ty không xử lý mà chỉ nhắc nhở
+Tuy nhiên vẫn có trường hợp nhân viên làm sai nhưng công ty không xử lý mà chỉ nhắc nhở.
 
 ## Định hướng 
-Từ lặp đi lặp lại là `Anh/chị có đồng ý... `. Sau 3 lần thì những lần sau sẽ lấy được sự đồng ý của khách hàng 
+Từ lặp đi lặp lại là `Anh/chị có đồng ý... `. Sau 3 lần thì những lần sau sẽ lấy được sự đồng ý của khách hàng.

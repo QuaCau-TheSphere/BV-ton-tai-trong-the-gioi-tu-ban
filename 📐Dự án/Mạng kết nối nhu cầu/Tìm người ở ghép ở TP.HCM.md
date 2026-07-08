@@ -1,10 +1,10 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-14T21:53
+updated: 2026-07-07T12:59
 aliases:
   - Xây dựng cộng đồng có chủ đích ở TP.HCM
   - hợp tác xã nhà ở
+created: 2025-10-26T16:55
 ---
 Việc ở ghép ngoài việc tiết kiệm chi phí còn mang lại nhiều lợi ích khác về mặt sinh hoạt. Bạn có thể nhờ họ giúp đỡ những việc cần thiết như nấu ăn, dọn dẹp,..., nhất là khi bạn ốm đau, bệnh tật.
 

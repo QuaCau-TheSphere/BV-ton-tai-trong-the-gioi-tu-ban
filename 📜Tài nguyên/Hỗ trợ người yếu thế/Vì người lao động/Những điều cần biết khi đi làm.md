@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-17T21:57
+updated: 2026-07-07T12:59
+created: 2026-03-17T21:54
 ---
 Khái niệm:: 
 ![1️⃣](https://static.xx.fbcdn.net/images/emoji.php/v9/t59/2/16/31_20e3.png) Thời gian thử việc tối đa

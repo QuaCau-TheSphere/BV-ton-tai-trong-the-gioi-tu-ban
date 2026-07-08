@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-27T20:18
-updated: 2026-06-12T20:58
+updated: 2026-07-07T13:00
 aliases:
   - Sàn cho vay ngang hàng
 ---

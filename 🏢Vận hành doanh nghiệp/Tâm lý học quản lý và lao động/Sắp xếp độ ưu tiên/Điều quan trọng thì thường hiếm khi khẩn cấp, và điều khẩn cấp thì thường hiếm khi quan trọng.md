@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-13T00:06
-updated: 2026-06-21T20:38
+updated: 2026-07-06T21:09
 ---
 Câu này thường được gán cho Dwight Eisenhower, tổng thống đời 34 của Mỹ. Nhưng chính xác thì ổng không có nói câu có phiên bản có chữ "hiếm khi" này.
 Nguồn:: [What Is Important Is Seldom Urgent and What Is Urgent Is Seldom Important – Quote Investigator®](https://quoteinvestigator.com/2014/05/09/urgent/ "What Is Important Is Seldom Urgent and What Is Urgent Is Seldom Important – Quote Investigator®")

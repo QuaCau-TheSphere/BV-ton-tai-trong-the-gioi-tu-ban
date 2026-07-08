@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T15:43
+
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: [[Luật các tổ chức tín dụng]]
 ### Điều 7. Quyền tự chủ trong hoạt động kinh doanh

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-22T14:37
+updated: 2026-07-07T12:59
+created: 2026-06-22T13:04
 ---
 Khái niệm:: [[Sở hữu]], [[Luật so sánh]]
 Thứ hai, ngay trong định nghĩa về quyền sở hữu, các nhà làm luật Việt Nam công nhận chiếm hữu là một quyền nằm trong quyền sở hữu. Nhưng luật các nước trên thế giới lại không công nhận điều này. Quyền chiếm hữu là một quyền khác được quy định riêng và không nằm trong quyền sở hữu. Việc này dẫn đến hệ quả là quyền chiếm hữu không được pháp luật bảo vệ khi chưa thiết lập mối quan hệ với quyền sở hữu. Được coi là một phần của quyền sở hữu, quyền chiếm hữu không được bảo vệ theo một chế độ riêng mà được nhập chung với quyền sở hữu, thành đối tượng chung của một chế độ bảo vệ duy nhất, gọi là bảo vệ quyền sở hữu, được quy định tại Chương XV Bộ luật Dân sự năm 2015. Chế độ này được đặc trưng bởi hai quyền cơ bản - Quyền đòi lại tài sản (Điều 256) và quyền yêu cầu ngăn chặn hoặc chấm dứt hành vi cản trở trái pháp luật đối với việc thực hiện quyền sở hữu, quyền chiếm hữu hợp pháp (Điều 259)(16). Điều này dẫn tới khi quyền chiếm hữu của mình bị xâm phạm thì có hai trường hợp sẽ xảy ra.

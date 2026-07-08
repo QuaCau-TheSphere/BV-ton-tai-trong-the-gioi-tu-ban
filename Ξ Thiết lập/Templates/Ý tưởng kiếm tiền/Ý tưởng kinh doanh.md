@@ -1,7 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-05T16:57
+updated: 2026-07-07T13:00
 ---
 ## Thị trường & đối thủ cạnh tranh
 ## Đối tượng phục vụ 

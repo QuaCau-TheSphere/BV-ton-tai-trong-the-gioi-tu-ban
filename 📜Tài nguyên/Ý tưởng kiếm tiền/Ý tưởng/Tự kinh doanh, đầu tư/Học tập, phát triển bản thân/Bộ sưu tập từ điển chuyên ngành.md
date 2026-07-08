@@ -1,7 +1,7 @@
 ---
 share: true
+updated: 2026-07-07T13:00
 created: 2025-03-27T17:13
-updated: 2026-06-05T19:15
 ---
 Bài chi tiết: [Bộ sưu tập từ điển chuyên ngành – Quả Cầu](https://xn--qucu-hr5aza.cc/tu-dien-chuyen-nganh?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Dự+án)&utm_medium=Vault&utm_campaign=Bài+nổi+bật%2CTài+nguyên+khác%2CLàm+việc+hiệu+quả%2Cdịch%2Csách&utm_content=📐+Dự+án%2FGiúp+nhau%2FTạo+sinh+kế%2C+thu+nhập%2C+dòng+tiền.md&utm_term=)
 

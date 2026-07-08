@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-04-25T23:10
+updated: 2026-07-06T21:10
 ---
 Tên thương hiệu:: SeABank
 Phân loại:: [[Thương mại Cổ phần]]

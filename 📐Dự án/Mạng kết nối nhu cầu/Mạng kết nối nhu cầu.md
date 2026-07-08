@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-29T15:55
-updated: 2026-02-26T12:58
+updated: 2026-07-07T12:59
 ---
 Để hiểu nhu cầu có thể đọc các nghiên cứu nhân học
 

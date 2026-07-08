@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T16:04
+updated: 2026-07-07T12:59
+created: 2026-06-18T16:27
 ---
 Khái niệm:: 
 [[Sự kiện pháp lý gắn với sự phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật cụ thể  khi nó xảy ra. Nó có thể gắn liền với nhiều quan hệ pháp luật khác nhau]]

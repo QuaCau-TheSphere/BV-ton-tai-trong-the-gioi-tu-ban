@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-16T14:02
+
+updated: 2026-07-06T21:09
 ---
 - Tôi biết đến người này như thế nào? 
 - Tôi có thể trả nợ giúp người này khi họ mất khả năng trả không? Nếu có thì là bao nhiêu và lúc nào? 

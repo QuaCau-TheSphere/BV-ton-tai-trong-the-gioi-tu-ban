@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T13:02
+updated: 2026-07-07T12:58
+created: 2026-06-03T15:04
 ---
 Khái niệm:: 
 Hệ quả là những quan hệ có cùng bản chất pháp lý có thể bị áp dụng các chế độ trách nhiệm khác nhau, làm suy giảm tính thống nhất trong áp dụng pháp luật, ảnh hưởng đến khả năng dự báo của hệ thống pháp luật và làm gia tăng rủi ro pháp lý đối với các chủ thể trong hoạt động kinh doanh.

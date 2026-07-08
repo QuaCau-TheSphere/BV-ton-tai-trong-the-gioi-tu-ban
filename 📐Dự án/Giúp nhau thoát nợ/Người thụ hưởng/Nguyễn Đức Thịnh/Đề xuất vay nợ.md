@@ -1,6 +1,6 @@
 ---
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-07T12:59
+created: 2026-01-30T09:38
 ---
 # Đề xuất vay nợ
 Bọn mình cần huy động tiền khoản 100 - 150 tr để giúp một người bạn nhẹ gánh hơn trong việc trả nợ. 

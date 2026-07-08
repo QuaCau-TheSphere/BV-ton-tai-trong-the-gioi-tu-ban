@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T15:32
+updated: 2026-07-07T13:00
+created: 2026-06-07T15:26
 ---
 Khái niệm:: [[Luật Việt Nam]], [[Luật các tổ chức tín dụng]]
 Điều 6 Luật Các tổ chức tín dụng

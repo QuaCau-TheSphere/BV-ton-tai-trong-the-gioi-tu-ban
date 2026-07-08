@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
+created: 2025-08-27T12:19
 ---
 Không thiếu những câu chuyện trốn nợ. Hỏi thì ai cũng can, nhưng cảm giác là mọi người chỉ bị [thiên kiến tiêu cực (negativity bias)](https://trangtamly.blog/2024/10/30/thien-kien-tieu-cuc-the-negativity-bias/) thôi. Giống như việc ra đường luôn có xác suất bị tai nạn, nhưng mình chẳng thấy sợ gì cả vậy.
 

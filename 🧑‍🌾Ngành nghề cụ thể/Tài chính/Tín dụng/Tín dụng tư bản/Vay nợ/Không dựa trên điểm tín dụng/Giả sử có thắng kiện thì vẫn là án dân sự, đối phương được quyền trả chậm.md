@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T16:06
+
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: [[Luật Việt Nam]], [[Luật dân sự]]
-
+[[Cơ chế giải quyết tranh chấp dân sự có thời gian giải quyết kéo dài và hiệu quả thi hành án chưa cao như ở hình sự]]
 Nguồn:: 

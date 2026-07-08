@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-03T15:10
+updated: 2026-07-07T13:00
+created: 2025-11-27T12:24
 ---
-Khái niệm:: [[Đáo]]
+Khái niệm:: [[Đáo, rút thẻ tín dụng]]
 Dù [[Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền|Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền]]
 
 Một bảng quảng cáo ở một quán cà phê:

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-08T14:51
+updated: 2026-07-07T12:59
+created: 2025-07-27T11:39
 ---
 Khái niệm:: 
 [New Digital Safety Portal for Vietnam - The SecDev Foundation](https://secdev-foundation.org/new-digital-safety-portal-for-vietnam/)

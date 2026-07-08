@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T10:27
+updated: 2026-07-06T21:39
+created: 2025-07-07T00:19
 ---
 Khái niệm:: [[Thao túng]], [[Khai thác điểm yếu con người]]
 - Dùng đường vào thông thoáng, nhiều làn xe để ta tưởng là sẽ nhanh. Nhưng khi quẹo sâu vào trong mới thấy còn nhiều xe đang chờ. Các làn xe lại nhập vào một để chỉ phải dùng một người, và để người đến lượt gọi bị áp lực phải gọi món nhanh để còn nhường chỗ cho người khác. [[Việc phải lựa chọn trong áp lực khiến ta dễ nuông chiều bản thân hơn]]

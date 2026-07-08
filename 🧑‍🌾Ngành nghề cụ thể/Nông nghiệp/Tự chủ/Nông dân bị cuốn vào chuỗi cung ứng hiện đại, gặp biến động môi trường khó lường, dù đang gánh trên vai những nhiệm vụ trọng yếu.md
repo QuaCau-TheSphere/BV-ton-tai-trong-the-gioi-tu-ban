@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T14:51
+updated: 2026-07-07T13:00
+created: 2025-11-25T05:29
 ---
 Khái niệm:: 
 Nhiều nhóm yếu thế vẫn gặp rào cản lớn trong tiếp cận nguồn vốn nhanh, linh hoạt và phù hợp với mô hình sản xuất đặc thù. Họ chịu rủi ro cao khi bị cuốn vào chuỗi cung ứng hiện đại cùng những biến động môi trường khó lường, dù chính họ đang gánh trên vai những nhiệm vụ trọng yếu như bảo đảm an ninh lương thực, giữ đất – giữ rừng và quản lý nguồn nước. Những yếu tố liên quan đến hạnh phúc chung của cộng đồng – từ sinh kế cho người nghèo đô thị đến người khuyết tật – thực chất chỉ có thể được hiểu và giải quyết bền vững bởi chính cộng đồng, dựa vào sự chủ động, khả năng thích ứng và động lực tự thân.

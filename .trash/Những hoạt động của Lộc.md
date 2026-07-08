@@ -1,6 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
+
 updated: 2025-09-09T19:32
 ---
 Theo cách hiểu thông thường, mình chưa phải là một người sáng lập tổ chức nào và cũng chưa \

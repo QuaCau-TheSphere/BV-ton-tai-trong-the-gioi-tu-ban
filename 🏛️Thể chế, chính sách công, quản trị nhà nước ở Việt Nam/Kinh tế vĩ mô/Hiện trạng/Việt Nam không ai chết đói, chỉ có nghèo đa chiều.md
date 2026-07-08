@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-07T00:30
-updated: 2026-03-28T16:31
+updated: 2026-07-06T21:09
 aliases:
   - Tiêu chí mức độ thiếu hụt dịch vụ xã hội cơ bản
   - Tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-03T15:02
+updated: 2026-07-07T13:00
+created: 2025-12-25T16:24
 ---
 - [ ] Bạn muốn giới thiệu thông điệp gì? Cho những đối tượng nào?
 - [ ] Bạn muốn thông điệp đưa ra ngắn gọn (và chấp nhận rủi ro làm họ không thấy đáng tin), hay là muốn đưa ra bằng chứng để họ cũng tự thấy điều đó?

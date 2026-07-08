@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-07T12:59
 aliases:
   - nhờ Nhật đứng tên
+created: 2025-08-21T09:20
 ---
 ## Các khoản tiền cho mượn
 - Thịnh: 5tr + nửa chỉ vàng

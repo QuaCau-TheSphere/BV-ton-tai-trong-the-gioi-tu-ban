@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-03T10:49
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:29
 ---
 Khái niệm:: [[Bán hàng]]
 Những người rành thì cần tự xây dựng riêng, và xem như là lợi thế cạnh tranh của họ

@@ -1,6 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
+
 updated: 2026-06-13T15:46
 ---
 ✅ HỖ TRỢ VÍ TRẢ SAU

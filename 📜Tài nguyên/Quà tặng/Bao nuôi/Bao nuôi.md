@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T20:22
-updated: 2026-03-25T13:27
+updated: 2026-07-07T13:00
 ---
 Thường thì việc bao nuôi sẽ được cung cấp bởi những người cần tìm người [[Làm nhân sự ảo]]. Một số công việc biết được:
 ```dataview

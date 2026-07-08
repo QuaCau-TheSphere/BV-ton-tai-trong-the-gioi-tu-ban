@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-05-18T23:12
+
+updated: 2026-07-06T21:09
 ---
 Khái niệm:: 
 - "Security is only for the financial/medical/insurance sectors"

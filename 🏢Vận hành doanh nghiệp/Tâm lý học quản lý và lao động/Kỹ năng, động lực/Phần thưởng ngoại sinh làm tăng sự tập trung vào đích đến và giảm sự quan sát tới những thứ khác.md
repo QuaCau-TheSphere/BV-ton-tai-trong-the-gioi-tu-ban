@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-19T15:25
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
 ---
 Nguồn:: ![The puzzle of motivation | Dan Pink - YouTube](https://youtu.be/rrkrvAUbU9Y?t=353)
 [[Tiền đơn giản hoá quá trình đáp ứng nhu cầu]]

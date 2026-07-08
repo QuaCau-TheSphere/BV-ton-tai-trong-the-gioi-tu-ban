@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-18T22:04
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 Em nghĩ mọi người đều mong muốn em trả lời thành thật. Vậy trước tiên em sẽ thành thật để mọi người thấy em có thiện chí. Hãy xem là em muốn có được sự chú ý của mọi người, để em được một buổi ngồi nói chuyện với mọi người ngày hôm nay.
 

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-22T14:25
+updated: 2026-07-07T12:59
+created: 2026-06-22T13:00
 ---
 Khái niệm:: [[Sở hữu]]
 [[Pháp luật các nước không coi quyền chiếm hữu là một phần của quyền sở hữu như trong luật Việt Nam]]

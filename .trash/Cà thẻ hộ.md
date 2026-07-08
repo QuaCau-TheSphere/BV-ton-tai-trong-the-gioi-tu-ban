@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Cầm thẻ tín dụng đến cà thẻ một lần. Số tiền kiếm được: 80 - 100k"
-created: 2025-03-27T17:13
+
 updated: 2025-12-06T17:45
 ---
 Mô tả công việc:: Cầm thẻ tín dụng đến cà thẻ một lần

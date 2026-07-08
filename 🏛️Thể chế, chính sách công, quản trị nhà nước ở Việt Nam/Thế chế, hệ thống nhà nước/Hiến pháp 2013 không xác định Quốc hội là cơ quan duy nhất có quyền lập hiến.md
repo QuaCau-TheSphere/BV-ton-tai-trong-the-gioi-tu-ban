@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-17T22:06
+updated: 2026-07-07T12:59
+created: 2026-06-17T22:05
 ---
 Khái niệm:: 
 [[Quốc hội không họp thường xuyên bằng Ủy ban Thường vụ Quốc hội]]

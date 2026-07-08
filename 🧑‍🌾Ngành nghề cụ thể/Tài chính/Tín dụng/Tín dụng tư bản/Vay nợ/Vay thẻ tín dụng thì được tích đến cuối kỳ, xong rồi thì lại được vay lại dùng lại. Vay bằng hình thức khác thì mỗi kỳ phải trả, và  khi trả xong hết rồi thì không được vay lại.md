@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-06T00:00
+updated: 2026-07-07T13:00
+created: 2025-12-09T17:11
 ---
 Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Thẻ tín dụng]]
 

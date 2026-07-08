@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T17:12
+updated: 2026-07-07T13:00
 aliases:
   - Cách làm việc của nhân viên thu hồi nợ
+created: 2026-06-07T14:17
 ---
 ```dataview
 LIST

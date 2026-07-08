@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-27T17:15
+updated: 2026-07-06T21:10
 ---
 Example: e cần đáo 100tr thẻ vcb
 Rule của 1 số máy pos: <30tr/ giao dịch & <100tr/ ngày
@@ -53,4 +53,6 @@ credit = mình nợ ngân hàng
 [[Đáo thẻ một năm cũng không khác gì trả lãi ngân hàng]]
 [Tràn lan dịch vụ rút tiền từ thẻ tín dụng: Rủi ro khôn lường](https://kinhtedothi.vn/tran-lan-dich-vu-rut-tien-tu-the-tin-dung-rui-ro-khon-luong.html)
 [[Công ty ra chính sách khó cho nhân viên không đơn thuần là vì tham tiền, mà còn là vì nhà đầu tư cần tiền được lưu thông]]
-[[Tiền được thiết kế sao cho cảm giác khi cầm nó lên khác biệt tới mức các kỹ thuật in khác không thể tái tạo lại được]]
+Tuy vậy, [[Momo làm nghiêm túc trong việc bắt đáo rút]]
+
+[[Nếu bị phát hiện đáo rút thì ngân hàng sẽ phạt]]

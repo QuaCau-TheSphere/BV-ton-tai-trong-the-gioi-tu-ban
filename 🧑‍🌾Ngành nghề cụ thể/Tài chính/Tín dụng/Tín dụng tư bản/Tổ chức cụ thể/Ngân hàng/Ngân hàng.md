@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T17:12
+updated: 2026-07-07T13:00
+created: 2025-09-03T21:04
 ---
 [DIỄN ĐÀN NGÂN HÀNG](https://www.facebook.com/groups/gocnhinnganhang/)
 [Banking Law in Vietnam](https://www.facebook.com/vnbankinglaw)

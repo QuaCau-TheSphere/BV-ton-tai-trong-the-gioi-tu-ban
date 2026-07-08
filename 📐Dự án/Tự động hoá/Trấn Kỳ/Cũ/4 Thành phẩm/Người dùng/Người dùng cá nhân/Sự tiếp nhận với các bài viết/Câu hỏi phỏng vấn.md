@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 # Tiếp nhận khi đọc Giới thiệu Trấn Kỳ
 ## Bạn đã biết tới bài này thế nào?

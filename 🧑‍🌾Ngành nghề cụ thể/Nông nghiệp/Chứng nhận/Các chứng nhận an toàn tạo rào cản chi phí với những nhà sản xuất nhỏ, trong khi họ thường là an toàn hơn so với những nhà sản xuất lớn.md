@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T14:49
+updated: 2026-07-07T13:00
+created: 2025-09-04T11:51
 ---
 # Chứng Chỉ Hữu Cơ Đang Giết Ước Mơ Nông Hộ Nhỏ
 Dưới ánh nắng chói chang của vùng đất Kiên Giang, chú Tư Việt ngồi bên thửa ruộng, kể với chúng tôi một câu chuyện đầy trớ trêu. "Có người tới xúi tui mua chứng chỉ hữu cơ, nói là sẽ bán được giá cao," chú Tư nhìn ra cánh đồng, giọng nói nhẹ nhàng nhưng chứa đựng sự mệt mỏi. "Nhưng công nợ đầy mà. Tiền đâu giấy tờ thì không nói?"

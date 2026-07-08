@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-08T13:19
+updated: 2026-07-07T12:59
+created: 2025-05-08T20:31
 ---
 Khái niệm:: 
 [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

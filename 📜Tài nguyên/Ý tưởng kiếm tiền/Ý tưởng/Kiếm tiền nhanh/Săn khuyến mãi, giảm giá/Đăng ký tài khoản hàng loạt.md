@@ -1,11 +1,11 @@
 ---
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
-created: 2025-03-27T17:13
-updated: 2026-06-14T21:29
+updated: 2026-07-07T13:00
 aliases:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
+created: 2025-08-26T17:39
 ---
 Mô tả công việc:: Đăng ký 30 - 100 tài khoản/ngày
 Số tiền kiếm được:: 50k - 300k/ngày

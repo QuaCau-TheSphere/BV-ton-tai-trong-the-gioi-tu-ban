@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-08T13:48
+updated: 2026-07-06T21:39
+created: 2025-06-14T17:00
 ---
 ## FE
 nếu sđt 1 mở tài khoản có liên kết với cccd, thì nếu ko dùng nữa, số đã bị thu hồi hoàn toàn ko tạo đc sim mới thì sẽ phải đợi bên IT đổi, mà vậy thì sẽ rất lâu

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T14:21
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
 ---
 ## [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
 ### SNPO

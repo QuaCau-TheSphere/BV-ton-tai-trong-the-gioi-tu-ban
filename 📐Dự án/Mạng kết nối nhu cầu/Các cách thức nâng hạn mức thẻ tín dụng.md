@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-26T00:05
-updated: 2026-06-05T16:59
+updated: 2026-07-07T12:59
 ---
 Các cách để chứng minh thu nhập của mình:
 - Mua BHXH: trở thành nhân viên của một công ty và được làm bảng lương. Đây cũng là một cách để công ty trốn thuế

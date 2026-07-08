@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-18T15:33
+updated: 2026-07-07T12:59
+created: 2026-06-18T15:32
 ---
 Khái niệm:: 
 [[Quốc hội ban hành luật, nghị quyết. Chính phủ ban hành nghị định. Thủ tướng ban hành quyết định. Bộ ban hành thông tư]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-21T16:42
+updated: 2026-07-07T12:59
 ---
 [[Điều nhà đầu tư quan tâm và điều muốn nhà đầu tư quan tâm]]
 

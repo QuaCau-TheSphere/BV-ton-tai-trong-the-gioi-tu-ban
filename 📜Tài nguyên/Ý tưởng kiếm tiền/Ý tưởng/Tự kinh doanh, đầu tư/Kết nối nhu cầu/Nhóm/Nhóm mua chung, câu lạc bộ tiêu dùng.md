@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-08T17:47
+updated: 2026-07-07T13:00
+created: 2026-06-05T18:40
 ---
 ## Thị trường & đối thủ cạnh tranh
 [[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng]]

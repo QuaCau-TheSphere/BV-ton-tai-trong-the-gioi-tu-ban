@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-14T18:13
+updated: 2026-07-07T13:00
 ---
 Trong khi đó, [[FSF muốn bảo vệ con người khỏi bị khai thác, thao túng]]. Có lẽ sự chấp nhận thoả hiệp này của OSI đến từ việc họ chấp nhận rằng hệ thống kinh tế hiện tại không đủ để tạo ra phần mềm tự do đủ chất lượng, và thấy rằng nhiều khi con người cần chất lượng hơn được tự do:
 - [[Người viết code thường làm một mình, không được hỗ trợ, không được trả tiền, chỉ làm vì sự đam mê. Họ cần xây dựng rất nhiều mối quan hệ tin tưởng được nhau]]

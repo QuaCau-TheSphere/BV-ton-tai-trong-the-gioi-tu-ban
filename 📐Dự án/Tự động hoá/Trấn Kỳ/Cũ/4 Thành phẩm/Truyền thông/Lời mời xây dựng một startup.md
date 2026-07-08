@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 # Lời mời xây dựng một startup để làm những việc một người bạn sẽ làm
 Chào mọi người,

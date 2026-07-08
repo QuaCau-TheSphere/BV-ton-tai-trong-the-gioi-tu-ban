@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T16:43
+updated: 2026-07-07T13:00
 aliases:
   - làng sinh thái ở Việt Nam
+created: 2025-12-25T16:42
 ---
 ## Các tổ chức có liên quan
 ### Xanh Shop

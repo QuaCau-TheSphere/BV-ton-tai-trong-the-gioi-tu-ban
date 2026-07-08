@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-20T14:11
+updated: 2026-07-07T13:00
+created: 2026-02-01T16:04
 ---
 Khái niệm:: 
 Chẳng là chung cư nhà em ở Hà Nội, có đặc thủ là 1 nửa số căn hộ của tòa nhà thuộc chủ sở hữu của chủ đầu tư, một nửa số căn hộ là thuộc quyền sở hữu của các cư dân. Khi bầu ra BQT thì người của chủ đầu tư muốn cài người của mình vào để dễ bề điều khiển và người này cũng là chủ sở hữu căn hộ của tòa nhà. Khi bỏ phiếu thì theo luật mới là số phiếu được tính trên diện tích của chủ sở hữu, nghĩa là có nhiều diện tích sở hữu của tòa nhà thì sẽ có nhiều phiếu. Vì sở hữu gần một nửa tổng diện tích của cả tòa nhà, nên người của BQT đã dễ dàng giành được vị trí trưởng BQT mặc dù cư dân trong tòa nhà kịch liệt phản đối. Nhưng chiếu theo luật thì vẫn hợp pháp.

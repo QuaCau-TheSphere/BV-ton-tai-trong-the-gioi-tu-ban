@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-01-29T12:44
+updated: 2026-07-07T12:59
+created: 2025-10-06T15:13
 ---
 [[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]]
 

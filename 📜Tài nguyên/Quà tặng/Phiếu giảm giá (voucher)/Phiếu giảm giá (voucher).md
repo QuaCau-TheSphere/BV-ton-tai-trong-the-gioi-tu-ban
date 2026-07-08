@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-21T10:50
-updated: 2026-04-14T14:38
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Giảm giá]]
 

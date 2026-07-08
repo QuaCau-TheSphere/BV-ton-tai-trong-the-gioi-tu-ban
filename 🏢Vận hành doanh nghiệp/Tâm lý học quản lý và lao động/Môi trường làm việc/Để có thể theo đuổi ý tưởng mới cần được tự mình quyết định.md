@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2024-11-17T00:57
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
 ---
 Vấn đề là [[Nếu một người ở cấp quản lý được tự mình quyết định thì có thể dẫn đến độc tài, hoặc lạm quyền]]

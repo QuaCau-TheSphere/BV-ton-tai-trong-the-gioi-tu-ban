@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T10:36
+updated: 2026-07-07T13:00
+created: 2025-10-16T11:31
 ---
 Khái niệm:: 
 Các khoản đầu tư vào trung tâm dữ liệu và các công nghệ xử lý thông tin tiên tiến đóng góp tới 92% tăng trưởng GDP của Mỹ trong nửa đầu năm 2025. Nếu loại bỏ khoản đầu tư này, tăng trưởng sẽ rớt chỉ còn 0.1%

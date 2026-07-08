@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T14:45
+
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: 
 Điều đó khiến cho [[Nông thôn chịu ô nhiễm để thành phố có điện, nhưng khi bị quá tải điện thì lại bị cắt điện đầu tiên]]

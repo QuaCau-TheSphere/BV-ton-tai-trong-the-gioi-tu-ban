@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:29
 ---
 Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]]
 
-Gọi A là người nộp đơn xin việc vào một công ty và đậu phỏng vấn, và B là người không làm điều đó. Điều này khiến cho A là nhân sự của công ty còn B thì không.
+Gọi A là người nộp đơn xin việc vào một công ty và được nhận vào làm, và B là người không làm điều đó. Điều này khiến cho A là nhân sự của công ty còn B thì không.
 
 ## Nhân sự có cộng tác viên riêng ≈ nhân sự ảo
 Đầu tiên ta xét hai trường hợp sau:

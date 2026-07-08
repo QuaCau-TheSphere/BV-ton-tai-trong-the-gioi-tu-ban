@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-02T02:12
+updated: 2026-07-07T13:00
+created: 2026-03-30T14:59
 ---
 Sau khi đặt xe FUTA đi tỉnh quá nhiều. Tôi phát hiện ra điều cực bựa
 

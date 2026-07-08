@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-10-22T15:53
 ---
 Khái niệm:: 
 [Kinh tế học môi trường – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Kinh_tế_học_môi_trường)

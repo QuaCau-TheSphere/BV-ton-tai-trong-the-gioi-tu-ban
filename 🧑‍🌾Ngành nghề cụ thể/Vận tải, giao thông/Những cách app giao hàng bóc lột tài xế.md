@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T14:56
+updated: 2026-07-07T13:00
+created: 2026-01-03T10:48
 ---
 Khái niệm:: 
 I’m posting this from a library Wi-Fi on a burner laptop because I am technically under a massive NDA. I don’t care anymore. I put in my two weeks yesterday and honestly, I hope they sue me. I’ve been sitting on this for about eight months, just watching the code getting pushed to production, and I can’t sleep at night knowing I helped build this machine.

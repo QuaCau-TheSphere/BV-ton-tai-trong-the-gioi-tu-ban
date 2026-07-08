@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-22T16:34
+updated: 2026-07-07T12:59
+created: 2026-06-22T16:18
 ---
 Khái niệm:: [[Thừa kế]]
 - Nếu sinh ra được một thời gian rồi chết thì có được thừa kế ko? Trông có vẻ như không quan trọng lắm, nhưng vẫn có những người được hưởng quyền thừa kế từ đứa trẻ đó

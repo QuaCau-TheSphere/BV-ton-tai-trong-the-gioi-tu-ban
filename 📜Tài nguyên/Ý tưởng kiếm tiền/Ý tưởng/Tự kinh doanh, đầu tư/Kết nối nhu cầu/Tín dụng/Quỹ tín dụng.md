@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-12T20:59
+updated: 2026-07-07T13:00
+created: 2026-06-05T16:38
 ---
 ## Thị trường & đối thủ cạnh tranh
 [[Vay tín chấp|Các dịch vụ vay tín chấp]] khác.

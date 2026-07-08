@@ -1,10 +1,11 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T17:22
+updated: 2026-07-07T13:00
+created: 2025-08-21T09:20
 ---
 Khái niệm:: [[Dòng tiền]], [[Nghèo, người nghèo]]
 Nên những đứa nợ vẫn cố gắng nợ thêm. Ko phải vì bọn nó ko biết là nợ thêm là tệ, mà là vì bọn nó vẫn còn hy vọng có thể dùng dòng tiền để thoát ra
+[[Điểm yếu của dòng tiền là sẽ khốn đốn khi tiền bị ngâm]]
 
 [[Chủ nghĩa tư bản không chỉ phụ thuộc vào việc tạo ra tình trạng bất an trên diện rộng mà còn tái tạo tình trạng bất an này trong chính huyết mạch của nó]]
 

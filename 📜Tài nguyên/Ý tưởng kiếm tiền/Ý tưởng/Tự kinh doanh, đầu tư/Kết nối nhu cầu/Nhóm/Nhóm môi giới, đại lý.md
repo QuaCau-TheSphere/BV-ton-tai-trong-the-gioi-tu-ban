@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-14T22:11
+updated: 2026-07-07T13:00
+created: 2026-06-14T20:34
 ---
 Có thể đi kèm với [[Hợp tác xã nhân viên]], [[Nhóm hỗ trợ người tự kinh doanh, đầu tư]], [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Nhóm/Nhóm mua chung, câu lạc bộ tiêu dùng|Nhóm mua chung, câu lạc bộ tiêu dùng]]
 

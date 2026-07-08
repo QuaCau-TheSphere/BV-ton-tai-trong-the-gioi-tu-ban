@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-05T14:38
+updated: 2026-07-07T13:00
 aliases:
   - Học bổng cho sinh viên nghèo
+created: 2025-05-09T22:05
 ---
 [Scholarship for Vietnamese students](https://www.facebook.com/ScholarshipforVietnameseStudents)
 [Home page - Quỹ học bổng Đồng Hành](https://donghanh.net/en/home-page-en/)

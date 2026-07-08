@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T17:22
+updated: 2026-07-07T13:00
+created: 2025-05-07T13:08
 ---
 Khái niệm:: [[Ham muốn]]
 [[Nhu cầu hoặc ham muốn mà có thêm sức mua thì sẽ tạo ra cầu]]

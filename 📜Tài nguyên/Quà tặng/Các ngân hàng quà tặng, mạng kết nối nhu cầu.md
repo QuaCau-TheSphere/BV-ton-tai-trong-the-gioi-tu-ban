@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-25T13:10
+updated: 2026-07-07T13:00
+created: 2025-08-31T17:13
 ---
 Khái niệm:: 
 [[Ngân hàng quà tặng]]

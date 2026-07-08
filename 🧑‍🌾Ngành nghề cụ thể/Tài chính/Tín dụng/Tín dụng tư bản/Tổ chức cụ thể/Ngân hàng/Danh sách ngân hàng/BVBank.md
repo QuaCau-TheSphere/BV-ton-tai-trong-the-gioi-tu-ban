@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-04-02T23:24
+updated: 2026-07-07T13:00
 ---
 Tên thương hiệu:: BVBank
 Phân loại:: [[Thương mại Cổ phần]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-23T15:26
+updated: 2026-07-07T12:34
+created: 2025-07-23T15:56
 ---
 Khái niệm:: [[Luật Việt Nam]], [[Luật lao động]]
 

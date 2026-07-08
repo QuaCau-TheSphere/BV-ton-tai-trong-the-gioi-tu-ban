@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
+created: 2025-10-01T20:47
 ---
 Em cũng bưng toàn bộ desktop lên đám mây, như vậy chả cần xách lap đi đâu cả, vẫn truy cập đc dữ liệu của mình, miễn là có internet với key nằm trong điện thoại hoặc usb.
 

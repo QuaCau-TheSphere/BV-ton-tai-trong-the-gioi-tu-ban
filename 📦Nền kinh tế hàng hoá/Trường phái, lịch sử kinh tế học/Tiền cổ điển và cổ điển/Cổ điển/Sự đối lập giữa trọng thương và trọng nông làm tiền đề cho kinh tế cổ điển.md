@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-01-27T14:03
+updated: 2026-07-07T13:00
+created: 2025-09-03T09:46
 ---
 Khái niệm:: 
 [[Trọng nông cho rằng công nghiệp và thương mại chỉ biến đổi hoặc phân phối lại giá trị đã có chứ không tạo ra giá trị mới]]

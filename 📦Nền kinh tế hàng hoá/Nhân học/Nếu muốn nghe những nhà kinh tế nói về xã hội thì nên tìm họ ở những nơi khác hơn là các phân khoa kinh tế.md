@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-08-18T15:14
 ---
 Khái niệm:: 
 Dưới mắt nhà xã hội học Luc Boltanski, sự chống đối kịch liệt của các nhà chính thống được giải thích theo một cách khác: họ chiến đấu “_để duy trì sự độc quyền trên khái niệm kinh tế học_”. Họ không chịu nổi là những nhà nghiên cứu không vận dụng mô hình hóa toán học và tra vấn tính hiệu quả của các thị trường có thể chuyển sang một ban mới mà tên gọi vẫn giữ nhãn hiệu “kinh tế”. Khi Giovanni Dosi, nhà kinh tế phi chính thống người Italia về các tổ chức, gởi đăng bài cho tạp chí _Journal of Mathematical Economics,_ ông đã nhận được một câu trả lời rõ ràng: “_Các tác nhân của ông không tối đa hóa, bài viết của ông không phải là một bài kinh tế học, hãy gởi nó cho một tạp chí xã hội học_”. Phải hiểu mệnh lệnh này đúng chính xác từng chữ: các nhà tân cổ điển muốn là các nhà nghiên cứu thuộc các trào lưu thiểu số chuyển sang các bộ môn khác và biến mất với tư cách là nhà kinh tế.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 20o25-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
 ---
 [[Muốn bán hàng tốt cần có mối quan hệ]]. Đây là các giai đoạn của việc thiết lập mối quan hệ:
 ```mermaid

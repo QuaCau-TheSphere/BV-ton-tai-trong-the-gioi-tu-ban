@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-03T12:41
+updated: 2026-07-07T12:59
 ---
 Về cơ bản, rác của bạn là tiền của Facebook, nên bạn sẽ không thể trông đợi Facebook bớt đưa rác cho bạn được. Tức là bạn chỉ có thể làm rác trở nên vô hình trong mắt bạn, chứ không thể ngăn rác tràn vô nhà bạn được. Để làm được điều này bạn phải mở rộng tính năng của trình duyệt. Tức là trình duyệt của bạn phải có cho cài tiện ích mở rộng (addon/extension/plugin) hoặc kịch bản người dùng ([userscript](https://en.wikipedia.org/wiki/Userscript "Userscript - Wikipedia")).
 
@@ -13,6 +13,7 @@ Hiện tại, mình có biết tới [F.B. Purity](https://www.fbpurity.com/) v�
 
 [ReVanced](https://revanced.app/)
 [UnTrap for YouTube](https://untrap.app/)
+[AdGuard DNS — ad-blocking DNS server](https://adguard-dns.io/en/welcome.html)
 
 [[Lượng năng lượng cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt|Nguyên lý bất đối xứng nhảm cứt: "Lượng năng lượng để cần để bác bỏ mấy thứ nhảm cứt lớn hơn nhiều lần lượng năng lượng cần để tạo ra thứ nhảm cứt"]]
 

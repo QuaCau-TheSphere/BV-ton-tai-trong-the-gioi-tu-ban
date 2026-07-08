@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-03T10:03
 ---
 Khái niệm:: 
 Một trong những người khai sanh “giả thuyết thị trường hiệu quả” là Michael Jensen (giáo sư Đại học Chicago). Giả thuyết này có ba “phiên bản”. Theo “phiên bản mạnh” (cực đoan) của nó thì tất cả những gì mà người đầu tư cần biết đều được phản ảnh trong giá của chứng khoán. Đây là một hệ quả của thuyết “kỳ vọng hợp lý” (rational expectations) khống chế kinh tế học vĩ mô trong gần 30 năm nay. Một hệ luận của thuyết “kỳ vọng hợp lý” là, về lâu về dài, mọi can thiệp của nhà nước vào thị trường đều vô hiệu, hoặc phản tác dụng, nếu không thật sự là có hại. Giá cả trên thị trường là phản ảnh “những giá trị căn bản”. Không thể nào xảy ra những cái gọi là “bong bóng tài sản”. (Song, nên để ý ngay chỗ tự mâu thuẫn của giả thuyết này: nếu mọi thông tin đều “gói trọn” trong giá, thì ai dại gì tìm (mua) thêm thông tin?). Theo phiên bản “yếu” của giả thuyết này thì không thể dựa vào giá của chứng khoán trong quá khứ để tiên đoán giá của chúng trong tương lai. Còn “phiên bản trung dung” của giả thuyết này thì cho rằng giá chứng khoán là phản ảnh những thông tin “công cộng” (public information) tức là những thông tin mà mọi người đều có được mà không tốn kém gì cả. Phiên bản này của giả thuyết không loại trừ khả năng có những thông tin tư riêng, hoặc thông tin nội bộ, mà giá chứng khoán không phản ánh (và do đó những người sở hữu những thông tin này (hoặc có khả năng đặc biệt để phân tích và khai thác những thông tin ấy) sẽ có lợi thế trên thị trường chứng khoán).

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T17:59
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 # Trước khi có người chuyên đi kiếm tiền
 | Thành quả mong muốn                  | Giả thiết                                                  | Công việc                 |

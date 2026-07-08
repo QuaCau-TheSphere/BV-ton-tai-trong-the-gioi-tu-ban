@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-02-18T13:14
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Khai thác điểm yếu con người]]
 ![](https://assets-global.website-files.com/5f0e1294f002b1bb26e1f304/6273d54e9f5270706efdddef_Wisdom-Gap-Email_Human-Vulnerabilities-Technology.png) 

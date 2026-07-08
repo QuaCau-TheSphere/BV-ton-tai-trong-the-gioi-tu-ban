@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T13:34
-updated: 2026-06-06T00:00
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Thẻ tín dụng]], [[Mua trước trả sau]], [[Thu nhập]]
 [[Mua trước trả sau, ví trả sau, thấu chi]]

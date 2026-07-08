@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
+created: 2025-10-10T21:38
 ---
 Khái niệm:: 
 [[Vì tiền nợ của khách hàng được tính vào lợi nhuận, nên có trường hợp công ty đang lời mà vẫn hết tiền hoạt động]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-07-17T15:05
 ---
 Khái niệm:: 
 [[Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn]]

@@ -1,10 +1,11 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:58
+created: 2025-09-01T11:29
 ---
+[[Tăng trưởng]]
 ```dataview
 LIST rows.file.link
 WHERE contains(khái-niệm, [[]])
-GROUP BY split(file.folder, "/")[3]
+GROUP BY split(file.folder, "/")[0]
 ```

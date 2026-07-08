@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2026-06-14T21:29
+updated: 2026-07-07T12:59
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ?
@@ -35,7 +35,7 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 ### Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
 #### Vì sao bạn không thể [[Xù nợ ngân hàng|chấp nhận mất điểm tín dụng]]?
 #### Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
-### Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?
+### Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
 ### Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
 ### Bạn đã nhận được những sự hỗ trợ nào?
 

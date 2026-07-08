@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-24T10:30
+updated: 2026-07-08T12:35
+created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
 Chào anh Lý Minh Nhật,
@@ -252,6 +252,7 @@ Xem thêm: [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đá
 
 Thấy chết mà không cứu, dù có điều kiện để cứu, thì là vi phạm pháp luật. Mình thắc mắc không biết là việc từ chối giúp đỡ sau khi biết là cứu người thì có được xem là vi phạm pháp luật hay không.
 
+Điều 23 Bộ luật Hình sự tình thế cấp thiết
 ### Thượng tôn pháp luật
 Nếu các bạn chỉ nói là tuân thủ pháp luật, thì mình không có gì để nói thêm. Nhưng vì các bạn nói là "thượng tôn pháp luật", nên mình nghĩ phải nói vài lời. 
 
@@ -264,6 +265,9 @@ Biết luật chơi
 dây dưa không phải là điều các  bạn muốn, dù nó sẽ rất có giá trị trong việc mở rộng hiểu biết
 
 Cũng giống như ở vấn đề bảo mật. Các bạn nói rằng các bạn đặt bảo mật lên hàng đầu, nhưng các bạn chẳng biết gì về bảo mật cả
+
+Mình cũng không dám nói là mình đã hiểu hết luật, nhưng với những gì mình hiểu và đã trình bày thì mình thấy kết luận như vậy là hợp lý.
+
 ### Diễn giải
 > Chúng tôi không có ý định quy kết anh
 
@@ -286,6 +290,9 @@ Hội viên đóng tiền vào hoàn toàn có quyền đòi hỏi những quy�
 Mình đã có ngôn ngữ và hành vi thế nào?
 
 
+Nếu không có nghĩa vụ đoán ý, thì mình hoàn toàn có thể kết luận là các bạn đang cố ý gây nhầm lẫn khi dùng từ cộng đồng, mở, chứ ko phải vì không biết
+
+đa hỏi nhưng không cung cấp câu trả lời 
 
 
 - Các bạn là cộng đồng loại 2, không phải loại 1. Nghĩa là sự tham gia, làm chủ của cộng đồng chỉ ở một mức độ nhất định, không phải là triệt để. Sẽ có những quyết định ảnh hưởng đến cộng đồng mà cộng đồng không được biết và thảo luận, vì được xếp loại là thông tin nội bộ
@@ -331,3 +338,8 @@ Cuối cùng, đây là những câu hỏi còn lại của mình:
 
 
 nếu lúc đó không nói rõ  thì cần được hiểu theo nghĩa rộng nhất
+
+
+Ngược lại, nếu không minh bạch thì không thể phát triển lâu dài. Doanh nghiệp kiến quốc thì phải minh bạch và tiên tiến. Khi công ty minh bạch, người dân mới coi đó là công ty vì dân tộc. Còn nếu công ty cứ khép kín, thông tin không minh bạch thì xã hội sẽ ít tôn trọng, đó chỉ là công ty của riêng họ, sự thành bại sau này dân chúng cũng không quan tâm.
+
+Tại sao các bạn thấy là các bạn được quyền hiểu theo nghĩa chặt chẽ hơn, còn người khác thì không được quyền đó? Các bạn nói về việc kết nối với tổ tiên, vậy thì sự kết nối với những người tạo ra thuật ngữ đó các bạn để đâu?

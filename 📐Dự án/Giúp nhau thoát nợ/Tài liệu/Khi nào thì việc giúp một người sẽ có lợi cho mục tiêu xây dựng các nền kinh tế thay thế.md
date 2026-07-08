@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
 title: Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
+created: 2025-08-24T18:10
 ---
 Trên quan điểm chống tư bản, phát triển cộng đồng thì thứ cần tập trung là xây dựng [[Kinh tế thay thế]]. Việc giúp đỡ một vài cá thể thì chỉ là từ thiện và làm xao nhãng mục tiêu lâu dài hơn. Nên nếu ta giúp họ thì phải có thêm những lý do mạnh hơn, hoặc ít nhất là đủ mới để có thể chấp nhận việc xao nhãng để thử nghiệm. Thế nên, câu hỏi không phải là:
 > Tại sao nên giúp người này? 

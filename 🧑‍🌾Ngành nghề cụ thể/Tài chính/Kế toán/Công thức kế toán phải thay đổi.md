@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
+
 aliases:
   - phương trình
-updated: 2026-01-03T21:47
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: [[Kế toán]]
 [[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình]]. [[Bản cân đối tài sản không nói gì về tài sản vô hình]]

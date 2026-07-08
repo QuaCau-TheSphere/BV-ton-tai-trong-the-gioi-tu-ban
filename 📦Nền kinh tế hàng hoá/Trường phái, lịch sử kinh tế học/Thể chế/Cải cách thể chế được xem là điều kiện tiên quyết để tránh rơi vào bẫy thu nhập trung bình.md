@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-03T09:46
 ---
-Khái niệm:: [[Thể chế]]
-[[Thể chế là trung tâm trong phân tích kinh tế và cần được xem xét như một biến nội sinh]]
+Khái niệm:: [[Chi phí giao dịch]]
+
 Nguồn:: [Kinh tế học thể chế mới là gì? - Linh’s Substack](https://vhlinh.substack.com/p/kinh-te-hoc-the-che-moi-la-gi)

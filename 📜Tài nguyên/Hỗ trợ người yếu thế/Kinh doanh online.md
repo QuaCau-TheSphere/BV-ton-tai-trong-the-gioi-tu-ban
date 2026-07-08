@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T15:14
+updated: 2026-07-07T13:00
 ---
 Tính chất công việc:: [[Cần có vốn]]
 Tính chất công việc:: [[Không tốn diện tích]]

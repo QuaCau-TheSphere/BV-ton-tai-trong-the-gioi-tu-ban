@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-15T20:41
+updated: 2026-07-07T12:59
+created: 2025-07-07T12:40
 ---
 Khái niệm:: 
 Đọc [Review thẻ có gì vui ? \| Facebook](https://www.facebook.com/groups/reviewthecogivui/announcements)

@@ -1,12 +1,12 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T14:44
+updated: 2026-07-07T13:00
 title: Các ý tưởng kinh doanh, đầu tư
 aliases:
   - Đầu tư kinh doanh bán hàng
   - Tạo sinh kế, thu nhập, dòng tiền
   - Tạo lợi nhuận
+created: 2026-06-05T15:13
 ---
 Ở đây tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất với Nhật, có thể dùng để [[Ý tưởng kiếm tiền từ Nhật|kiếm tiền từ Nhật]]. Bấm vào từng ý tưởng để đọc bản đề xuất của nó. Đa số chúng chưa được điền đầy đủ, do Nhật cần thêm thảo luận của mọi người để có thêm ý để bổ sung. Một số đã có bản nháp chi tiết về lý do ra đời của ý tưởng. Bạn cũng có thể điền thêm ý tưởng của mình vào đây.
 
@@ -31,7 +31,7 @@ FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đ
 ```
 
 ## Xem thêm
-- [[Thành lập doanh nghiệp]]
+- [[Thành lập tổ chức]]
 - [[Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch]]
 
 ## Nơi thảo luận

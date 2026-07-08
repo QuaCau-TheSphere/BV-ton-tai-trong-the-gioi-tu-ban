@@ -1,10 +1,10 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-03T13:50
+updated: 2026-07-07T12:59
 title: Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?
 Aliases:
   - Lý do, tại sao, vì sao
+created: 2025-09-02T21:22
 ---
 - Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
 - Khi có thêm một chân rết trong thiết chế tư bản
@@ -57,7 +57,7 @@ Nó sẽ trả tiền điện, nước cho gia đình thế nào? Ngăn mấy đ
 - Do các mối quan hệ đang có sẵn ở đây. Giống như biết fb tệ nhưng vẫn chưa bỏ đi 
 - Chi phí gia nhập cao
 
-[[Ra khỏi thành phố sống|Các lý do để không về quê]]
+[[Các lý do để không về quê hoặc không sống ở thành phố lớn|Các lý do để không về quê]]
 [[❓Các page chống tư bản nhưng thấy ít nói gì về HTX]]
 em nghĩ không cần phải độc lập với tư bản đâu ạ, vì căn bản tư bản vẫn tạo ra những cái có giá trị, chứ không phải cái gì thuộc về tư bản cũng xấu, nên không cod kiểu là nghỉ chơi với nó hoàn toàn. Ví dụ như Degrowth họ hông against chuyện phát triển kinh tế. Mà nó đề xuất các nước "giàu, phát triển" dừng tăng trưởng lại, giảm bớt tiêu dùng và sản xuất những thứ không cần thiết, và shift sang tập trung vào ưu tiên những thứ liên quan đến những gì phục vụ phúc lợi con người, ví dụ như y tế, nghệ thuật, văn hoá,... còn các nước "nghèo" thì vẫn cần phát triển kinh tế, xây dựng và phát triển cơ sở hạ tầng nền tảng - những thứ cần thiết cho hạnh phúc con người. 
 

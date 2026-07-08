@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-05T00:25
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: 
 [[Đại lý ở Bảo Việt chỉ là cộng tác viên, nhưng ở Cathay là nhân viên tập sự]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T17:10
+updated: 2026-07-07T13:00
+created: 2025-09-04T15:18
 ---
 Tên thương hiệu:: VPBank
 Phân loại:: [[Thương mại Cổ phần]]

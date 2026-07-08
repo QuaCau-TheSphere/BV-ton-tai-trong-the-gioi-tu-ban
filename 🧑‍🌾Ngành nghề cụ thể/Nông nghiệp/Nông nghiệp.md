@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T17:11
+updated: 2026-07-07T13:00
+created: 2025-11-24T17:05
 ---
 Khái niệm:: [[Nông nghiệp, nông thôn]]
 Dự kiến tại COP30, thế giới sẽ tiếp tục xoay quanh những câu hỏi cấp bách nhất của thời đại: khủng hoảng khí hậu, tương lai của các hệ sinh thái then chốt và khả năng chuyển dịch sang các mô hình phát triển bền vững có sự tham gia của cộng đồng.

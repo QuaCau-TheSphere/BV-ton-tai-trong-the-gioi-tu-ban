@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T17:10
+updated: 2026-07-07T13:00
+created: 2025-09-26T09:17
 ---
 Khái niệm:: [[🧑‍🌾Ngành nghề cụ thể/Tài chính/Chứng khoán/Chứng khoán]]
 [[Friedman xây dựng học thuyết tham là tốt]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T13:03
+updated: 2026-07-07T12:58
+created: 2026-06-18T11:33
 ---
 Khái niệm:: 
 [[Trong cộng hòa đại nghị, thủ tướng chịu trách nhiệm trước nghị viện. Trong cộng hòa tổng thống, tổng thống không chịu trách nhiệm trước nghị viện]]

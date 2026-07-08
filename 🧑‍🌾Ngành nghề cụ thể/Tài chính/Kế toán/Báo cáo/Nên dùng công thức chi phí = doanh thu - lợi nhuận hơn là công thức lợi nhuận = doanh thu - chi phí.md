@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-03T15:32
+updated: 2026-07-07T13:00
+created: 2026-02-03T15:12
 ---
 Khái niệm:: 
 Nhìn thì có vẻ công thức:

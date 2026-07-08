@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-04T15:27
+updated: 2026-07-07T12:59
+created: 2026-05-29T16:08
 ---
 Khái niệm:: 
 ## 1. Tình tiết tăng nặng, giảm nhẹ trách nhiệm hình sự là gì?

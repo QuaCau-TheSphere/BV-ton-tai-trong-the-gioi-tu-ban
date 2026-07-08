@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-03T09:46
 ---
 Khái niệm:: 
 Chủ nghĩa Trọng thương không chỉ là lý thuyết – nó định hình cả chính sách kinh tế và đối ngoại của châu Âu suốt hơn một thế kỷ. Nhờ bảo hộ và trợ cấp, nhiều ngành công nghiệp non trẻ có thời gian phát triển, củng cố năng lực sản xuất và cạnh tranh. Các quốc gia tích lũy được nguồn vốn để đầu tư vào quân sự và hạ tầng.

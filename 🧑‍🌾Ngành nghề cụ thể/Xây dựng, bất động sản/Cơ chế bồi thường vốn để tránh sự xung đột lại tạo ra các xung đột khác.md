@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-01-21T11:45
+updated: 2026-07-07T13:00
+created: 2026-01-21T11:10
 ---
 Khái niệm:: 
 Trong nhiều dự án cải tạo chung cư cũ hiện nay, trọng tâm thường xoay quanh phương án bồi thường và tái định cư. Trên lý thuyết, đây là cách tiếp cận hợp lý để giải quyết quyền lợi. Nhưng trong thực tế, quá trình này thường vấp phải sự phản đối từ chính cộng đồng cư dân - những người đã gắn bó với không gian sống ấy hàng chục năm.

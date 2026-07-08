@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-22T14:15
+updated: 2026-07-07T12:58
+created: 2026-06-22T14:04
 ---
 Khái niệm:: [[Sở hữu]]
 Trong kinh tế học thì một tên trộm đồ cũng có quyền sở hữu với món đồ.

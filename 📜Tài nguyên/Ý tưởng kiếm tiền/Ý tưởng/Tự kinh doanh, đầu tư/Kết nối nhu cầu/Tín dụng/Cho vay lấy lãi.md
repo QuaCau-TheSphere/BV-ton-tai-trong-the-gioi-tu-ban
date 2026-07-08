@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-14T21:29
+updated: 2026-07-07T13:00
 aliases:
   - Mua trái phiếu
+created: 2025-03-27T17:13
 ---
 ## Thị trường & đối thủ cạnh tranh
 [[Vay tín chấp|Các dịch vụ vay tín chấp]] khác.

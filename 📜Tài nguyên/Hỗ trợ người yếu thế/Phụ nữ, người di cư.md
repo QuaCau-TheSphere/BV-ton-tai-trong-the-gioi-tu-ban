@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T19:17
-updated: 2026-02-15T22:44
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Phụ nữ]]
 [Tăng trưởng Kinh tế cho Phụ nữ - CARE tại Việt Nam](https://www.care.org.vn/chuong-trinh/tang-truong-kinh-te-cho-phu-nu/)

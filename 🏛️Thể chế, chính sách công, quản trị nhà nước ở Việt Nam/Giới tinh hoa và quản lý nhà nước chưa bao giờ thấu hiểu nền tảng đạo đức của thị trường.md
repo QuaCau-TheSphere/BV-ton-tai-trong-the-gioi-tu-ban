@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-16T21:52
+
+updated: 2026-07-06T21:09
 ---
 Khái niệm:: 
 Giới tinh hoa và quản lý nhà nước chưa bao giờ thấu hiểu nền tảng đạo đức của thị trường, đức hạnh của cạnh tranh, vai trò phân phối của giá cả, ý nghĩa xã hội của lợi nhuận, chức năng tổ chức của nhà nước, tinh thần tự do dân sự, văn hóa tôn trọng khế ước

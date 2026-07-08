@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-05T12:36
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 ---
 Lý do:: [[Mọi người cứ nghĩ công nghệ mới là AI, nhưng nó chỉ là một công nghệ trong rất nhiều các loại công nghệ mới khác]]
 ![](https://assets.weforum.org/editor/JMZBTAyyEYx_CPchtv-C7VGUIvKjCuxfqL4NpWvucxg.jpg)

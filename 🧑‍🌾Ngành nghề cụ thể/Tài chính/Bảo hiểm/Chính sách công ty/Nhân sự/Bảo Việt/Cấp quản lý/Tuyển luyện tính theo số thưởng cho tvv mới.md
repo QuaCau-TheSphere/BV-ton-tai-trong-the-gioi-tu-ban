@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T09:31
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 aliases:
   - Tuyển luyện: Trong 3 tháng đầu, tiền trưởng nhóm được thưởng gấp đôi số thưởng cho tư vấn viên mới
 ---

@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T14:22
+updated: 2026-07-07T13:00
+created: 2026-06-25T11:09
 ---
-Khái niệm:: [[Đáo]]
+Khái niệm:: [[Đáo, rút thẻ tín dụng]]
 Không làm đáo được mà chỉ nhận rút
 Nguồn:: 

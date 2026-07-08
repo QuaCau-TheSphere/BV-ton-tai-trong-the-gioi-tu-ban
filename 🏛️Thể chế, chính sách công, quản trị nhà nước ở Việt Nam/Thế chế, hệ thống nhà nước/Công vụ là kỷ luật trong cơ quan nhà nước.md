@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-19T10:47
+updated: 2026-07-07T12:59
+created: 2026-06-19T10:20
 ---
 Khái niệm:: 
 [[Vi phạm kỷ luật là một phần của vi phạm pháp luật, nhưng nghĩ là không phải cũng không sao]]

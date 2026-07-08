@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-04-02T16:43
+updated: 2026-07-06T21:10
 ---
 Tên thương hiệu:: SHB
 Phân loại:: [[Thương mại Cổ phần]]

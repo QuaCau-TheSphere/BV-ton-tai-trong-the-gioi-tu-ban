@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T11:30
-updated: 2026-06-22T07:27
+updated: 2026-07-07T12:59
 ---
 Khái niệm:: 
 Lý do:: [[Tiền tạo cảm giác phải cạnh tranh để có tài nguyên hơn là hợp tác để có nhiều tài nguyên hơn]]

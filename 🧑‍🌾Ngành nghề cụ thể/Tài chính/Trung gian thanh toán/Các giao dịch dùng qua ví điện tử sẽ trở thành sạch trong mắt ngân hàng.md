@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-27T22:05
-updated: 2026-04-03T14:02
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: [[Rửa tiền]]
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì mã QR nhận tiền đã được đăng ký từ đầu là để bán hàng rồi. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. 

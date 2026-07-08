@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-02-04T17:06
+updated: 2026-07-07T12:59
 ---
 Yêu cầu đầu vào:: 
 Đồng thời có thêm tính năng:: [[Sao chép kết quả sang chương trình khác được]]

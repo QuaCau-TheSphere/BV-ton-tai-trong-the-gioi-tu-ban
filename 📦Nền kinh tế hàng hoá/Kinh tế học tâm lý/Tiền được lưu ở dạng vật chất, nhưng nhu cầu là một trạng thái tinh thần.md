@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Tiền]], [[⚡⚡Hiểu biết sâu/Ξ Khái niệm/Xây dựng dự án/Quản lý dự án/Nhu cầu]]
 [[Tiền có nhiệm vụ làm trung gian cho việc trao đổi nhu cầu]]. [[Tiền đơn giản hoá quá trình đáp ứng nhu cầu]]

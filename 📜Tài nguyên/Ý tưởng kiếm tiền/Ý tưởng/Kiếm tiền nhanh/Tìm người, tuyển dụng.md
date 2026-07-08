@@ -1,8 +1,8 @@
 ---
 share: true
 description: "Số tiền kiếm được: 5% doanh số lương của người tuyển đc hoặc 1 tr hoa hồng sau khi họ làm việc 2 tuần"
-created: 2025-03-27T17:13
-updated: 2026-06-14T21:10
+updated: 2026-07-07T13:00
+created: 2025-10-07T17:12
 ---
 
 | Vị trí cần tuyển                                                    | Số tiền kiếm được                                                          | Tài nguyên                                                                                                                                                                                                                               |

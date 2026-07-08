@@ -6,7 +6,7 @@ aliases:
   - Các bài viết truyền thông về Trấn Kỳ
   - Seeding
 created: 2023-10-31T16:59
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 
 [[SME, startup, khởi nghiệp]]

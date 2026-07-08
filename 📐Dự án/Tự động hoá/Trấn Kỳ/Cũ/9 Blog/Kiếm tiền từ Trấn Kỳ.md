@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 ## Cách 1: làm nhập liệu cho các cá nhân, tổ chức cần thuê ngoài
 Để một cá nhân, tổ chức cần thuê ngoài cần hội đủ các điều kiện sau đây:

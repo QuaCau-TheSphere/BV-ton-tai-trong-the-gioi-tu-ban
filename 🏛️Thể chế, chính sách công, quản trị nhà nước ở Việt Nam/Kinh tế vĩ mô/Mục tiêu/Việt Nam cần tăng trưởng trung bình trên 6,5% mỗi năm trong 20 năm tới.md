@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T16:31
+updated: 2026-07-07T12:59
+created: 2025-08-29T08:30
 ---
 Khái niệm:: [[Tăng trưởng]], [[GDP]]
 Để đạt được mức GDP bình quân đầu người khoảng 12.000–13.000 USD vào năm 2045, Việt Nam cần tăng trưởng trung bình trên 6,5% mỗi năm trong 20 năm tới, đồng thời giữ ổn định vĩ mô, tăng năng suất lao động và bảo đảm tính bền vững về nguồn lực con người.

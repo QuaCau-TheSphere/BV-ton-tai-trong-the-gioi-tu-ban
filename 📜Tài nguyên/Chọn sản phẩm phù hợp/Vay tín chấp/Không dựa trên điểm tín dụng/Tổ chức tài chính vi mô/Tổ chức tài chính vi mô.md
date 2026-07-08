@@ -1,10 +1,10 @@
 ---
 share: true
-created: 2024-10-04T13:20
-updated: 2026-06-08T13:44
+updated: 2026-07-07T12:59
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
+created: 2025-04-14T12:53
 ---
 Khái niệm:: [[Tài chính vi mô]]
 Các quỹ phù hợp cho người ở thành thị:

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-01-24T20:12
+updated: 2026-07-07T13:00
+created: 2025-10-20T09:52
 ---
 Khái niệm:: [[Bất động sản]]
 [Liên minh Quyền Nhà ở Châu Á (ACHR) thăm và làm việc với Hiệp hội các đô thị Việt Nam](https://www.acvn.vn/index.php?route=news/news&news_id=646)

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T10:36
+updated: 2026-07-07T13:00
+created: 2025-10-15T20:47
 ---
 Khái niệm:: 
 [[❓Tại sao một bộ phận cử tri cũ của thủ tướng cũ không thấy cần thiết phải đánh đổi việc tự chủ kinh tế để có một quốc gia hạnh phúc]]

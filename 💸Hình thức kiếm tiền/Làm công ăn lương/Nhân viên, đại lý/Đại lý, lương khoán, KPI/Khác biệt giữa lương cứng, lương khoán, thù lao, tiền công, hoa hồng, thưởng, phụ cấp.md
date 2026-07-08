@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-01T22:58
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
 aliases:
   - Các hình thức trả tiền cho lao động
 ---

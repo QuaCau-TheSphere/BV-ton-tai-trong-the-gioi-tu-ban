@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T01:49
-updated: 2026-03-28T16:31
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: 
 Các đối tượng được phép hoạt động TCVM:

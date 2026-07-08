@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2025-01-09T11:54
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 ---
 [[Cộng tác viên thực chất là tiền trưởng nhóm. Cái tên cộng tác viên chỉ là để họ không thấy bị áp lực bởi chức danh]]

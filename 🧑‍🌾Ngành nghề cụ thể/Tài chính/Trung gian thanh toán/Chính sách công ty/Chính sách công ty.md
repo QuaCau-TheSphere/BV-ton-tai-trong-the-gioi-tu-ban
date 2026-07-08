@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-03-28T15:05
+updated: 2026-07-07T13:00
 aliases:
   - Chính sách các công ty trung gian thanh toán
 ---

@@ -2,7 +2,7 @@
 aliases:
   - Danh sách tất cả các tag
 created: 2023-06-11T18:31
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 ---
 # Các mức độ trạng thái/tình trạng của công việc
 ```dataview

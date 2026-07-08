@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:35
+created: 2026-04-17T14:04
 ---
 Khái niệm:: 
 
-Nguồn:: 
+Nguồn:: ![Sự khác nhau giữa làm luật sư và làm pháp chế doanh nghiệp dưới trải nghiệm của mình - YouTube](https://youtu.be/_KXETFHixxA?si=gZCzChPH0Hpbs8vt)

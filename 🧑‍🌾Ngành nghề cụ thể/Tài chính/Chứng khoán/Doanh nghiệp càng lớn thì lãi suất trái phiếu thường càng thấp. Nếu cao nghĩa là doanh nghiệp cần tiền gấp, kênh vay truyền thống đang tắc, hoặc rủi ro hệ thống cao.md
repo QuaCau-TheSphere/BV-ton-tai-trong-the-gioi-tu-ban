@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-12-03T22:31
 ---
 Khái niệm:: 
 Vingroup phát hành 1.000 tỷ đồng trái phiếu, lãi suất 12%/năm – nhìn ở góc độ tài chính: không hề bình thường

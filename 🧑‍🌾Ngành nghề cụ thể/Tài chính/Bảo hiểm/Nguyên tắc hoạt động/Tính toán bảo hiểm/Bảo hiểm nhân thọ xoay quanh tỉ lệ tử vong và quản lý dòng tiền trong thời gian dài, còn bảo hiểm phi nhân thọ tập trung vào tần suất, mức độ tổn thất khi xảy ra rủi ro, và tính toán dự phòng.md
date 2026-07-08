@@ -4,7 +4,7 @@ created: 2024-09-13T23:29
 aliases:
   - Bảo hiểm nhân thọ xoay quanh tỉ lệ tử vong và quản lý dòng tiền trong thời gian dài
   - Bảo hiểm phi nhân thọ tập trung vào tần suất, mức độ tổn thất khi xảy ra rủi ro, và tính toán dự phòng
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: 
 

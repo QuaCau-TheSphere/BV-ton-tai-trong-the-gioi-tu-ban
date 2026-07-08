@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2026-06-07T16:25
+updated: 2026-07-07T12:59
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 ---
 # Hồ sơ của Đỗ Hàng Minh Trí
@@ -54,7 +54,7 @@ Do mới có thêm đứa con, nên chỉ có 3 lựa chọn:
 - Tất cả ở trên thành phố
 
 #### Tất cả ở quê
-[[Ra khỏi thành phố sống]]
+[[Các lý do để không về quê hoặc không sống ở thành phố lớn]]
 #### Vợ và các con ở quê, một mình Trí ở trên thành phố
 - Công việc của vợ ở TP đang có lương 15tr, về quê thì không còn nhiều được như vậy
 - Ông bà chửi thề

@@ -1,6 +1,7 @@
 ---
 share: true
-created: 2023-05-26T14:51
-updated: 2026-03-28T16:31
+updated: 2026-07-06T21:09
+
 ---
 [[GDP của VN tăng trưởng rất nhanh]]
+[[Kinh tế tư nhân đến năm 2002 mới được thừa nhận là một thành phần kinh tế]]

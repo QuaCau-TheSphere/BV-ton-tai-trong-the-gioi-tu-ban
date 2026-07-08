@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-26T12:14
+updated: 2026-07-07T13:00
+created: 2025-10-26T17:10
 ---
 Khái niệm:: 
 [[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản]]

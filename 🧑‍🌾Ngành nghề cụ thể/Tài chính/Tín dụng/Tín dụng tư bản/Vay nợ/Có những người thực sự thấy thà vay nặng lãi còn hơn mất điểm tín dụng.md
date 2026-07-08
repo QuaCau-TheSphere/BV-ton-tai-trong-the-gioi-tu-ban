@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:32
-updated: 2026-06-06T00:00
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: [[Điểm tín dụng, CIC]], [[Nợ]], [[App đen, vay nóng]]
 [[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]

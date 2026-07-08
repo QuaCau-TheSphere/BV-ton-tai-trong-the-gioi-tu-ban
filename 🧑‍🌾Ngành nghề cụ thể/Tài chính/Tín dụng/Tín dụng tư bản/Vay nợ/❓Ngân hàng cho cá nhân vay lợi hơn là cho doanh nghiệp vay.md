@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T16:54
+
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: 
 Lý do:: [[Cho 1000 người vay 1 tỷ vừa đỡ rủi ro, vừa có thể lãi cao hơn, còn cho 1 người vay 1000 tỷ thì phải có lãi cạnh tranh]]

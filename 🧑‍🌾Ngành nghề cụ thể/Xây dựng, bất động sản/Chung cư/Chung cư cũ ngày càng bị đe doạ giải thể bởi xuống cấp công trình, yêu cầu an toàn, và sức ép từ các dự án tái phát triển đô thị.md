@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-02T12:08
+updated: 2026-07-07T13:00
+created: 2026-01-21T11:07
 ---
 Khái niệm:: 
 Chung cư cũ ở Việt Nam ngày càng được đặt trong trạng thái “bị đe doạ giải thể” bởi xuống cấp công trình, bởi yêu cầu an toàn, và bởi sức ép từ các dự án tái phát triển đô thị.

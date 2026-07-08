@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-01T19:38
-updated: 2026-01-02T13:27
+updated: 2026-07-07T12:59
 aliases:
   - Câu hỏi thu thập ý kiến
 description: Về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng

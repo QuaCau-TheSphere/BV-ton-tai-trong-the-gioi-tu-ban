@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
+created: 2025-12-01T15:26
 ---
 Khái niệm:: [[Kế toán]]
 The economic events that involve externalities like waste and pollution will also need to be recorded, as well as the consumption or degradation of all other resources that are not now subsumed under “ownership” like air, water, and soil microbiota. Those records can be interpreted in the light of biocapacity and ecosystem health.

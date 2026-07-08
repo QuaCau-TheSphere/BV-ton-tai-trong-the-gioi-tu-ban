@@ -3,7 +3,7 @@ share: true
 created: 2023-10-30T14:29
 aliases:
   - jdeverest
-updated: 2025-12-19T11:32
+updated: 2026-07-07T12:59
 ---
 # Buổi gặp 1
 ## Nội dung chính

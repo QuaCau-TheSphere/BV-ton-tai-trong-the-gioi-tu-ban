@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-27T14:58
-updated: 2026-02-26T12:58
+updated: 2026-07-07T12:59
 aliases:
   - Xây dựng hệ thống thông tin
 ---

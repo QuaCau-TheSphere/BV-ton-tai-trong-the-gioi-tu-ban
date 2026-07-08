@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-21T15:39
+
+updated: 2026-07-06T21:09
 ---
 # Giúp nhau thoát nợ
 Khi một người cần vay nhiều thì sẽ có 2 nguồn để vay:

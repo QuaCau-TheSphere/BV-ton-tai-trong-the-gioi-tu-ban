@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T14:47
+
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: 
 Lý do:: [[Nhà máy nhiệt điện không thể đặt ở thành phố, nhưng phải ưu tiên điện cho thành phố]]

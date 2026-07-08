@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-03T09:46
 ---
 Khái niệm:: 
 Các trường phái không tồn tại trong khoảng không. Chúng sinh ra từ một bối cảnh cụ thể: một cuộc chiến, một đợt khủng hoảng tài chính, một cuộc cách mạng công nghiệp, hay một thời kỳ lạm phát phi mã. 

@@ -1,6 +1,6 @@
 ---
 share: true
-created: 2025-03-27T17:13
+
 updated: 2025-09-21T11:38
 ---
 ; journal created 2025-09-13 by hledger

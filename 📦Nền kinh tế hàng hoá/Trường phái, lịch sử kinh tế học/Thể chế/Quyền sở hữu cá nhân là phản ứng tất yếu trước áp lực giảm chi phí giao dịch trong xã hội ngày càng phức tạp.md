@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+created: 2025-09-03T09:46
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Sở hữu]], [[Chi phí giao dịch]]
 
-Nguồn:: https://vhlinh.substack.com/p/kinh-te-hoc-the-che-moi-la-gi
+Nguồn:: [Kinh tế học thể chế mới là gì? - Linh’s Substack](https://vhlinh.substack.com/p/kinh-te-hoc-the-che-moi-la-gi)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-17T01:00
-updated: 2026-06-21T20:38
+updated: 2026-07-07T12:59
 ---
 Khái niệm:: [[Bán hàng]]
 - Thu nhập đột biến được do chủ yếu dựa vào hoa hồng và thưởng 

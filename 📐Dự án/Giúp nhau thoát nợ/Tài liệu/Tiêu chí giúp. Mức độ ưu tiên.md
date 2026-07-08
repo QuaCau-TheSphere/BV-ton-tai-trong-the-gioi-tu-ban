@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:39
+created: 2025-10-08T12:01
 ---
 Khái niệm:: 
 [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]

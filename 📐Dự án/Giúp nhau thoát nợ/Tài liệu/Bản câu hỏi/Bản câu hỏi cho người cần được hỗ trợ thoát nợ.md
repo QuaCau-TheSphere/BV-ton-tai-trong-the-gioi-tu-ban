@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-04-21T00:01
+updated: 2026-07-06T21:09
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -52,7 +52,7 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
 	- Vì sao bạn không thể [[Xù nợ ngân hàng|chấp nhận mất điểm tín dụng]]?
 	- Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
-- Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?
+- Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
 - Bạn đã nhận được những sự hỗ trợ từ những ai? Sự hỗ trợ không nhất thiết là tiền
 

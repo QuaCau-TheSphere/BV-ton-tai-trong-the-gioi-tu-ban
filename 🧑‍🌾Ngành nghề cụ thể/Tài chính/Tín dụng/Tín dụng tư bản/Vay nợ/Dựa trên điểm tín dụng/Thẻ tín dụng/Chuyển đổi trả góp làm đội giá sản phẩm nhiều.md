@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-06T21:39
+created: 2025-10-22T08:32
 ---
 Khái niệm:: [[Trả góp]]
 Lý do:: [[Luật chỉ quy định về lãi, chứ phí thì không đả động gì]]

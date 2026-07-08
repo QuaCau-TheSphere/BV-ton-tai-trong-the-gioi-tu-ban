@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-04T15:54
-updated: 2026-06-26T09:11
+updated: 2026-07-06T21:09
 ---
 1. [ ] Vi phạm đạo đức 
 2. [ ] Vi phạm pháp luật
@@ -18,4 +18,4 @@ updated: 2026-06-26T09:11
 Tại sao ít lợi nhuận hơn thì sẽ bị giết chết trên thị trường?
 [r/antiwork FAQ: All About Anti-Work](https://www.reddit.com/r/antiwork/wiki/index/)
 
-[[Vi phạm quy định hoặc thiếu liêm chính|Các hình thức của sự tệ]]
+[[Thiếu liêm chính. Phạm pháp|Các hình thức của sự tệ]]

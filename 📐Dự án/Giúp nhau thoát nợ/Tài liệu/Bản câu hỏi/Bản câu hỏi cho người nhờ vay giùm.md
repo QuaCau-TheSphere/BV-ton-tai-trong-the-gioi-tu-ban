@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-16T12:19
+
+updated: 2026-07-06T21:09
 ---
 Khái niệm:: 
 - Giả sử người bạn vay cũng cho người khác vay, và người vay đó xù người bạn vay hoặc đóng trễ. Bạn có làm gì không?

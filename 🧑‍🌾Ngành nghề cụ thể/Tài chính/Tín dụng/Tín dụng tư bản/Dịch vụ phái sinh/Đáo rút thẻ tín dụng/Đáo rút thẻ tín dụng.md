@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-27T17:12
+updated: 2026-07-07T13:00
+created: 2026-01-12T11:11
 ---
 Khái niệm:: 
 Mặc dù [[Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền|Luật cấm rút tiền tại cửa hàng để tránh việc rửa tiền]], nhưng [[Các dịch vụ đáo rút hoạt động công khai]].

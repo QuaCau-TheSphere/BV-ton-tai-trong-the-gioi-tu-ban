@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T23:22
+updated: 2026-07-06T21:39
+created: 2025-08-17T16:19
 ---
 Khái niệm:: [[Tài sản vô hình]]
 

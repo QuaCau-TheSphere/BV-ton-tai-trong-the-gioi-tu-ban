@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-23T15:25
+updated: 2026-07-07T12:59
+created: 2026-06-21T16:04
 ---
 Khái niệm:: 
 Ngành là tổng thể các quy phạm điều chỉnh các quan hệ xã hội trong một lĩnh vực nhất định

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-08-31T16:22
-updated: 2026-05-03T12:40
+updated: 2026-07-07T13:00
 ---
-- [[Ra khỏi thành phố sống]]
+- [[Các lý do để không về quê hoặc không sống ở thành phố lớn]]
 - Ở ngoại ô và gần các bến xe, ga tàu
 - Làm [[Các công việc thường cung cấp chỗ ở]]
 - Vào khu nhà ở xã hội

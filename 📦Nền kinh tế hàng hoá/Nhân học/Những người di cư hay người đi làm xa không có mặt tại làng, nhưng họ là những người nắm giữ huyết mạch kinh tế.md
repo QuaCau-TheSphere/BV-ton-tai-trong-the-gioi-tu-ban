@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T18:27
+updated: 2026-07-07T13:00
+created: 2025-12-19T17:27
 ---
 Khái niệm:: [[Di cư]]
 Nếu bạn được cử xuống một làng để tìm hiểu về vấn đề làng đó cho dự án phát triển sắp tới. Nhiệm vụ của bạn là tìm hiểu được mọi tiếng nói đa dạng của mọi thành viên của cộng đồng.

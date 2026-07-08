@@ -1,8 +1,8 @@
 ---
 share: true
 description: "Số tiền kiếm được: 70k/h"
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-06-06T12:45
 ---
 Mô tả công việc:: Đánh giá độ chính xác và chất lượng các truy vấn (queries) của người dùng internet 
 Số tiền kiếm được:: 70k/h

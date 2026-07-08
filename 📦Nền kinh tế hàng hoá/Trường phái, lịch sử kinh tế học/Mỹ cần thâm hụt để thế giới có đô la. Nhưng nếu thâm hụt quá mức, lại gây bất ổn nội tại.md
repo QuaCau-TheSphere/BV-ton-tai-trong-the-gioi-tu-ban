@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-04T21:41
 ---
 Khái niệm:: 
 Sau chiến tranh, Mỹ trở thành quốc gia nắm giữ quyền lực kinh tế lớn nhất, chiếm phần lớn trữ lượng vàng toàn cầu và là trung tâm sản xuất chính. Mỹ bắt đầu cho vay các nước châu Âu như Anh và Pháp để tái thiết, và các quốc gia này chọn nhận USD, từ đó khiến đồng đô la trở thành đồng tiền chính trong thương mại quốc tế.

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-02-16T14:37
+updated: 2026-07-07T13:00
+created: 2026-02-16T14:37
 ---
 Khái niệm:: [[Lạm phát]], [[Nợ công]]
 Khối lượng tiền tệ được nâng cao, tiền mất giá, nợ quốc gia tự nhiên triệt giảm. Trong trường hợp một nước nợ gần 20 ngàn tỷ USD như Hoa Kỳ, mỗi phần trăm giảm giá Đô La có khả năng làm nhẹ bớt 200 tỷ vốn nợ.

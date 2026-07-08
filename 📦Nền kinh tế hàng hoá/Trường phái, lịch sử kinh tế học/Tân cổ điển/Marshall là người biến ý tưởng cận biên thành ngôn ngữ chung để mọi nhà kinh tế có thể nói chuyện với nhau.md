@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-03T09:46
 ---
 Khái niệm:: 
 Khi cách mạng cận biên vừa nổ ra, kinh tế học bỗng chia thành nhiều “giọng nói” khác nhau. Jevons ở Anh dùng toán nhưng thiên về so sánh cá nhân; Menger ở Áo thì nhấn vào hành vi con người và thời gian; Walras ở Thụy Sĩ–Pháp lại dựng cả một hệ phương trình. Điều đó gây hứng thú cho giới học thuật, nhưng với người mới học hoặc nhà hoạch định chính sách, sự phân mảnh này khiến kinh tế học trở nên khó tiếp cận.

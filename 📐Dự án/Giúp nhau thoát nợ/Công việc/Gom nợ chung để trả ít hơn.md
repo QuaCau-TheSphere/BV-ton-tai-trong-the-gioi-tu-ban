@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-07T12:59
 description: mỗi người được 315tr
+created: 2026-02-21T19:00
 ---
 ## Tóm tắt
 1. 4 người mở khoản vay 200tr, trả góp 36 tháng. Tổng là 800tr

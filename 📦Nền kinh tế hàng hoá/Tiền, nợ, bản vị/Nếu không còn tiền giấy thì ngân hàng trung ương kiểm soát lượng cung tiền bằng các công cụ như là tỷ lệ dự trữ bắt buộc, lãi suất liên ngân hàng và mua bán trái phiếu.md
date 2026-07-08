@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-25T21:50
-updated: 2026-04-03T13:57
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Ngân hàng trung ương]], [[Tiền]]
 Nguồn:: [[Tiền – sự thật về thứ không có thật]]

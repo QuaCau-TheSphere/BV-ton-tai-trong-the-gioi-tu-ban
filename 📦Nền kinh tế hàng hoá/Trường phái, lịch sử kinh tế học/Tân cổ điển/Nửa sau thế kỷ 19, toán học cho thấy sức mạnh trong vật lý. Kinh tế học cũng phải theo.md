@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+updated: 2026-07-07T13:00
+created: 2025-09-03T09:46
 ---
 Khái niệm:: 
 Nửa sau thế kỷ XIX, kinh tế học đứng trước một ngã rẽ lớn. Những lý thuyết cổ điển về giá trị lao động, thị trường tự do và thương mại quốc tế đã thống trị suốt gần một trăm năm, nhưng bắt đầu gặp khó khi phải giải thích những hiện tượng mới. Vì sao giá cả của hàng hóa không chỉ phản ánh lượng lao động? Vì sao có những sản phẩm tốn ít công sức sản xuất nhưng vẫn được trả giá cao, trong khi những thứ tốn nhiều công sức lại chẳng ai mua?

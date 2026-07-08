@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-17T22:06
+updated: 2026-07-07T12:59
+created: 2026-06-17T22:06
 ---
 Khái niệm:: 
 [[Hiến pháp 2013 không xác định Quốc hội là cơ quan duy nhất có quyền lập hiến]]

@@ -1,9 +1,9 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T16:20
+updated: 2026-07-07T12:58
+created: 2025-09-09T10:09
 ---
-[[Vi phạm quy định hoặc thiếu liêm chính]]
+[[Thiếu liêm chính. Phạm pháp]]
 [[Khai thác điểm yếu con người]]
 ```dataview
 LIST rows.file.link

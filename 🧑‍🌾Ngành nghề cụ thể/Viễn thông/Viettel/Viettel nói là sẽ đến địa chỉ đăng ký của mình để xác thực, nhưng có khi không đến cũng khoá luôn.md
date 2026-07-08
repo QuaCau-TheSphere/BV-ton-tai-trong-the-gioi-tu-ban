@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T15:29
+updated: 2026-07-07T13:00
+created: 2025-10-03T08:59
 ---
 Khái niệm:: 
 KH sau khi nhân viên địa bàn đã đến tại địa chỉ của KH đăng ký (ít nhất là 3 lần vào 3 thời điểm khác nhau trong 3 ngày khác nhau) nhưng KH vẫn có 1 trong những dấu hiệu sau: 

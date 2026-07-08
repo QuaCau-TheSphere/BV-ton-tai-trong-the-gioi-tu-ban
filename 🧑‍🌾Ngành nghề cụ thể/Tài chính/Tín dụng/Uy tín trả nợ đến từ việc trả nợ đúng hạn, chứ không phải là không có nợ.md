@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-15T21:00
+updated: 2026-07-07T13:00
+created: 2025-10-03T20:13
 ---
 Khái niệm:: 
 [[Muốn vay nợ cần có uy tín]]

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-21T15:44
+updated: 2026-07-07T12:59
+created: 2025-12-13T16:26
 ---
 muốn có 2 điểm quỹ độc lập tự chạy hoàn toàn đã
 anh có tính làm web ko? Lên web thì dễ tìm lại hơn

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T17:17
+updated: 2026-07-07T13:00
+created: 2025-08-14T09:35
 ---
 Khái niệm:: 
 [https://www.youtube.com/playlist?list=PLv29VEsU6RFj3HPDjoS7TLKnwhMasimMf](https://www.youtube.com/playlist?list=PLv29VEsU6RFj3HPDjoS7TLKnwhMasimMf "https://www.youtube.com/playlist?list=PLv29VEsU6RFj3HPDjoS7TLKnwhMasimMf")

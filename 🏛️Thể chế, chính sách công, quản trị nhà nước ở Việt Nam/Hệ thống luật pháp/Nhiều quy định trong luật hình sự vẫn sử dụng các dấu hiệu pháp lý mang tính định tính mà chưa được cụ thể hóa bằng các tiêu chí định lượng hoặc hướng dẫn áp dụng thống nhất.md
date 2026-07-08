@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-06-21T13:02
+updated: 2026-07-07T12:59
+created: 2026-06-03T15:12
 ---
 Khái niệm:: 
 Trong khi đó, các dấu hiệu này lại có ý nghĩa quyết định trong việc xác định có hay không trách nhiệm hình sự, dẫn đến việc phạm vi điều chỉnh của quy phạm hình sự phụ thuộc đáng kể vào cách thức diễn giải của cơ quan áp dụng pháp luật.

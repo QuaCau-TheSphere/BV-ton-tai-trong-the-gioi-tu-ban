@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-03-28T17:22
+updated: 2026-07-07T13:00
+created: 2025-12-11T18:08
 ---
 [[Các khó khăn của người cần vay và lý do từ chối cho vay]]
 [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]

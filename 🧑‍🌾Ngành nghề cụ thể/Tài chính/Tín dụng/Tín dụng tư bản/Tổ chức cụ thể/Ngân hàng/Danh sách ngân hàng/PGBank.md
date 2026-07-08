@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-09T15:15
-updated: 2025-12-19T11:32
+updated: 2026-07-06T21:10
 ---
 Tên thương hiệu:: PGBank
 Phân loại:: [[Thương mại Cổ phần]]

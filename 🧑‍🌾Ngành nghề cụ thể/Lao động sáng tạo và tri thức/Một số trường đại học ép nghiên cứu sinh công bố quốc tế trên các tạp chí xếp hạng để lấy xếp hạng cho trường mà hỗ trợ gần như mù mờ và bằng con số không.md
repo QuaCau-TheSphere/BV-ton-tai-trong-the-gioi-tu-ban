@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-04-15T23:36
+updated: 2026-07-07T13:00
+created: 2025-11-01T11:16
 ---
 Khái niệm:: 
 Trong suốt thời gian qua, mình và anh chị em trong nhóm nghiên cứu ở Sài Gòn viết bài để đăng tạp chí nghiên cứu theo hướng Truy cập mở.

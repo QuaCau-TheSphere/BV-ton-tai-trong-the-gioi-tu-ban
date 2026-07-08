@@ -1,7 +1,7 @@
 ---
-created: 2025-03-27T17:13
-updated: 2026-06-07T16:25
+updated: 2026-07-07T12:59
 title: Đề xuất vay nợ của Nguyễn Đức Thịnh
+created: 2025-10-22T08:32
 ---
 ## Thông tin chính
 [Hồ sơ vay nợ của Nguyễn Đức Thịnh - Google Trang tính](https://docs.google.com/sprThuốc eadsheets/d/1E2aHvDHg9rRPPBcJN_ufgF94y88HnJrjSAJyDMa6SnA/edit?usp=drivesdk) 
@@ -93,7 +93,7 @@ Em không có sức lực, thời gian và đầu óc để nghĩ đến chúng.
 #### Bạn có chấp nhận [[xù nợ ngân hàng]] không? Vì sao?
 Không muốn xù nào hết vì không muốn ảnh hưởng tới tín dụng, kể cả momo.
 
-#### Bạn có chấp nhận [[ra khỏi thành phố sống]] không? Vì sao?
+#### Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
 Em có nhiều mối quan hệ ở đây, và muốn xây dựng sự nghiệp trong ngành dịch vụ, nên không muốn ra khỏi thành phố. Việc sống ở các thành phố khác như Biên Hoà không làm giảm chi phí sống đáng kể. Ở Đà Nẵng tuy có ngành dịch vụ phát triển, các nhà hàng khách sạn hoặc khu du lịch chắc cũng có ký túc xá nhưng mức sống không đủ để trả nợ.
 
 ### Năng lực xoay sở

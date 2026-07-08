@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-13T13:54
-updated: 2026-03-12T13:12
+updated: 2026-07-07T13:00
 ---
 Khái niệm:: [[Lách luật]]
 Thực tế cho thấy các mô hình cho vay trực tuyến tại Việt Nam thường được giới thiệu là công ty tư vấn tài chính nhưng lại hợp tác với các tổ chức khác để thu phí tư vấn, phí quản lý khoản vay… nhằm né quy định của Bộ Luật Dân sự 2015 - lãi suất không vượt quá 20%/năm.

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2025-12-19T11:32
+
+updated: 2026-07-06T21:10
 ---
 Khái niệm:: 
 Sau này mới chỉ chuyên về tiền. Còn những thứ đếm được khác thì có môn chuyên ngành (VD: quản lý kho) 

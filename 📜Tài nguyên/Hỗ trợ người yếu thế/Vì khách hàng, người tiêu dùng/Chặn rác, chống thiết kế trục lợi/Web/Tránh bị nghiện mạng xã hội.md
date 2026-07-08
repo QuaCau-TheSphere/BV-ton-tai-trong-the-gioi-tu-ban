@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-05T14:38
+updated: 2026-07-07T12:59
 ---
 [Nudge | Get your time back](https://nudgeware.io/)
 [beeminder](https://www.beeminder.com/home)

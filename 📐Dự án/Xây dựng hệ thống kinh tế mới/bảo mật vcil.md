@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-03-27T17:13
-updated: 2026-05-29T16:39
+
+updated: 2026-07-06T21:09
 ---
 
 ## Cách hiểu rộng cho copyleft
@@ -51,3 +51,4 @@ Mình đã viết phần về bảo mật này khá dài. Thật ra, toàn bộ 
 > Dịch vụ tạo và phục vụ website (website builder & hosting) các bạn đang sử dụng, Webflow, [công bố](https://webflow.com/security) rằng việc bảo mật đã được tính đến từ giai đoạn thiết kế (secure-by-design). Nếu các bạn không chèn script ngoài thì mình nghĩ là có thể yên tâm về độ bảo mật của website các bạn. Nhưng dù sao thì mình cũng không có đủ kiến thức bảo mật để đánh giá, và mình đọc thì cũng [chưa rõ](https://software.codidact.com/posts/296203) nó sẽ đảm bảo sản phẩm các bạn tạo ra tuân thủ các nguyên tắc lập trình bảo mật thế nào. Để chắc ăn các bạn nên thuê một đơn vị chuyên về bảo mật để họ kiểm tra và tư vấn cụ thể.
 
 Mình ghi dài vì mình thấy cần phân tích kỹ những quan niệm mà các bạn đang sử dụng. Những quan niệm này là phổ biến, nhưng lại dựa trên các giả định sai.
+
