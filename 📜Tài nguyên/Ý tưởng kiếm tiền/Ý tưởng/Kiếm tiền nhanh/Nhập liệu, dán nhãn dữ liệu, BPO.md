@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: "
-updated: 2026-07-07T13:00
+updated: 2026-07-10T17:54
 created: 2025-07-16T14:09
 ---
 Mô tả công việc:: 
@@ -15,11 +15,11 @@ Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: 
 Hình thức công việc::
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm qua mạng]]
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm qua mạng]]
 Thời gian làm việc:: 
-Yêu cầu công nghệ:: [[Có laptop]]
+Tài nguyên, vật dụng cần có sẵn:: [[Có laptop]]
 Thời điểm trả tiền:: 
 Đặc điểm khác::
 

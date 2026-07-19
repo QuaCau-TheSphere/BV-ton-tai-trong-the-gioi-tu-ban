@@ -19,10 +19,10 @@ created: 2026-06-05T18:43
 Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm
-Kiến thức, kỹ năng::
-Nơi làm việc:: [[Không cần đi lại]], [[Làm qua mạng]]
+Kiến thức, kỹ năng cần có sẵn::
+Môi trường làm việc:: [[Không cần đi lại]], [[Làm qua mạng]]
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Yêu cầu công nghệ:: 
+Tài nguyên, vật dụng cần có sẵn:: 
 Đặc điểm khác:: [[Không cần độ tập trung cao]]
 
 ## Nơi thảo luận

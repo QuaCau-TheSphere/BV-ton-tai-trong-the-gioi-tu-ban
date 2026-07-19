@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 200k"
-updated: 2026-07-06T21:39
+updated: 2026-07-14T19:47
 created: 2025-11-04T11:09
 ---
 Mô tả công việc:: Đăng ký tài khoản Binance mới theo link [này](https://www.binance.com/referral/mystery-box/lny-2026/claim?ref=GRO_40244_EOX6Q), kyc, làm nhiệm vụ nhanh 10ph 
@@ -40,13 +40,13 @@ a sẽ gần như ko biết được kèo nào ngon, việc của mình chỉ l�
 Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: 
-Hình thức công việc:: [[Làm thuê cho người khác]]
-Kiến thức, kỹ năng:: 
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm qua mạng]]
+Hình thức công việc:: [[Làm thuê không có hợp đồng]]
+Kiến thức, kỹ năng cần có sẵn:: 
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm qua mạng]]
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Yêu cầu công nghệ:: [[Có điện thoại]]
-Thời điểm trả tiền:: [[Trả ngay sau khi hoàn thành công việc]]
+Tài nguyên, vật dụng cần có sẵn:: [[Có điện thoại thông minh]]
+Thời điểm trả tiền:: [[Ngay sau khi hoàn thành công việc]]
 Đặc điểm khác::
 
 ## Nơi thảo luận
@@ -54,4 +54,4 @@ Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Các công việc kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.

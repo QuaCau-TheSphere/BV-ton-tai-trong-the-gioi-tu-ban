@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T12:35
+updated: 2026-07-12T19:46
 created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
@@ -343,3 +343,7 @@ nếu lúc đó không nói rõ  thì cần được hiểu theo nghĩa rộng n
 Ngược lại, nếu không minh bạch thì không thể phát triển lâu dài. Doanh nghiệp kiến quốc thì phải minh bạch và tiên tiến. Khi công ty minh bạch, người dân mới coi đó là công ty vì dân tộc. Còn nếu công ty cứ khép kín, thông tin không minh bạch thì xã hội sẽ ít tôn trọng, đó chỉ là công ty của riêng họ, sự thành bại sau này dân chúng cũng không quan tâm.
 
 Tại sao các bạn thấy là các bạn được quyền hiểu theo nghĩa chặt chẽ hơn, còn người khác thì không được quyền đó? Các bạn nói về việc kết nối với tổ tiên, vậy thì sự kết nối với những người tạo ra thuật ngữ đó các bạn để đâu?
+
+Nó tạo ra cảm giác không công bằng.
+
+Những gì các bạn giải thích không có gì mâu thuẫn với những lời mình nói cả.

@@ -1,72 +1,9 @@
-7/8/2026, 12:27:52 PM [error]: 
+7/19/2026, 8:06:12 AM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:39:9565)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:39:10806)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:223:1200)
 
-7/8/2026, 12:27:52 PM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 1:28:14 PM.
-
-7/8/2026, 1:36:36 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/🧑‍🌾Ngành nghề cụ thể.md / Tue Jul 07 2026 13:00:55 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:37 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Ăn uống/Đa phần những quán vẫn có thể duy trì sau 10 năm là vì nó được mở trên đất của họ.md / Tue Jul 07 2026 13:00:23 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:38 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Ăn uống/Starbuck là một ngân hàng, McDonald là một công ty bất động sản.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:39 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Ăn uống/Nước giải khát không làm mình hết khát.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:41 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Ăn uống/Mở quán mà dưới 100 khách một ngày là dẹp tiệm.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:42 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Ăn uống/Làn đường ở các cửa hàng drive-through được thiết kế thông thoáng ở ngoài nhưng chật hẹp ở sau khúc ngoặt, để khách hàng vừa thấy không phải chờ lâu vừa phải lựa món trong áp lực.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:43 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Ăn uống/Hạn sử dụng không chỉ là để tránh thực phẩm biến chất, mà còn có thể khiến cho người dùng mua hàng mới khi hàng cũ còn dùng được.md / Tue Jul 07 2026 13:00:23 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:45 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Công nghệ, năng lượng, khoáng sản/Việc chống biến đổi khí hậu đang bị định hướng vào việc phụ thuộc vào những thứ đem lại lợi ích cho tư bản như vệ tinh, AI.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:46 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Công nghệ, năng lượng, khoáng sản/Năng lượng tái tạo cũng không hoàn toàn sạch.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:47 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Công nghệ, năng lượng, khoáng sản/Nông thôn chịu ô nhiễm để thành phố có điện, nhưng khi bị quá tải điện thì lại bị cắt điện đầu tiên.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:47 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Công nghệ, năng lượng, khoáng sản/Nhà máy nhiệt điện không thể đặt ở thành phố, nhưng phải ưu tiên điện cho thành phố.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:49 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Công nghệ, năng lượng, khoáng sản/Một giai cấp mới hình thành là giai cấp về khí hậu.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:50 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Công nghệ, năng lượng, khoáng sản/Các công ty công nghệ đang thành công trong việc làm chúng ta nghĩ rằng cuộc sống vốn toàn điều bất tiện.md / Tue Jul 07 2026 13:00:24 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:51 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Y tế/Cấp cứu thì mới không cần xin giấy chuyển viện, còn không thì vẫn phải có.md / Tue Jul 07 2026 13:00:55 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:52 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Y tế/Ấn Độ không tham gia các hiệp ước về sở hữu trí tuệ trong ngành dược để có thể sản xuất thuốc generic một cách nhanh nhất.md / Tue Jul 07 2026 13:00:55 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:53 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Y tế/Lợi nhuận ngành dược chỉ sau súng đạn và ma túy.md / Tue Jul 07 2026 13:00:55 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:54 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Y tế/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md / Tue Jul 07 2026 13:00:55 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:55 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Vận tải, giao thông/Tài xế mất tiền phạt vì vi phạm luật nhiều.md / Tue Jul 07 2026 13:00:53 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:56 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Vận tải, giao thông/Vận tải công cộng.md / Tue Jul 07 2026 13:00:53 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:57 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Vận tải, giao thông/Tài xế xe hơi phải vào hợp tác xã vận tải để được tham gia app taxi công nghệ.md / Tue Jul 07 2026 13:00:53 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
-
-7/8/2026, 1:36:58 PM [debug]: 
-	edited file : 🧑‍🌾Ngành nghề cụ thể/Vận tải, giao thông/Tada không tính phí theo phần trăm và không ràng buộc lượng cuốc của tài xế.md / Tue Jul 07 2026 13:00:53 GMT+0700 (Indochina Time) vs Sat Jun 27 2026 20:16:56 GMT+0700 (Indochina Time)
+7/19/2026, 8:06:13 AM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 9:06:51 AM.
 

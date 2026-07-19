@@ -2,7 +2,7 @@
 share: true
 description: "Số tiền kiếm được: 10$"
 created: 2025-04-15T16:12
-updated: 2026-07-07T13:00
+updated: 2026-07-14T19:47
 aliases:
   - voucher
 ---
@@ -19,11 +19,11 @@ Số tiền đầu tư:: 300$
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: 
 Hình thức công việc::
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc::  [[Làm qua mạng]]
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc::  [[Làm qua mạng]]
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Yêu cầu công nghệ::
+Tài nguyên, vật dụng cần có sẵn::
 Thời điểm trả tiền::
 Đặc điểm khác:: [[Không tiếp xúc với con người]], [[Không cần nghe]],  [[Không cần nói]], [[Không cần độ tập trung cao]]
 
@@ -32,4 +32,4 @@ Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Các công việc kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.

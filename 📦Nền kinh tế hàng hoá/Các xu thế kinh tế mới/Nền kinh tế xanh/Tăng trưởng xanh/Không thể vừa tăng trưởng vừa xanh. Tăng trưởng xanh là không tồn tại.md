@@ -1,8 +1,10 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-08T21:14
 created: 2025-08-26T16:01
 ---
-Khái niệm:: 
+Khái niệm:: [[Tăng trưởng]]
 
 Nguồn:: [Khi nghĩ đến việc thay đổi toàn bộ hệ thống toàn cầu, chúng ta dễ rơi vào cảm giác bất lực. Nhưng nếu quay về với những gì nằm trong tầm tay – thì ta mới thực sự cảm thấy mình có quyền lực](https://www.vcil.community/post/chieu-phim-hcm-21052025)
+
+[[Tăng trưởng xanh đến nay vẫn chỉ là giấc mơ của mô hình tiêu thụ vô hạn trong một thế giới hữu hạn]]

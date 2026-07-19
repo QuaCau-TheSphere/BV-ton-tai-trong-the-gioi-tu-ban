@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-11T11:51
+created: 2026-05-24T23:02
 ---
 
 ## Cách hiểu rộng cho copyleft

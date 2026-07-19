@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-06T21:39
+updated: 2026-07-08T20:45
 created: 2025-09-11T19:44
 ---
 Khái niệm:: 
@@ -11,3 +11,4 @@ Các nền kinh tế địa phương hóa phản ánh các nền văn hóa, ngu�
 Nguồn:: [Vcil Community - LÀM THẾ NÀO ĐỂ XÂY DỰNG “NHỮNG” NỀN KINH... \| Facebook](https://www.facebook.com/vcil.community/posts/pfbid04BRvAYPeyxtcNAAnmMS8TGj8x5MnVkmiWAqQYZCqYR9jRon17mRW6Dg7CYkkMGZWl)
 
 [[Phong trào địa phương hóa là sự phản hồi lại sự toàn cầu hóa, không phải là địa phương theo địa lý]]
+[[Dù phong trào địa phương hóa nói khá nhiều về việc kết nối lại với đất, thì nó chỉ là một phương thức kinh tế hiệu quả để đạt tới mục đích cao hơn là kết nối con người]]

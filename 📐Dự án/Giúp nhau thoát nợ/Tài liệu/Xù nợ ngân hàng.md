@@ -1,7 +1,7 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-06T21:39
+updated: 2026-07-13T12:16
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
@@ -11,7 +11,7 @@ created: 2025-11-20T14:47
 ---
 [[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]. Các công ty có dịch vụ [[ví trả sau]] hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
 
-## 7 lý do không muốn mất điểm tín dụng, và các phản hồi về lý do đó
+## Các lý do không muốn mất điểm tín dụng, và các phản hồi về các lý do đó
 Tại sao [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]]? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?
 
 ### Lý do 1: Việc giữ điểm tín dụng sạch là cánh cửa để thoát nghèo, đạt được ước mơ thay đổi cuộc sống
@@ -27,7 +27,7 @@ Nhà nghiên cứu [Helena Norberg-Hodge](https://en.wikipedia.org/wiki/Helena_N
 
 Việc thay đổi cuộc sống nằm ở trong suy nghĩ
 
-Thường giải pháp tối ưu đòi hỏi phải tự làm ra lương thực cho mình. Tức là làm nông. Xem bài [[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]].
+Thường giải pháp tối ưu đòi hỏi phải tự làm ra lương thực cho mình. Tức là làm nông. Xem bài [[Đừng bỏ việc thành phố ngay lập tức. Hãy giữ công việc cũ trong giai đoạn đầu. Cuối tuần về quê làm, tích lũy kinh nghiệm]].
 
 [[Các lý do để không về quê hoặc không sống ở thành phố lớn|Có nhiều lý do để không về quê hoặc không sống ở thành phố lớn]], và những lý do đó là hợp lý. Nhưng để vừa vẫn ở trong thành phố vừa đạt được ước mơ thay đổi cuộc sống, thì phải cần có thêm bao nhiêu tiền nữa? Giờ giả sử bạn hết nợ và vẫn giữ được điểm tín dụng thì mọi chuyện sẽ khác biệt thế nào, hay là bạn cũng sẽ vay tiền để đầu tư một cái gì đó? Nếu vậy thì chờ thêm 5 năm nữa thì có khác biệt gì?
 
@@ -68,7 +68,7 @@ Có người lập luận rằng việc không trả sẽ làm ngân hàng chị
 ở đây là mình không chủ động lợi mình hại người. Từ đầu mình vẫn trả, chỉ là bây giờ gánh ko nổi nữa. Mình cũng không có lợi gì ở đây, chỉ là giữa hai cái tệ cho mình thì chọn cái bớt tệ hơn. Và người bị thiệt ở đây thì chủ yếu là ngân hàng, và họ ko quá thiệt so với lợi nhuận của họ. Còn với các khách hàng đang vay khác thì cần thêm bằng chứng là họ sẽ bị thiệt nặng. Vì với ngân hàng thì hành động của mình cũng đã được tính từ trước dưới dạng xác suất khách hàng trả chậm rồi
    
 có thể đọc thêm về cuốn Nợ của David Graber
-
+[Trả nợ có phải là nghĩa vụ đạo đức tuyệt đối?](https://tiasang.com.vn/tra-no-co-phai-la-nghia-vu-dao-duc-tuyet-doi-5096077.html)
 
 [[Ngân hàng có lợi nếu nhân viên và khách hàng nghĩ là xù nợ là phạm tội hình sự, hoặc làm bất công với người khác]]
 

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-08T21:02
 created: 2025-08-25T19:28
 ---
 Khái niệm:: 
@@ -33,5 +33,5 @@ Có luật thì sự tin tưởng tăng lên, và pháp nhân doanh nghiệp cũ
 
 Are these
 [[Các lý do để không về quê hoặc không sống ở thành phố lớn]]
-[[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]]
+[[Đừng bỏ việc thành phố ngay lập tức. Hãy giữ công việc cũ trong giai đoạn đầu. Cuối tuần về quê làm, tích lũy kinh nghiệm]]
 [[❓Câu hỏi cho việc bỏ phố về quê]]

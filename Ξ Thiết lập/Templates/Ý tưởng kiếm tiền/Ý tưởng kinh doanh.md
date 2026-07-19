@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-10T14:10
 ---
 ## Thị trường & đối thủ cạnh tranh
 ## Đối tượng phục vụ 
@@ -12,10 +12,10 @@ updated: 2026-07-07T13:00
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm
-Kiến thức, kỹ năng::
-Nơi làm việc:: [[Không cần đi lại]], [[Làm qua mạng]]
+Kiến thức, kỹ năng cần có sẵn::
+Môi trường làm việc:: [[Không cần đi lại]], [[Làm qua mạng]]
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Yêu cầu công nghệ:: 
+Tài nguyên, vật dụng cần có sẵn:: 
 Đặc điểm khác:: [[Không cần độ tập trung cao]]
 
 ## Nơi thảo luận

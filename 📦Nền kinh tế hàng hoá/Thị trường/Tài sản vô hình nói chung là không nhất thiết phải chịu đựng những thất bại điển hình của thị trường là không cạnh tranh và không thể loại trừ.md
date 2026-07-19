@@ -1,8 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
-aliases:
-  - tài sản vô hình
+updated: 2026-07-18T20:30
 created: 2025-09-03T10:03
 ---
 Khái niệm:: [[Tài sản vô hình]]

@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+created: 2025-10-22T08:32
+updated: 2026-07-11T11:49
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ

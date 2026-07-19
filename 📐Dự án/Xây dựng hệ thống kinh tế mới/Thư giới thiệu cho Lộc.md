@@ -1,8 +1,8 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-14T19:47
 description: Vì sao lại giúp người không chủ động hành động?
+created: 2025-09-15T08:11
 ---
 Xin chào các bạn VCIL,
 
@@ -53,9 +53,9 @@ Tất nhiên cách lý tưởng này có thể đang vượt qua khả năng ch�
 
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Tạo ra [[Các công việc kiếm tiền nhanh\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
+| Tạo ra [[Kiếm tiền nhanh\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
 | [[Bao nuôi]], [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
-| [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Gom tài nguyên làm MMO]]                                                                           |
+| [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Tài nguyên làm MMO]]                                                                           |
 | Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
 
 Những hoạt động trên là đầu vào để Nhật làm những hoạt động sau:

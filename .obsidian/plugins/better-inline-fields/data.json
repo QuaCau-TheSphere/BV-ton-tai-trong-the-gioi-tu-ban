@@ -41,37 +41,36 @@
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Số người cần tuyển"
     },
     {
+      "field": "Thời điểm trả tiền",
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm trả tiền"
+    },
+    {
       "field": "Hình thức công việc",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc"
     },
+
     {
-      "field": "Kiến thức, kỹ năng",
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng"
-    },
-    {
-      "field": "Nguyên liệu, nguồn thông tin",
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nguyên liệu, nguồn thông tin"
-    },
-    {
-      "field": "Nơi làm việc",
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Nơi làm việc"
+      "field": "Môi trường làm việc",
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Môi trường làm việc"
     },
     {
       "field": "Thời gian làm việc",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời gian làm việc"
     },
+    
     {
-      "field": "Yêu cầu công nghệ",
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Yêu cầu công nghệ"
+      "field": "Kiến thức, kỹ năng cần có sẵn",
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng"
     },
     {
-      "field": "Thời điểm trả tiền",
-      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời điểm trả tiền"
+      "field": "Tài nguyên, vật dụng cần có sẵn",
+      "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Tài nguyên, vật dụng"
     },
     {
       "field": "Đặc điểm khác",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác"
     },
+    
     {
       "field": "Nguồn",
       "folder": "⚡Hiểu biết sâu/Ξ Nguồn"

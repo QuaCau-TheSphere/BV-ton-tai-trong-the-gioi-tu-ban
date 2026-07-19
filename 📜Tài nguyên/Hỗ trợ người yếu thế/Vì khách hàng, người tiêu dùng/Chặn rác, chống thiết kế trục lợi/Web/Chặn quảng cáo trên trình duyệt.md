@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-01T21:15
-updated: 2026-07-07T12:59
+updated: 2026-07-11T12:23
 ---
 ## uBlock Origin
 Thường mọi người thấy các trình duyệt hay giới thiệu Adblock. Nhưng nó không mạnh bằng

@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Đăng ký 30 - 100 tài khoản/ngày. Số tiền kiếm được: 50k - 300k/ngày"
-updated: 2026-07-07T13:00
+updated: 2026-07-14T19:47
 aliases:
   - reg acc
   - Công việc lia chuột online, tối đa 300k/ngày, làm chừng 2-4 tiếng/ngày
@@ -30,18 +30,15 @@ Do có rủi ro không rút tiền về được (app bắt được gian lận 
 
 ## Thông tin thêm
 Số người cần tuyển:: 0
-Hình thức công việc:: [[Các công việc kiếm tiền nhanh]]
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm qua mạng|Làm online]], [[Không cần đi lại]]
+Hình thức công việc:: [[Kiếm tiền nhanh]]
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm qua mạng|Làm online]], [[Không cần đi lại]]
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Yêu cầu công nghệ:: [[Cần máy tính đủ mạnh]] để chạy được LD Player hiệu quả. Còn không bạn ra tiệm net làm cũng được
-Thời điểm trả tiền:: [[Trả theo tháng]], [[Trả theo tuần]] 
+Tài nguyên, vật dụng cần có sẵn:: [[Cần máy tính đủ mạnh]] để chạy được LD Player hiệu quả. Còn không bạn ra tiệm net làm cũng được
+Thời điểm trả tiền:: [[Theo tháng]], [[Theo tuần]] 
 Đặc điểm khác:: [[Không cần nghe]], [[Không cần nói]], [[Không cần độ tập trung cao]], [[Không tiếp xúc với con người]]
 
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Các công việc kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác. 

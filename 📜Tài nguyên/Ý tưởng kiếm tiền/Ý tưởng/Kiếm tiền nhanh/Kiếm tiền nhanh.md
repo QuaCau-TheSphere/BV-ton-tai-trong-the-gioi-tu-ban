@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2024-06-22T18:55
-updated: 2026-07-07T13:00
+created: 2026-07-14T19:46
+updated: 2026-07-14T19:47
 aliases:
   - thời vụ
   - freelance
@@ -15,7 +15,7 @@ description: "Đây là các công việc không phải là nhân viên của m�
 ---
 Đây là các công việc không phải là nhân viên của một công ty: không có hợp đồng lao động, không có bảo hiểm xã hội. Xem thêm: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
 
-Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Kha khá việc làm trong đây là có thể [[làm qua mạng]]. 
+Tên gọi khác cho những công việc này: thời vụ, cộng tác viên, lương liền, bán thời gian, tạm thời, ngắn hạn, freelance, part-time. Kha khá việc làm trong đây là có thể [[Làm qua mạng]]. 
 
 Cẩn thận với [[Lừa đảo tuyển dụng hoặc môi giới việc làm]].
 

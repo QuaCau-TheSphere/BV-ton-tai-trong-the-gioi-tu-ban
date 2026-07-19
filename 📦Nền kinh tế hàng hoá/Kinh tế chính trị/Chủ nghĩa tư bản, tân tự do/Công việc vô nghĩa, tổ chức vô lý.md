@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T19:23
-updated: 2026-07-07T13:00
+updated: 2026-07-11T12:18
 ---
 Liệu bạn có từng gặp phải những tình huống sau đây không:
 
@@ -25,3 +25,4 @@ Triết gia Harry Frankfurt đưa ra sự phân biệt giữa người nói dố
 [[❓Không dễ kiếm công việc sinh nghiệp mà đáp ứng được các nhu cầu cho cuộc sống đầy đủ (không phải là dư thừa)]]
 [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 [[Làm nhân sự ảo]]
+[[Tư duy thị trường hấp dẫn ở chỗ nó không phán xét]]

@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2026-07-07T12:59
+updated: 2026-07-14T19:47
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ?
@@ -61,9 +61,9 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Tạo ra [[Các công việc kiếm tiền nhanh\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
+| Tạo ra [[Kiếm tiền nhanh\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
 | [[Bao nuôi]], [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
-| [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Gom tài nguyên làm MMO]]                                                                           |
+| [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Tài nguyên làm MMO]]                                                                           |
 | Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
 
 Những hoạt động trên là đầu vào để Nhật làm những hoạt động sau:

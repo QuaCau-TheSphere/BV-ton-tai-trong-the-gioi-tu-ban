@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-10T18:22
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?

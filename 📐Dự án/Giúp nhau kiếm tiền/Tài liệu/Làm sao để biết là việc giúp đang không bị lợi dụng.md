@@ -1,0 +1,16 @@
+---
+share: true
+updated: 2026-07-14T19:43
+created: 2025-05-08T20:31
+---
+Khái niệm:: 
+[[Các lý do cho việc giúp đỡ hoặc không giúp đỡ]]
+[[Không có gì là miễn phí thực sự cả]]
+
+## Tiêu chí
+- Có nền tảng
+- Đối thoại
+
+Câu hỏi: Có nên buộc họ cam kết phải thảo luận, hay là cứ để họ chừng nào muốn thảo luận thì thảo luận? Vì nếu không thì họ sẽ muốn theo đuổi những thách thức mới hơn là muốn thảo luận. Có thể sẽ luôn thấy còn những nhu cầu khác cần được đáp ứng
+
+[[Giúp nhau kiếm tiền]]

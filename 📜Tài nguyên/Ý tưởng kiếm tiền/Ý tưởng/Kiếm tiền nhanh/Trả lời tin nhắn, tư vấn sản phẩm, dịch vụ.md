@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 60% doanh số"
-updated: 2026-07-07T13:00
+updated: 2026-07-10T18:23
 created: 2026-02-27T10:36
 ---
 Mô tả công việc:: 
@@ -16,13 +16,14 @@ Nhập liệu bán hàng
 Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: 
-Hình thức công việc:: [[Làm thuê cho người khác]]
-Kiến thức, kỹ năng:: 
-Nguyên liệu, nguồn thông tin:: 
-Nơi làm việc:: [[Làm qua mạng]], [[TP.HCM]]: Gò Vấp, [[Hà Nội]]: Thanh Trì, Đông Anh, Long Biên
+Hình thức công việc:: [[Làm thuê không có hợp đồng]]
+Kiến thức, kỹ năng cần có sẵn:: 
+Tài nguyên, vật dụng cần có sẵn:: 
+Môi trường làm việc:: [[Làm qua mạng]]
+Địa chỉ làm việc:: [[TP.HCM]]: Gò Vấp, [[Hà Nội]]: Thanh Trì, Đông Anh, Long Biên
 Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Yêu cầu công nghệ:: [[Có laptop]]
-Thời điểm trả tiền:: [[Trả theo tuần]]: t7 hàng tuần
+Tài nguyên, vật dụng cần có sẵn:: [[Có laptop]]
+Thời điểm trả tiền:: [[Theo tuần]]: t7 hàng tuần
 Đặc điểm khác::
 
 ## Nơi thảo luận

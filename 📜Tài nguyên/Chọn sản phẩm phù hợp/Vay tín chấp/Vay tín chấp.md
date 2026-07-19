@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2026-07-07T12:59
+updated: 2026-07-11T11:48
 title: Các dịch vụ vay tín chấp
 aliases:
   - Các hình thức cho vay

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e24674f3b2adb11",
+        "id": "86cff994bb51bb5c",
         "type": "tabs",
         "children": [
           {
-            "id": "1ed88478c76284fd",
+            "id": "f1d6c1ebb7c73651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Kinh tế vĩ mô/Hiện trạng/Kinh tế tư nhân đến năm 2002 mới được thừa nhận là một thành phần kinh tế.md",
+                "file": "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Có cuộc sống tốt hơn trong đô thị.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kinh tế tư nhân đến năm 2002 mới được thừa nhận là một thành phần kinh tế"
-            }
-          },
-          {
-            "id": "ed5e9f3e86275af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Việc quen biết với bộ phận kiểm định giúp giảm rủi ro bị sa thải khi công ty ra chính sách khó.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Việc quen biết với bộ phận kiểm định giúp giảm rủi ro bị sa thải khi công ty ra chính sách khó"
+              "title": "Có cuộc sống tốt hơn trong đô thị"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Nhìn thấy được người kia đang làm gì làm tăng sự tin tưởng \" ",
+                "query": "path:\"🏢Vận hành doanh nghiệp/Mô hình hoạt động/Pháp nhân/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,11 +179,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "hledger-notes:Add hledger entry": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
@@ -217,48 +190,47 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "open-vscode:VS Code": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "776a43425fc4ec1e",
+  "active": "f1d6c1ebb7c73651",
   "lastOpenFiles": [
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Vấn đề đạo đức khi có lợi ích nhóm.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Những người lập ra quy định cần duy trì những lợi ích ngầm cho một số đối tượng để những người thực hiện quy định còn có nhân sự làm việc.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Việc quen biết với bộ phận kiểm định giúp giảm rủi ro bị sa thải khi công ty ra chính sách khó.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Thiếu liêm chính. Phạm pháp.md",
-    "🏢Vận hành doanh nghiệp/Hệ sinh thái/CLB Doanh nghiệp dẫn đầu. Hiệp hội Doanh nghiệp Hàng Việt Nam Chất lượng cao TP.HCM.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách làm cụ thể/Vi phạm dân sự/Làm kết quả ảo/Các công việc/Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả.md",
-    "🎁Phát triển bền vững. Các nền kinh tế thay thế/Thực trạng/Việc giúp đỡ nhau vì đạo đức sẽ khiến người ta làm trên phương diện cá nhân thay vì đóng góp vào quỹ chung.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/❓Nói một nửa sự thật là nói thật hay nói dối.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Vấn đề đạo đức trong việc lừa dối cấp trên.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Tranh chấp về điều khoản không rõ ràng.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Social engineering.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Rất nhiều luật không thể tốt hơn là vì không thể quản lý nổi.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Lách luật là phạm luật một cách đúng luật.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Khi hỏi là nói dối thế nào thì nạn nhân sẽ thấy bí, nhưng việc bị bí không làm mất đi cảm giác là đã bị nói dối.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Công nghệ vừa làm tăng sự phức tạp của vấn đề, vừa làm giảm khả năng hiểu được vấn đề của chúng ta.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Có hai quan điểm chính khi bị trục lợi.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định/Chúng ta có cảm xúc cổ đại, thiết chế thời trung đại và công nghệ của chúa.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Bởi vì không ai quản trị mãi mãi, nên việc ủng hộ người thân của người cấp trên là chiến lược để những người cấp dưới bảo đảm tài nguyên của mình.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm, không làm đúng trách nhiệm/Vấn đề đạo đức khi có lợi ích nhóm.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm, không làm đúng trách nhiệm/Việc quen biết với bộ phận kiểm định giúp giảm rủi ro bị sa thải khi công ty ra chính sách khó.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm, không làm đúng trách nhiệm/Nhánh lập pháp cần duy trì những lợi ích ngầm cho một số đối tượng để nhánh hành pháp còn có nhân sự làm việc.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm, không làm đúng trách nhiệm/Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm, không làm đúng trách nhiệm/Bởi vì không ai quản trị mãi mãi, nên việc ủng hộ người thân của người cấp trên là chiến lược để những người cấp dưới bảo đảm tài nguyên của mình.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm, không làm đúng trách nhiệm",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lợi ích nhóm/Việc quen biết với bộ phận kiểm định giúp giảm rủi ro bị sa thải khi công ty ra chính sách khó.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Tạo kỳ vọng sai, lách quy định, cam kết",
-    "🏢Vận hành doanh nghiệp/Hệ sinh thái",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Lách quy định",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý/Quản lý lỏng lẻo",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách làm cụ thể",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách làm cụ thể/Vi phạm hình sự/Không làm đúng trách nhiệm",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Giữ lòng trung thành với người mình cần dùng.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Giúp nhau.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Phản kháng với bất công.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Thỏa mãn ham muốn.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Có cuộc sống tốt hơn trong đô thị.md",
+    "🏢Vận hành doanh nghiệp/Nhân sự/Trong tương lai sẽ bắt buộc sử dụng hợp đồng lao động điện tử.md",
+    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Tiêu chí giúp đỡ. Mức độ ưu tiên, chấp nhận chịu khó, đánh đổi.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Xác định nhu cầu làm cộng tác viên của ngươi khuyết tật.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Xác định nhu cầu bảo hiểm của người thân, bạn bè, hàng xóm của người khuyết tật.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Thanh Thanh.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng/Người khuyết tật/Cộng tác viên khuyết tật.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định nhu cầu bảo hiểm của người thân, hàng xóm của người bị ung thư.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Phỏng vấn người làm phi lợi nhuận.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/ngân.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Nghiên cứu người dùng.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về tỉ lệ chuyển đổi.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về nguồn tuyển dụng cho Cathay.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về nguồn khách hàng tiềm năng.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường/Sinh viên sắp ra trường.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường/Cần nhiều sinh viên sắp ra trường add friend.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng/Người khuyết tật",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp khách hàng tiềm năng/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc/Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người có xe/Tìm người mua bảo hiểm xe máy.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Doanh nghiệp/Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất.md",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp khách hàng tiềm năng",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc",
+    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người có xe",
     "Ξ Thiết lập/Ảnh/Pasted image 20260703121921.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154747.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154617.png",

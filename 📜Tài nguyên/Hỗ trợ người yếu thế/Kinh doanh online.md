@@ -1,11 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-10T14:52
 ---
-Tính chất công việc:: [[Cần có vốn]]
-Tính chất công việc:: [[Không tốn diện tích]]
-Hình thức:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Tự kinh doanh, đầu tư]]
+Tính chất công việc: Cần có vốn, Không tốn diện tích
+Xem thêm:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Tự kinh doanh, đầu tư]]
 
 [Chị Em Kinh Doanh Online](https://www.facebook.com/groups/482840957460226)
 [Kho chuyện khởi nghiệp cho cá nhân kinh doanh nhỏ](https://avayha.com/). [Top 16 ý tưởng kinh doanh online và kinh nghiệm thực tế (cập nhật liên tục) - A Vậy Hả](https://avayha.com/top-y-tuong-kinh-doanh-online-va-kinh-nghiem-thuc-te/)

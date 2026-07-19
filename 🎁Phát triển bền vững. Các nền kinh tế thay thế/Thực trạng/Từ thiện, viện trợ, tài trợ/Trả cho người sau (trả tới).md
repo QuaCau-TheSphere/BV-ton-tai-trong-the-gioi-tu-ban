@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-13T18:24
+created: 2026-01-09T12:30
 ---
 Khái niệm:: 
 [[Vấn đề của sự giúp đỡ không phải vì mọi người thiếu sự hào phóng, mà bởi vì ta không đặt yêu cầu]]

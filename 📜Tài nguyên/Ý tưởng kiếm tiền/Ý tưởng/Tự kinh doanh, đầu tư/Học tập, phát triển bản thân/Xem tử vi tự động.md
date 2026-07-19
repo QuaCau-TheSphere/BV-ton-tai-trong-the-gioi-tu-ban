@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-08T20:38
 ---
 Tính chất công việc:: [[Hiểu về hệ thống]]
 Hình thức:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Tự kinh doanh, đầu tư]]
@@ -13,6 +13,7 @@ Như bài [này](https://www.facebook.com/groups/binhdanhocai/permalink/64671563
 luận không phải là đoán
 Ranh giới giữa học thuật và ảo thuật rất mong manh
 [TuVi PKB — Tử vi Đẩu số Personal Knowledge Database](https://www.tuvi-pkb.com/)
+[Tạo lịch thơ của riêng bạn — miễn phí \| TuVi PKB](https://lich.tuvi-pkb.com/)
 
 ## Không có demo
 Vì không thực sự nắm chắc kết quả của một tương tác cụ thể

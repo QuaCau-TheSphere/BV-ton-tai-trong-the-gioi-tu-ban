@@ -5,7 +5,6 @@
   "obsidian-auto-link-title",
   "better-inline-fields",
   "better-word-count",
-  "obsidian42-brat",
   "dataview",
   "obsidian-divide-and-conquer",
   "file-diff",
@@ -31,12 +30,11 @@
   "obsidian-html-tags-autocomplete",
   "darlal-switcher-plus",
   "hot-reload",
-  "open-vscode",
-  "obsidian-excalidraw-plugin",
   "folder-notes",
   "image-to-text-ocr",
   "dataview-autocompletion",
   "hledger-notes",
   "simple-columns",
-  "obsidian-path-finder"
+  "obsidian-path-finder",
+  "open-with"
 ]

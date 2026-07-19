@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-08T21:13
 created: 2025-06-12T23:19
 ---
 Tôi nghĩ nông dân ở Việt Nam về lâu về dài còn chơi theo quy luật thị trường để tạo lợi nhuận dư thì họ còn thua dài. Vì nông nghiệp là vận động theo mùa, theo quy luật tự nhiên. Còn phương thức sản xuất của chủ nghĩa tư bản là chạy theo lợi nhuận, theo số lượng, phải sản xuất dư thừa.
@@ -12,3 +12,7 @@ Nếu sản phẩm nông nghiệp sản xuất thừa thì ai ăn cho hết? Cá
 Vì thế giải pháp duy nhất mà người nông dân phải thay đổi tư duy và hành động là chấp nhận một nền kinh tế vừa đủ. Một lượng người vừa đủ để nuôi mảnh vườn, mảnh ruộng của họ. Một sự cam kết lâu dài trong mạng lưới nhiều bên để cùng chia sẻ rủi ro với người nông dân.
 
 Thật sự đây là điều rất khó, vì chúng ta bị điên rồi, chúng ta đang chơi một cái game mà chúng ta không thể thắng được nếu mà chơi đơn lẻ.
+
+
+Khái niệm:: [[Tiêu dùng]]
+[[Tăng trưởng xanh đến nay vẫn chỉ là giấc mơ của mô hình tiêu thụ vô hạn trong một thế giới hữu hạn]]

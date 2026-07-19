@@ -1,9 +1,9 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-08T21:02
+created: 2025-11-25T22:07
 ---
 Khái niệm:: 
 Nguồn:: [[VCIL]]
 [[Mua đất lập vườn có khi làm kích hoạt giá đất]]
-[[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]]
+[[Đừng bỏ việc thành phố ngay lập tức. Hãy giữ công việc cũ trong giai đoạn đầu. Cuối tuần về quê làm, tích lũy kinh nghiệm]]

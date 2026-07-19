@@ -1,9 +1,9 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-13T18:23
 aliases:
   - gọi vốn tập thể
+created: 2025-12-13T12:14
 ---
 Khái niệm:: 
 [[Từ thiện và những thứ có vẻ giống như nó]]

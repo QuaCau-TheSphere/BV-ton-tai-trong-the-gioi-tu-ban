@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-11-01T10:12
-updated: 2026-07-08T13:33
+updated: 2026-07-11T12:25
 aliases:
   - Các hình thức của sự tệ
   - Tư bản
@@ -11,6 +11,8 @@ aliases:
   - Lừa đảo
   - Gian lận
 ---
+[[Tư duy thị trường hấp dẫn ở chỗ nó không phán xét]]
+
 # Các hình thức của sự tệ
 Đứng tên giùm thì không biết có tính là thiếu liêm chính hay không. Chắc là tùy người. Cơ bản là có hại ai hay không.
 
@@ -57,3 +59,6 @@ Mặt khách thể:
 [[Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự]]. [[Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự]]
 [[Nếu có hành vi gian dối nhằm mục đích chiếm đoạt tài sản thì mới cấu thành tội phạm. Nếu không thì chỉ là vi phạm về dân sự, kinh tế]]
 [[Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật]]
+
+[[❓Không dễ kiếm công việc sinh nghiệp mà đáp ứng được các nhu cầu cho cuộc sống đầy đủ (không phải là dư thừa)]]
+[[Công việc vô nghĩa, tổ chức vô lý]]

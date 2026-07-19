@@ -1,8 +1,0 @@
----
-share: true
-
-updated: 2025-09-09T19:32
----
-Khái niệm:: 
-
-Nguồn:: 

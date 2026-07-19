@@ -18,11 +18,11 @@ Số tiền đầu tư::
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 
 Hình thức công việc::
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm qua mạng]]
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm qua mạng]]
 Thời gian làm việc::
-Yêu cầu công nghệ::
+Tài nguyên, vật dụng cần có sẵn::
 Thời điểm trả tiền::
 Đặc điểm khác::
 

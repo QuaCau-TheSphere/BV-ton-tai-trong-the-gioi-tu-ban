@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-18T20:49
 title: Các ý tưởng kinh doanh, đầu tư
 aliases:
   - Đầu tư kinh doanh bán hàng
@@ -31,9 +31,11 @@ FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đ
 ```
 
 ## Xem thêm
-- [[Thành lập tổ chức]]
+- [[Mô hình hoạt động]]
 - [[Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch]]
-
+- [[Chủ nghĩa tư bản không chỉ phụ thuộc vào việc tạo ra tình trạng bất an trên diện rộng mà còn tái tạo tình trạng bất an này trong chính huyết mạch của nó]]
+- [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]
+- 
 ## Nơi thảo luận
 Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)

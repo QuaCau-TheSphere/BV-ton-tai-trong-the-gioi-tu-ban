@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-10T01:02
-updated: 2026-07-07T13:00
+updated: 2026-07-14T20:14
 ---
 Khái niệm:: 
 Cộng đồng tiếng Anh:
@@ -14,5 +14,7 @@ Muốn làm tốt hơn thì tạo thành một nhóm cung cấp dịch vụ (age
 
 ## Xem thêm
 - [[Giúp nhau kiếm tiền]]
+- [[Làm ngoài đường|Những công việc có thể kết hợp làm chung khi phải di chuyển đến nhiều địa điểm khác nhau]]
+- [[Nhóm môi giới, đại lý]]
 - [[Làm nhân sự ảo]]
 - [[Công việc vô nghĩa, tổ chức vô lý]]

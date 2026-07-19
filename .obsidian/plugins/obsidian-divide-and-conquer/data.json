@@ -10,6 +10,6 @@
   "filterUsingDescription": false,
   "initializeAfterPluginChanges": true,
   "reloadAfterPluginChanges": false,
-  "disabledStates": "{\"plugins\":[[\"metadata-menu\",\"obsidian-git\",\"obsidian-excalidraw-plugin\",\"dbfolder\",\"notion-like-tables\",\"obsidian-contextual-typography\"]]}",
-  "snapshots": "{\"plugins\":[\"metadata-menu\",\"obsidian-git\",\"obsidian-excalidraw-plugin\",\"dbfolder\",\"notion-like-tables\",\"obsidian-contextual-typography\"]}"
+  "disabledStates": "{\"plugins\":[[\"open-vscode\",\"image-captions\",\"obsidian-excalidraw-plugin\",\"notion-like-tables\",\"obsidian-contextual-typography\"]]}",
+  "snapshots": "{\"plugins\":[\"open-vscode\",\"image-captions\",\"obsidian-excalidraw-plugin\",\"notion-like-tables\",\"obsidian-contextual-typography\"]}"
 }

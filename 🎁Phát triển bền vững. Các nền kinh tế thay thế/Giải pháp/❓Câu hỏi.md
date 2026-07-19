@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-17T21:28
 created: 2025-09-09T19:29
 ---
 Người nghèo không có được xa xỉ làm chánh nghiệp, mà bị buộc phải chọn làm hoại nghiệp? 

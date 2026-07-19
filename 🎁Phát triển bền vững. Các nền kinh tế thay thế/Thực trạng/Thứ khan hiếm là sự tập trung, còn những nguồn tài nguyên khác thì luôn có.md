@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-18T20:33
 created: 2025-10-20T09:52
 ---
 Khái niệm:: [[Khan hiếm]]
@@ -12,3 +12,5 @@ Khái niệm:: [[Khan hiếm]]
 [[Đi cùng với khái niệm bền vững là khan hiếm]]
 Nguồn:: 
 [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]
+
+[[Làm sao để kiếm dòng tiền từ tài sản vô hình]]

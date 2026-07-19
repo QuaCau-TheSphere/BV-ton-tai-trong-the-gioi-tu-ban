@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2026-07-07T13:00
+updated: 2026-07-08T21:02
 aliases:
   - Ý tưởng tiết kiệm
   - Giúp nhau sống vừa đủ, bền vững, tiết kiệm
@@ -19,6 +19,6 @@ WHERE file.name != this.file.name
 ```
 
 Xem thêm:: [[Nền kinh tế vừa đủ]]
-[[Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu]]
+[[Đừng bỏ việc thành phố ngay lập tức. Hãy giữ công việc cũ trong giai đoạn đầu. Cuối tuần về quê làm, tích lũy kinh nghiệm]]
 
 ![[[Public] Cẩm nang Hội viên Vcil 1.0.pdf]]

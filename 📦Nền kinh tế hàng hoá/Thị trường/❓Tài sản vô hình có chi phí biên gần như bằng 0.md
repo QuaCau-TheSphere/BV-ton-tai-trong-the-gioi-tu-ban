@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-18T20:33
 created: 2025-12-20T15:28
 ---
 Khái niệm:: [[Tài sản vô hình]], [[Chi phí biên]]

@@ -1,8 +1,0 @@
----
-share: true
-
-updated: 2026-04-02T17:20
----
-Khái niệm:: 
-[[VPBank]]
-Nguồn:: [Ngân hàng Dầu khí toàn cầu GPBank được chuyển giao bắt buộc về VPBank](https://vnexpress.net/ngan-hang-dau-khi-toan-cau-duoc-chuyen-giao-bat-buoc-ve-vpbank-4840063.html)

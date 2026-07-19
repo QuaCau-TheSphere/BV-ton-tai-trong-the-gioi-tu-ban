@@ -1,7 +1,7 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-13T18:30
 created: 2025-09-05T10:44
 ---
-Khái niệm:: 
+Khái niệm:: [[Nông nghiệp, nông thôn]]
 [[Điều gì khiến một người không muốn từ bỏ thiết chế tư bản]]

@@ -1,28 +1,30 @@
 ---
 share: true
 description: "Số tiền kiếm được: 5% doanh số lương của người tuyển đc hoặc 1 tr hoa hồng sau khi họ làm việc 2 tuần"
-updated: 2026-07-07T13:00
+updated: 2026-07-10T18:23
 created: 2025-10-07T17:12
 ---
 
-| Vị trí cần tuyển                                                    | Số tiền kiếm được                                                          | Tài nguyên                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Học làm đại lý Bảo Việt\|Đại lý mới Bảo Việt]]                    | 200k/người                                                                 |                                                                                                                                                                                                                                          |
-| [[Trả lời tin nhắn, tư vấn sản phẩm, dịch vụ\|CTV tư vấn sản phẩm]] | 5% doanh số lương của người tuyển được hoặc 1tr sau khi họ làm việc 2 tuần |                                                                                                                                                                                                                                          |
-| Đáp viên, khách thể cho khảo sát, phỏng vấn                         | 100k/người                                                                 | [[Kiếm người sẵn sàng cho mình hỏi\|Làm sao để kiếm người nhận làm phỏng vấn?]]                                                                                                                                                          |
-| Người muốn được đáp ứng nhu cầu công việc                           | 100% doanh thu                                                             | [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.4M.2) |
+| Vị trí cần tuyển                                             | Số tiền kiếm được                                                          | Tài nguyên                                                                                                                                                                                                                               |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Đại lý Bảo Việt                                              | 200k/người                                                                 | [[Học làm đại lý Bảo Việt]]                                                                                                                                                                                                              |
+| CTV tư vấn sản phẩm                                          | 5% doanh số lương của người tuyển được hoặc 1tr sau khi họ làm việc 2 tuần | [[Trả lời tin nhắn, tư vấn sản phẩm, dịch vụ]]                                                                                                                                                                                           |
+| Đáp viên, khách thể cho khảo sát, phỏng vấn                  | 100k/người                                                                 | [[Kiếm người sẵn sàng cho mình hỏi\|Làm sao để kiếm người nhận làm phỏng vấn?]]                                                                                                                                                          |
+| Người thuê nhà                                               |                                                                            | [[Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM]]                                                                                                                                                                                           |
+| Người muốn được đáp ứng nhu cầu công việc                    | 100% doanh thu                                                             | [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.4M.2) |
+| Người muốn được giúp kiếm tiền, kiếm khách, tuyển dụng, v.v. | 100% doanh thu                                                             | [[Giúp nhau kiếm tiền\|Nhóm giúp nhau kiếm tiền]]                                                                                                                                                                                        |
 
 ## Thông tin thêm
 Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: ∞
-Hình thức công việc:: [[Làm thuê cho người khác]]
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin:: [[Mối quan hệ cá nhân]]
-Nơi làm việc:: [[Làm qua mạng]]
+Hình thức công việc:: [[Làm thuê không có hợp đồng]]
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn:: [[Có nhiều mối quan hệ cá nhân]]
+Môi trường làm việc:: [[Làm qua mạng]]
 Thời gian làm việc:: [[Tự chủ động]]
-Yêu cầu công nghệ:: [[Không]]
-Thời điểm trả tiền:: [[Trả ngay sau khi hoàn thành công việc]]
+Tài nguyên, vật dụng cần có sẵn:: [[Không cần máy tính]]
+Thời điểm trả tiền:: [[Ngay sau khi hoàn thành công việc]]
 Đặc điểm khác:: [[Không cần độ tập trung cao]]
 Công việc liên quan::
 Tên khác::

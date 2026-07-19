@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2026-07-07T13:00
+updated: 2026-07-14T19:47
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: Sinh từ năm 2001 trở đi thì được 900k, sinh trước năm 2000 thì được 2tr
@@ -42,12 +42,12 @@ Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: ∞
 Hình thức công việc::
-Kiến thức, kỹ năng::
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm văn phòng]]
+Kiến thức, kỹ năng cần có sẵn::
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm văn phòng]]
 Thời gian làm việc:: [[Tùy vào lịch được cho sẵn]]
-Yêu cầu công nghệ:: [[Không]]
-Thời điểm trả tiền:: [[Trả ngay sau khi hoàn thành công việc]]
+Tài nguyên, vật dụng cần có sẵn:: [[Không cần máy tính]]
+Thời điểm trả tiền:: [[Ngay sau khi hoàn thành công việc]]
 Đặc điểm khác::
 
 ## Nơi thảo luận
@@ -55,4 +55,4 @@ Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
 
 > [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Các công việc kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.
+> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.

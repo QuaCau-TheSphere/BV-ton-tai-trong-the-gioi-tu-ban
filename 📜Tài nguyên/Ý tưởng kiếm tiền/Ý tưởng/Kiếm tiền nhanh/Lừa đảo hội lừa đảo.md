@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-14T19:47
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -30,12 +30,12 @@ Xem thêm:: [[Vấn đề đạo đức trong việc lừa dối cấp trên|V�
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 
-Hình thức công việc:: [[Các công việc kiếm tiền nhanh]]
-Kiến thức, kỹ năng:: [[Cần biết cách ẩn danh]]
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm qua mạng]]
+Hình thức công việc:: [[Kiếm tiền nhanh]]
+Kiến thức, kỹ năng cần có sẵn:: [[Biết cách ẩn danh]]
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm qua mạng]]
 Thời gian làm việc::
-Yêu cầu công nghệ::
+Tài nguyên, vật dụng cần có sẵn::
 Thời điểm trả tiền::
 Đặc điểm khác::
 

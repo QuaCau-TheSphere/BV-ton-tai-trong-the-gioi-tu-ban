@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: 70k/h"
-updated: 2026-07-07T13:00
+updated: 2026-07-10T17:34
 created: 2025-06-06T12:45
 ---
 Mô tả công việc:: Đánh giá độ chính xác và chất lượng các truy vấn (queries) của người dùng internet 
@@ -37,11 +37,11 @@ Số tiền đầu tư:: 0
 Số tiền đặt cọc:: 0
 Số người cần tuyển:: ∞
 Hình thức công việc:: 
-Kiến thức, kỹ năng:: [[Biết tiếng Anh]]
-Nguyên liệu, nguồn thông tin::
-Nơi làm việc:: [[Làm qua mạng]]
+Kiến thức, kỹ năng cần có sẵn:: [[Tiếng Anh]]
+Tài nguyên, vật dụng cần có sẵn::
+Môi trường làm việc:: [[Làm qua mạng]]
 Thời gian làm việc::
-Yêu cầu công nghệ::
+Tài nguyên, vật dụng cần có sẵn::
 Thời điểm trả tiền::
 Đặc điểm khác::
 

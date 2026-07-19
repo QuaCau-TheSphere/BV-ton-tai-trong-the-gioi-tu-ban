@@ -1,0 +1,11 @@
+---
+share: true
+updated: 2026-07-17T15:23
+created: 2025-05-19T13:40
+---
+- Tài khoản ảo là tài khoản có sđt nhận hàng khác với sđt đăng kí tài khoản
+- Đơn ảo là đơn mà khi bộ phận CSKH gọi để xác nhận thì không bắt máy, kiểm tra Zalo không thấy. Chủ yếu là đơn phúc lợi mới bị kiểm tra?
+
+Cả tài khoản ảo vào đơn phúc lợi ảo đều sẽ bị khoá tài khoản
+
+[[Tạo kết quả ảo]]

@@ -1,10 +1,11 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+created: 2025-09-02T21:22
+updated: 2026-07-12T14:08
 title: Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?
 Aliases:
   - Lý do, tại sao, vì sao
-created: 2025-09-02T21:22
+  - không chịu
 ---
 - Khi có thể huy động tư bản để làm bàn đạp xây dựng hệ thống mới
 - Khi có thêm một chân rết trong thiết chế tư bản

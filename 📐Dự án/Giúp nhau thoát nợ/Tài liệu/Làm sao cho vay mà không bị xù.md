@@ -1,7 +1,9 @@
 ---
 share: true
-updated: 2026-07-06T21:39
+blog: working
+updated: 2026-07-18T21:20
 created: 2025-08-17T09:07
+description: Làm cho người vay thấy rằng thứ bạn chưa cho những có thể cho họ lớn hơn số tiền mà họ được vay.
 ---
 Sự tin tưởng vào con người trong đô thị Việt Nam đang ở mức thấp, vì không ai kiểm soát được 
 Về việc xù thì quỹ sẽ cư xử văn minh, không thuê ai đòi nợ cả. Một đứa xù thì cả lũ phải chịu. Để điều này xảy ra thì cần giải quyết được hai vấn đề:
@@ -54,3 +56,7 @@ Ngoài việc yêu cầu phải hoàn thành [[Bản câu hỏi cho người c�
 Có lẽ câu hỏi tốt hơn không phải là "nhỡ bị xù thì sao", mà là "làm sao để hạn chế bị xù", và "phải làm gì để việc xù không gây ảnh hưởng".
 
 [Thủ thuật đòi nợ khi bị 'xù' - Báo VnExpress](https://vnexpress.net/thu-thuat-doi-no-khi-bi-xu-2848574.html)
+
+
+Làm sao để người vay thấy rằng thứ bạn chưa cho những có thể cho họ lớn hơn số tiền mà họ được vay.
+
