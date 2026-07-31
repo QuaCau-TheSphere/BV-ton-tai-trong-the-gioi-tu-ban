@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-14T19:47
+updated: 2026-07-27T02:26
 aliases:
   - Xây dựng cộng đồng có chủ đích ở TP.HCM
   - hợp tác xã nhà ở

@@ -2,7 +2,7 @@
 share: true
 created: 2024-10-16T20:14
 description: Đâu là những môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc?
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 aliases:
   - nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn
   - ung thư

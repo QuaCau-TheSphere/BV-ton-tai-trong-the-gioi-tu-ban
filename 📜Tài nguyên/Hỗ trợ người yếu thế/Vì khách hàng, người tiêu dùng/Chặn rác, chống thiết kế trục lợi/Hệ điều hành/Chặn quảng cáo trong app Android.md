@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-01T21:16
-updated: 2026-07-11T12:24
+updated: 2026-07-27T02:26
 ---
 Root máy rồi cài adblock trên Google Play/F-droid
 

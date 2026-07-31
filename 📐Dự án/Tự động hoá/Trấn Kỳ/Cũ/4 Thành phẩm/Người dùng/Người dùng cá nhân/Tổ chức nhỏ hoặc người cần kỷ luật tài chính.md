@@ -5,7 +5,7 @@ aliases:
   - Kế hoạch nghiên cứu người cần kỷ luật tài chính
   - Nghiên cứu người cần kỷ luật tài chính
   - Các nghiên cứu người cần kỷ luật tài chính
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 [[Một số ví dụ về mục tiêu nghiên cứu]]
 [[Phỏng vấn]]

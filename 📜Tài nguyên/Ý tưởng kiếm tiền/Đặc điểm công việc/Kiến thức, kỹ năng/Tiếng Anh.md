@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-07T22:25
-updated: 2026-07-10T17:34
+updated: 2026-07-27T02:26
 title: Các công việc cần dùng tiếng Anh
 ---
 ```dataview

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-07T11:46
-updated: 2026-07-10T17:23
+updated: 2026-07-27T02:26
 title: Các công việc trả theo ngày
 ---
 ```dataview

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-06T21:39
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 [[Lập trình là một cái gì đó thâm nhập vào đời sống của chúng ta, nhưng lại gần như vô hình]]. [[Nếu bạn không kiểm soát chương trình bạn dùng, người khác sẽ kiểm soát nó]]. Vì [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]]

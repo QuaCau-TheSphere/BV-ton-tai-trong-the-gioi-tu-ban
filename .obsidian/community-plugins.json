@@ -29,12 +29,11 @@
   "obsidian-editor-shortcuts",
   "obsidian-html-tags-autocomplete",
   "darlal-switcher-plus",
-  "hot-reload",
   "folder-notes",
   "image-to-text-ocr",
   "dataview-autocompletion",
   "hledger-notes",
-  "simple-columns",
   "obsidian-path-finder",
-  "open-with"
+  "open-with",
+  "image-captions"
 ]

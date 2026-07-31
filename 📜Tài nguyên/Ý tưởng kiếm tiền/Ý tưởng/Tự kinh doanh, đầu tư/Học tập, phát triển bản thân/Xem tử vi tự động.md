@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-08T20:38
+updated: 2026-07-27T02:26
 ---
 Tính chất công việc:: [[Hiểu về hệ thống]]
 Hình thức:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Tự kinh doanh, đầu tư]]

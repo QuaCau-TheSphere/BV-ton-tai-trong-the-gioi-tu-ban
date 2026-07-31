@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
+created: 2025-06-11T16:23
 ---
 ![Vcil Members' Talks #7: Kiến Tạo Sinh Nghiệp Thúc Đẩy Sự Thay Đổi Lối Sống và Chuỗi Thực Phẩm - YouTube](https://youtu.be/QR6yMaEwgCs?si=5vdpVdbR3zAqoXLZ)
 # Tái Hình Dung Hệ Thống Thực Phẩm: Giới Thiệu Câu Lạc Bộ Tiêu Dùng Vcil (Vcil Consumers Club)

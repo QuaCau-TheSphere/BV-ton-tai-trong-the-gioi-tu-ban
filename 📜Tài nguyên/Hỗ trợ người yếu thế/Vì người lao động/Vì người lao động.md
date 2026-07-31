@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-13T19:57
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 ## Lao động ngoài trời
 ![[ICAN (hình 1).png]]

@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:22
+created: 2025-09-03T21:04
 ---
 Khái niệm:: 
 theo số liệu của WorldBank, mức độ tiếp cận tín dụng của người dân Việt Nam qua khảo sát các khoản vay trong một năm là 46,84%. Nhưng tỷ lệ người dân có các khoản vay tại tổ chức tài chính là 18,45%. Điều này cũng đồng nghĩa với việc một lượng lớn người dân vay vốn qua các hình thức khác, có thể là qua các cửa hiệu cầm đồ, tín dụng đen, vay người thân...

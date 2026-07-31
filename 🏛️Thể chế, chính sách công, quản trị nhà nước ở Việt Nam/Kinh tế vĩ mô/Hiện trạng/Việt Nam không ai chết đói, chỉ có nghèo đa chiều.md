@@ -1,12 +1,15 @@
 ---
 share: true
 created: 2024-10-07T00:30
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
 aliases:
   - Tiêu chí mức độ thiếu hụt dịch vụ xã hội cơ bản
   - Tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025
+  - Việt Nam không ai chết đói
 ---
 Khái niệm:: [[Nghèo, người nghèo]]
+[[Ý tưởng tiết kiệm tiền mua đồ ăn]]
+[[Nông nghiệp sinh thái ở Việt Nam]]
 
 Đây là mức ở thành thị. Ở nông thôn thì tất cả các con số thu nhập giảm 500k
 
@@ -49,4 +52,4 @@ Tiếp cận thông tin:
 
 
 Nguồn:: [Nghị định 07/2021/NĐ-CP quy định chuẩn nghèo đa chiều giai đoạn 2021 2025 mới nhất](https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Nghi-dinh-07-2021-ND-CP-quy-dinh-chuan-ngheo-da-chieu-giai-doan-2021-2025-463908.aspx)
-![](https://www.gso.gov.vn/wp-content/uploads/2024/04/image004-1.png) 
+![[Các tiêu chí hộ nghèo.png]]

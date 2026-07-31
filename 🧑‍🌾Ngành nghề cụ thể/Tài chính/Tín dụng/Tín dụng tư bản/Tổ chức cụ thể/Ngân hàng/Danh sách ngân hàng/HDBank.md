@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2025-08-31T11:15
-updated: 2026-07-07T13:00
+created: 2026-07-29T18:36
+updated: 2026-07-29T18:36
 ---
 Tên thương hiệu:: HDBank
 Phân loại:: [[Thương mại Cổ phần]]

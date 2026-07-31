@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-08T12:01
-updated: 2026-07-18T21:28
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Thương lượng tập thể]], [[Thoả ước tập thể]]
 

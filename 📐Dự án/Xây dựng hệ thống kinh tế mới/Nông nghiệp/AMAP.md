@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
+created: 2025-08-16T16:10
 ---
 Mua giá sỉ, mua chung
 Cửa hàng bách hoá của mình sẽ cam kết về mặt hợp đồng với bên trang trại. 

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-17T15:23
+updated: 2026-07-27T02:26
 created: 2025-05-19T13:40
 ---
 - Tài khoản ảo là tài khoản có sđt nhận hàng khác với sđt đăng kí tài khoản

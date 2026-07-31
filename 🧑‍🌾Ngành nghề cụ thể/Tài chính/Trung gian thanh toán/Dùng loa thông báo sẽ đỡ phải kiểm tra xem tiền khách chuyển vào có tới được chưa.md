@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:22
 ---
 Hiện tại đã có công cụ để làm giả ảnh chuyển khoản ngân hàng, nên mình cần phải kiểm tra tiền tới tài khoản chưa. Nhưng việc đó thì làm nhức đầu
 

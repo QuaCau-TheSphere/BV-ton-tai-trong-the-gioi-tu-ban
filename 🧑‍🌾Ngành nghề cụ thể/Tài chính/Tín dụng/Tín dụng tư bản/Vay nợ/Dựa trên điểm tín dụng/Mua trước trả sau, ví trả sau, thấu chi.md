@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-30T16:34
 created: 2025-05-11T01:48
 ---
-Khái niệm:: [[Mua trước trả sau]]
+Khái niệm:: [[Mua trước trả sau. Ví trả sau]]
 [[Thấu chi tính lãi ngày và chỉ được miễn lãi 1 ngày. Nợ thẻ tín dụng được miễn lãi 45 ngày]]
 [[❓Sự khác biệt giữa mua trái phiếu và sổ tiết kiệm, giữa phát hành trái phiếu và vay nợ]]
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T23:01
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 description: Các thông tin để bạn thẩm định việc cho Trí vay
 ---
 # Hồ sơ của Đỗ Hàng Minh Trí

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-06-27T22:05
-updated: 2026-07-17T15:54
+updated: 2026-07-27T02:22
 ---
-Khái niệm:: [[Rửa tiền]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Rửa tiền]]
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì mã QR nhận tiền đã được đăng ký từ đầu là để bán hàng rồi. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. 
 
 Một cửa hàng hoàn toàn có thể vi phạm chính sách, như gian lận để ăn khuyến mãi, rút tiền đáo hạn hay thậm chí là rửa tiền bẩn. Nếu phát hiện ra hành vi này thì các ví điện tử có quyền hủy điểm bán đó chấm dứt hợp đồng. Cái này y chang như bảo hiểm. Nhưng việc này ngân hàng cũng không biết.

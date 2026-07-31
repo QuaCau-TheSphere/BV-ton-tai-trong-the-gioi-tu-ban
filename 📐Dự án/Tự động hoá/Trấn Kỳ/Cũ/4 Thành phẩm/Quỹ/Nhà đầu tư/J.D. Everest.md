@@ -3,7 +3,7 @@ share: true
 created: 2023-10-30T14:29
 aliases:
   - jdeverest
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 # Buổi gặp 1
 ## Nội dung chính
@@ -37,13 +37,14 @@ sinking fund: tiền còn dư từ capital fund,
 giới thiệu private banking bên đay
 
 fund để phát triển
-
-[LinkedIn của người sáng lập](https://www.linkedin.com/in/swimano/)
+[J.D.Everest – Sustainable Prosperity](https://www.jdeverest.com/)
+[J.D. Everest \| LinkedIn](https://www.linkedin.com/company/jdeverest/?originalSubdomain=sg). [LinkedIn của người sáng lập](https://www.linkedin.com/in/swimano/)
 - Thạc sĩ hệ thống thông tin
 - Founder Yeah1TV, phim Để Mai Tính, Long Ruồi
 - Đồng sáng lập Quỹ Đầu tư Khởi nghiệp Quốc gia (Vietnam Startup Investment Fund – VNSIF) (❓không tìm thấy website?) 
 - Làm việc với bộ khoa học kỹ thuật về không gian làm việc cho startup
-
+[J.D.Everest \| Facebook](https://www.facebook.com/profile.php?id=61552409443938)
+[Facebook](https://www.facebook.com/nhut.minh.73)
 [Huy Nguyen](https://www.facebook.com/profile.php?id=100000718890989)
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61550794873460%2Fvideos%2F274851804937626%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 

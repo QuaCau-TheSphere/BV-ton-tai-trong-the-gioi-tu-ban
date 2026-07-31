@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
-Khái niệm:: [[Luật Việt Nam]], [[Rửa tiền]]
+Khái niệm:: [[Luật Việt Nam]], [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Rửa tiền]]
 Nguồn:: [Kiên quyết xử lý những điểm không được phép kinh doanh dịch vụ rút, chuyển tiền trái phép](https://baothanhhoa.vn/kien-quyet-xu-ly-nhung-diem-khong-duoc-phep-kinh-doanh-dich-vu-rut-chuyen-tien-trai-phep-122634.htm "Kiên quyết xử lý những điểm không được phép kinh doanh dịch vụ rút, chuyển tiền trái phép")
 
 [Xử lý một loạt vụ dùng máy POS “rút tiền hoặc đáo hạn thẻ tín dụng” - Cổng thông tin điện tử thành phố Đà Nẵng - Cổng thông tin thành phố Đà Nẵng](https://danang.gov.vn/vi/w/xu-ly-mot-loat-vu-dung-may-pos-rut-tien-hoac-dao-han-the-tin-dung-i)

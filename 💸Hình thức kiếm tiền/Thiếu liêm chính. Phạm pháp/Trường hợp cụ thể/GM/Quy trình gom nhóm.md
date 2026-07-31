@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-17T15:23
+updated: 2026-07-27T02:26
 title: Quy trình gom nhóm GM Mall
 created: 2025-12-19T10:18
 ---

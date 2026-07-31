@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-28T14:09
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 ---
 Mua hoặc giảm giá cho người ta, đổi lại phải trả lời khảo sát
 86k năm, hoa hồng 20%, đã discount hẳn cho 20k ấy, ko có công luôn

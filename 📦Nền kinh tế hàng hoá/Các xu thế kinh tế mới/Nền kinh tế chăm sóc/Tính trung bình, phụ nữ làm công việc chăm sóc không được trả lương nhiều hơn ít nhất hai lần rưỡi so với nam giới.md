@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Phụ nữ]]
 **Phụ nữ làm 75% khối lượng công việc** chăm sóc không lương trên toàn thế giới, ước tính khoảng **13% GDP toàn cầu**  

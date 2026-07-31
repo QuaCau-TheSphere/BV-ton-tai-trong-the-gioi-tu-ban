@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-09T13:36
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[📜Tài nguyên/Hỗ trợ người yếu thế/Người khuyết tật]]
 **Hình 1. Tỷ lệ khuyết tật của người từ 2 tuổi trở lên và 16 tuổi trở lên** **chia theo khu vực thành thị, nông thôn và vùng năm 2023**

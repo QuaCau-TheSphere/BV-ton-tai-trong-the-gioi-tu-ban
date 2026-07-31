@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-12T19:46
+updated: 2026-07-27T02:26
 created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
@@ -347,3 +347,4 @@ Tại sao các bạn thấy là các bạn được quyền hiểu theo nghĩa c
 Nó tạo ra cảm giác không công bằng.
 
 Những gì các bạn giải thích không có gì mâu thuẫn với những lời mình nói cả.
+việc không minh bạch là thứ gây ra sự thiếu đoàn kết

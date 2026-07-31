@@ -1,11 +1,11 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-30T15:31
 created: 2025-08-23T16:50
 ---
 Khi bạn lên các ngân hàng thương mại hoặc công ty tài chính tiêu dùng (sau đây gọi tắt là ngân hàng) để vay tiền, họ sẽ đánh giá mức độ đáng tin của bạn thông qua một chỉ số gọi là *điểm tín dụng*. Nếu bạn có được điểm tín dụng tốt thì bạn sẽ được vay với lãi thấp hơn và hạn mức cao hơn. Một lần trả nợ trễ hạn là điểm tín dụng của bạn sẽ bị đánh xấu cho cả 5 năm tiếp theo, và sẽ không được ngân hàng nào cho vay cả. Điểm này do Trung tâm Tín dụng Quốc gia (CIC) quản lý, nên cũng hay được gọi là điểm CIC. 
 
-![[Điểm tín dụng của Nhật.png]]
+![[250526.png]]
 <sub>Ảnh điểm tín dụng của một người</sub>
 
 Hệ thống ngân hàng và điểm tín dụng này là hệ thống phục vụ cho tư bản. Mục tiêu của nó là để tối đa hoá lợi nhuận, nên nó xem người đi vay là tài nguyên để khai thác chứ không phải là một con người cần được nâng đỡ. Mình nghĩ rằng nếu phải đi vay, thì nên vay từ các tổ chức tài chính vi mô hoặc mạng lưới ngang hàng sẽ tốt hơn. Tuy nhiên phải thừa nhận một thực tế là các ngân hàng có thể cho vay với hạn mức lớn hơn nhiều, còn các tổ chức tài chính vi mô thì không ai biết tới, mà có biết thì cũng chỉ dành cho một số đối tượng đặc thù. Điều này dẫn đến những hệ quả sau: 

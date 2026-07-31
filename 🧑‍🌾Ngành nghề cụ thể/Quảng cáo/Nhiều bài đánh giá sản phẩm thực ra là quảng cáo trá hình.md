@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-11-01T09:57
 ---
 Khái niệm:: [[Quảng cáo]], [[Thao túng]], [[Khai thác điểm yếu con người]]

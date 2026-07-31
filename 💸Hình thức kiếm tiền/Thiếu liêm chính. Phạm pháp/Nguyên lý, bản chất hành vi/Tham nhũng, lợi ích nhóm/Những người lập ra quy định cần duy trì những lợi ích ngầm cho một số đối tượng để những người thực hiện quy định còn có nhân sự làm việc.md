@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-06-01T15:11
-updated: 2026-07-19T08:23
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Lợi ích nhóm]]
 Lý do:: [[Bởi vì không ai quản trị một mình, nên lợi ích nhóm là điều không tránh khỏi]]

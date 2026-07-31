@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2026-01-14T14:22
 ---
 Bài này giả định rằng bạn đã đọc bài [[Xù nợ ngân hàng]], và thấy rằng vẫn muốn giữ điểm tín dụng vì lý do 2 (không muốn người thân bị làm phiền) hoặc 6 (muốn lợi dụng hệ thống tư bản) vẫn còn đủ mạnh.

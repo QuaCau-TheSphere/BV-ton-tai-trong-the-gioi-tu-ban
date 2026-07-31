@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-07T10:43
-updated: 2026-07-08T20:39
+updated: 2026-07-27T02:22
 ---
 Khái niệm:: [[Kế toán]], [[Sinh thái]]
 [Eco accounting - plaintextaccounting.org](https://plaintextaccounting.org/Eco-accounting#estimate-total-carbon-footprint)

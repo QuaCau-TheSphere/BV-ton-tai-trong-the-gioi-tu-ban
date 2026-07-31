@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T15:24
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 ---
 Nó cũng tránh việc làm hỏng các mqh cá nhân của tvv. Nhưng [[Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp]]
 [[❓Ngay cả những người bán cho doanh nghiệp cũng làm vì có mối quan hệ với doanh nghiệp trước, chứ kiếm dữ liệu cũng không phải là cách chính]]

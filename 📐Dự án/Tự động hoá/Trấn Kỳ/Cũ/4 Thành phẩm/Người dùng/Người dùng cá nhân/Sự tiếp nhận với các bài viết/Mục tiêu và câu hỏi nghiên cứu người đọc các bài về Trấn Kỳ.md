@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-31T17:15
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 [[Giả thiết về tiếp nhận của người đọc]]
 [[Một số ví dụ về mục tiêu nghiên cứu]]

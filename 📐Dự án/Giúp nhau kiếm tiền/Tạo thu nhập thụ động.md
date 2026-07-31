@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-18T13:26
-updated: 2026-07-14T19:40
+updated: 2026-07-27T15:06
 ---
 Khái niệm:: [[Thu nhập thụ động]]
 [[Thu nhập = thời gian x giá trị x quy mô]]
@@ -23,4 +23,4 @@ Nếu không có thì chắc chỉ là bào lại tiền của tư bản? Nó qu
 [[Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có]]
 [[Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không]]
 [[Thu nhập cơ bản phổ quát nên được hiểu là tài sản cơ bản vô điều kiện]]
-[[❓Các loại tài sản hữu hình, thời gian, công sức là các loại tài sản càng dùng càng mất. Các loại tài sản còn lại càng dùng càng có thêm]]
+[[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài sản khi dùng là mất. Các loại tài sản còn lại khi dùng là có thêm]]

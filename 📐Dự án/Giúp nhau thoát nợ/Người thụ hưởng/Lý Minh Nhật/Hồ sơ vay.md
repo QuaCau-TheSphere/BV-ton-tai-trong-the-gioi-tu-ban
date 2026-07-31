@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-30T15:31
 aliases:
   - Hồ sơ vay của Lý Minh Nhật
 created: 2025-09-18T09:33
@@ -13,8 +13,9 @@ created: 2025-09-18T09:33
 | VIB                                                                                                     | 15tr        |
 
 ## Thông tin tín dụng
-![[Điểm tín dụng của Nhật.png]]
+![[250526.png]]
 ![[260110 Nhật.pdf]]
+![](https://i.vgy.me/KFVp30.png)
 
 Các nơi đã rớt hồ sơ
 
@@ -28,12 +29,11 @@ Các nơi đã rớt hồ sơ
 | Home Credit        | 8/2/2026    |                                 |
 | Cathay United Bank | 8/2/2026    |                                 |
 
-
 ## Thông tin cơ bản
 ### Thông tin chung
 - Họ và tên: Lý Minh Nhật 
 - SĐT: 0332672691
-- Email: the5amelesson3@gmail.com 
+- Email: ganuongphap2@gmail.com 
 - Tình trạng hôn nhân: độc thân
 - Trình độ học vấn: đại học
 

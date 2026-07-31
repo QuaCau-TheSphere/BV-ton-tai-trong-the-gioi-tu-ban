@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-01-13T09:53
-updated: 2026-07-10T14:30
+updated: 2026-07-27T02:26
+blog: working
 ---
 ## Đối tượng thụ hưởng
 Những người còn đang chật vật trong việc đáp ứng các nhu cầu cơ bản, chưa có thời gian để khám phá những thú vui, và những người muốn giúp đỡ họ
@@ -41,7 +42,7 @@ mạng kết nối nhu cầu
 | 3   | Xây dựng mạng kết nối nhu cầu                  | 50 người tham gia                                                                            |
 | 4   | Xây dựng công đoàn đủ sức đối thoại với tư bản | 30% người lao động trong một công ty tham gia                                                |
 
-Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Cùng thảo luận với họ về [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]], giúp họ [[Gian lận công ty|Nhóm chạy chỉ tiêu]], [[Tạo thu nhập thụ động]], [[mở rộng mối quan hệ]], [[chọn sản phẩm phù hợp]], [[xây dựng công đoàn]]. Như vậy họ sẽ không thấy mình đang trục lợi họ, mà chỉ muốn nâng đỡ họ. Họ sẽ không có lý do để xù mình.
+Nhưng có lẽ hay hơn cả, là đừng xem người đi vay là thứ để mình kiếm lợi nhuận, mà hãy là một người bạn với họ. Hãy vẫn tiếp tục giúp đỡ họ, kể cả khi họ không trả tiền. Cùng thảo luận với họ về [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]], giúp họ [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Gian lận công ty|Nhóm chạy chỉ tiêu]], [[Tạo thu nhập thụ động]], [[Mở rộng mối quan hệ]], [[chọn sản phẩm phù hợp]], [[xây dựng công đoàn]]. Như vậy họ sẽ không thấy mình đang trục lợi họ, mà chỉ muốn nâng đỡ họ. Họ sẽ không có lý do để xù mình.
 
 ```dataview
 LIST rows.file.link

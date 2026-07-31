@@ -1,13 +1,13 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T15:55
 aliases:
   - Nhóm agency
 created: 2026-06-05T16:58
 ---
 ## Thị trường & đối thủ cạnh tranh
 Các nhóm agency, các freelancer
-[[Giúp nhau kiếm tiền]]
+[[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]
 
 ## Đối tượng phục vụ 
 Những solo-entrepreneur mà không có trên [Vietnam Solo Expert](https://www.soloexpert.vn), [OnAir](https://onair.today/) (tại sao?), chủ yếu là ở mid-level (tại sao?). B2B (tại sao?)
@@ -38,6 +38,7 @@ Công việc:
 - Tìm điểm đau
 
 ## Vai trò thương hiệu
+## Những người tham gia
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Thông tin thêm
@@ -47,9 +48,15 @@ Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
 Tài nguyên, vật dụng cần có sẵn:: 
 Đặc điểm khác:: 
 
+Các hình thức hỗ trợ tổ nhóm tương tự, có thể kết hợp làm chung:
+```dataview
+LIST
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Nhóm"
+WHERE file.name != this.file.name
+```
+
+Tất cả những cái này là một phần của dự án [[Giúp nhau kiếm tiền]].
+
 ## Nơi thảo luận
 Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn.

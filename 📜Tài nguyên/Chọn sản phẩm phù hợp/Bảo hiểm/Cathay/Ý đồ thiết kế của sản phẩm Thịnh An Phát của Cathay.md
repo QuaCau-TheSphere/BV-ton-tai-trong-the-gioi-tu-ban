@@ -4,7 +4,7 @@ created: 2024-12-22T09:57
 description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 aliases:
   - Thịnh An Phát
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:

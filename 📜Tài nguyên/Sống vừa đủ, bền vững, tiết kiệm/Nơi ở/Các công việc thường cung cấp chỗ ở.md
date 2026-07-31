@@ -2,7 +2,7 @@
 share: true
 aliases:
   - nơi ở giá rẻ hoặc miễn phí
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-10-22T08:32
 ---
 Lên chùa tu

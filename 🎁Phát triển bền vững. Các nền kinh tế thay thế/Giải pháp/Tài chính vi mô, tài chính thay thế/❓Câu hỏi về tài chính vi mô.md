@@ -2,7 +2,7 @@
 share: true
 aliases:
   - thịnh kula
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-11-19T11:43
 ---
 ## Sao việc về làm nông khó khăn đến mức vậy

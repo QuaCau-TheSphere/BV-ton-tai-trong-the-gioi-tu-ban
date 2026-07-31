@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-09-12T10:13
 ---
 ## Lý do mất khả năng trả nợ

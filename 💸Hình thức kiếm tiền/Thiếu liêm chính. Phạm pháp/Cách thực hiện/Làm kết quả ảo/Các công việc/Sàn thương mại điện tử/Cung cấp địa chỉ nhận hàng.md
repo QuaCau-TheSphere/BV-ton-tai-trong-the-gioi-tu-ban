@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T23:44
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 description: Làm khách hàng ảo bằng việc cung cấp địa chỉ để được nhận hàng miễn phí
 ---
 Tính chất công việc:: [[Không cần độ tập trung cao]], [[Làm qua mạng]]

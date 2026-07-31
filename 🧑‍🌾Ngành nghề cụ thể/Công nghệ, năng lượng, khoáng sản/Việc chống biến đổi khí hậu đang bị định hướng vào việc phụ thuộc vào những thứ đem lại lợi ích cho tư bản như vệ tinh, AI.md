@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
+created: 2025-12-22T20:43
 ---
 Khái niệm:: 
 AI được quảng cáo để tạo ra các giải pháp thông minh hơn.

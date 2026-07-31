@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T14:07
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Nhà nước]], [[Tư bản]]
 Lý do:: [[Nhận một nghìn đô la từ một người tốt hơn nhiều thay vì mười đô la từ một trăm người khác nhau]]

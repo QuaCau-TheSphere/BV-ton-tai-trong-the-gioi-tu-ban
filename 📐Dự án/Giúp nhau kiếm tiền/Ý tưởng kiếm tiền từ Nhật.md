@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-11-01T10:38
-updated: 2026-07-07T12:59
+updated: 2026-07-27T16:32
 aliases:
   - kiếm tiền từ Nhật
 ---
@@ -17,6 +17,8 @@ aliases:
 - [[Mở rộng mối quan hệ]] (tăng [[Tài sản vô hình]])
 - Nếu bạn tìm được quỹ nghiên cứu nào sẵn sàng tài trợ cho những nghiên cứu của Nhật thì bạn cũng sẽ được nhận
 
-Xem thêm:: [[Sống vừa đủ, bền vững, tiết kiệm|Ý tưởng tiết kiệm]]
+Xem thêm:
+- [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]
+- [[Sống vừa đủ, bền vững, tiết kiệm|Ý tưởng tiết kiệm]]
 
 

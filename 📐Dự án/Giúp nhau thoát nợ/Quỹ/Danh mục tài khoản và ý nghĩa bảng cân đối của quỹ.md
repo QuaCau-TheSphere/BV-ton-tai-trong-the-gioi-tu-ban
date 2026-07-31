@@ -1,10 +1,10 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
 cssClasses: wide-table
 aliases:
   - Xây dựng ontology
+created: 2025-10-13T13:45
 ---
 Đây là danh mục tài khoản và ý nghĩa bảng cân đối của [[Quỹ tín dụng Quả Cầu]]. Yêu cầu của hệ thống là phù hợp cho người muốn giúp đỡ nhưng chỉ có một mình. Ban đầu hệ thống cũng đơn giản, nhưng sau đó phức tạp lên, đặc biệt khi bạn đứng tên dùm và cho nhiều người mượn.
 đứng tên sổ tiết kiệm dùm, đi đáo dùm
@@ -87,7 +87,7 @@ Dấu của giao dịch:
 	- Chi phí cho việc giúp khi họ chưa trả
 - 0:
 	- Mình trả nợ giùm (nợ của họ với người khác thành nợ của họ với mình)
-	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [[Giữ tiền hộ|Nhận tiền hộ]]
+	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ|Nhận tiền hộ]]
 	- Chi phí cho việc giúp (VD: cà phê, đáo) và họ trả tại chỗ 
 - Dương:
 	- Tiền ủng hộ của mọi người

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-22T08:32
-updated: 2026-07-11T11:49
+updated: 2026-07-27T02:26
 aliases:
   - Xây dựng quỹ tín dụng vi mô
   - Giúp nhau thoát nợ
@@ -17,7 +17,7 @@ Nhưng:
 - Vay từ bạn bè, người thân thì [[Các khó khăn của người cần vay và lý do từ chối cho vay|khó mở lời]], mà nếu đã mở lời thì cũng có [[Các lý do cho việc giúp đỡ hoặc không giúp đỡ|vô số lý do để họ từ chối]]. Có những người dù có tiền và cũng quan tâm bạn bè nhưng vẫn chủ trương rằng "[[Không cho vay thì mất bạn. Cho vay rồi còn mất nhanh hơn]]"
 - Vay dịch vụ thì có thể không đủ điều kiện để được vay, hoặc lãi quá cao, hoặc hạn mức không đủ để xử lý vấn đề
 
-Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiều người cùng tham gia hỗ trợ họ. Một trong những cách thường gặp là [[Gây quỹ cộng đồng]], như mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi vận động mọi người tham gia, chia sẻ. Nhưng giải pháp này có những vấn đề, ở cả phía cá nhân người cho tiền cũng như ở mô hình. Với người cho tiền, dù [[Sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa]], [[Việc mất tiền làm tâm lý con người bị đau dù có thể nó vô lý|việc mất tiền vẫn làm cho tâm lý của họ bị đau]]. Với mô hình, nó không chú trọng vào việc xây dựng cộng đồng hay thay đổi hệ thống, mà chỉ dừng ở mức [[từ thiện]].
+Ai cũng biết giải pháp cho chuyện này là góp gió thành bão, nhiều người cùng tham gia hỗ trợ họ. Một trong những cách thường gặp là [[Gây quỹ đám đông]], như mở tài khoản trên [Thiennguyen.app](https://thiennguyen.app/) hay [GoFundMe](https://www.gofundme.com/) rồi vận động mọi người tham gia, chia sẻ. Nhưng giải pháp này có những vấn đề, ở cả phía cá nhân người cho tiền cũng như ở mô hình. Với người cho tiền, dù [[Sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa]], [[Việc mất tiền làm tâm lý con người bị đau dù có thể nó vô lý|việc mất tiền vẫn làm cho tâm lý của họ bị đau]]. Với mô hình, nó không chú trọng vào việc xây dựng cộng đồng hay thay đổi hệ thống, mà chỉ dừng ở mức [[từ thiện]].
 
 Các mô hình như [[Quỹ Đồng Hành]], [[VSLA đặc biệt phù hợp với những người muốn kết hợp giữa việc tiết kiệm có kỷ luật và tạo tác động xã hội tích cực trong cộng đồng|VSLA]]
 Song song với việc xây dựng các hình thức kinh tế thay thế phi tư bản, một giải pháp cho tình trạng này là thành lập một quỹ vi mô với mục đích giúp đỡ nhau hơn là kiếm tiền, nhưng vẫn đem lại lợi ích hợp lý cho người cho vay. Nếu bạn đã từng cho bạn bè mình mượn tiền và muốn chuyện này được giải quyết triệt để hơn, bạn có thể cân nhắc tham gia quỹ.

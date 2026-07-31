@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T12:22
-updated: 2026-07-17T16:52
+updated: 2026-07-27T02:27
 ---
 Khái niệm:: 
 [[VNPAY dùng GMV và active để hạn chế chạy ảo]]. [[Một nhân viên mở sai thanh tra toàn bộ nhóm]]

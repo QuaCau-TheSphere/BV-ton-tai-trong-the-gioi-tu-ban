@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-10T18:22
+updated: 2026-07-27T02:40
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
@@ -66,3 +66,18 @@ Cộng sản là tư bản sinh thái
 [[Công xã là việc bị đánh thuế 100%]]
 Doanh nghiệp xã hội
 [[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng|Nhóm mua chung, câu lạc bộ tiêu dùng]]
+[[Phiếu giảm giá (voucher)]]
+
+## Nhìn toàn cảnh
+Đây là một phần của dự án [[giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 
+
+| Nhu cầu                          | Sản phẩm                                                                                        |
+| -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Kiếm tiền                        | [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng\|Một số ý tưởng kiếm tiền]]                    |
+| Kiếm khách                       | [[📜Tài nguyên/Giới thiệu dịch vụ/Giới thiệu dịch vụ\|Giúp nhau quảng cáo, giới thiệu dịch vụ]] |
+| Tuyển dụng                       | [[Giúp nhau tuyển dụng]]                    |
+| Mở rộng mối quan hệ              | [[Mở rộng mối quan hệ\|Các buổi giao lưu và mở rộng mối quan hệ]]                               |
+| Sống vừa đủ, bền vững, tiết kiệm | [[Sống vừa đủ, bền vững, tiết kiệm]]                                                            |
+| Bảo vệ quyền lợi trước tư bản    | [[Xây dựng công đoàn]]                                                                          |
+| Thoát nợ                         | [[Quỹ tín dụng Quả Cầu\|Giúp nhau thoát nợ]]                                                    |
+| Vay nợ                           | [[Vay tín chấp\|Các dịch vụ vay tín chấp]]                                                      |

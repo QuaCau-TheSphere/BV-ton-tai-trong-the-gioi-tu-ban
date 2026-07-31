@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-18T20:28
+updated: 2026-07-27T14:57
 created: 2026-06-22T14:04
 ---
 Khái niệm:: [[Sở hữu]], [[Tài sản]]

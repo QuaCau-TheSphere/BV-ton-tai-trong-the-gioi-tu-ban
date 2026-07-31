@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-10T14:52
+updated: 2026-07-27T02:26
 ---
 Tính chất công việc: Cần có vốn, Không tốn diện tích
 Xem thêm:: [[📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc/Tự kinh doanh, đầu tư]]

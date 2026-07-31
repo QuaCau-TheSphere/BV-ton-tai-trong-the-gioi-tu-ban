@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-14T19:43
+updated: 2026-07-27T02:26
 created: 2025-05-08T20:31
 ---
 Khái niệm:: 
@@ -14,3 +14,4 @@ Khái niệm::
 Câu hỏi: Có nên buộc họ cam kết phải thảo luận, hay là cứ để họ chừng nào muốn thảo luận thì thảo luận? Vì nếu không thì họ sẽ muốn theo đuổi những thách thức mới hơn là muốn thảo luận. Có thể sẽ luôn thấy còn những nhu cầu khác cần được đáp ứng
 
 [[Giúp nhau kiếm tiền]]
+[[Tiêu chí giúp đỡ. Mức độ ưu tiên, chấp nhận chịu khó, đánh đổi]]

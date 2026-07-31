@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-06T21:39
+updated: 2026-07-27T02:20
 created: 2025-09-12T13:44
 ---
 Thì phải Còn không thì vay đầu này trả đầu kia. Như mấy đứa xào thẻ vậy. Vay nhiều đầu nhưng thực ra chỉ có một khoản được kéo dài kỳ hạn mà thôi

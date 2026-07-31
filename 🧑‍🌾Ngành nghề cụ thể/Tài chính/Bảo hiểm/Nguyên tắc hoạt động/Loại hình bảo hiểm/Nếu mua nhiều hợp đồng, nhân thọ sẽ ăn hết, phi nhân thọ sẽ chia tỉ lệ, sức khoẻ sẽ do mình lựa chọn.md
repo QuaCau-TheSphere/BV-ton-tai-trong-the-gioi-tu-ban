@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-11T17:57
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 [[Bảo hiểm sức khoẻ thực ra là bảo hiểm phi nhân thọ. Tách ra là để cho người mới không lẫn lộn]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T16:28
-updated: 2026-07-18T20:26
+updated: 2026-07-27T02:22
 ---
 Khái niệm:: [[Bảo hiểm xã hội]]
 Nếu là bảo hiểm nhân thọ thì phải là bên mua bảo hiểm chứ không phải là người dược bảo hiểm hoặc người thụ hưởng.

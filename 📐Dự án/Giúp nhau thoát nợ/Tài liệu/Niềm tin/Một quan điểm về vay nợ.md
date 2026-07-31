@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:20
+created: 2025-10-11T15:13
 ---
 Thay vì người trẻ bị tổ chức đào lửa quận 7, quận 3, quận Bình Thạnh đóng mấy trăm triệu để đi học cái giáo dục khai phóng nhưng không thể xài được. Tốt nhất người trẻ nên tập cái gọi Vay an toàn, mà Vay an toàn là vay quỹ cộng đồng. Họ học những điều sau đây mà không có thiết chế giáo dục nào dạy cho họ cả:
 

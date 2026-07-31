@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-15T12:38
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Mỗi dòng thẻ sẽ có các quyền lợi cho mình hay cho người phát hành thẻ chạy KPI. Không như thẻ visa hay master card, thẻ JCB chỉ phục vụ trực tiếp cho việc ăn ở nhà hàng. Ngay cả siêu thị cũng không quẹt được. [[Các chỗ đáo ngại thẻ JCB vì phí cao và dễ bị theo dõi máy POS]]. 
 

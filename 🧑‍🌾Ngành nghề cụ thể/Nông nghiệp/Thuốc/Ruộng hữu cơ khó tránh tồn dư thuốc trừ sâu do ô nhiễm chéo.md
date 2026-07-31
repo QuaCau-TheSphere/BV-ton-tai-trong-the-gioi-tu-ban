@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2026-05-26T23:20
 ---
 Khái niệm:: [[Nông nghiệp, nông thôn]]

@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:22
+created: 2026-02-09T15:15
 ---
 Khái niệm:: 
 [[MBBANK]]

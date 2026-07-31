@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-18T21:28
+updated: 2026-07-27T15:45
 ---
 Khái niệm:: 
 [[Quản lý công việc và quản lý kiến thức không thể tách rời nhau]]
@@ -10,3 +10,4 @@ Khái niệm::
 Nguồn:: [[Paul Graham]], [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)
 
 Mâu thuẫn với:: [[Nhà đầu tư đầu tư vào việc kinh doanh, không phải ý tưởng]]
+[[Đổi mới sáng tạo là hành vi có chi phí giao dịch cao và quyền sở hữu không hoàn hảo, vì ý tưởng dễ bị sao chép, lợi ích khó định lượng, và rủi ro thất bại cao]]

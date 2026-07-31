@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-20T13:26
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 description: 3 hợp đồng Cathay mỗi tháng
 ---
 - Cứ 3 người nói mình muốn mua bảo hiểm thì có 1 người mua

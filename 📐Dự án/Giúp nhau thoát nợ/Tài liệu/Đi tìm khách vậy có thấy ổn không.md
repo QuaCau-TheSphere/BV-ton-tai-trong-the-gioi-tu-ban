@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-05T15:11
-updated: 2026-07-06T21:39
+updated: 2026-07-27T02:20
 ---
 Thực ra là mặc dù đúng tui đang được giao nhiệm vụ giới thiệu sp, nhưng đó chỉ là phần nổi. Phần chìm là:
 - Giúp Trí thoát nợ

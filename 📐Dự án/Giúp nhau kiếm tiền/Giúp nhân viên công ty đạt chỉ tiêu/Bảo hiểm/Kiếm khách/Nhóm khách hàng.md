@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-19T08:58
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 ---
 
 sumikomo life 

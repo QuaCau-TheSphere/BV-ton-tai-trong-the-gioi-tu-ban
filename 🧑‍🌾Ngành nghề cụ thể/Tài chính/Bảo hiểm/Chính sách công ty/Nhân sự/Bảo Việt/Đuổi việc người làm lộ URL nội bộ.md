@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-25T17:08
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Nếu đây là vấn đề bảo mật, thì việc để lộ URL là hiển nhiên phải tính đến rồi? Nên nếu đã tính đến thì đâu phải lo gì nữa? 
 

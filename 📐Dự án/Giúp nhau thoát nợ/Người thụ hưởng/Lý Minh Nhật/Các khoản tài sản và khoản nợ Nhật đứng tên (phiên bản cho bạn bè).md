@@ -1,31 +1,33 @@
 ---
 share: true
-updated: 2026-07-17T14:08
+updated: 2026-07-30T15:31
 aliases:
   - nhờ Nhật đứng tên
 created: 2025-08-21T09:20
 ---
 ## Các khoản tiền cho mượn
 - Thịnh: 5tr + nửa chỉ vàng
-- Lộc: 30k
 
 ## Các khoản vay đứng tên/bảo lãnh
 ### Ngân hàng và công ty tài chính
 
-| Khoản vay                                                                                               | Người vay | Hạn mức | Tiền đáo hàng tháng | Ngày đáo hàng tháng |
-| ------------------------------------------------------------------------------------------------------- | --------- | ------- | ------------------- | ------------------- |
-| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | Thịnh     | 30tr    | 600k                | 15                  |
-| VIB                                                                                                     | Lộc       | 15tr    | 0                   |                     |
-| Vietcombank JCB                                                                                         | Trí       | 5tr     | 0 (trả góp)         | 30                  |
+| Khoản vay                                                                                               | Người vay | Hạn mức | Thời gian miễn lãi | Tiền đáo hàng tháng | Ngày đáo hàng tháng |
+| ------------------------------------------------------------------------------------------------------- | --------- | ------- | ------------------ | ------------------- | ------------------- |
+| [SeaBank GRB Elite](https://www.seabank.com.vn/ca-nhan/the/the-tin-dung-quoc-te/the-tin-dung-brg-elite) | Thịnh     | 30tr    |                    | 600k                | 15                  |
+| VIB                                                                                                     | Lộc       | 15tr    |                    | 0                   |                     |
+| Vietcombank JCB                                                                                         | Trí       | 5tr     |                    | 0 (trả góp)         | 30                  |
 
 ![[Dòng tiền cụ thể nửa cuối năm 2025.png]]
 Dòng tiền cụ thể nửa cuối năm 2025. Đơn vị: 1,000 đ.
 
 ## Điểm tín dụng
-![[Điểm tín dụng của Nhật.png]]
+![[250526.png]]
 ![](https://i.vgy.me/KFVp30.png)
 
 Điểm tín dụng của Nhật chủ yếu dùng để [[Đứng ra bảo lãnh, vay giùm, cho mượn tài sản thế chấp|vay giùm người khác]]. Nói cách khác nó trở thành tài nguyên cho [[Quỹ tín dụng Quả Cầu]]. Nhật chấp nhận [[Xù nợ ngân hàng]] và [[Xù nợ vay nóng]], vì điều kiện sống của Nhật cho phép làm việc này mà không ảnh hưởng tới công việc hay người xung quanh. Tuy nhiên ai cũng muốn Nhật [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]].
+
+- SĐT/Zalo: 0332672691
+- Email: ganuongphap2@gmail.com
 
 ## Các khoản đã xong
 Những cái ở dưới đây đã hết hiệu lực

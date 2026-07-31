@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 To maximize the appeal and legitimacy of this new paradigm, O’Reilly had to establish that open source both predated free software and was well on its way to conquering the world—that it had a rich history and a rich future. The first objective he accomplished, in part, by exploiting the ambiguities of the term “open”; the second by framing debate about the Internet around its complex causal connections to open source software.

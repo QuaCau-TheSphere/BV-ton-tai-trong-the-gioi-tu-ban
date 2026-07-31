@@ -1,9 +1,21 @@
-7/19/2026, 8:06:12 AM [error]: 
+7/31/2026, 4:47:35 PM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:39:9565)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:39:10806)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:223:1200)
 
-7/19/2026, 8:06:13 AM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 9:06:51 AM.
+7/31/2026, 4:47:36 PM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 5:47:40 PM.
+
+7/31/2026, 4:55:02 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Đánh vào sự uy tín/Giả page công an.md / Wed Jul 29 2026 21:22:42 GMT+0700 (Indochina Time) vs Mon Jul 27 2026 19:16:46 GMT+0700 (Indochina Time)
+
+7/31/2026, 4:55:03 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Đánh vào sự uy tín/Giả người giao hàng.md / Wed Jul 29 2026 18:40:50 GMT+0700 (Indochina Time) vs Mon Jul 27 2026 19:16:46 GMT+0700 (Indochina Time)
+
+7/31/2026, 4:55:05 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Đánh vào sự uy tín/Giả danh toà án.md / Wed Jul 29 2026 18:40:48 GMT+0700 (Indochina Time) vs Mon Jul 27 2026 19:16:46 GMT+0700 (Indochina Time)
+
+7/31/2026, 4:55:05 PM [debug]: 
+	edited file : 💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Đánh vào sự quá tải nhận thức/Làm biên lai chuyển tiền giả.md / Wed Jul 29 2026 18:40:46 GMT+0700 (Indochina Time) vs Mon Jul 27 2026 19:16:46 GMT+0700 (Indochina Time)
 

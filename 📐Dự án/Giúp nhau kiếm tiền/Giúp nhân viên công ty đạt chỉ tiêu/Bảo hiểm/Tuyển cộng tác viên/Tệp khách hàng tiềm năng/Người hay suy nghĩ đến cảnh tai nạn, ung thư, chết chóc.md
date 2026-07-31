@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-28T16:31
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:31
 title: Tuyển cộng tác viên tìm khách hàng tiềm năng là người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc
 ---
 Các cộng tác viên là những người sống trong [[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc|các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]. Họ có thể là:
@@ -36,4 +36,3 @@ Người quan tâm đến điều tốt cho người khác thì xem tiền là x
 [[Giả thiết về nguồn tuyển dụng cho Cathay]]
 [[Tạo nhận thức cho các công ty bảo hiểm nhân thọ về lợi ích khi tương tác với người khuyết tật]]
 [[Bản câu hỏi cho người muốn người giới thiệu ngồi cùng với chứ không phải chỉ là giới thiệu]]
-[[Cung cấp thông tin liên lạc, làm cầu nối]]

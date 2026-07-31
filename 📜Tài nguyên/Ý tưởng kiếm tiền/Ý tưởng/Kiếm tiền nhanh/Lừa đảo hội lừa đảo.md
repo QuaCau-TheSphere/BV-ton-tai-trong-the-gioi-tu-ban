@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-14T19:47
+updated: 2026-07-27T02:26
 aliases:
   - Trục lợi bọn trục lợi
 ---
@@ -20,7 +20,7 @@ Với khách hàng US/UK thì tụi nó mồi tới 50-70$ mỗi lần. Và than
 ![Scammer Payback Answers Scam Questions \| Tech Support \| WIRED - YouTube](https://youtu.be/6nfGwSw-I14?si=kSwo_qgduxYViw0h)
 ## Mô tả chi tiết
 ## Thông tin thêm
-[[Cảnh giác lừa đảo]]
+[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Lừa đảo]]
 
 ### Vấn đề đạo đức
 Đây là số tiền mà họ đi lừa người khác để có được. Có hợp lẽ nếu mình sử dụng số tiền đó để giúp người khác? Về mặt luật pháp thì chắc vẫn còn cần thêm bằng chứng để có thể nói là mình không rửa tiền, nhưng ở đây chỉ bàn về đạo đức.
@@ -44,4 +44,4 @@ Thời điểm trả tiền::
 ![[Pasted image 20250531132835.png]]
 
 
-Khái niệm:: [[Lừa đảo]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]

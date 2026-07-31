@@ -2,7 +2,7 @@
 share: true
 description: Và nó còn có thể là gì?
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 # Giới thiệu về dự án lớn: Mạng lưới kết nối nhu cầu
 Chính vì Trấn Kỳ là một phần của nó nên sẽ tập trung vào nhu cầu của bạn

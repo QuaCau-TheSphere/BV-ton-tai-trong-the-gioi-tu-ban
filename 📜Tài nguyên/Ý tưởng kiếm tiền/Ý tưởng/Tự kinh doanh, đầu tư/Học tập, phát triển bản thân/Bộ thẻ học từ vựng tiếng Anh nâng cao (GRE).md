@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Bài chi tiết:: [Bộ thẻ học từ vựng tiếng Anh nâng cao (GRE) – Quả Cầu](https://quảcầu.cc/bo-the-hoc-tu-vung-tieng-anh-nang-cao?utm_source=Vault+B+Tồn+tại+trong+thế+giới+tư+bản+(Tài+nguyên)&utm_medium=Vault&utm_campaign=Tài+nguyên+khác%2Cngôn+ngữ%2Cnét+nghĩa+ẩn%2CHọc+tiếng+Anh%2Ckhoa+học+nhận+thức&utm_content=&utm_term= )
 
@@ -49,6 +49,7 @@ Top 1 google với từ khóa `gre anki` trong thời gian dài. Để cho mọi
 ## Thành quả mong muốn
 
 ## Vai trò thương hiệu
+## Những người tham gia
 Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
 ## Nơi thảo luận

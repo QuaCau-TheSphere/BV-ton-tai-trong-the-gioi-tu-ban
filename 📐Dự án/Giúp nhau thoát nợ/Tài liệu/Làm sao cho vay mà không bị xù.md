@@ -1,7 +1,7 @@
 ---
 share: true
 blog: working
-updated: 2026-07-18T21:20
+updated: 2026-07-27T02:20
 created: 2025-08-17T09:07
 description: Làm cho người vay thấy rằng thứ bạn chưa cho những có thể cho họ lớn hơn số tiền mà họ được vay.
 ---
@@ -39,7 +39,7 @@ Câu trả lời đơn giản là không cho vay lớn để giảm thiểu tác
 Điều này cũng giải quyết vấn đề chính quyền lo lắng về một hệ thống có dòng tiền lớn nằm ngoài tầm kiểm soát. Vì đơn giản là dòng tiền này không lớn.
 
 Xem thêm:: [[Xử lý người xù nợ]]
-Xem thêm:: [[Cảnh giác lừa đảo]]
+Xem thêm:: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Lừa đảo]]
 
 ---
 

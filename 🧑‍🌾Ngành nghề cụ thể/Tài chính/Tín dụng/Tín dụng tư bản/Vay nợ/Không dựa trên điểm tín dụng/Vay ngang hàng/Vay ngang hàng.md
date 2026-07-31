@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-27T20:18
-updated: 2026-07-07T13:00
+updated: 2026-07-27T16:41
 aliases:
   - Sàn cho vay ngang hàng
 ---
@@ -12,6 +12,8 @@ aliases:
 
 ```dataview
 LIST
-FROM "🛖Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Không dựa trên điểm tín dụng/Vay ngang hàng"
+FROM "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Không dựa trên điểm tín dụng/Vay ngang hàng"
 WHERE file.name != this.file.name
 ```
+
+[[Sàn cho vay ngang hàng]]

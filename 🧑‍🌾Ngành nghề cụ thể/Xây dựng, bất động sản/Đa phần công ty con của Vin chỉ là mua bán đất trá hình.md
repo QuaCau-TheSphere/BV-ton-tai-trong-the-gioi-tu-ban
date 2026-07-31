@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:21
 created: 2025-08-21T15:50
 ---
 Tuổi thọ của các công ty “Vin” – một mô hình đầu tư theo lối “cắm trại”

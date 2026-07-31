@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 title: Mọi lời hứa đều là lời nói miệng hoặc được diễn đạt khéo léo trong hợp đồng theo cách không cấu thành cam kết pháp lý rõ ràng, trong khi các điều khoản bất lợi cho khách hàng được cài kỹ trong phần phụ lục hoặc điều khoản chữ nhỏ
 created: 2026-06-19T09:58
 ---

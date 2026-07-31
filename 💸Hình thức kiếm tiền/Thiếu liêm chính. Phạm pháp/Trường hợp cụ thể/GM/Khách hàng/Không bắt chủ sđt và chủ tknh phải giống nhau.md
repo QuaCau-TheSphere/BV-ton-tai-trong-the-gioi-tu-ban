@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-12T13:41
-updated: 2026-07-17T15:23
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 Điều đó khiến cho việc ko thể gọi để xác minh chủ tài khoản ngân hàng có thực hiện giao dịch hay không, mà phải gặp tận mặt để hỏi. Tuy nhiên, vì cũng không bắt phải điền tạm trú, nên cách duy nhất để gặp mặt họ là thông qua công an.
@@ -22,4 +22,4 @@ nhưng:
 - vẫn là ý trên, nhưng giao dịch đó phải thực sự có vấn đề lớn và nghiêm trọng, giả sử như nhận tiền từ số tk bẩn bị bcao lừa đảo nhiều => có thể điều tra, vấn đề là e dùng để làm app này thôi
 
 Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]
-[[Giữ tiền hộ]]
+[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ]]

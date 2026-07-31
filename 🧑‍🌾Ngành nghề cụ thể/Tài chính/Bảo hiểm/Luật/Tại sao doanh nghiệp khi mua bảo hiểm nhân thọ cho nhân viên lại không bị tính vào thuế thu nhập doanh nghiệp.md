@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-23T15:09
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 title: Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
 description: Thâm cung bí sử của Thịnh An Phát
 ---

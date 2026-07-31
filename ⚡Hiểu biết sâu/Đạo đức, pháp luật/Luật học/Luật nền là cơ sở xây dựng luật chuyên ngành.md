@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T16:42
-updated: 2026-07-07T12:58
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Luật]]
 Khi có sự xung đột giữa các nhóm luật thì áp dụng luật chuyên ngành

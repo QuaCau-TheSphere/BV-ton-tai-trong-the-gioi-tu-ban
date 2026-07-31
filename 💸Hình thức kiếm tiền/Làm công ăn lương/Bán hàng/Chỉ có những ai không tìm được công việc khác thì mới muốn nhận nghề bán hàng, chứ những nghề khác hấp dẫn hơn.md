@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-22T13:14
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Bán hàng]]
 
@@ -22,6 +22,6 @@ Nói chung, một khi việc bán hàng đã bị áp chỉ tiêu thì không th
 
 Cách tốt nhất để giúp họ là khiến cho các công việc nâng cao nhận thức kia kiếm được nhiều tiền hơn, hoặc khiến cho các công ty chuyển đổi sang mô hình không áp chỉ tiêu, hoặc đáp ứng các nhu cầu của họ mà không cần tới tiền. Việc cố gắng [[Làm sao để một người thấy công việc hấp dẫn hơn|tạo thêm sự hấp dẫn cho công việc]] chỉ là sự thoả hiệp với sự cấp bách, chứ không đả động gì tới lý do chính yếu. Nhưng ý tưởng tốt hơn nữa là làm cho người bán [[Các tập đoàn là hình thức của các chế độ độc tài có thứ bậc|có tiếng nói về cách họ sản xuất, những gì họ sản xuất và lợi nhuận mà họ tạo ra được sử dụng như thế nào]]. Đi một hồi thì sẽ thành việc thành lập công đoàn, chống chủ nghĩa tư bản, tham gia các phong trào chủ nghĩa xã hội.
 
-Bài chi tiết:: [[Gian lận công ty|Nhóm chạy chỉ tiêu cho nhân sự]]
+Bài chi tiết:: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Gian lận công ty|Nhóm chạy chỉ tiêu cho nhân sự]]
 
 [[Công việc bán hàng có thu nhập đột biến, không bị trói buộc thời gian và luôn tuyển dụng]]

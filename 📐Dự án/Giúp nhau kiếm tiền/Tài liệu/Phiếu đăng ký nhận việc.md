@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2025-04-24T14:51
-updated: 2026-07-14T19:43
+updated: 2026-07-27T02:26
 aliases:
   - Săn người
   - săn nhân sự
 ---
 Tạo phiếu đăng ký để được nhận suất khảo sát sẽ khiến họ thấy mình xứng đáng có nó, nhưng mình lại có dữ liệu để lọc
-[[Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả]]
+[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả]]
 Mua nhóm zalo
 Chạy quảng cáo
 

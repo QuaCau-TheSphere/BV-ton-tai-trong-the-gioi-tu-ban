@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
 aliases:
   - Lý do trì hoãn
   - lý do chưa muốn mua bảo hiểm

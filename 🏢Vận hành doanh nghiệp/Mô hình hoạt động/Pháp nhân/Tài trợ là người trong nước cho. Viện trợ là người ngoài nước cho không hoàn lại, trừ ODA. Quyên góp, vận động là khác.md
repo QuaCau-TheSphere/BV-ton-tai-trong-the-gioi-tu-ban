@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-17T21:31
+updated: 2026-07-27T02:26
 created: 2026-07-17T19:24
 ---
 Khái niệm:: [[Tài trợ, viện trợ]]

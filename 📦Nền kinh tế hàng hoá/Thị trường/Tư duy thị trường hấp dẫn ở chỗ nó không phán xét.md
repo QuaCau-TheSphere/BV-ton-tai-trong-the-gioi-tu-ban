@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-11T12:21
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Thị trường]], [[Đạo đức]]
 [[Thị trường không chỉ phân bố hàng hoá mà còn bộc lộ, khuyến khích con người có những thái độ nhất định với các loại hàng hoá]]

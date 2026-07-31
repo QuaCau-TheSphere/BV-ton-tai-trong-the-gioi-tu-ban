@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 [[Mục tiêu và câu hỏi nghiên cứu người dùng cá nhân cần phân loại tự động]]
 # Thông tin cơ bản

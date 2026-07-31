@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-27T13:44
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Các diễn đàn sử dụng phần mềm không tự do không có tính toán gì đáng kể cả, nên không có nguy cơ kiểm soát, khai thác, thao túng người dùng bằng các dịch vụ xử lý dữ liệu bằng phần mềm không tự do. Mà đó mới là mục tiêu chính của FSF
 Nguồn:: [Stack Exchange is not open sourced. Why do you decide to participate here? - Open Source Meta Stack Exchange](https://opensource.meta.stackexchange.com/q/953/6810)

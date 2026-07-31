@@ -1,8 +1,10 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:40
 created: 2025-09-16T08:28
 ---
+Đến các buổi liên hoan phim, giới thiệu phim
+[[Phiếu giảm giá (voucher)]]
 Khái niệm:: 
 Nói chung là nhiều người có nhu cầu
 Nhưng mỗi cá nhân thì không làm nên trò trống gì

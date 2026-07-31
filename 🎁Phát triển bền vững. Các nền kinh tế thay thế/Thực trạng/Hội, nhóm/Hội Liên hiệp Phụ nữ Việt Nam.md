@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 description: Cán bộ hội và hội viên được quyết định cách sử dụng cho phần quỹ họ xây dựng. Nhưng nếu họ muốn có thêm những người ngoài hội cùng tham gia vào quỹ thì sẽ phải có văn bản đồng ý của hội cấp trên.
 created: 2025-12-17T14:15
 ---

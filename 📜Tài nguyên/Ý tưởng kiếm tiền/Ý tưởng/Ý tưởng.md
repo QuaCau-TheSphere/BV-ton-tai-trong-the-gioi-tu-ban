@@ -1,13 +1,19 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-07-10T18:25
+updated: 2026-07-27T15:56
 aliases:
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---
+Đầu tiên phải tự hỏi vì sao mình cần tiền:
+- Để không chết đói? [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều|Việt Nam không ai chết đói]]
+- Để có cuộc sống thoải mái? 
+
+Sau đó xây dựng [[Kế hoạch tài chính]]
+
 Đọc chi tiết ở các bài sau:
 - [[Kiếm tiền nhanh|Các công việc kiếm tiền nhanh]]
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư|Các ý tưởng kinh doanh, đầu tư]]

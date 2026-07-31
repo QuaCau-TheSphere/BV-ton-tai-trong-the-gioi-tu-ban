@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-10T17:17
-updated: 2026-07-10T18:23
+updated: 2026-07-27T02:26
 description: "Thi công điện như thang máng cáp, kéo cáp, đấu nối. Số tiền kiếm được: 450k - 650k/ngày"
 aliases:
   - thang máng cáp, kéo cáp, đấu nối

@@ -1,7 +1,7 @@
 ---
 share: true
 description: "Số tiền kiếm được: "
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 created: 2025-08-16T22:23
 ---
 Mô tả công việc:: Tải app, đăng ký, nhập mã giới thiệu, nạp tiền, gom nhóm, rút tiền
@@ -12,7 +12,7 @@ App hoạt động bằng cách gom nhóm chung. Bạn mua một món hàng bằ
 
 ## Thông tin thêm
 [[Quy trình gom nhóm|Quy trình gom nhóm của một app ví dụ]] 
-[[Cảnh giác lừa đảo]]
+[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Lừa đảo]]
 ![Tiêu Điểm: Cảnh báo lừa đảo việc làm online \| VTV24 - YouTube](https://youtu.be/5jeACyUQtVE?si=G6Z0MrLCxMQGAFxF)
 
 Số tiền đầu tư:: 390k

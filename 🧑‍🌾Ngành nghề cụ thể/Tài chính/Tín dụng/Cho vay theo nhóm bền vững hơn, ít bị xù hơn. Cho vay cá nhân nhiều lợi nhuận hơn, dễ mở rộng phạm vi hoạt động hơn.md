@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2024-10-26T09:30
-updated: 2026-07-07T13:00
+created: 2026-07-26T23:49
+updated: 2026-07-27T02:22
 aliases:
   - Cho vay theo nhóm bền vững hơn, ít bị xù hơn
   - Cho vay cá nhân nhiều lợi nhuận hơn, dễ mở rộng phạm vi hoạt động hơn

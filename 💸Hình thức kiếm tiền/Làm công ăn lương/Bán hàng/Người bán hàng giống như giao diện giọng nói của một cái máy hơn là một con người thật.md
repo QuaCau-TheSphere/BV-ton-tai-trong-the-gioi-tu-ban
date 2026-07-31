@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Bán hàng]]
 Nó bắt chước tương tác xã hội, tạo sự đồng cảm, lịch sự nhưng không vì mục đích đó, không nâng đỡ sự lý tính của họ

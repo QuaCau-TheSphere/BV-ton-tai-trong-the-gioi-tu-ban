@@ -1,15 +1,15 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-13T12:16
+updated: 2026-07-30T16:34
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
   - mất điểm tín dụng
   - bùng, quịt, mất khả năng trả nợ, vỡ nợ
-created: 2025-11-20T14:47
+created: 2026-07-25T15:28
 ---
-[[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]. Các công ty có dịch vụ [[ví trả sau]] hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
+[[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]. Các công ty có dịch vụ [[Mua trước trả sau. Ví trả sau]] hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
 
 ## Các lý do không muốn mất điểm tín dụng, và các phản hồi về các lý do đó
 Tại sao [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]]? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?

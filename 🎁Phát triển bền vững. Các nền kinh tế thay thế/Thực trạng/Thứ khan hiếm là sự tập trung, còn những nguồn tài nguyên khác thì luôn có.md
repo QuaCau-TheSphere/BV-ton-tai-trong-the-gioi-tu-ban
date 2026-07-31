@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-18T20:33
+updated: 2026-07-27T15:06
 created: 2025-10-20T09:52
 ---
 Khái niệm:: [[Khan hiếm]]
@@ -14,3 +14,4 @@ Nguồn::
 [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]
 
 [[Làm sao để kiếm dòng tiền từ tài sản vô hình]]
+[[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài sản khi dùng là mất. Các loại tài sản còn lại khi dùng là có thêm]]

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86cff994bb51bb5c",
+        "id": "f724cb6b2df0308d",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d6c1ebb7c73651",
+            "id": "80d64ba1ece1b0b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Có cuộc sống tốt hơn trong đô thị.md",
-                "mode": "source",
+                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Tín dụng/Sàn gây quỹ đám đông.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Có cuộc sống tốt hơn trong đô thị"
+              "title": "Sàn gây quỹ đám đông"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"🏢Vận hành doanh nghiệp/Mô hình hoạt động/Pháp nhân/\" ",
+                "query": "à không cần nhập PIN khi đưa qua máy POS. Hiếm có thẻ nào phải nhập PIN mới dùng được. Nên nếu như không xác định được đó có phải là chính chủ hay không mà vẫn cho rút, thì lỡ tiền đó là tiền do phạm tội hay giao dịch trái phép mà thành, thì không chỉ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư.md",
+                "file": "📜Tài nguyên/Mở rộng mối quan hệ/Tổ chức các buổi OPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tự kinh doanh, đầu tư"
+              "title": "Backlinks for Tổ chức các buổi OPP"
             }
           },
           {
@@ -193,44 +193,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1d6c1ebb7c73651",
+  "active": "80d64ba1ece1b0b0",
   "lastOpenFiles": [
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Giữ lòng trung thành với người mình cần dùng.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Giúp nhau.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Phản kháng với bất công.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Thỏa mãn ham muốn.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Có cuộc sống tốt hơn trong đô thị.md",
-    "🏢Vận hành doanh nghiệp/Nhân sự/Trong tương lai sẽ bắt buộc sử dụng hợp đồng lao động điện tử.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Tiêu chí giúp đỡ. Mức độ ưu tiên, chấp nhận chịu khó, đánh đổi.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Xác định nhu cầu làm cộng tác viên của ngươi khuyết tật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Xác định nhu cầu bảo hiểm của người thân, bạn bè, hàng xóm của người khuyết tật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Thanh Thanh.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng/Người khuyết tật/Cộng tác viên khuyết tật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định nhu cầu bảo hiểm của người thân, hàng xóm của người bị ung thư.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Phỏng vấn người làm phi lợi nhuận.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/ngân.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Nghiên cứu người dùng.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về tỉ lệ chuyển đổi.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về nguồn tuyển dụng cho Cathay.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về nguồn khách hàng tiềm năng.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường/Sinh viên sắp ra trường.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường/Cần nhiều sinh viên sắp ra trường add friend.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng/Người khuyết tật",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp khách hàng tiềm năng/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc/Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người có xe/Tìm người mua bảo hiểm xe máy.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Doanh nghiệp/Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp khách hàng tiềm năng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người có xe",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Không trực tiếp kết nối dữ liệu với bên viễn thông, vì mỗi lần đều cần mình tự xác minh 1414.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Tổng giám đốc Bắc Á Bank sáng lập ra TH True Milk.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/SCB khác Sacombank. OCB khác Oceanbank.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Danh sách ngân hàng/NCB.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Danh sách ngân hàng/OCB.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Danh sách ngân hàng/Nam A Bank.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ngân hàng/Danh sách ngân hàng/MSB.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Thẻ tín dụng.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Mua trước trả sau. Ví trả sau.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Mua trước trả sau.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Máy cà thẻ.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Thế chấp.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Trả góp.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Ví trả sau.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Dựa trên điểm tín dụng/Thẻ tín dụng/Tiền khách hàng trả bằng thẻ tín dụng sẽ bị ngân hàng giam tiền vài ngày để kiểm tra rồi mới trả cho mình.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Dựa trên điểm tín dụng/Thẻ tín dụng/Ngân hàng cho vay 10 lần lương. Nhưng nếu đã có vay công ty tài chính thì chỉ được 5 lần.md",
+    "📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Bảo hiểm/Luật/Các công ty không được phép cho hoa hồng các lần đóng phí sau.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Bảo hiểm/Luật/Cấm đại lý trích hoa hồng để giảm giá.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Bảo hiểm/Luật/Cá nhân không được làm đại lý BHYT, BHXH.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Dựa trên điểm tín dụng/Thẻ tín dụng/Thời gian từ lúc chốt sao kê đến hạn chót thanh toán gọi là ân hạn.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Kết nối nhu cầu/Hệ thống thông tin/Mạng xã hội nơi mọi người hiểu rõ chính mình.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Vay nợ/Dựa trên điểm tín dụng/Thẻ tín dụng/Việc được miễn lãi trong 45 ngày đầu khiến mình nghĩ đó là tài sản của mình, trong khi thực ra đó là tiền của ngân hàng.md",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/250526 Nhật.pdf",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/250526.png",
+    "Ξ Thiết lập/Tất cả các ảnh.base",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/Pasted image 20250703094050.png",
+    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/CIC/260110 Nhật.pdf",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/Hồ sơ vay.md",
+    "📐Dự án/Giúp nhau thoát nợ/Người thụ hưởng/Lý Minh Nhật/Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè).md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Tín dụng/Tín dụng tư bản/Tổ chức cụ thể/Ví trả sau/Momo không cho đổi SĐT.md",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Công cụ thực hiện, kênh tấn công/Giả mạo người có quyền",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Nguyên lý, bản chất hành vi/Tham nhũng, lợi ích nhóm/Trong công ty",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Trên mạng",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Công cụ thực hiện, kênh tấn công/Trên mạng/Công cụ kỹ thuật",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Công cụ thực hiện, kênh tấn công/Trên mạng/Trại điện thoại",
+    "📜Tài nguyên/Quà tặng/Có mục đích kiếm tiền/Bảo hiểm nhân thọ",
+    "📜Tài nguyên/Quà tặng/Có mục đích kiếm tiền/Phiếu giảm giá (voucher)",
+    "Ξ Thiết lập/Ảnh/Các tiêu chí hộ nghèo.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260703121921.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154747.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260613154617.png",
@@ -238,9 +241,6 @@
     "Ξ Thiết lập/Ảnh/Hacked by LittleDemon.png",
     "Ξ Thiết lập/Ảnh/Các mô hình tài chính chung.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20260509132332.png",
-    "Ξ Thiết lập/Ảnh/PPPAY/Tường trình cho ngân hàng.png",
-    "Ξ Thiết lập/Ảnh/PPPAY/OKPAY.png",
-    "Ξ Thiết lập/Ảnh/OKPAY.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

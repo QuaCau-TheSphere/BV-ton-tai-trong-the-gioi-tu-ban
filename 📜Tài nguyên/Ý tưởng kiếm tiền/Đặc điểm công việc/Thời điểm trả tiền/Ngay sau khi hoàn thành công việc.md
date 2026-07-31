@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-11-02T15:18
-updated: 2026-07-10T17:24
+updated: 2026-07-27T02:26
 title: Các công việc trả ngay sau khi hoàn thành
 ---
 ```dataview

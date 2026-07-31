@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-21T11:40
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Các yếu tố tạo ra kinh tế mới
 - Biến đổi công nghệ

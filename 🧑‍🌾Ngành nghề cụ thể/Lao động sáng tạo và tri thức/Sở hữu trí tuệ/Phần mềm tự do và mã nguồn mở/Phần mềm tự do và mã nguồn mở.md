@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-16T22:16
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 - Theo như tổ chức vận động quyền sử dụng phần mềm tự do (Free Software Foundation), thì copyright, patent và trademark là 3 loại luật khác nhau. Việc hợp nhất chúng dưới một cái tên là tài sản trí tuệ giống như hợp nhất Hàn Quốc, Mông Cổ, Pakistan lại thành nước Hàn Cổ Stan, rồi cố tìm điểm chung giữa chúng cho dù ngay từ đầu chúng chẳng liên quan gì đến nhau, dù đó là địa lý, chủng tộc, văn hoá, ngôn ngữ, chính trị, v.v.  Ai không biết gì về chúng thì sẽ thấy chúng đều là ở châu Á nên nghĩ là giống, chứ chỉ cần tìm hiểu đôi chút rồi thì sẽ thấy chúng hoàn toàn khác biệt.
   [Did You Say “Intellectual Property”? It's a Seductive Mirage - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/not-ipr.html). [The Curious History of Komongistan (Busting the term “intellectual property”) - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/komongistan.html).  

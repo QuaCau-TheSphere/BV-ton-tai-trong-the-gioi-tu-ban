@@ -1,11 +1,7 @@
 ---
-created: 2025-12-05T11:23
-updated: 2026-07-07T13:00
----
----
 share: true
 created: 2025-08-31T11:15
-updated: 2026-04-16T11:56
+updated: 2026-07-29T00:55
 ---
 Tên thương hiệu:: VIB
 Phân loại:: [[Thương mại Cổ phần]]
@@ -17,10 +13,11 @@ Ngày thành lập:: 18/09/1996
 Vốn điều lệ (tỷ đồng):: 29,791.00
 
 ## App
-App hay bị văng ra ngoài
-Không đòi đăng nhập ngay khi chuyển qua app khác
-Không cần KYC để đăng nhập 
-Không tạo đc nhiều số tài khoản 
+- App hay bị văng ra ngoài
+- Không đòi đăng nhập ngay khi chuyển qua app khác
+- Không cần KYC để đăng nhập 
+- Không tạo đc nhiều số tài khoản 
+- Đổi tên đăng nhập chỉ được 1 lần
 
 ## Thẻ tín dụng
 Ở trung tâm thẻ thì dễ hơn

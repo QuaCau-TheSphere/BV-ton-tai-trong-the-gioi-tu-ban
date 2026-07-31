@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T10:16
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 [[Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình]]

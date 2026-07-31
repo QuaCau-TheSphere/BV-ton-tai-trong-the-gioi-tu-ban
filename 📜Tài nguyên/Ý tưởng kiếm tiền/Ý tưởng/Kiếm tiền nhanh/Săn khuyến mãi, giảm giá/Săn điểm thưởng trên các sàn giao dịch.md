@@ -2,9 +2,10 @@
 share: true
 description: "Số tiền kiếm được: 10$"
 created: 2025-04-15T16:12
-updated: 2026-07-14T19:47
+updated: 2026-07-27T02:41
 aliases:
   - voucher
+  - airdrop
 ---
 Mô tả công việc:: Tạo tài khoản [MEXC](https://www.mexc.com/invite/register?inviteCode=3G1q4&source=invite&utm_source=usershare&utm_medium=usershare&utm_biz=affiliate&utm_campaign=invite), rồi để 300$ qua đêm
 Số tiền kiếm được:: 10$/tài khoản

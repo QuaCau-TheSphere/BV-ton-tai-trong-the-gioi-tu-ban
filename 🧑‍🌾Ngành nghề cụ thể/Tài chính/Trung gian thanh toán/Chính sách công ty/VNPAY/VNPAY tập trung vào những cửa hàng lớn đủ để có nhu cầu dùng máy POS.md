@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-01T15:57
-updated: 2026-07-14T15:51
+updated: 2026-07-27T02:22
 ---
 Khái niệm:: [[Máy cà thẻ]]
 

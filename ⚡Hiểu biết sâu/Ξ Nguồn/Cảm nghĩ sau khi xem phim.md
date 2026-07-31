@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2026-03-20T15:50
 ---
 Ban đầu anh cứ tưởng nó sẽ giống mấy phim về biến đổi khí hậu, bảo vệ môi trường như nhiều phim khác, nhưng hóa ra là nó là về tiểu sử của một người, một phong trào và một phần lịch sử của Kenya. Có lẽ gọi cô đó là một anh hùng dân tộc của Kenya cũng không quá. Từ một phong trào trồng cây đơn thuần, nó đã gần như bị buộc phải trở thành một phong trào chính trị. Việc trồng cây lúc này cũng không phải là quá quan trọng nữa.

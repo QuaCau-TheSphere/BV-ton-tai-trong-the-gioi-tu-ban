@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:23
+updated: 2026-07-27T15:41
 created: 2025-08-16T22:23
 ---
 Tính chất công việc:: [[Làm ngoài đường]]

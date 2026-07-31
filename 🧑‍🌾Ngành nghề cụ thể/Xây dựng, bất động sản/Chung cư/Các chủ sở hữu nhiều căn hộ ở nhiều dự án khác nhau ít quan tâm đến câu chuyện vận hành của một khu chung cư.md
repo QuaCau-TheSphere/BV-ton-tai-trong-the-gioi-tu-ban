@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 title: Các chủ sở hữu nhiều căn hộ ở nhiều dự án khác nhau ít quan tâm đến câu chuyện vận hành của một khu chung cư. Trong khi các chủ căn hộ có diện tích tầm trung lại rất quan tâm vì với họ căn hộ có thể là cả gia tài
 created: 2026-02-02T11:40
 ---

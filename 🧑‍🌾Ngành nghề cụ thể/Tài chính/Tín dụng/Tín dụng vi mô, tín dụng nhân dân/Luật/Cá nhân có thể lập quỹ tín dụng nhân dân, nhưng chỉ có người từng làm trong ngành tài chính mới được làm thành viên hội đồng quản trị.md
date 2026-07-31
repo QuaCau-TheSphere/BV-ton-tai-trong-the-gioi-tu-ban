@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T16:38
 created: 2026-06-07T15:24
 ---
 Khái niệm:: [[Luật các tổ chức tín dụng]], [[Hội đồng quản trị]]
@@ -43,3 +43,4 @@ Là pháp nhân (trừ Quỹ xã hội, Quỹ từ thiện) đang hoạt động
 Người đại diện của pháp nhân tham gia thành viên của quỹ tín dụng nhân dân là người đại diện theo pháp luật của pháp nhân hoặc cá nhân được người đại diện theo pháp luật của pháp nhân ủy quyền tham gia.
 Nguồn:: [Điều kiện cấp giấy phép đối với quỹ tín dụng nhân dân, tổ chức tài chính vi mô](https://tapchinganhang.gov.vn/dieu-kien-cap-giay-phep-doi-voi-quy-tin-dung-nhan-dan-to-chuc-tai-chinh-vi-mo-1.html)
 
+[[Quỹ tín dụng nhân dân]]

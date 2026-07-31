@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-10-07T11:40
 ---
 Bên mình cần tuyển CTV thanh toán hóa đơn điện/nước/internet/di động trả sau/ FTTH, v.v. Mình sẽ lọc và đưa các mã hóa đơn đồng thời chuyển khoản tiền cho CTV để CTV thanh toán hộ ( CTV chỉ việc nhận tiền và thanh toán, k cần bỏ tiền ra nha)

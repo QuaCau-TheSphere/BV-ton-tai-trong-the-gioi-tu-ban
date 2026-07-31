@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T21:08
-updated: 2026-07-18T20:44
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Tư bản]]
 [[Cốt lõi của quyền lực mà người sử dụng lao động áp đặt lên người lao động là tình trạng thiếu an ninh việc làm]]

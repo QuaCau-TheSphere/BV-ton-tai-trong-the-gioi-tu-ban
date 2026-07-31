@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-12T09:45
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 ## Hàng tháng
 | IP của TVV mới tại tháng xét | Tỷ lệ thưởng |

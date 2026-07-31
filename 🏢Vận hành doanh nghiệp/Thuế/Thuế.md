@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-10-02T13:49
-updated: 2026-07-18T21:28
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Thuế]]
 [Sổ tay THUẾ ĐIỆN TỬ hỗ trợ CHỦ DOANH NGHIỆP; KẾ TOÁN TRƯỞNG và HỘ, CÁ NHÂN KINH DOANH](https://xaydungchinhsach.chinhphu.vn/so-tay-thue-dien-tu-ho-tro-chu-doanh-nghiep-ke-toan-truong-va-ho-ca-nhan-kinh-doanh-119250907221649743.htm)

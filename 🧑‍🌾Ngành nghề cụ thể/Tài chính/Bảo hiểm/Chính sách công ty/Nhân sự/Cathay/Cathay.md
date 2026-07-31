@@ -2,7 +2,7 @@
 share: true
 created: 2024-11-22T13:37
 title: Chính sách nhân sự ở Cathay
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Biết là Cathay [[Muốn tập trung vào sự đồng đều hơn là cho không gian để thử nghiệm ý tưởng mới]], nên mới đòi hòi đại lý [[Việc phải lên công ty hàng ngày khiến cho mình thấy ráng chạy thật sẽ có lợi hơn|phải lên công ty hàng ngày]]. Nhưng nó tới độ [[Quản lý ép chỉ tiêu cả chủ nhật]], vì [[T7, cn không phải là ngày nghỉ, mà là ngày đại lý có thời gian thực sự đi làm, hoặc tham gia OPP]]. Việc bắt lên như vậy khác gì chỉ muốn tập trung vào người đang cần tiền? Mà những người như vậy thì ít mqh. Phải để cho người ta đi làm thì họ mới có nhiều mqh khác chứ?
 

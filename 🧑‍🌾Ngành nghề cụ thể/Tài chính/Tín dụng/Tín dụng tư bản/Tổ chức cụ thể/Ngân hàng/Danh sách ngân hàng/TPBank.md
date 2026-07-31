@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
+created: 2025-09-03T21:04
 ---
 Tên thương hiệu:: TPBank
 Phân loại:: [[Thương mại Cổ phần]]

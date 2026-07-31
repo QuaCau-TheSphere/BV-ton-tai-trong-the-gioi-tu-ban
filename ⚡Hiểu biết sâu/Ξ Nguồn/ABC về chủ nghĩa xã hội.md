@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-05T20:44
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 [ABC về chủ nghĩa xã hội – Sách bản đầy đủ – VNYoungMarxist](https://vnmarxist.com/post-1887.html)
 ![[ABC VỀ CHỦ NGHĨA XÃ HỘI - FULL-1.pdf]]
