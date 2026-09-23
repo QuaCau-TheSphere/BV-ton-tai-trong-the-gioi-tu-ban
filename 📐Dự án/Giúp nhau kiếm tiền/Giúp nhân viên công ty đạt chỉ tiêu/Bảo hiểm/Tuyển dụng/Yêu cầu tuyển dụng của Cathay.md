@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 created: 2024-09-14T22:58
 ---
 Tuyển người thực sự muốn làm vẫn tốt hơn tuyển ảo. Nếu muốn tuyển ảo, phải thực sự đảm bảo là mình chạy số được cho cả họ.

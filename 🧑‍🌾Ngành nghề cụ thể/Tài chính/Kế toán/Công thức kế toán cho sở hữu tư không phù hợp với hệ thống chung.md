@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-06T21:39
+updated: 2026-08-21T02:42
 created: 2025-12-01T15:26
 ---
-Khái niệm:: [[Kế toán]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Kế toán]]
 The economic events that involve externalities like waste and pollution will also need to be recorded, as well as the consumption or degradation of all other resources that are not now subsumed under “ownership” like air, water, and soil microbiota. Those records can be interpreted in the light of biocapacity and ecosystem health.
 
 One useful interpretation is in the form of resource-flow graphs, which can be both visualized and computed over mathematically: for example, using [input-process-output analysis](https://en.wikipedia.org/wiki/IPO_model). Here is an example of a IPO resource flow graph that was used to analyze fisheries in Nova Scotia:

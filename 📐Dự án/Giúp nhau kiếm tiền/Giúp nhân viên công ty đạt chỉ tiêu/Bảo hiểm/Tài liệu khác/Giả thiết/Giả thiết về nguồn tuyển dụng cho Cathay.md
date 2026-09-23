@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-26T21:32
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 aliases:
   - Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người?
 ---

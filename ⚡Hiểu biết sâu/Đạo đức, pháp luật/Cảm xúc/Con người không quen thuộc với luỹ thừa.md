@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:43
-updated: 2026-07-07T12:58
+updated: 2026-07-27T02:26
 aliases:
   - số mũ
   - cấp số nhân

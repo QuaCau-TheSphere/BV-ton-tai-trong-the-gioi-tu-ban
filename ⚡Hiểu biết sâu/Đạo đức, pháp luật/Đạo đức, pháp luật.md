@@ -1,8 +1,8 @@
 ---
 share: true
-updated: 2026-07-07T12:58
+updated: 2026-09-18T15:06
 created: 2026-06-27T17:04
 ---
-Khái niệm:: [[Luật Việt Nam]], [[Luật hình sự]]
+Khái niệm:: 
 
 Nguồn:: 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-22T08:55
-updated: 2026-07-10T15:04
+updated: 2026-07-27T02:48
 title: Giúp nhau quảng cáo, giới thiệu dịch vụ
 ---
 Nếu bạn đang có một mặt hàng, dịch vụ cần rao bán, bạn có thể đề xuất để được quảng cáo giùm ở đây. Nếu bạn cần tuyển dụng thì xem ở bài [[Giúp nhau tuyển dụng]]

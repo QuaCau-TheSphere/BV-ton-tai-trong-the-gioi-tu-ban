@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-07T15:38
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 ---
 Có một tình huống thế này: có một anh kia có cha mẹ cần vay tiền sửa nhà. Cha mẹ có nguồn tiền để trả nợ, nhưng lại nằm ngoài độ tuổi được vay. Anh đứng ra vay giùm, lấy nhà của cha mẹ làm tài sản thế chấp. Tuy nhiên nguồn tiền của cha mẹ có vấn đề, thành ra anh này phải è cổ ra gánh. Ảnh dễ 
 người đứng vay bị động hơn.

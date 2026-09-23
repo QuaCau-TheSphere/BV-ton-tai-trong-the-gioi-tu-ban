@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-16T12:03
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
 ---
 Tăng giảm sẽ impact đến liền và relvevabt thuế tncn
 Thuế bhxh vs công đoàn đc tínhntn

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 aliases:
   - Giả thiết về điều người dùng nhận được từ Trấn Kỳ
   - Tập khách hàng của Trấn Kỳ

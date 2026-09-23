@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2025-06-03T11:51
 ---
 - Bào tiền của tư bản
@@ -10,7 +10,7 @@ created: 2025-06-03T11:51
 - Làm ảo
 
 Bào tiền hàm ý ngồi nhà bấm app là chính. Chơi chính sách thì về mặt kỹ thuật mà nói vẫn đúng luật.
-[[Gian lận công ty]]
+[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Gian lận công ty]]
 [[Lách luật là phạm luật một cách đúng luật]]
 [[Công việc vô nghĩa, tổ chức vô lý]]
 [[Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền]]
@@ -29,4 +29,4 @@ GROUP BY split(file.folder, "/")[5]
 WHERE file.name != this.file.name
 ```
 
-Đọc bài [[Gian lận công ty|Các công việc gian lận công ty]]
+Đọc bài [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Gian lận công ty|Các công việc gian lận công ty]]

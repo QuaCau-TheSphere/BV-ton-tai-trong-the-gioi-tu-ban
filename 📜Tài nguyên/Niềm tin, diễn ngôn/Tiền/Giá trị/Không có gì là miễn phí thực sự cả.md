@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-01T12:22
-updated: 2026-07-07T13:00
+updated: 2026-09-21T18:48
 aliases:
   - Không có bữa ăn miễn phí
 ---
@@ -10,3 +10,8 @@ aliases:
 [[Làm gì có chuyện việc nhẹ lương cao]]
 [[Chẳng ai cho không cái gì cả]]. [[Nếu có người cho không thì đó là họ sẽ thu lại bằng một cách nào khác]]
 [[Nền kinh tế quà tặng]]
+[[Con người không giả định miễn phí là kém chất lượng với sản phẩm số]]
+
+
+[[Không bao giờ cho không thứ gì]]
+[[Của cho là của nợ]]

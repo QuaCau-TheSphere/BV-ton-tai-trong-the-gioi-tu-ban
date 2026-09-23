@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-11T18:04
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 Ngoài ra sức khoẻ cũng không có nguyên tắc thế quyền 

@@ -1,7 +1,7 @@
 ---
 share: true
-updated: 2026-07-18T20:33
-created: 2026-05-21T21:38
+updated: 2026-07-27T02:26
+created: 2026-07-21T01:58
 title: Làm nông không đất, không tiền, không kinh nghiệm thì bắt đầu từ đâu?
 ---
 Hôm nay, nhiều bạn hỏi mình:
@@ -144,3 +144,7 @@ Khái niệm:: [[Nông nghiệp, nông thôn]]
 [[Nền kinh tế vừa đủ]]
 [[Nông nghiệp sinh thái ở Việt Nam]]
 [[Sản phẩm nông nghiệp là theo quy luật tự nhiên, có thời hạn ngắn, nên không thể phù hợp với chủ nghĩa tư bản]]. [[Nông dân bị cuốn vào chuỗi cung ứng hiện đại, gặp biến động môi trường khó lường, dù đang gánh trên vai những nhiệm vụ trọng yếu]]
+
+Khái niệm:: 
+
+Nguồn:: 

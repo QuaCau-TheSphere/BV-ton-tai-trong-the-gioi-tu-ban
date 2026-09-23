@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-05T22:01
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Rủi ro]]
 [[Công việc nào ít rủi ro hoặc rủi ro nhiều nhưng việc bỏ trốn hoặc phản kháng khó tránh khỏi sự trừng phạt thì cấp trên sẽ có phần thưởng cao hơn nhiều]]

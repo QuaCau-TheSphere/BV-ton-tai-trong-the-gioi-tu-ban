@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-10-24T19:14
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
-Một phần của [[Gian lận công ty|Nhóm chạy chỉ tiêu]]
+Một phần của [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Gian lận công ty|Nhóm chạy chỉ tiêu]]
 ## Vấn đề
 [[Làm sao để nhân viên bán hàng đang mắc rất nhiều nợ mở rộng mối quan hệ khi chỉ có một mình và không có nhiều tiền]]
 

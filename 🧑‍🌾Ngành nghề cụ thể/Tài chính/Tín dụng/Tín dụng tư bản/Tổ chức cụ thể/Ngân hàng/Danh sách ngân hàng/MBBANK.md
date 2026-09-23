@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Tên thương hiệu:: MBBANK
 Phân loại:: [[Thương mại Cổ phần]]
@@ -16,3 +16,6 @@ Muốn đổi thiết bị là phải lên quầy, trừ ios
 [[KiotViet bán dữ liệu khách hàng cho MBBank]]
 
 Quảng cáo ở bệnh viện 175
+
+Nghỉ lúc 5r
+Tk ko mất phí

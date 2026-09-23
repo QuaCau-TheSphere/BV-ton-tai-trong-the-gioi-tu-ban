@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-27T14:03
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 title: Với FSF, vấn đề chính là thế giới đừng bắt tôi phải dùng phần mềm không tự do, kể cả lúc giao tiếp với thế giới, chứ không phải là thế giới cần dùng phần mềm không tự do
 ---
 Khái niệm:: 

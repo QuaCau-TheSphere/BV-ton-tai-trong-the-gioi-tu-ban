@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-01T14:55
-updated: 2026-07-06T21:39
+updated: 2026-07-27T02:26
 ---
 250tr để set target về lại 10tr/tháng
 mất hỗ trợ tài chính

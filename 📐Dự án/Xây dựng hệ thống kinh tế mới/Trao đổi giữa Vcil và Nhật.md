@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-12T19:46
+updated: 2026-08-14T13:50
 created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
@@ -289,6 +289,7 @@ Hội viên đóng tiền vào hoàn toàn có quyền đòi hỏi những quy�
 
 Mình đã có ngôn ngữ và hành vi thế nào?
 
+Các bạn cũng nhận được phản hồi từ người khác, rằng các bạn sau khi bị mình bắt bài thì bắt đầu chống chế. Nếu không có nghĩa vụ hiểu ý thì mình đã chẳng hỏi các bạn nhiều mà làm gì. Hay là các bạn cho rằng không cần cố hiểu ý của các bạn, mình cứ đưa ra kết luận của mình là được?
 
 Nếu không có nghĩa vụ đoán ý, thì mình hoàn toàn có thể kết luận là các bạn đang cố ý gây nhầm lẫn khi dùng từ cộng đồng, mở, chứ ko phải vì không biết
 
@@ -347,3 +348,6 @@ Tại sao các bạn thấy là các bạn được quyền hiểu theo nghĩa c
 Nó tạo ra cảm giác không công bằng.
 
 Những gì các bạn giải thích không có gì mâu thuẫn với những lời mình nói cả.
+việc không minh bạch là thứ gây ra sự thiếu đoàn kết
+
+

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-05-10T14:42
 ---
 [Quỹ Khởi Sự Từ Tâm - Phi lợi nhuận](https://khoisututam.vn/)

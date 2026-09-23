@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-10-07T10:43
-updated: 2026-07-08T20:39
+updated: 2026-08-21T02:42
 ---
-Khái niệm:: [[Kế toán]], [[Sinh thái]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Kế toán]], [[Sinh thái]]
 [Eco accounting - plaintextaccounting.org](https://plaintextaccounting.org/Eco-accounting#estimate-total-carbon-footprint)
 [[Công thức kế toán phải thay đổi]]
 [[❓Nguyên tắc về định giá tài sản vô hình cũng giống như định giá công sức lao động]]

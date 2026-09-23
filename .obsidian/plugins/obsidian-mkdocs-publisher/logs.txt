@@ -1,9 +1,9 @@
-7/19/2026, 8:06:12 AM [error]: 
+9/23/2026, 5:41:25 PM [error]: 
 	Cannot read properties of undefined (reading 'length')
 		Type    at checkEmptyConfiguration (plugin:obsidian-mkdocs-publisher:39:9565)
 	    at async checkRepositoryValidity (plugin:obsidian-mkdocs-publisher:39:10806)
 	    at async Enveloppe.onload (plugin:obsidian-mkdocs-publisher:223:1200)
 
-7/19/2026, 8:06:13 AM [info]: 
-	You are not rate limited. You can make 5000 requests before the limit is reset at 9:06:51 AM.
+9/23/2026, 5:41:26 PM [info]: 
+	You are not rate limited. You can make 5000 requests before the limit is reset at 6:41:39 PM.
 

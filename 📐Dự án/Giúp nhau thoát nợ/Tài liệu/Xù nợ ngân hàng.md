@@ -1,15 +1,15 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-07-13T12:16
+updated: 2026-09-16T20:32
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
   - Lý do không muốn bị mất điểm tín dụng
   - mất điểm tín dụng
   - bùng, quịt, mất khả năng trả nợ, vỡ nợ
-created: 2025-11-20T14:47
+created: 2026-07-25T15:28
 ---
-[[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]. Các công ty có dịch vụ [[ví trả sau]] hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
+[[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]. Các công ty có dịch vụ [[Mua trước trả sau. Ví trả sau]] hoặc cho vay tiêu dùng cũng dùng điểm tín dụng để đánh giá khả năng vay của khách hàng. Và bản chất là tiền vay từ các công ty này cũng do ngân hàng cấp. Nên các loại nợ này cũng có thể được hiểu là nợ ngân hàng. Khi không trả thì hệ quả cũng không khác gì nhau: bị mất điểm tín dụng (bị liệt là nợ xấu), và bị nhân viên đến đòi nợ.
 
 ## Các lý do không muốn mất điểm tín dụng, và các phản hồi về các lý do đó
 Tại sao [[Bằng mọi giá phải giữ điểm tín dụng cho sạch]]? Nhất là khi việc giữ nó làm mình rất căng thẳng, còn việc mất nó thì mình vẫn đi làm được bình thường, không bị mất tài sản gì khác?
@@ -125,7 +125,7 @@ Luật không định nghĩa các khái niệm như bùng, quịt, xù, vỡ n�
 
 Đối với những người kích động, xúi giục, chỉ cách lừa đảo hoặc cung cấp những điều kiện cần thiết cho người thực hiện hành vi lừa đảo có thể sẽ bị xử lý hình sự với vai trò đồng phạm.
 
-Xét về mặt rủi ro, bạn không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ và ngân hàng mà có muốn theo đuổi vụ kiện hay không. Tốt nhất là cứ ra ngân hàng thông báo là mình mất khả năng trả nợ để tránh việc [[Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự|các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự do thiếu thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi]].
+Xét về mặt rủi ro, bạn không phải là người duy nhất mất khả năng trả nợ. Tùy vào động lực của nhân viên đòi nợ và ngân hàng mà có muốn theo đuổi vụ kiện hay không. Tốt nhất là cứ ra ngân hàng thông báo là mình mất khả năng trả nợ để tránh việc [[Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự|các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự do thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi]].
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

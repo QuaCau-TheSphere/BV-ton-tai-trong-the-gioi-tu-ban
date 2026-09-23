@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-29T14:00
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Lương]], [[KPI, doanh số, chỉ tiêu]]
 [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]

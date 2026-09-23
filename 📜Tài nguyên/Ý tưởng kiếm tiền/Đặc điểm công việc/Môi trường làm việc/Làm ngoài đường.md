@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-14T20:14
+updated: 2026-07-27T02:26
 aliases:
   - Những công việc có thể kết hợp làm chung khi phải di chuyển đến nhiều địa điểm khác nhau
 ---

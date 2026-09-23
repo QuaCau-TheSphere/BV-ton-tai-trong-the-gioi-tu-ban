@@ -1,7 +1,6 @@
 ---
-created: 2026-06-14T21:55
-updated: 2026-07-07T13:00
 share: true
+updated: 2026-08-08T15:37
 ---
 
 > [!important] Nhìn toàn cảnh

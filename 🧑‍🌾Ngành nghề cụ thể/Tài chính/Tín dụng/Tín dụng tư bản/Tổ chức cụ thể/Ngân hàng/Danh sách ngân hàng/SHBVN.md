@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-06T21:10
+updated: 2026-08-20T22:43
 aliases:
   - Shinhanbank
 ---

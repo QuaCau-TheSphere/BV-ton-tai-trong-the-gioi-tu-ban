@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-04T22:11
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
 ---
 ## Giả thiết
 - Dành thời gian đọc hết

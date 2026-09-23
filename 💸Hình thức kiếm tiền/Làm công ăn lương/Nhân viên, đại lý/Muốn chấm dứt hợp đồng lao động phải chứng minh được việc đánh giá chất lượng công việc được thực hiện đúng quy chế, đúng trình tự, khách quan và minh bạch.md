@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-05T13:08
-updated: 2026-07-10T19:46
+updated: 2026-07-27T02:26
 title: Để đơn phương chấm dứt hợp đồng lao động, doanh nghiệp không chỉ phải chứng minh người lao động không hoàn thành công việc, mà còn phải chứng minh việc đánh giá đó được thực hiện đúng quy chế, đúng trình tự, khách quan và minh bạch
 ---
 Khái niệm:: [[Luật Việt Nam]], [[Luật lao động]]

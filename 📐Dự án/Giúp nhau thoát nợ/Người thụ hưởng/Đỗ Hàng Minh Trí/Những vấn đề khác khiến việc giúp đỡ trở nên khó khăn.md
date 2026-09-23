@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-11T18:52
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 ## Liên quan đến chuyện tiền bạc
 - [[Bằng mọi giá phải giữ điểm tín dụng cho sạch|Không chịu mất tín dụng ngân hàng vì sau này khó làm ăn]]

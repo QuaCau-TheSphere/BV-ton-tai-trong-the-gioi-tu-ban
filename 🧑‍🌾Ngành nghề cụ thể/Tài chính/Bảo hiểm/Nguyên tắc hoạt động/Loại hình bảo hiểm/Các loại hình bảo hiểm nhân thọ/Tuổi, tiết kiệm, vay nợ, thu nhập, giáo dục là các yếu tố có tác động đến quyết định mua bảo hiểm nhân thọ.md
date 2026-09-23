@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T13:24
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 title: Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ. Giới tính, tình trạng hôn nhân, số thành viên trong hộ không có ảnh hưởng đến quyết định này
 aliases:
   - Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ

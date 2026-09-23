@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-11T12:21
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Thị trường]], [[Đạo đức]]
 [[Để xác định xem cái gì nên và không nên được mua bằng tiền, cần phải xác định được những giá trị nào chi phối các lĩnh vực khác nhau trong đời sống cá nhân và xã hội]]
@@ -13,3 +13,4 @@ Nguồn:: [[Tiền không mua được gì]]
 [[Tiền đơn giản hoá quá trình đáp ứng nhu cầu]]
 
 [[Sự đơn giản ép ta phải làm nó cực kỳ tốt]], nhưng [[Chỉ theo đuổi một chỉ số là quá đơn giản]]
+[[Thị trường không định giá. Ta mới là người định giá]]

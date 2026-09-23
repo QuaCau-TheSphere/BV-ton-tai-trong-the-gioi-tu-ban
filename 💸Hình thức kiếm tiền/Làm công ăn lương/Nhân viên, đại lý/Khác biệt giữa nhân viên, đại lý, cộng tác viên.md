@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:29
+updated: 2026-07-27T02:26
 ---
 
 | Loại hình                            | Nhân viên                        | Đại lý                              | Cộng tác viên cho công ty        | Cộng tác viên cho nhân viên/đại lý |
@@ -23,4 +23,4 @@ Freelancer: Không tốn 2 tiếng mỗi ngày để di chuyển lên công ty; 
 
 Văn phòng-er: Đảm bảo ổn định nguồn thu nhập hằng tháng (miễn là còn hợp đồng và công ty phát triển ổn); có đồng nghiệp hợp cạ để tâm sự khi stress... Bù lại, quy trình làm việc đôi lúc gò bó hơn, hoặc làm mãi một việc sẽ cảm thấy "burn-out".
 
-Xem thêm:: [[Gian lận công ty|Nhóm cộng tác viên cho nhân viên]]
+Xem thêm:: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Gian lận công ty|Nhóm cộng tác viên cho nhân viên]]

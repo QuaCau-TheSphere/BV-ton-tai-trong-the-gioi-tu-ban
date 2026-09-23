@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-01-20T17:50
-updated: 2026-07-07T13:00
+updated: 2026-09-09T17:06
 aliases:
-  - Cách tạo áp lực
+  - Cách tạo áp lực khi không trả đúng hẹn
 ---
-[[Thuật ngữ|PTP là hứa trả (promise to pay)]]. Khi PTP gãy tức là hứa trả mà không chịu trả, hoặc lại hẹn lần sau.
+[[Thuật ngữ|PTP là lời hứa trả (promise to pay)]]. Khi PTP gãy tức là hứa trả mà đến hẹn không chịu trả, hoặc lại hẹn lần sau.
 
 ![[Phân tích, làm rõ, cô lập, phản hồi.png]]
 ![[Tháp áp lực, tháp huy động, tháp người thân.png]]

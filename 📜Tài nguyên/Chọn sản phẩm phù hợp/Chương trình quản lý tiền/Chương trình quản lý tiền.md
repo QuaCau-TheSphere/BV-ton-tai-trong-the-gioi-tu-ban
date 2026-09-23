@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-06T21:09
+updated: 2026-08-22T12:07
 description: Điểm giống và khác nhau giữa các chương trình quản lý tiền. Quang cảnh và sơ đồ giữa chúng.
 aliases:
   - Điểm giống và khác nhau giữa các chương trình quản lý tiền
@@ -56,6 +56,3 @@ group by split(file.folder, "/" )[3]
 - Khi một "nhu cầu" của người dùng thực ra là do không có nhu cầu thì nó nên là gì?
 - Khi một "tính năng" của chương trình thực ra là do không có tính năng thì nó nên là gì?
 
-[Gamification trong ngành tài chính: Phân tích ứng dụng tiết kiệm có gamification hiệu quả](https://www.gamehoa.org/p/gamification-trong-nganh-tai-chinh?utm_source=post-email-title&publication_id=174112&post_id=158754486&utm_campaign=email-post-title&isFreemail=true&r=o1jso&triedRedirect=true&utm_medium=email)
-
-[The Flowchart - UKPersonalFinance Wiki](https://ukpersonal.finance/flowchart/)

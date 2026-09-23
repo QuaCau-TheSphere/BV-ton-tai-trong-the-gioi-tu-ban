@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-07T23:55
-updated: 2026-07-10T14:27
+updated: 2026-08-05T15:36
 ---
 Khái niệm:: 
 - Chiếm 50% người lao động

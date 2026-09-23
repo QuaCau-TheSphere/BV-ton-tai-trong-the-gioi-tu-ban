@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-26T11:02
-updated: 2026-07-08T21:02
+updated: 2026-07-27T02:47
 aliases:
   - Ý tưởng tiết kiệm
   - Giúp nhau sống vừa đủ, bền vững, tiết kiệm

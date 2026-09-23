@@ -1,26 +1,32 @@
 ---
 share: true
-updated: 2026-07-10T14:10
+updated: 2026-08-08T15:39
 ---
-## Thị trường & đối thủ cạnh tranh
-## Đối tượng phục vụ 
-## Hiểu biết sâu
-## Chiến lược tiếp cận
-## Sản phẩm, giải pháp 
-## Thành quả mong muốn
-## Vai trò thương hiệu
-Nhật giúp ghi chép, tổng hợp thông tin, hoặc chia sẻ kiến thức, trải nghiệm. Xem chi tiết tại [Lời mời sử dụng nguồn lực của Nhật](https://doi-thoai.deno.dev/6_.7O.1)
 
-## Thông tin thêm
-Kiến thức, kỹ năng cần có sẵn::
-Môi trường làm việc:: [[Không cần đi lại]], [[Làm qua mạng]]
-Thời gian làm việc:: [[Được chọn thời gian làm trong ngày]]
-Tài nguyên, vật dụng cần có sẵn:: 
-Đặc điểm khác:: [[Không cần độ tập trung cao]]
+## Vấn đề đang giải quyết
+
+## Giải pháp
+
+## Tình hình hiện tại của dự án
+### Những kết quả đạt được (thành phẩm) 
+
+### Sự thay đổi hành vi ở người thụ hưởng (thành quả)
+
+## Giá trị khác biệt với người thụ hưởng
+
+## Lợi thế cạnh tranh không dễ bị sao chép hay mua lại
+
+## Con đường tiếp cận người thụ hưởng
+
+## Phân khúc người thụ hưởng
+
+## Cơ cấu chi phí
+
+## Các nguồn doanh thu
+
+## Nơi thảo luận
+
 
 ## Nơi thảo luận
 Vào [Discord Quả Cầu](https://discord.com/channels/898550123007709204/1249553476745298010), kênh "Tạo dòng tiền, đầu tư, tạo thu nhập thụ động, kinh doanh" để thảo luận:
 [![](https://i.vgy.me/BjXA75.png)](https://discord.com/channels/898550123007709204/1249553476745298010)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn.

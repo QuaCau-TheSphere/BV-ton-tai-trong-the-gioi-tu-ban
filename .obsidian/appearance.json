@@ -7,5 +7,6 @@
   "enabledCssSnippets": [
     "style-importer",
     "MCL Wide Views"
-  ]
+  ],
+  "autoFullScreen": true
 }

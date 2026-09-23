@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
-Một hình thức ít rủi ro hơn là đi [[Đổi tiền, chụp hình biển hiệu, dán mã QR#Đổi tiền|đổi tiền]].
+Một hình thức ít rủi ro hơn là đi [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Ví điện tử/Đổi tiền, chụp hình biển hiệu, dán mã QR#Đổi tiền|đổi tiền]].
 ## Yêu cầu
 - Tìm được các chủ cửa hàng chấp nhận trả tiền cho mình
 - Có nhiều tài khoản ngân hàng khác chủ

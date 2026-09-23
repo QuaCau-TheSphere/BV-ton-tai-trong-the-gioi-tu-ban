@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-16T21:10
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Áp lực]]
 Tiêu chí của việc chọn đồ ăn là ngon, bổ, rẻ. Tuy nhiên không có thứ nào có được cả 3, mà ta thường chỉ chọn được 2. Trong trường hợp tạo ra sản phẩm thì ngon, bổ, rẻ sẽ là:

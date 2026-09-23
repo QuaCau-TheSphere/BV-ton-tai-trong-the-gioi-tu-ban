@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-11T11:48
+updated: 2026-09-19T14:47
 created: 2026-06-08T13:39
 ---
 Khái niệm:: 
@@ -21,7 +21,7 @@ Khái niệm::
 
 ## Quỹ cổ phiếu
 - Người vay phải làm việc với tất cả những người cho vay (các cổ đông) hoặc đại diện của họ
-- Phù hợp cho những người muốn làm điều bền vững nhất: xây dựng cộng đồng
+- Phù hợp khi những người cho vay muốn biết về nhau, và biết về người vay. Điều này giúp làm được điều bền vững nhất là xây dựng cộng đồng
 
 Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]
 

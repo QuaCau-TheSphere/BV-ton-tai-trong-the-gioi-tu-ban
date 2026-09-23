@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 created: 2026-06-22T13:04
 ---
 Khái niệm:: [[Sở hữu]], [[Luật so sánh]]

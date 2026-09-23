@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-29T18:13
-updated: 2026-07-07T13:00
+updated: 2026-09-19T14:54
 title: Thuật ngữ trong các công ty tài chính tiêu dùng
 ---
 | Viết tắt     | Thuật ngữ                          | Tiếng Anh                |

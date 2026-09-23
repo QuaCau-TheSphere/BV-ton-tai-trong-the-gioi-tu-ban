@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-11T11:51
+updated: 2026-07-27T02:26
 created: 2026-05-24T23:02
 ---
 
@@ -52,3 +52,6 @@ Mình đã viết phần về bảo mật này khá dài. Thật ra, toàn bộ 
 
 Mình ghi dài vì mình thấy cần phân tích kỹ những quan niệm mà các bạn đang sử dụng. Những quan niệm này là phổ biến, nhưng lại dựa trên các giả định sai.
 
+
+Những đánh giá tự động có xác suất dương tính giả, âm tính giả
+Có thể hệ thống của các bạn đã bị tấn công rồi mà các bạn chưa biết.

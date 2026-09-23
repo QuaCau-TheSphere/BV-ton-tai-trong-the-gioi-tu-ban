@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 created: 2026-02-02T12:06
 ---
 Khái niệm:: [[Luật Việt Nam]]

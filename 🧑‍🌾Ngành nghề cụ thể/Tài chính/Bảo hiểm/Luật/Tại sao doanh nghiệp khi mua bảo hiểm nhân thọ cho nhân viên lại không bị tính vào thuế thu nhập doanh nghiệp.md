@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2024-12-23T15:09
-updated: 2026-07-07T13:00
+updated: 2026-09-18T21:55
 title: Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?
 description: Thâm cung bí sử của Thịnh An Phát
 ---
+Khái niệm:: [[Thuế Việt Nam]]
 [Điều 3.3 Thông tư 25/2018/TT-BTC](https://thuvienphapluat.vn/phap-luat/cong-ty-mua-bao-hiem-nhan-tho-cho-nhan-vien-co-duoc-tinh-vao-chi-phi-duoc-tru-khi-tinh-thue-thu-nha-626376-83663.html "Công ty mua bảo hiểm nhân thọ cho nhân viên có được tính vào chi phí được trừ khi tính thuế thu nhập doanh nghiệp không?") quy định rằng nếu một doanh nghiệp mua bảo hiểm nhân thọ cho nhân viên thì chỉ được miễn thuế nếu nó không vượt quá 3 triệu đồng/tháng/người. Phần vượt quá sẽ không được trừ khi tính thuế thu nhập doanh nghiệp. Tuy nhiên, theo thông tin chúng tôi đang có, có vẻ như quy định này đang được thả lỏng. Một giám đốc mua một bảo hiểm nhân thọ trị giá 1 tỷ đồng thì vẫn tính chi tiêu cho công ty là 1 tỷ đồng, dù sau này khi đáo hạn thì tiền này sẽ trở thành tiền cá nhân của họ. Liệu có chỉ thị nào đó đè lên cái thông tư này không? Chúng tôi không có thông tin, nhưng chúng tôi có giả thuyết để lý giải hiện tượng này.
 
 > [!Important] Lưu ý

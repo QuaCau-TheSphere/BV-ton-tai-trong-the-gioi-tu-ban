@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-10T17:11
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Nếu chi nhánh không hoạt động tốt thì giám đốc chi nhánh cũng sẽ bị giáng cấp và có một người khác đến thay
 [[Phỏng vấn là gặp các giám đốc chi nhánh khác]]

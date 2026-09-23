@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-21T16:35
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 Lý do:: [[Người ngoài mới thấy mình cần bảo hiểm hơn mình tự thấy]], [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-06T21:09
+updated: 2026-08-12T09:56
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -52,17 +52,19 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
 	- Vì sao bạn không thể [[Xù nợ ngân hàng|chấp nhận mất điểm tín dụng]]?
 	- Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
-- Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
+- Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn|về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
-- Bạn đã nhận được những sự hỗ trợ từ những ai? Sự hỗ trợ không nhất thiết là tiền
+- Có những ai bạn nghĩ là họ nên được biết tình hình của bạn nhưng bạn chưa cho họ biết? Vì sao bạn chưa cho họ biết?
+- Bạn đã nhận được những sự hỗ trợ từ những ai? (Sự hỗ trợ không nhất thiết là tiền)
 
-| STT | Họ tên | SĐT | Mối quan hệ | Thứ họ hỗ trợ |
-| --- | ------ | --- | ----------- | ------------- |
-|     |        |     |             |               |
+| STT | Họ tên | SĐT | Mối quan hệ | Điều họ hỗ trợ | Giới hạn của sự hỗ trợ |
+| --- | ------ | --- | ----------- | -------------- | ---------------------- |
+|     |        |     |             |                |                        |
+
 - Họ đã thử vay giùm bạn chưa? Nếu chưa thì tại sao? Nếu rồi thì như thế nào?
 
 ## Năng lực xoay sở
-- Bạn nghĩ sao về quan điểm [[Áp lực tạo kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
+- Bạn nghĩ sao về quan điểm [[áp lực tạo kim cương]]? Bạn có nghĩa rằng [[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|nếu không có ai giúp đỡ thì bạn sẽ làm được những điều đến chính bạn cũng ngạc nhiên]]?
 - Việc mượn nợ đầu này để đắp đầu kia (xoay nợ, đảo nợ) đến khi nào thì mới chấm dứt? Điều gì khiến cho lãi không sinh ra lãi?
 - Với số lượng nợ lớn thế này, điều gì đảm bảo rằng bạn sẽ trả đúng hạn khi được cho vay nữa? 
 - Tại sao bạn chưa thấy mình mất khả năng trả nợ? Chuyện gì sẽ xảy ra nếu bạn thừa nhận việc đó?
@@ -85,10 +87,10 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Mức độ bí mật của những thông tin bạn chia sẻ ở đây là gì? Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn chia sẻ? Vì sao?
   - Với các yêu cầu bạn đưa ra, bạn nghĩ gì về việc nó sẽ tạo khó khăn cho người muốn giúp bạn?
   - Có phải bạn thấy rằng các lý do bạn đưa ra quan trọng hơn việc giúp bạn hiệu quả hơn đúng không? Vì sao?
-- Bạn muốn ai sẽ hỗ trợ bạn?
+- Bạn muốn ai sẽ hỗ trợ bạn? Làm sao để họ nói chuyện được với bạn?
 - Bạn thấy việc ghép nhóm vay cho bạn có những khó khăn gì không?
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)
 
-[[Template câu hỏi cho người cần được hỗ trợ thoát nợ]]
+[[Mẫu hồ sơ vay nợ]]

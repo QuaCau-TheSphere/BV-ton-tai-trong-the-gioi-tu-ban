@@ -1,11 +1,10 @@
 ---
-created: 2025-03-21T22:15
-updated: 2026-07-07T13:00
+updated: 2026-08-08T15:38
 ---
-Ngân hàng:: [[PGBank]]
+Ngân hàng::
 STK:: 
 Tên đăng nhập:: 
-Mật khẩu:: Bank999@ | Bank@999 | Aa@123456
+Mật khẩu:: 
 SĐT:: 
 Email:: 
 CCCD:: 

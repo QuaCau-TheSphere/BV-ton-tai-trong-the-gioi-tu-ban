@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-27T09:55
-updated: 2026-07-19T08:28
+updated: 2026-07-27T02:26
 ---
 ## Mục tiêu nghiên cứu
 - Hiểu được nhu cầu của họ, xem có thể cho giá trị nào không

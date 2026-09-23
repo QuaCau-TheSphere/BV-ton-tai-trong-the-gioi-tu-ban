@@ -1,15 +1,16 @@
 ---
 share: true
-updated: 2026-07-18T20:30
+updated: 2026-07-27T14:53
 created: 2025-09-03T10:03
 ---
-Khái niệm:: [[Tài sản vô hình]]
+Khái niệm:: [[Tài sản vô hình]], [[Cạnh tranh]]
 Tài sản vô hình là một tài sản không có hình thái vật chất (không giống như tài sản vật chất như máy móc và tòa nhà) và thường rất khó đánh giá. Nó bao gồm bằng sáng chế, bản quyền, nhượng quyền thương mại, lợi thế thương mại, nhãn hiệu và tên thương mại, và giải thích chung cũng bao gồm phần mềm và các tài sản dựa trên máy tính vô hình khác. Trái ngược với các tài sản khác, tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ.
 Nguồn:: [Tài sản vô hình – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/T%C3%A0i_s%E1%BA%A3n_v%C3%B4_h%C3%ACnh)
-
+[[Tài sản là loại nguồn lực được sở hữu và kiểm soát bởi thực thể kinh tế]]
 [[Ngân hàng không chấp nhận thế chấp tài sản vô hình]]
 [[❓Tài sản vô hình và hàng hoá vô hình là giống nhau]]
 [[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình]]
 [[❓Nguyên tắc về định giá tài sản vô hình cũng giống như định giá công sức lao động]]
 
 [[❓Tài sản vô hình có chi phí biên gần như bằng 0]]
+[[Sự cạnh tranh khiến cho các kiến thức ngầm lộ diện được tốt hơn, nhưng lại ngăn chặn việc chia sẻ chúng]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-12T12:40
-updated: 2026-07-06T21:39
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 Có lẽ chỉ là những nhu cầu cơ bản? Chứ con người thì luôn có nhiều nhu cầu

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T21:13
+updated: 2026-07-27T02:26
 created: 2025-06-12T23:19
 ---
 Tôi nghĩ nông dân ở Việt Nam về lâu về dài còn chơi theo quy luật thị trường để tạo lợi nhuận dư thì họ còn thua dài. Vì nông nghiệp là vận động theo mùa, theo quy luật tự nhiên. Còn phương thức sản xuất của chủ nghĩa tư bản là chạy theo lợi nhuận, theo số lượng, phải sản xuất dư thừa.

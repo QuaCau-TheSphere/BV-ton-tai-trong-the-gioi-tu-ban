@@ -48,7 +48,6 @@
       "field": "Hình thức công việc",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Hình thức công việc"
     },
-
     {
       "field": "Môi trường làm việc",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Môi trường làm việc"
@@ -57,7 +56,6 @@
       "field": "Thời gian làm việc",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Thời gian làm việc"
     },
-    
     {
       "field": "Kiến thức, kỹ năng cần có sẵn",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Kiến thức, kỹ năng"
@@ -70,7 +68,6 @@
       "field": "Đặc điểm khác",
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Đặc điểm công việc/Đặc điểm khác"
     },
-    
     {
       "field": "Nguồn",
       "folder": "⚡Hiểu biết sâu/Ξ Nguồn"
@@ -102,6 +99,10 @@
     {
       "field": "Ngân hàng",
       "folder": "📜Tài nguyên/Tài nguyên chạy ảo/Ngân hàng"
+    },
+    {
+      "field": "",
+      "folder": ""
     }
   ],
   "regexpTrigger": "/",

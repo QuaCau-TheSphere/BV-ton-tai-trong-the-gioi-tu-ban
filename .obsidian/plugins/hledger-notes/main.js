@@ -141,8 +141,125 @@ var HledgerSettingTab = class extends import_obsidian.PluginSettingTab {
 };
 
 // src/ui/entry-modal.ts
+var import_obsidian3 = __toModule(require("obsidian"));
+
+// src/utils.ts
 var import_obsidian2 = __toModule(require("obsidian"));
-var HledgerEntryModal = class extends import_obsidian2.Modal {
+function roundAmount(value, maxDecimals = 8) {
+  if (!Number.isFinite(value))
+    return value;
+  return parseFloat(value.toFixed(maxDecimals));
+}
+function insertBlockUnderHeader(content, header, block) {
+  const eol = content.includes("\r\n") ? "\r\n" : "\n";
+  const normalizedBlock = block.split("\n").join(eol);
+  const trimmedHeader = header.trim();
+  if (!trimmedHeader) {
+    return content.trimEnd() + `${eol}${eol}${normalizedBlock}`;
+  }
+  const lines = content.split(/\r?\n/);
+  const headerIndex = lines.findIndex((line) => line.trim() === trimmedHeader);
+  if (headerIndex === -1) {
+    return content.trimEnd() + `${eol}${eol}${header}${eol}${eol}${normalizedBlock}`;
+  }
+  let sectionEnd = lines.length;
+  for (let i = headerIndex + 1; i < lines.length; i++) {
+    if (/^#{1,6}\s/.test(lines[i])) {
+      sectionEnd = i;
+      break;
+    }
+  }
+  const before = lines.slice(0, sectionEnd).join(eol).trimEnd();
+  const after = lines.slice(sectionEnd).join(eol).trimEnd();
+  return after ? `${before}${eol}${eol}${normalizedBlock}${eol}${eol}${after}` : `${before}${eol}${eol}${normalizedBlock}`;
+}
+function createDateRegexPattern(hledgerDateFormat) {
+  let pattern = hledgerDateFormat.replace(/YYYY/g, "\\d{4}").replace(/YY/g, "\\d{2}").replace(/MM/g, "\\d{2}").replace(/M/g, "\\d{1,2}").replace(/DD/g, "\\d{2}").replace(/D/g, "\\d{1,2}");
+  pattern = pattern.replace(/\//g, "\\/").replace(/\./g, "\\.").replace(/-/g, "\\-");
+  return new RegExp(`^${pattern}`);
+}
+function createDateRemovalRegex(hledgerDateFormat) {
+  const pattern = createDateRegexPattern(hledgerDateFormat).source;
+  return new RegExp(`^${pattern.substring(1)}\\s*`);
+}
+function parseJournalTransactions(content, hledgerDateFormat) {
+  const transactions = [];
+  let currentTransactionLines = [];
+  const dateRegex = createDateRegexPattern(hledgerDateFormat);
+  const lines = content.split(/\r?\n/);
+  for (const line of lines) {
+    if (dateRegex.test(line)) {
+      if (currentTransactionLines.length > 0) {
+        transactions.push(currentTransactionLines.join("\n"));
+      }
+      currentTransactionLines = [line];
+    } else if (currentTransactionLines.length > 0) {
+      if (line.startsWith(" ") || line.startsWith("	")) {
+        currentTransactionLines.push(line);
+      }
+    }
+  }
+  if (currentTransactionLines.length > 0) {
+    transactions.push(currentTransactionLines.join("\n"));
+  }
+  return transactions;
+}
+function extractTransactionDate(transaction, hledgerDateFormat) {
+  const datePattern = hledgerDateFormat.replace(/[YMD]/g, "\\d").replace(/[-/]/g, "\\$&");
+  const dateRegex = new RegExp(`^(${datePattern})`);
+  const match = transaction.match(dateRegex);
+  return match ? match[1] : null;
+}
+function extractHledgerBlock(fileContent) {
+  const hledgerCodeBlockRegex = /```hledger\s*([\s\S]*?)```/gi;
+  const blocks = [];
+  let match;
+  while ((match = hledgerCodeBlockRegex.exec(fileContent)) !== null) {
+    blocks.push(match[1].trim());
+  }
+  return blocks.length > 0 ? blocks.join("\n\n") : null;
+}
+function normalizePath(path) {
+  return path.replace(/\\/g, "/");
+}
+async function ensureDirectoryExists(directoryPath, adapter) {
+  if (!directoryPath)
+    return;
+  try {
+    if (!await adapter.exists(directoryPath)) {
+      try {
+        await adapter.mkdir(directoryPath);
+      } catch (mkdirError) {
+        if (!await adapter.exists(directoryPath)) {
+          console.error(`Failed to create directory after checking again: ${directoryPath}`, mkdirError);
+          throw new Error(`Failed to create directory ${directoryPath}`);
+        }
+      }
+    }
+  } catch (error) {
+    console.error(`Error ensuring directory exists ${directoryPath}:`, error);
+    if (error instanceof Error && error.message.startsWith("Failed to create directory")) {
+      throw error;
+    } else {
+      throw new Error(`Failed to ensure directory exists ${directoryPath}: ${error instanceof Error ? error.message : String(error)}`);
+    }
+  }
+}
+function getParentDirectory(path) {
+  const normalizedPath = normalizePath(path);
+  const pathWithoutTrailingSlash = normalizedPath.endsWith("/") ? normalizedPath.slice(0, -1) : normalizedPath;
+  const lastSlashIndex = pathWithoutTrailingSlash.lastIndexOf("/");
+  if (lastSlashIndex === -1) {
+    return "";
+  }
+  return pathWithoutTrailingSlash.substring(0, lastSlashIndex);
+}
+
+// src/ui/entry-modal.ts
+function canMirrorSecondAmount(entries, isExchange) {
+  return !isExchange && entries.length === 2 && !entries[1].amountEdited;
+}
+var HledgerEntryModal = class extends import_obsidian3.Modal {
   constructor(app, settings, onSubmit) {
     super(app);
     this.accounts = [];
@@ -165,14 +282,14 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
     if (activeFile) {
       const basename = activeFile.basename.replace(".md", "");
       const dateFormat = this.settings.dailyNotesDateFormat.includes("/") ? this.settings.dailyNotesDateFormat.split("/").pop() || this.settings.dailyNotesDateFormat : this.settings.dailyNotesDateFormat;
-      const fileNameDate = (0, import_obsidian2.moment)(basename, dateFormat, true);
+      const fileNameDate = (0, import_obsidian3.moment)(basename, dateFormat, true);
       if (fileNameDate.isValid()) {
         this.date = fileNameDate.format("YYYY-MM-DD");
       } else {
-        this.date = (0, import_obsidian2.moment)().format("YYYY-MM-DD");
+        this.date = (0, import_obsidian3.moment)().format("YYYY-MM-DD");
       }
     } else {
-      this.date = (0, import_obsidian2.moment)().format("YYYY-MM-DD");
+      this.date = (0, import_obsidian3.moment)().format("YYYY-MM-DD");
     }
   }
   async onOpen() {
@@ -202,10 +319,12 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
       text: "Transaction",
       value: "transaction"
     });
-    typeToggle.createEl("option", {
-      text: "Exchange",
-      value: "exchange"
-    });
+    if (this.settings.currencies.length >= 2) {
+      typeToggle.createEl("option", {
+        text: "Exchange",
+        value: "exchange"
+      });
+    }
     typeToggle.value = this.isExchange ? "exchange" : "transaction";
     dateInput.addEventListener("change", (e) => {
       const target = e.target;
@@ -250,6 +369,7 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
     descriptionInput.focus();
   }
   handleTypeToggle(isExchange, contentEl) {
+    var _a;
     this.isExchange = isExchange;
     const entriesContainer = contentEl.querySelector(".hledger-entries-container");
     const leftButtons = contentEl.querySelector(".hledger-left-buttons");
@@ -263,7 +383,7 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
     if (this.isExchange) {
       this.entries = [
         { account: "", amount: 0, currency: this.settings.currencies[0] },
-        { account: "", amount: 0, currency: this.settings.currencies[1] }
+        { account: "", amount: 0, currency: (_a = this.settings.currencies[1]) != null ? _a : this.settings.currencies[0] }
       ];
       const addButton = leftButtons.querySelector(".hledger-add-account-button");
       if (addButton) {
@@ -312,7 +432,7 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
   }
   addNewEntry(entriesContainer) {
     const lastEntry = this.entries[this.entries.length - 1];
-    const totalAmount = this.entries.reduce((sum, entry) => sum + entry.amount, 0);
+    const totalAmount = roundAmount(this.entries.reduce((sum, entry) => sum + entry.amount, 0));
     this.entries.push({
       account: "",
       amount: -totalAmount,
@@ -383,7 +503,7 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
   validateForm() {
     const emptyAccounts = this.entries.filter((entry) => !entry.account.trim());
     if (emptyAccounts.length > 0) {
-      new import_obsidian2.Notice("Please fill in all account names");
+      new import_obsidian3.Notice("Please fill in all account names");
       return false;
     }
     const emptyAmounts = this.entries.filter((entry) => {
@@ -392,22 +512,22 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
     });
     if (this.isExchange) {
       if (emptyAmounts.length > 0) {
-        new import_obsidian2.Notice("Please fill in all amount fields");
+        new import_obsidian3.Notice("Please fill in all amount fields");
         return false;
       }
       if (this.entries.every((entry) => entry.amount === 0)) {
-        new import_obsidian2.Notice("At least one amount must be non-zero in exchange mode");
+        new import_obsidian3.Notice("At least one amount must be non-zero in exchange mode");
         return false;
       }
     } else {
       if (emptyAmounts.length > 0) {
-        new import_obsidian2.Notice("Please fill in all amount fields with valid numbers");
+        new import_obsidian3.Notice("Please fill in all amount fields with valid numbers");
         return false;
       }
-      const totalAmount = this.entries.reduce((sum, entry) => sum + entry.amount, 0);
+      const totalAmount = roundAmount(this.entries.reduce((sum, entry) => sum + entry.amount, 0));
       const epsilon = 1e-4;
       if (Math.abs(totalAmount) > epsilon) {
-        new import_obsidian2.Notice(`Transaction does not balance. Total is ${totalAmount.toFixed(2)}`);
+        new import_obsidian3.Notice(`Transaction does not balance. Total is ${totalAmount.toFixed(2)}`);
         return false;
       }
     }
@@ -426,7 +546,7 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
     try {
       const accountsPath = `${this.settings.hledgerFolder}/${this.settings.accountsFile}`;
       const file = this.app.vault.getAbstractFileByPath(accountsPath);
-      if (file instanceof import_obsidian2.TFile) {
+      if (file instanceof import_obsidian3.TFile) {
         const content = await this.app.vault.read(file);
         this.accounts = content.split("\n").map((line) => line.trim()).filter((line) => line.startsWith("account ")).map((line) => {
           const match = line.match(/^account\s+([^;]+)/);
@@ -621,17 +741,20 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
       placeholder: "Amount",
       cls: "text-input hledger-amount-input"
     });
+    const isMirrorSource = index === 0 && !this.isExchange;
     amountInput.addEventListener("input", (e) => {
       const target = e.target;
-      let value = target.value.trim();
-      value = this.processAmountValue(value, entry, target);
+      this.processAmountValue(target.value.trim(), entry, target);
+      entry.amountEdited = target.value.trim() !== "";
+      if (isMirrorSource) {
+        this.mirrorSecondAmount(container);
+      }
     });
     amountInput.addEventListener("change", (e) => {
       const target = e.target;
-      let value = target.value.trim();
-      value = this.processAmountValue(value, entry, target);
-      if (index === 0 && this.entries.length === 2 && !this.isExchange) {
-        this.updateSecondRowAmount(entry.amount, container);
+      this.processAmountValue(target.value.trim(), entry, target);
+      if (isMirrorSource) {
+        this.mirrorSecondAmount(container);
       }
     });
   }
@@ -678,12 +801,22 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
     }
     return value;
   }
-  updateSecondRowAmount(firstRowAmount, container) {
-    const secondRow = this.entries[1];
+  mirrorSecondAmount(container) {
+    if (!canMirrorSecondAmount(this.entries, this.isExchange)) {
+      return;
+    }
     const secondAmountInput = container.querySelectorAll(".hledger-amount-input")[1];
-    if (secondAmountInput && !Number.isNaN(firstRowAmount) && (secondAmountInput.value === "" || secondAmountInput.value === "0")) {
-      secondRow.amount = -firstRowAmount;
-      secondAmountInput.value = (-firstRowAmount).toString();
+    if (!secondAmountInput) {
+      return;
+    }
+    const firstAmount = this.entries[0].amount;
+    if (Number.isNaN(firstAmount)) {
+      this.entries[1].amount = NaN;
+      secondAmountInput.value = "";
+    } else {
+      const mirrored = roundAmount(-firstAmount);
+      this.entries[1].amount = mirrored;
+      secondAmountInput.value = mirrored.toString();
     }
   }
   createCurrencySelect(entryDiv, entry) {
@@ -723,8 +856,8 @@ var HledgerEntryModal = class extends import_obsidian2.Modal {
 };
 
 // src/ui/export-modal.ts
-var import_obsidian3 = __toModule(require("obsidian"));
-var HledgerExportModal = class extends import_obsidian3.Modal {
+var import_obsidian4 = __toModule(require("obsidian"));
+var HledgerExportModal = class extends import_obsidian4.Modal {
   constructor(app, settings, onSubmit) {
     super(app);
     this.settings = settings;
@@ -732,9 +865,9 @@ var HledgerExportModal = class extends import_obsidian3.Modal {
     this.initializeDefaultOptions();
   }
   initializeDefaultOptions() {
-    const now = (0, import_obsidian3.moment)();
+    const now = (0, import_obsidian4.moment)();
     this.options = {
-      fromDate: (0, import_obsidian3.moment)().startOf("year").format("YYYY-MM-DD"),
+      fromDate: (0, import_obsidian4.moment)().startOf("year").format("YYYY-MM-DD"),
       toDate: now.format("YYYY-MM-DD"),
       journalFile: now.format("YYYY") + ".journal",
       replaceExisting: false
@@ -759,30 +892,30 @@ var HledgerExportModal = class extends import_obsidian3.Modal {
     contentEl.createEl("h3", { text: "Export transactions to hledger journal" });
   }
   createDateInputs(contentEl) {
-    new import_obsidian3.Setting(contentEl).setName("From").addText((text) => {
+    new import_obsidian4.Setting(contentEl).setName("From").addText((text) => {
       text.inputEl.type = "date";
       text.setValue(this.options.fromDate);
       text.onChange((value) => this.options.fromDate = value);
     });
-    new import_obsidian3.Setting(contentEl).setName("To").addText((text) => {
+    new import_obsidian4.Setting(contentEl).setName("To").addText((text) => {
       text.inputEl.type = "date";
       text.setValue(this.options.toDate);
       text.onChange((value) => this.options.toDate = value);
     });
   }
   createFileOptions(contentEl) {
-    new import_obsidian3.Setting(contentEl).setName("Journal file").setDesc("Name for the exported journal file").addText((text) => {
+    new import_obsidian4.Setting(contentEl).setName("Journal file").setDesc("Name for the exported journal file").addText((text) => {
       text.inputEl.setAttribute("type", "text");
       text.setPlaceholder(this.options.journalFile).setValue(this.options.journalFile).onChange((value) => {
         this.options.journalFile = value;
       });
     });
-    new import_obsidian3.Setting(contentEl).setName("Replace existing").setDesc("Replace file if it already exists").addToggle((toggle) => toggle.setValue(this.options.replaceExisting).onChange((value) => {
+    new import_obsidian4.Setting(contentEl).setName("Replace existing").setDesc("Replace file if it already exists").addToggle((toggle) => toggle.setValue(this.options.replaceExisting).onChange((value) => {
       this.options.replaceExisting = value;
     }));
   }
   createExportButton(contentEl) {
-    new import_obsidian3.Setting(contentEl).addButton((btn) => btn.setButtonText("Export").setCta().onClick(() => this.handleExport()));
+    new import_obsidian4.Setting(contentEl).addButton((btn) => btn.setButtonText("Export").setCta().onClick(() => this.handleExport()));
   }
   handleExport() {
     if (!this.validate()) {
@@ -795,24 +928,24 @@ var HledgerExportModal = class extends import_obsidian3.Modal {
     const { fromDate, toDate, journalFile } = this.options;
     const trimmedJournalFile = journalFile.trim();
     if (!trimmedJournalFile) {
-      new import_obsidian3.Notice("File name cannot be empty.");
+      new import_obsidian4.Notice("File name cannot be empty.");
       return false;
     }
     const invalidCharsRegex = /[\\/:*?"<>|]/;
     if (invalidCharsRegex.test(trimmedJournalFile)) {
-      new import_obsidian3.Notice('File name contains invalid characters (e.g., \\ / : * ? " < > |).');
+      new import_obsidian4.Notice('File name contains invalid characters (e.g., \\ / : * ? " < > |).');
       return false;
     }
     if (!fromDate || !toDate) {
-      new import_obsidian3.Notice("Please fill in all required date fields.");
+      new import_obsidian4.Notice("Please fill in all required date fields.");
       return false;
     }
-    if ((0, import_obsidian3.moment)(toDate).isBefore(fromDate)) {
-      new import_obsidian3.Notice("To date cannot be before from date");
+    if ((0, import_obsidian4.moment)(toDate).isBefore(fromDate)) {
+      new import_obsidian4.Notice("To date cannot be before from date");
       return false;
     }
     if (!trimmedJournalFile.endsWith(".journal") && !trimmedJournalFile.endsWith(".hledger") && !trimmedJournalFile.endsWith(".ledger")) {
-      new import_obsidian3.Notice("File should have .journal, .hledger, or .ledger extension");
+      new import_obsidian4.Notice("File should have .journal, .hledger, or .ledger extension");
       return false;
     }
     return true;
@@ -824,8 +957,8 @@ var HledgerExportModal = class extends import_obsidian3.Modal {
 };
 
 // src/ui/import-modal.ts
-var import_obsidian4 = __toModule(require("obsidian"));
-var HledgerImportModal = class extends import_obsidian4.Modal {
+var import_obsidian5 = __toModule(require("obsidian"));
+var HledgerImportModal = class extends import_obsidian5.Modal {
   constructor(app, settings, onSubmit) {
     super(app);
     this.settings = settings;
@@ -833,9 +966,9 @@ var HledgerImportModal = class extends import_obsidian4.Modal {
     this.initializeDefaultOptions();
   }
   initializeDefaultOptions() {
-    const now = (0, import_obsidian4.moment)();
+    const now = (0, import_obsidian5.moment)();
     this.options = {
-      fromDate: (0, import_obsidian4.moment)().startOf("year").format("YYYY-MM-DD"),
+      fromDate: (0, import_obsidian5.moment)().startOf("year").format("YYYY-MM-DD"),
       toDate: now.format("YYYY-MM-DD"),
       journalFile: "hledger.journal"
     };
@@ -866,25 +999,25 @@ var HledgerImportModal = class extends import_obsidian4.Modal {
     });
   }
   createDateInputs(contentEl) {
-    new import_obsidian4.Setting(contentEl).setName("From").addText((text) => {
+    new import_obsidian5.Setting(contentEl).setName("From").addText((text) => {
       text.inputEl.type = "date";
       text.setValue(this.options.fromDate).onChange((value) => {
         this.options.fromDate = value;
       });
     });
-    new import_obsidian4.Setting(contentEl).setName("To").addText((text) => {
+    new import_obsidian5.Setting(contentEl).setName("To").addText((text) => {
       text.inputEl.type = "date";
       text.setValue(this.options.toDate);
       text.onChange((value) => this.options.toDate = value);
     });
   }
   createFileOptions(contentEl) {
-    new import_obsidian4.Setting(contentEl).setName("Journal file").setDesc("Journal file name to import transactions from").addText((text) => text.setPlaceholder(this.options.journalFile).setValue(this.options.journalFile).onChange((value) => {
+    new import_obsidian5.Setting(contentEl).setName("Journal file").setDesc("Journal file name to import transactions from").addText((text) => text.setPlaceholder(this.options.journalFile).setValue(this.options.journalFile).onChange((value) => {
       this.options.journalFile = value;
     }));
   }
   createImportButton(contentEl) {
-    new import_obsidian4.Setting(contentEl).addButton((btn) => btn.setButtonText("Import").setCta().onClick(() => this.handleImport()));
+    new import_obsidian5.Setting(contentEl).addButton((btn) => btn.setButtonText("Import").setCta().onClick(() => this.handleImport()));
   }
   handleImport() {
     if (!this.validate()) {
@@ -897,20 +1030,20 @@ var HledgerImportModal = class extends import_obsidian4.Modal {
     const { fromDate, toDate, journalFile } = this.options;
     const trimmedJournalFile = journalFile.trim();
     if (!trimmedJournalFile) {
-      new import_obsidian4.Notice("Please enter a journal filename.");
+      new import_obsidian5.Notice("Please enter a journal filename.");
       return false;
     }
     if (!fromDate || !toDate) {
-      new import_obsidian4.Notice("Please select valid dates.");
+      new import_obsidian5.Notice("Please select valid dates.");
       return false;
     }
-    if ((0, import_obsidian4.moment)(toDate).isBefore(fromDate)) {
-      new import_obsidian4.Notice("To date cannot be before From date.");
+    if ((0, import_obsidian5.moment)(toDate).isBefore(fromDate)) {
+      new import_obsidian5.Notice("To date cannot be before From date.");
       return false;
     }
     if (this.settings.hledgerFolder) {
       if (!trimmedJournalFile.endsWith(".journal") && !trimmedJournalFile.endsWith(".hledger") && !trimmedJournalFile.endsWith(".ledger")) {
-        new import_obsidian4.Notice("File should have .journal, .hledger, or .ledger extension");
+        new import_obsidian5.Notice("File should have .journal, .hledger, or .ledger extension");
         return false;
       }
     }
@@ -924,7 +1057,7 @@ var HledgerImportModal = class extends import_obsidian4.Modal {
 
 // src/handlers/entry-handler.ts
 function formatNumber(num, format) {
-  const parts = num.toString().split(".");
+  const parts = roundAmount(num).toString().split(".");
   const integerPart = parts[0];
   let decimalPart = parts[1] || "00";
   if (decimalPart.length < 2) {
@@ -998,22 +1131,19 @@ async function updateOrCreateDailyNoteHledgerSection(targetPath, transactionCont
     let finalContent;
     if (fileExists) {
       const file = await adapter.read(targetPath);
-      const hledgerRegex = /```hledger\n([\s\S]*?)```/;
+      const hledgerRegex = /```hledger\r?\n([\s\S]*?)```/i;
       const match = file.match(hledgerRegex);
       if (match) {
         const existingTransactions = match[1];
         const needsNewline = existingTransactions.length > 0 && !existingTransactions.endsWith("\n\n") && !existingTransactions.trim().endsWith("\n");
         const newContent = needsNewline ? "\n" + transactionContent : transactionContent;
-        finalContent = file.replace(hledgerRegex, `\`\`\`hledger
+        finalContent = file.replace(hledgerRegex, () => `\`\`\`hledger
 ${match[1]}${newContent}\`\`\``);
       } else {
-        finalContent = file.trimEnd() + `
-
-${transactionHeader}
-
-\`\`\`hledger
+        const block = `\`\`\`hledger
 ${transactionContent.trimEnd()}
 \`\`\``;
+        finalContent = insertBlockUnderHeader(file, transactionHeader, block);
       }
     } else {
       finalContent = `${transactionHeader}
@@ -1031,92 +1161,6 @@ ${transactionContent.trimEnd()}
 
 // src/handlers/export-handler.ts
 var import_obsidian6 = __toModule(require("obsidian"));
-
-// src/utils.ts
-var import_obsidian5 = __toModule(require("obsidian"));
-function createDateRegexPattern(hledgerDateFormat) {
-  let pattern = hledgerDateFormat.replace(/YYYY/g, "\\d{4}").replace(/YY/g, "\\d{2}").replace(/MM/g, "\\d{2}").replace(/M/g, "\\d{1,2}").replace(/DD/g, "\\d{2}").replace(/D/g, "\\d{1,2}");
-  pattern = pattern.replace(/\//g, "\\/").replace(/\./g, "\\.").replace(/-/g, "\\-");
-  return new RegExp(`^${pattern}`);
-}
-function createDateRemovalRegex(hledgerDateFormat) {
-  const pattern = createDateRegexPattern(hledgerDateFormat).source;
-  return new RegExp(`^${pattern.substring(1)}\\s*`);
-}
-function parseJournalTransactions(content, hledgerDateFormat) {
-  const transactions = [];
-  let currentTransactionLines = [];
-  const dateRegex = createDateRegexPattern(hledgerDateFormat);
-  const lines = content.split("\n");
-  for (const line of lines) {
-    if (dateRegex.test(line)) {
-      if (currentTransactionLines.length > 0) {
-        transactions.push(currentTransactionLines.join("\n"));
-      }
-      currentTransactionLines = [line];
-    } else if (currentTransactionLines.length > 0) {
-      if (line.startsWith(" ") || line.startsWith("	")) {
-        currentTransactionLines.push(line);
-      }
-    }
-  }
-  if (currentTransactionLines.length > 0) {
-    transactions.push(currentTransactionLines.join("\n"));
-  }
-  return transactions;
-}
-function extractTransactionDate(transaction, hledgerDateFormat) {
-  const datePattern = hledgerDateFormat.replace(/[YMD]/g, "\\d").replace(/[-/]/g, "\\$&");
-  const dateRegex = new RegExp(`^(${datePattern})`);
-  const match = transaction.match(dateRegex);
-  return match ? match[1] : null;
-}
-function extractHledgerBlock(fileContent) {
-  const hledgerCodeBlockRegex = /```hledger\s*([\s\S]*?)```/gi;
-  const blocks = [];
-  let match;
-  while ((match = hledgerCodeBlockRegex.exec(fileContent)) !== null) {
-    blocks.push(match[1].trim());
-  }
-  return blocks.length > 0 ? blocks.join("\n\n") : null;
-}
-function normalizePath(path) {
-  return path.replace(/\\/g, "/");
-}
-async function ensureDirectoryExists(directoryPath, adapter) {
-  if (!directoryPath)
-    return;
-  try {
-    if (!await adapter.exists(directoryPath)) {
-      try {
-        await adapter.mkdir(directoryPath);
-      } catch (mkdirError) {
-        if (!await adapter.exists(directoryPath)) {
-          console.error(`Failed to create directory after checking again: ${directoryPath}`, mkdirError);
-          throw new Error(`Failed to create directory ${directoryPath}`);
-        }
-      }
-    }
-  } catch (error) {
-    console.error(`Error ensuring directory exists ${directoryPath}:`, error);
-    if (error instanceof Error && error.message.startsWith("Failed to create directory")) {
-      throw error;
-    } else {
-      throw new Error(`Failed to ensure directory exists ${directoryPath}: ${error instanceof Error ? error.message : String(error)}`);
-    }
-  }
-}
-function getParentDirectory(path) {
-  const normalizedPath = normalizePath(path);
-  const pathWithoutTrailingSlash = normalizedPath.endsWith("/") ? normalizedPath.slice(0, -1) : normalizedPath;
-  const lastSlashIndex = pathWithoutTrailingSlash.lastIndexOf("/");
-  if (lastSlashIndex === -1) {
-    return "";
-  }
-  return pathWithoutTrailingSlash.substring(0, lastSlashIndex);
-}
-
-// src/handlers/export-handler.ts
 function validateExportSettings(settings) {
   if (!settings.dailyNotesFolder || !settings.hledgerFolder) {
     return "Please set both daily notes and hledger folders in settings";
@@ -1306,8 +1350,8 @@ function validateImportSettings(settings) {
 function groupTransactionsByDate(transactions, fromDate, toDate, hledgerDateFormat) {
   var _a;
   const transactionsByDate = new Map();
-  const fromMoment = (0, import_obsidian7.moment)(fromDate, hledgerDateFormat);
-  const toMoment = (0, import_obsidian7.moment)(toDate, hledgerDateFormat);
+  const fromMoment = (0, import_obsidian7.moment)(fromDate, "YYYY-MM-DD");
+  const toMoment = (0, import_obsidian7.moment)(toDate, "YYYY-MM-DD");
   for (const transaction of transactions) {
     const date = extractTransactionDate(transaction, hledgerDateFormat);
     if (!date)
@@ -1364,17 +1408,14 @@ async function writeTransactionsToNote(targetPath, transactionsContent, transact
   let finalContent;
   if (fileExists) {
     const existingContent = await adapter.read(targetPath);
-    const hledgerRegex = /```hledger\n([\s\S]*?)```/;
+    const hledgerRegex = /```hledger\r?\n([\s\S]*?)```/i;
     if (existingContent.match(hledgerRegex)) {
-      finalContent = existingContent.replace(hledgerRegex, `\`\`\`hledger
+      finalContent = existingContent.replace(hledgerRegex, () => `\`\`\`hledger
 ${transactionsContent}\`\`\``);
     } else {
-      finalContent = existingContent.trimEnd() + `
-
-${transactionHeader}
-
-\`\`\`hledger
+      const block = `\`\`\`hledger
 ${transactionsContent}\`\`\``;
+      finalContent = insertBlockUnderHeader(existingContent, transactionHeader, block);
     }
   } else {
     finalContent = `${transactionHeader}
@@ -1529,7 +1570,8 @@ var HledgerPlugin = class extends import_obsidian8.Plugin {
       new import_obsidian8.Notice("Daily transactions imported successfully");
     } catch (error) {
       console.error("Error importing daily transactions:", error);
-      new import_obsidian8.Notice("Error importing daily transactions: " + error.message);
+      const message = error instanceof Error ? error.message : String(error);
+      new import_obsidian8.Notice("Error importing daily transactions: " + message);
     }
   }
 };

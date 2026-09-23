@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-17T15:23
+updated: 2026-07-27T02:26
 created: 2025-06-21T17:10
 ---
 ## 1. Giai đoạn tạo niềm tin ban đầu (trước tháng 6/2025)

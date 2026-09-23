@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T08:51
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Bảo hiểm bắt đầu từ ngành hàng hải
 3 loại rủi ro:

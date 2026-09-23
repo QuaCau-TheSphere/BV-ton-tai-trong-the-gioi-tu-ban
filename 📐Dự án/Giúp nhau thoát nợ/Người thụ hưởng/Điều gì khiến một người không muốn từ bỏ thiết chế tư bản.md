@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-02T21:22
-updated: 2026-07-12T14:08
+updated: 2026-07-27T02:26
 title: Điều gì khiến một người không muốn từ bỏ thiết chế tư bản?
 Aliases:
   - Lý do, tại sao, vì sao

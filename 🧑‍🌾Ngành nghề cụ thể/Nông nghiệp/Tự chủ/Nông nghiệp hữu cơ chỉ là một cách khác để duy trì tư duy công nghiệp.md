@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T20:55
+updated: 2026-07-27T02:26
 created: 2025-09-10T22:09
 ---
 # Phải chăng đã đến lúc chống lại khái niệm nông nghiệp hữu cơ?

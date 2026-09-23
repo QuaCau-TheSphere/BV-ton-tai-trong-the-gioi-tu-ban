@@ -1,26 +1,26 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2026-07-11T11:48
+updated: 2026-08-12T09:56
 title: Các dịch vụ vay tín chấp
 aliases:
   - Các hình thức cho vay
 ---
-## Từ cá nhân
-Tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này. Nhưng có thể nếu bạn làm một hồ sơ vay bằng cách trả lời các câu hỏi trong [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]] thì bạn sẽ dễ vay được hơn.
-
-[[Quỹ tín dụng Quả Cầu|Xây dựng quỹ tín dụng vi mô]]
-[[Làm sao cho vay mà không bị xù]]
+Việc vay tiền tốt nhất vẫn là dựa vào những mối quan hệ xung quanh. Nhưng nếu bạn tìm được một người có thể đưa tiền tiền cho bạn vay và đủ số tiền bạn cần một thì bạn đã chẳng cần đọc bài viết này. Để có thể kêu gọi được nhiều nguồn lực hơn, cách hiệu quả nhất là làm một hồ sơ vay bằng cách trả lời các câu hỏi trong [[Mẫu hồ sơ vay nợ]].
 
 ## Từ tổ chức
-| Hình thức                                                                                                                                                       | Ghi chú                       | Ví dụ                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Tổ chức tài chính vi mô]]                                                                                                                                     | Có sứ mệnh giúp người yếu thế | [[Tình Thân]], [[CEP]], [[Ngân hàng chính sách xã hội]], [[Quỹ tín dụng Quả Cầu]]                                                                                                                       |
-| [[Quỹ tín dụng nhân dân]]                                                                                                                                       | Cho người địa phương          | [Danh sách quỹ tín dụng nhân dân](https://sbv.gov.vn/vi/w/danh-sách-qtdnd-đến-30/3/2025-2-1), [Diễn đàn quỹ tín dụng nhân dân](https://www.facebook.com/groups/586777684845399/)                              |
-| [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]                                                                            |                               |                                                                                                                                                                                                               |
-| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ví trả sau\|Ví trả sau]]                                                               |                               | Momo, ZaloPay, Shopee, ShopeePay, Lazada                                                                                                                                                                      |
-| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]]                                    | Bảng lương                    |                                                                                                                                                                                                               |
-| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng\|Công ty tài chính tiêu dùng]] |                               | [[FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison |
+| Hình thức                                                                                                                                                       | Ghi chú                       | Ví dụ                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Tổ chức tài chính vi mô]]                                                                                                                                     | Có sứ mệnh giúp người yếu thế | [[Quỹ Đồng Lòng]], [[Quỹ tín dụng Quả Cầu]]                                                                                                                                      |
+| [[Quỹ tín dụng nhân dân]]                                                                                                                                       | Cho người địa phương          | [Danh sách quỹ tín dụng nhân dân](https://sbv.gov.vn/vi/w/danh-sách-qtdnd-đến-30/3/2025-2-1), [Diễn đàn quỹ tín dụng nhân dân](https://www.facebook.com/groups/586777684845399/) |
+| [[Có thể vay tiền bằng cách mua đồ trả góp rồi bán lại\|Mua đồ trả góp rồi bán lại]]                                                                            |                               | Điện thoại, laptop                                                                                                                                                               |
+| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ví trả sau\|Ví trả sau]]                                                               |                               | Momo, ZaloPay, Shopee, ShopeePay, Lazada                                                                                                                                         |
+| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]]                                    | Bảng lương                    |                                                                                                                                                                                  |
+| [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng\|Công ty tài chính tiêu dùng]] |                               | [[FE Credit\|FE Credit]], HomeCredit, Fundiin, TNEX, Kredivo, EasyCredit, Mcredit, Cake, HDSaison                                                                                |
+
+- [[Sàn cho vay ngang hàng]]
+- Tiệm cầm đồ 
+- Chơi hụi, bóc họ
 
 ## Bảng xếp hạng
 %%Sẽ chuyển dần thành bảng sau. Để dạng này để nhỡ còn bổ sung thêm gì thì di chuyển các dòng cho dễ%%
@@ -62,9 +62,6 @@ Cao nhất là có lợi nhất.
 ### Theo cách đòi nợ nếu không trả đúng hạn
 1. [[Tổ chức tài chính vi mô]], [[Quỹ tín dụng nhân dân]]: chỉ đến nhà nhắc nhở
 2. [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Công ty tài chính tiêu dùng/Công ty tài chính tiêu dùng|Công ty tài chính tiêu dùng]], [[📜Tài nguyên/Chọn sản phẩm phù hợp/Vay tín chấp/Dựa trên điểm tín dụng/Ngân hàng/Thẻ tín dụng/Thẻ tín dụng\|Thẻ tín dụng]], đa phần đều có lãi cao, nếu không trả kịp thì bị làm phiền
-- Sàn cho vay ngang hàng
-- Tiệm cầm đồ 
-- Chơi hụi, bóc họ
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-13T12:46
+updated: 2026-07-27T02:26
 created: 2023-09-05T16:17
 ---
 Khái niệm:: [[Nợ]]

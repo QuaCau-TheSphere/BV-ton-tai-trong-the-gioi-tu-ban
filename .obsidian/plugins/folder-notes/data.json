@@ -30,7 +30,7 @@
     "id": "",
     "folderPath": "",
     "title": "{{folderName}} overview",
-    "showTitle": false,
+    "showTitle": true,
     "depth": 3,
     "includeTypes": [
       "folder",
@@ -63,7 +63,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "path",
   "supportedFileTypes": [
     "md",
     "canvas"

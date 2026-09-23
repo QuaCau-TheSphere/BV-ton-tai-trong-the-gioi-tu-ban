@@ -1,7 +1,7 @@
 ---
 share: true
-
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
+created: 2025-11-23T21:20
 ---
 Khái niệm:: 
 Nếu muốn bảo vệ người thân khỏi đau khổ, thì sao không cố gắng trả nợ, để họ không phải đau khổ gì cả?

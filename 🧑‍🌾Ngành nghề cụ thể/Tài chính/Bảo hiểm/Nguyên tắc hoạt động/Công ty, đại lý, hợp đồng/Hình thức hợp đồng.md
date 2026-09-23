@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-07T10:44
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 - Đồng bảo hiểm: các công ty khác nhau cùng thống nhất giao kết với bên mua trên một hợp đồng

@@ -1,8 +1,19 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-08-10T20:43
 created: 2025-10-11T09:02
 ---
+[7/28, 21:23] Cường Duy Nguyễn: Với các doanh nghiệp họ hay giao dịch tiền mặt để né thuế
+[7/28, 21:24] Cường Duy Nguyễn: Với lại chủ DN kiểu lớn tuổi k hà, nên họ k có công nghệ
+[7/28, 21:24] Cường Duy Nguyễn: Và gọi điện giờ nào cũng phải bắt máy
+[7/28, 21:24] Cường Duy Nguyễn: Có khi 12h đêm
+[7/28, 21:24] Cường Duy Nguyễn: Đặc biệt là với tài xế xe tải
+[7/28, 21:27] Cường Duy Nguyễn: Bên kiểm thuế họ k kiểm nổi hết sổ sách, với cũng chung chi hết á m
+[7/28, 21:42] Cường Duy Nguyễn: Ngành này cũng căng, chủ yếu giá bán buôn với logistics đặt xe vận chuyển
+[7/28, 21:47] Cường Duy Nguyễn: Với cái này lad ngành còn khá truyền thống khi đi về tới nguồn cung á
+
+
+
 Phải biết cách react thì mới nói
 Thấy gì đó ko đúng, dù cũng không có cơ sở gì 
 

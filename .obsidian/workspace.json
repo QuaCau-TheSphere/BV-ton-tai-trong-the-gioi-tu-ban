@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86cff994bb51bb5c",
+        "id": "cd13c4d5f99491af",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d6c1ebb7c73651",
+            "id": "a1c5d88f884e269a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Có cuộc sống tốt hơn trong đô thị.md",
+                "file": "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Hệ thống luật pháp/Dân sự/Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng, quyền định đoạt.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Có cuộc sống tốt hơn trong đô thị"
+              "title": "Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng, quyền định đoạt"
+            }
+          },
+          {
+            "id": "c79b7b2853a8f27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Các xu thế kinh tế mới.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Các xu thế kinh tế mới"
+            }
+          },
+          {
+            "id": "d52f588a34a744d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Nền kinh tế chăm sóc nói về những dịch vụ chăm sóc cho những người không thể tự chăm sóc bản thân.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nền kinh tế chăm sóc nói về những dịch vụ chăm sóc cho những người không thể tự chăm sóc bản thân"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -63,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"🏢Vận hành doanh nghiệp/Mô hình hoạt động/Pháp nhân/\" ",
+                "query": "à không cần nhập PIN khi đưa qua máy POS. Hiếm có thẻ nào phải nhập PIN mới dùng được. Nên nếu như không xác định được đó có phải là chính chủ hay không mà vẫn cho rút, thì lỡ tiền đó là tiền do phạm tội hay giao dịch trái phép mà thành, thì không chỉ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0040512084961
+    "width": 299.0040512084961,
+    "collapsed": true
   },
   "right": {
     "id": "058d2be84526927e",
@@ -104,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư.md",
+                "file": "📜Tài nguyên/Mở rộng mối quan hệ/Tổ chức các buổi OPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tự kinh doanh, đầu tư"
+              "title": "Backlinks for Tổ chức các buổi OPP"
             }
           },
           {
@@ -165,8 +217,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ]
@@ -178,69 +230,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "hledger-notes:Add hledger entry": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "hledger-notes:Add hledger entry": false,
+      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1d6c1ebb7c73651",
+  "active": "c79b7b2853a8f27e",
   "lastOpenFiles": [
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Giữ lòng trung thành với người mình cần dùng.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Giúp nhau.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Phản kháng với bất công.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Thỏa mãn ham muốn.md",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Động cơ thực hiện/Có cuộc sống tốt hơn trong đô thị.md",
-    "🏢Vận hành doanh nghiệp/Nhân sự/Trong tương lai sẽ bắt buộc sử dụng hợp đồng lao động điện tử.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Tiêu chí giúp đỡ. Mức độ ưu tiên, chấp nhận chịu khó, đánh đổi.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Xác định nhu cầu làm cộng tác viên của ngươi khuyết tật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Xác định nhu cầu bảo hiểm của người thân, bạn bè, hàng xóm của người khuyết tật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng/Thanh Thanh.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng/Người khuyết tật/Cộng tác viên khuyết tật.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định nhu cầu bảo hiểm của người thân, hàng xóm của người bị ung thư.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Phỏng vấn người làm phi lợi nhuận.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/ngân.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng/Nghiên cứu người dùng.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về tỉ lệ chuyển đổi.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về nguồn tuyển dụng cho Cathay.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết/Giả thiết về nguồn khách hàng tiềm năng.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường/Sinh viên sắp ra trường.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường/Cần nhiều sinh viên sắp ra trường add friend.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật/Nghiên cứu người dùng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng/Người khuyết tật",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp khách hàng tiềm năng/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc/Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người có xe/Tìm người mua bảo hiểm xe máy.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Doanh nghiệp/Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất.md",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Nghiên cứu người dùng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tài liệu khác/Giả thiết",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Sinh viên sắp ra trường",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển dụng/Người khuyết tật",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp đại lý tiềm năng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Tuyển cộng tác viên/Tệp khách hàng tiềm năng",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc",
-    "📐Dự án/Giúp nhau kiếm tiền/Giúp nhân viên công ty đạt chỉ tiêu/Bảo hiểm/Kiếm khách/Người có xe",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260703121921.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260613154747.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260613154617.png",
-    "Ξ Thiết lập/Ảnh/Giúp nhau thoát nợ/Dòng tiền cụ thể nửa cuối năm 2025.png",
-    "Ξ Thiết lập/Ảnh/Hacked by LittleDemon.png",
-    "Ξ Thiết lập/Ảnh/Các mô hình tài chính chung.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260509132332.png",
-    "Ξ Thiết lập/Ảnh/PPPAY/Tường trình cho ngân hàng.png",
-    "Ξ Thiết lập/Ảnh/PPPAY/OKPAY.png",
-    "Ξ Thiết lập/Ảnh/OKPAY.png",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Nguyên lý, bản chất hành vi/Vi phạm quy định/Xâm phạm quan hệ sở hữu/Chiếm đoạt tài sản.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Nền kinh tế chăm sóc nói về những dịch vụ chăm sóc cho những người không thể tự chăm sóc bản thân.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Chưa có một lý thuyết chắc chắn nào về nền kinh tế chăm sóc.md",
+    "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Biến đổi công nghệ, biến đổi khí hậu, thay đổi nhân khẩu học, chính trị là các yếu tố tạo ra kinh tế mới.md",
+    "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/ABG Open Special 2023.md",
+    "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Các xu thế kinh tế mới.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Ấn Độ không tham gia các hiệp ước về sở hữu trí tuệ trong ngành dược để có thể sản xuất thuốc generic một cách nhanh nhất.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Lợi nhuận ngành dược chỉ sau súng đạn và ma túy.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Cấp cứu thì mới không cần xin giấy chuyển viện, còn không thì vẫn phải có.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Với sự phát triển của AI, các ngành về chăm sóc sẽ trở thành lợi thế.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Việc nâng tầm lao động thành đạo đức khiến cho nó trở thành vô hình.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Tính trung bình, phụ nữ làm công việc chăm sóc không được trả lương nhiều hơn ít nhất hai lần rưỡi so với nam giới.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Sự khác biệt giữa nền kinh tế chăm sóc và các ngành dịch vụ là nó tập trung vào người yếu thế, và hệ thống hoá các khái niệm.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Nhiều thảo luận về nền kinh tế chăm sóc chỉ nói đến lợi nhuận tiềm năng của nó, chứ không để ý vào các bất bình đẳng xã hội từ việc thiếu để ý và quan tâm đến các công việc chăm sóc.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Khi việc chăm sóc bị gán cho phụ nữ, thì đàn ông không biết tự chăm sóc.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Dân số già vừa là áp lực cho an sinh xã hội, vừa là cơ hội cho công nghiệp y tế.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Công việc chăm sóc không lương được gán cho là không có giá trị về kinh tế bất chấp một thực tế về những đóng góp to lớn của công việc này cho nền kinh tế và xã hội.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Công việc chăm sóc không lương thường vô hình trong các chính sách và ngân sách bởi vì nó không nằm trong định nghĩa và đo lường theo cách truyền thống của nền kinh tế.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Các công việc nấu nướng, dọn dẹp, chăm sóc trẻ em, người già và người bệnh tại gia đình thường được hiểu là công việc chăm sóc không lương.md",
+    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/New/Nền kinh tế chăm sóc.md",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/Nhiều thảo luận về nền kinh tế chăm sóc chỉ nói đến lợi nhuận tiềm năng của nó, chứ không để ý vào các bất bình đẳng xã hội từ việc thiếu để ý và quan tâm đến các công việc chăm sóc.md",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/Các công việc nấu nướng, dọn dẹp, chăm sóc trẻ em, người già và người bệnh tại gia đình thường được hiểu là công việc chăm sóc không lương.md",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/Nền kinh tế chăm sóc.md",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/Việc nâng tầm lao động thành đạo đức khiến cho nó trở thành vô hình.md",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/Sự khác biệt giữa nền kinh tế chăm sóc và các ngành dịch vụ là nó tập trung vào người yếu thế, và hệ thống hoá các khái niệm.md",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/Y tế",
+    "🧑‍🌾Ngành nghề cụ thể/Y tế/New",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Nguyên lý, bản chất hành vi/Vi phạm quy định/Xâm phạm quan hệ sở hữu",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Hậu quả",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Trộm, cướp tài sản",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Rửa tiền, trốn thuế",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Làm giả giấy tờ",
+    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Không làm đúng trách nhiệm",
+    "Ξ Thiết lập/Ảnh/Nhật/VIB Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Pasted image 20260916220409.png",
+    "Ξ Thiết lập/Ảnh/Nhật/Sacombank Nhật.png",
+    "Ξ Thiết lập/Ảnh/Nhật/VietinBank Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Nhật/VPBank Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/MSB Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Nhật/Vietcombank Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Nhật/MSB Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Nhật/SeABank Nhật.jpeg",
+    "Ξ Thiết lập/Ảnh/Nhật/Shinhan Nhật.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

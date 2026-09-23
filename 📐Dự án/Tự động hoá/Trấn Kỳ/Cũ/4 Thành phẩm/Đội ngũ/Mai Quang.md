@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 # Vì sao anh muốn phát triển nó? Tại sao thấy nó tiềm năng?
 Nhu cầu tiềm năng là rất lớn. Viết trong giấy … thôi khỏi làm

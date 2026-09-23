@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-23T22:03
-updated: 2026-07-06T21:09
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 [[Một tổ chức đáng làm tạo ra được động lực nội sinh ở nhân viên]], chứ không phải dùng động lực ngoại sinh để thúc đẩy hoạt động (tạo động lực thông qua thưởng/phạt). Một người sẽ có động lực nội sinh khi:

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-16T15:01
+updated: 2026-07-27T02:26
 created: 2025-12-17T21:39
 ---
 Khái niệm:: [[Tiền]], [[Ngân hàng trung ương]]

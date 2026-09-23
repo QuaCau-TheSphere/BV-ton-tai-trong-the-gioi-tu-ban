@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-10T22:24
+updated: 2026-09-16T23:09
 aliases:
   - quỹ tín dụng vi mô
 description: Dịch vụ cho vay vì người yếu thế
@@ -13,7 +13,7 @@ Các quỹ phù hợp cho người ở thành thị:
 - [[Tình Thân]]
 - [[Quỹ tín dụng Quả Cầu]]
 - [[Quỹ Đồng Hành]]
-- [[Các ngân hàng quà tặng, mạng kết nối nhu cầu]]
+- [[Ngân hàng quà tặng]]
 
 Đa phần các quỹ khác chủ yếu cho nông thôn hoặc vùng sâu vùng xa, dân tộc thiểu số. Hoạt động nổi trội nhất cho nhóm đối tượng này có lẽ là [[Quỹ Đồng Lòng]]. Xem thêm [Danh bạ các tổ chức Tài chính vi mô](https://microfinance.com.vn/du-an-project/danh-ba-cac-to-chuc-tai-chinh-vi-mo/).
 
@@ -24,3 +24,4 @@ Các quỹ phù hợp cho người ở thành thị:
 
 [[Các hình thức tổ chức cho vay]]
 [[Quỹ tín dụng nhân dân]]
+[[Tài chính vi mô, tài chính thay thế]]

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-09-16T20:27
 created: 2025-11-29T22:34
 ---
 
@@ -21,6 +21,6 @@ Nguồn:: [Quỹ Đồng Lòng](https://www.facebook.com/groups/995497007838132/
 
 ```dataview
 LIST rows.file.link
-from "⚡Hiểu biết sâu/Phát triển bền vững. Các nền kinh tế thay thế/Tài chính vi mô, tài chính thay thế/Quỹ cộng đồng" 
+from "🎁Phát triển bền vững. Các nền kinh tế thay thế/Giải pháp/Tài chính vi mô, tài chính thay thế/Quỹ cộng đồng" 
 GROUP BY split(file.folder, "/")[4]
 ```

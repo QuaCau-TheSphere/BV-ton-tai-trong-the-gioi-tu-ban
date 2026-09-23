@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-12T12:39
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Cung cầu]]
 [[Người không được đáp ứng nhu cầu sẽ không function tốt trong xã hội]]

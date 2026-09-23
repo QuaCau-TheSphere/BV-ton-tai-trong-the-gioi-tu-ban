@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-10T18:22
+updated: 2026-09-06T12:07
 aliases:
   - săn giá rẻ, khuyến mãi, giảm giá, voucher
   - Làm sao để tìm được thông tin giảm giá tốt nhất?
@@ -10,11 +10,14 @@ created: 2025-11-24T10:16
 ## Khác gì với mấy trang săn giá rẻ? 
 [Trang chủ - Vé máy bay trực tuyến giá rẻ](https://sanvere.com/)
 [TheBank - Chuyên gia tài chính của bạn](https://thebank.vn)
-Những thông tin không dễ để biết. Không phải vì nó nội bộ. Không được chỉ mục trên Google. Giảm giá phim từ ngân hàng, ví điện tử
+Những thông tin không dễ để biết. Không phải vì nó là thông tin nội bộ, mà vì khó mà biết đến nó một cách dễ dàng được. Có thể là vì có đăng trên website nhưng không lên được đầu Google. Có thể là chỉ đăng trong app riêng. 
+Nếu vậy thì có thể viết chương trình để cào thông tin từ các web. Xem có thông báo qua email không. Nếu là trong app thì có thể dùng tasker để lấy qua thông báo điện thoại.
 
-Điều gì khiến nhân viên ngân hàng không đăng lên các nhóm xem phim? Có được thông tin tức thời về các nhu cầu khác nhau. Phim thì chỉ là nhóm phim, muốn đồ ăn thì phải qua nhóm đồ ăn. Tức là vẫn phải chịu khó săn. Còn cái này là như một cổng thông tin, hỏi và được trả lời. 
+Giảm giá phim từ ngân hàng, ví điện tử
 
- Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng ngành dịch vụ.
+Điều gì khiến nhân viên ngân hàng không đăng lên các nhóm xem phim? Có được thông tin tức thời về các nhu cầu khác nhau. Phim thì chỉ là nhóm phim, muốn đồ ăn thì phải qua nhóm đồ ăn. Tức là vẫn phải chịu khó săn. Còn cái này là như một cổng thông tin, hỏi và được trả lời. Một số chương trình chỉ dành ưu đãi cho một số khách hàng nhất định
+
+Các công ty tội gì không muốn. Đã có Urbox, Golder Spoon rồi. Điểm hơn là đa dạng ngành dịch vụ.
  
 ## Điều gì khiến họ có động lực để chia sẻ vào?
 - Kiếm tiền cho bản thân (đạt KPI)?
@@ -66,3 +69,18 @@ Cộng sản là tư bản sinh thái
 [[Công xã là việc bị đánh thuế 100%]]
 Doanh nghiệp xã hội
 [[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng|Nhóm mua chung, câu lạc bộ tiêu dùng]]
+[[Phiếu giảm giá (voucher)]]
+
+## Nhìn toàn cảnh
+Đây là một phần của dự án [[giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 
+
+| Nhu cầu                          | Sản phẩm                                                                                        |
+| -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Kiếm tiền                        | [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng\|Một số ý tưởng kiếm tiền]]                    |
+| Kiếm khách                       | [[📜Tài nguyên/Giới thiệu dịch vụ/Giới thiệu dịch vụ\|Giúp nhau quảng cáo, giới thiệu dịch vụ]] |
+| Tuyển dụng                       | [[Giúp nhau tuyển dụng]]                    |
+| Mở rộng mối quan hệ              | [[Mở rộng mối quan hệ\|Các buổi giao lưu và mở rộng mối quan hệ]]                               |
+| Sống vừa đủ, bền vững, tiết kiệm | [[Sống vừa đủ, bền vững, tiết kiệm]]                                                            |
+| Bảo vệ quyền lợi trước tư bản    | [[Xây dựng công đoàn]]                                                                          |
+| Thoát nợ                         | [[Quỹ tín dụng Quả Cầu\|Giúp nhau thoát nợ]]                                                    |
+| Vay nợ                           | [[Vay tín chấp\|Các dịch vụ vay tín chấp]]                                                      |

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-30T22:40
-updated: 2026-07-06T21:10
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Trung thành]]
 Theo mình thái độ của cấp trên sẽ là yếu tố ảnh hưởng đến sự trung thành của nhân viên nhiều nhất, ngoài ra còn nhiều yếu tố khác như lương, tăng ca, môi trường....

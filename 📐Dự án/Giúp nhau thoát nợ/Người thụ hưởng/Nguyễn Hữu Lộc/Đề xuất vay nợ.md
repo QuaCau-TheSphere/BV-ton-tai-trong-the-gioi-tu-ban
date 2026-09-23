@@ -2,7 +2,7 @@
 created: 2025-01-14T21:00
 share: true
 title: Đề xuất vay nợ của Nguyễn Hữu Lộc
-updated: 2026-07-14T19:47
+updated: 2026-07-27T02:26
 ---
 ## Tình hình chung
 ### Tại sao bạn bị nợ?

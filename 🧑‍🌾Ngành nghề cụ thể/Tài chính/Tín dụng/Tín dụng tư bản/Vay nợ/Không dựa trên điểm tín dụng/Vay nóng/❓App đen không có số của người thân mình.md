@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-01T17:14
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 ---
 Khái niệm:: [[App đen, vay nóng]]
 Lúc nhắn tin đòi tiền thì ghi ra rõ ràng tên người thân của mình. Tuy nhiên lại không hề gọi? Tại sao lại không gọi, khi mà nó rất muốn gọi?

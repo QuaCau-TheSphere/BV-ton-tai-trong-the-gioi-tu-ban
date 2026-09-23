@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:26
 created: 2025-09-04T15:18
 ---
 Tên thương hiệu:: VPBank
@@ -21,7 +21,8 @@ Kén máy, ngày được 10, 20tr  là cùng
 [[Các thẻ OCB, VPBank, TPBank không chuyển tiền trực tiếp vào thẻ được mà phải vào app]]
 
 ## App
-Pin mở khóa và pin chuyển tiền phải khác nhau
+- Pin mở khóa và pin chuyển tiền phải khác nhau
+- Đăng nhập đt mới chỉ cần quét qr đt cũ là được
 
 ## Chính sách nhân sự
 [[VPBank, FE đóng BHXH cho nhân viên ngay đầu tháng thử việc]]

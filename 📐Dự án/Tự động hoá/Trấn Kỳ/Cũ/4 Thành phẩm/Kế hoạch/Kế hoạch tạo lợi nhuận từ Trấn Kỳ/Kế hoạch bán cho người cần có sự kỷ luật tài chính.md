@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 aliases:
   - Lên kế hoạch bán cho người cần có sự kỷ luật tài chính
   - Bán app cho người cần có sự kỷ luật tài chính

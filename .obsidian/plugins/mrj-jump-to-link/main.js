@@ -4,36 +4,6 @@ var obsidian = require('obsidian');
 var state = require('@codemirror/state');
 var view = require('@codemirror/view');
 
-/******************************************************************************
-Copyright (c) Microsoft Corporation.
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-***************************************************************************** */
-
-function __awaiter(thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-}
-
-typeof SuppressedError === "function" ? SuppressedError : function (error, suppressed, message) {
-    var e = new Error(message);
-    return e.name = "SuppressedError", e.error = error, e.suppressed = suppressed, e;
-};
-
 class Settings {
     constructor() {
         // Defaults as in Vimium extension for browsers
@@ -57,18 +27,15 @@ class MarkWidget extends view.WidgetType {
         return other.mark === this.mark && other.matchedEventKey == this.matchedEventKey;
     }
     toDOM() {
-        const mark = activeDocument.createElement("span");
-        mark.innerText = this.mark;
-        const wrapper = activeDocument.createElement("div");
-        wrapper.style.display = "inline-block";
-        wrapper.style.position = "absolute";
-        wrapper.classList.add('jl');
-        wrapper.classList.add('jl-' + this.type);
-        wrapper.classList.add('popover');
+        // The window level `createDiv` returns a DETACHED element, while the Node
+        // level helpers append to the node they are called on - so
+        // `activeDocument.createDiv()` would throw. A widget has to be detached.
+        const cls = ["jl", "jl-" + this.type, "jl-inline", "popover"];
         if (this.matchedEventKey && this.mark.toUpperCase().startsWith(this.matchedEventKey.toUpperCase())) {
-            wrapper.classList.add('matched');
+            cls.push('matched');
         }
-        wrapper.append(mark);
+        const wrapper = createDiv({ cls });
+        wrapper.createSpan({ text: this.mark });
         return wrapper;
     }
     ignoreEvent() {
@@ -164,13 +131,13 @@ function getMDHintLinks(content, offset, letters) {
     // expecting either [[Link]] or [[Link|Title]]
     const regExInternal = /\[\[(.+?)(\|.+?)?]]/g;
     // expecting [Title](../example.md)
-    const regExMdInternal = /\[[^\[\]]+?\]\(((\.\.|\w|\d).+?)\)/g;
+    const regExMdInternal = /\[[^[\]]+?\]\(((\.\.|\w|\d).+?)\)/g;
     // expecting [Title](file://link), [Title](https://link) or any other [Jira-123](jira://bla-bla) link
-    const regExExternal = /\[[^\[\]]+?\]\((.+?:\/\/.+?)\)/g;
+    const regExExternal = /\[[^[\]]+?\]\((.+?:\/\/.+?)\)/g;
     // expecting http://hogehoge or https://hogehoge
     const regExUrl = /( |\n|^)(https?:\/\/[^ \n]+)/g;
-    let indexes = new Set();
-    let linksWithIndex = [];
+    const indexes = new Set();
+    const linksWithIndex = [];
     let regExResult;
     const addLinkToArray = (link) => {
         if (indexes.has(link.index))
@@ -178,20 +145,20 @@ function getMDHintLinks(content, offset, letters) {
         indexes.add(link.index);
         linksWithIndex.push(link);
     };
-    while (regExResult = regExInternal.exec(content)) {
+    while ((regExResult = regExInternal.exec(content)) !== null) {
         const linkText = (_a = regExResult[1]) === null || _a === void 0 ? void 0 : _a.trim();
         addLinkToArray({ index: regExResult.index + offset, type: 'internal', linkText });
     }
     // External Link above internal, to prefer type external over interal in case of a dupe
-    while (regExResult = regExExternal.exec(content)) {
+    while ((regExResult = regExExternal.exec(content)) !== null) {
         const linkText = regExResult[1];
         addLinkToArray({ index: regExResult.index + offset, type: 'external', linkText });
     }
-    while (regExResult = regExMdInternal.exec(content)) {
+    while ((regExResult = regExMdInternal.exec(content)) !== null) {
         const linkText = regExResult[1];
         addLinkToArray({ index: regExResult.index + offset, type: 'internal', linkText });
     }
-    while (regExResult = regExUrl.exec(content)) {
+    while ((regExResult = regExUrl.exec(content)) !== null) {
         const linkText = regExResult[2];
         addLinkToArray({ index: regExResult.index + offset + 1, type: 'external', linkText });
     }
@@ -200,25 +167,36 @@ function getMDHintLinks(content, offset, letters) {
     linksWithIndex
         .sort((x, y) => x.index - y.index)
         .forEach((linkHint, i) => {
-        linksWithLetter.push(Object.assign({ letter: linkHintLetters[i] }, linkHint));
+        linksWithLetter.push({ letter: linkHintLetters[i], ...linkHint });
     });
     return linksWithLetter.filter(link => link.letter);
 }
 function createWidgetElement(content, type) {
-    const linkHintEl = activeDocument.createElement('div');
-    linkHintEl.classList.add('jl');
-    linkHintEl.classList.add('jl-' + type);
-    linkHintEl.classList.add('popover');
-    linkHintEl.innerHTML = content;
-    return linkHintEl;
+    return createDiv({ cls: ['jl', 'jl-' + type, 'popover'], text: content });
 }
 function displaySourcePopovers(cmEditor, linkKeyMap) {
     const drawWidget = (cmEditor, linkHint) => {
         const pos = cmEditor.posFromIndex(linkHint.index);
-        // the fourth parameter is undocumented. it specifies where the widget should be place
-        return cmEditor.addWidget(pos, createWidgetElement(linkHint.letter, linkHint.type), false, 'over');
+        cmEditor.addWidget(pos, createWidgetElement(linkHint.letter, linkHint.type), false, 'over');
     };
     linkKeyMap.forEach(x => drawWidget(cmEditor, x));
+}
+
+/**
+ * Returns the range of the document which is visible on screen, trimming the
+ * lines CodeMirror renders above the viewport when that information is available.
+ */
+function getVisibleRange(cmEditor) {
+    var _a, _b, _c;
+    let { from } = cmEditor.viewport;
+    const { to } = cmEditor.viewport;
+    const viewState = cmEditor.viewState;
+    const pixelOffsetTop = (_a = viewState === null || viewState === void 0 ? void 0 : viewState.pixelViewport) === null || _a === void 0 ? void 0 : _a.top;
+    if (pixelOffsetTop) {
+        const lines = (_b = viewState.viewportLines) !== null && _b !== void 0 ? _b : [];
+        from = (_c = lines.filter(line => line.top > pixelOffsetTop)[0]) === null || _c === void 0 ? void 0 : _c.from;
+    }
+    return { index: from, content: cmEditor.state.sliceDoc(from, to) };
 }
 
 class CM6LinkProcessor {
@@ -235,21 +213,7 @@ class CM6LinkProcessor {
         return this.getSourceLinkHints();
     }
     getVisibleLines() {
-        var _a, _b, _c;
-        const { cmEditor } = this;
-        let { from, to } = cmEditor.viewport;
-        // For CM6 get real visible lines top
-        // @ts-ignore
-        if ((_b = (_a = cmEditor.viewState) === null || _a === void 0 ? void 0 : _a.pixelViewport) === null || _b === void 0 ? void 0 : _b.top) {
-            // @ts-ignore
-            const pixelOffsetTop = cmEditor.viewState.pixelViewport.top;
-            // @ts-ignore
-            const lines = cmEditor.viewState.viewportLines;
-            // @ts-ignore
-            from = (_c = lines.filter(line => line.top > pixelOffsetTop)[0]) === null || _c === void 0 ? void 0 : _c.from;
-        }
-        const content = cmEditor.state.sliceDoc(from, to);
-        return { index: from, content };
+        return getVisibleRange(this.cmEditor);
     }
 }
 
@@ -270,7 +234,10 @@ function extractRegexpBlocks(content, offset, regexp, letters, caseSensitive) {
     linksWithIndex
         .sort((x, y) => x.index - y.index)
         .forEach((linkHint, i) => {
-        linksWithLetter.push(Object.assign({ letter: linkHintLetters[i] }, linkHint));
+        linksWithLetter.push({
+            letter: linkHintLetters[i],
+            ...linkHint,
+        });
     });
     return linksWithLetter.filter(link => link.letter);
 }
@@ -432,15 +399,12 @@ function checkIsPreviewElOnScreen(parent, el) {
 }
 function displayPreviewPopovers(linkHints) {
     const linkHintHtmlElements = [];
-    for (let linkHint of linkHints) {
-        const popoverElement = linkHint.linkElement.createEl('span');
-        linkHint.linkElement.style.position = 'relative';
-        popoverElement.style.top = '0px';
-        popoverElement.style.left = '0px';
-        popoverElement.textContent = linkHint.letter;
-        popoverElement.classList.add('jl');
-        popoverElement.classList.add('jl-' + linkHint.type);
-        popoverElement.classList.add('popover');
+    for (const linkHint of linkHints) {
+        linkHint.linkElement.classList.add('jl-anchor');
+        const popoverElement = linkHint.linkElement.createSpan({
+            text: linkHint.letter,
+            cls: ['jl', 'jl-' + linkHint.type, 'jl-preview', 'popover'],
+        });
         linkHintHtmlElements.push(popoverElement);
     }
     return linkHintHtmlElements;
@@ -475,27 +439,13 @@ class LivePreviewLinkProcessor {
         const links = getPreviewLinkHints(view, alphabet);
         const sourceLinks = this.getSourceLinkHints();
         const linkHintLetters = getLinkHintLetters(alphabet, links.length + sourceLinks.length);
-        const linksRemapped = links.map((link, idx) => (Object.assign(Object.assign({}, link), { letter: linkHintLetters[idx] }))).filter(link => link.letter);
-        const sourceLinksRemapped = sourceLinks.map((link, idx) => (Object.assign(Object.assign({}, link), { letter: linkHintLetters[idx + links.length] }))).filter(link => link.letter);
+        const linksRemapped = links.map((link, idx) => ({ ...link, letter: linkHintLetters[idx] })).filter(link => link.letter);
+        const sourceLinksRemapped = sourceLinks.map((link, idx) => ({ ...link, letter: linkHintLetters[idx + links.length] })).filter(link => link.letter);
         const linkHintHtmlElements = displayPreviewPopovers(linksRemapped);
         return [linksRemapped, sourceLinksRemapped, linkHintHtmlElements];
     }
     getVisibleLines() {
-        var _a, _b, _c;
-        const { cmEditor } = this;
-        let { from, to } = cmEditor.viewport;
-        // For CM6 get real visible lines top
-        // @ts-ignore
-        if ((_b = (_a = cmEditor.viewState) === null || _a === void 0 ? void 0 : _a.pixelViewport) === null || _b === void 0 ? void 0 : _b.top) {
-            // @ts-ignore
-            const pixelOffsetTop = cmEditor.viewState.pixelViewport.top;
-            // @ts-ignore
-            const lines = cmEditor.viewState.viewportLines;
-            // @ts-ignore
-            from = (_c = lines.filter(line => line.top > pixelOffsetTop)[0]) === null || _c === void 0 ? void 0 : _c.from;
-        }
-        const content = cmEditor.state.sliceDoc(from, to);
-        return { index: from, content };
+        return getVisibleRange(this.cmEditor);
     }
 }
 
@@ -565,11 +515,12 @@ class JumpToLink extends obsidian.Plugin {
                     break;
                 case VIEW_MODE.PREVIEW:
                     break;
-                case VIEW_MODE.LEGACY:
+                case VIEW_MODE.LEGACY: {
                     const cmEditor = this.cmEditor;
                     const links = new LegacyRegexpProcessor(cmEditor, whatToLookAt, letters, caseSensitive).init();
                     this.handleActions(links);
                     break;
+                }
             }
         };
         this.handleMarkdownRegex = (letters, whatToLookAt, caseSensitive) => {
@@ -580,37 +531,29 @@ class JumpToLink extends obsidian.Plugin {
             this.handleActions(livePreviewLinks);
         };
     }
-    onload() {
-        return __awaiter(this, void 0, void 0, function* () {
-            this.settings = (yield this.loadData()) || new Settings();
-            this.addSettingTab(new SettingTab(this.app, this));
-            const markViewPlugin = this.markViewPlugin = view.ViewPlugin.fromClass(MarkPlugin, {
-                decorations: (v) => v.decorations
-            });
-            this.registerEditorExtension([markViewPlugin]);
-            this.watchForSelectionChange();
-            this.addCommand({
-                id: 'activate-jump-to-link',
-                name: 'Jump to Link',
-                callback: this.action.bind(this, 'link'),
-                hotkeys: [{ modifiers: ['Ctrl'], key: `'` }],
-            });
-            this.addCommand({
-                id: "activate-jump-to-anywhere",
-                name: "Jump to Anywhere Regex",
-                callback: this.action.bind(this, 'regexp'),
-                hotkeys: [{ modifiers: ["Ctrl"], key: ";" }],
-            });
-            this.addCommand({
-                id: "activate-lightspeed-jump",
-                name: "Lightspeed Jump",
-                callback: this.action.bind(this, 'lightspeed'),
-                hotkeys: [],
-            });
+    async onload() {
+        this.settings = await this.loadData() || new Settings();
+        this.addSettingTab(new SettingTab(this.app, this));
+        const markViewPlugin = this.markViewPlugin = view.ViewPlugin.fromClass(MarkPlugin, {
+            decorations: (v) => v.decorations
         });
-    }
-    onunload() {
-        console.log('unloading jump to links plugin');
+        this.registerEditorExtension([markViewPlugin]);
+        this.watchForSelectionChange();
+        this.addCommand({
+            id: 'activate-jump-to-link',
+            name: 'Show link hints',
+            callback: () => this.action('link'),
+        });
+        this.addCommand({
+            id: "activate-jump-to-anywhere",
+            name: "Jump to anywhere regex",
+            callback: () => this.action('regexp'),
+        });
+        this.addCommand({
+            id: "activate-lightspeed-jump",
+            name: "Lightspeed jump",
+            callback: () => this.action('lightspeed'),
+        });
     }
     action(type) {
         if (this.isLinkHintActive) {
@@ -647,7 +590,6 @@ class JumpToLink extends obsidian.Plugin {
     }
     getMode(currentView) {
         var _a;
-        // @ts-ignore
         const isLegacy = this.app.vault.getConfig("legacyEditor");
         if (currentView.getState().mode === 'preview') {
             return VIEW_MODE.PREVIEW;
@@ -669,23 +611,29 @@ class JumpToLink extends obsidian.Plugin {
     }
     // adapted from: https://github.com/mrjackphil/obsidian-jump-to-link/issues/35#issuecomment-1085905668
     handleLightspeedJump() {
-        // get all text color
-        const { contentEl } = app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        const activeView = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        if (!activeView) {
+            return;
+        }
+        const { contentEl } = activeView;
         if (!contentEl) {
             return;
         }
         // this element doesn't exist in cm5/has a different class, so lightspeed will not work in cm5
-        const contentContainerColor = contentEl.getElementsByClassName("cm-contentContainer");
-        const originalColor = contentContainerColor[0].style.color;
-        // change all text color to gray
-        contentContainerColor[0].style.color = 'var(--jump-to-link-lightspeed-color)';
+        const contentContainer = contentEl.getElementsByClassName("cm-contentContainer")[0];
+        if (!contentContainer) {
+            return;
+        }
+        // dim all the text while waiting for the characters to jump to
+        contentContainer.classList.add('jl-lightspeed');
+        const restoreTextColor = () => contentContainer.classList.remove('jl-lightspeed');
         const keyArray = [];
         const grabKey = (event) => {
             event.preventDefault();
             // handle Escape to reject the mode
             if (event.key === 'Escape') {
                 contentEl.removeEventListener("keydown", grabKey, { capture: true });
-                contentContainerColor[0].style.color = originalColor;
+                restoreTextColor();
             }
             // test if keypress is capitalized
             if (/^[\w\S\W]$/i.test(event.key)) {
@@ -705,7 +653,7 @@ class JumpToLink extends obsidian.Plugin {
                 this.handleJumpToRegex(stringToSearch, this.settings.lightspeedCaseSensitive);
                 // removing eventListener after proceeded
                 contentEl.removeEventListener("keydown", grabKey, { capture: true });
-                contentContainerColor[0].style.color = originalColor;
+                restoreTextColor();
             }
         };
         contentEl.addEventListener('keydown', grabKey, { capture: true });
@@ -724,7 +672,7 @@ class JumpToLink extends obsidian.Plugin {
             const file = this.app.workspace.getActiveFile();
             if (file) {
                 // the second argument is for the link resolution
-                this.app.workspace.openLinkText(decodeURI(link.linkText), file.path, heldShiftKey, { active: true });
+                void this.app.workspace.openLinkText(decodeURI(link.linkText), file.path, heldShiftKey, { active: true });
             }
         }
         else if (link.type === 'external') {
@@ -753,6 +701,7 @@ class JumpToLink extends obsidian.Plugin {
         currentView.removeEventListener('click', () => this.removePopovers(linkHintHtmlElements));
         linkHintHtmlElements === null || linkHintHtmlElements === void 0 ? void 0 : linkHintHtmlElements.forEach(e => e.remove());
         currentView.querySelectorAll('.jl.popover').forEach(e => e.remove());
+        currentView.querySelectorAll('.jl-anchor').forEach(e => e.classList.remove('jl-anchor'));
         this.prefixInfo = undefined;
         if (this.mode == VIEW_MODE.SOURCE || this.mode == VIEW_MODE.LIVE_PREVIEW) {
             this.cmEditor.plugin(this.markViewPlugin).clean();
@@ -763,14 +712,14 @@ class JumpToLink extends obsidian.Plugin {
     removePopoversWithoutPrefixEventKey(eventKey, linkHintHtmlElements = []) {
         const currentView = this.contentElement;
         linkHintHtmlElements === null || linkHintHtmlElements === void 0 ? void 0 : linkHintHtmlElements.forEach(e => {
-            if (e.innerHTML.length == 2 && e.innerHTML[0] == eventKey) {
+            if (e.textContent.length == 2 && e.textContent[0] == eventKey) {
                 e.classList.add("matched");
                 return;
             }
             e.remove();
         });
         currentView.querySelectorAll('.jl.popover').forEach(e => {
-            if (e.innerHTML.length == 2 && e.innerHTML[0] == eventKey) {
+            if (e.textContent.length == 2 && e.textContent[0] == eventKey) {
                 e.classList.add("matched");
                 return;
             }
@@ -815,7 +764,9 @@ class JumpToLink extends obsidian.Plugin {
             event.stopPropagation();
             event.stopImmediatePropagation();
             const heldShiftKey = ((_a = this.prefixInfo) === null || _a === void 0 ? void 0 : _a.shiftKey) || event.shiftKey;
-            linkHint && this.handleHotkey(heldShiftKey, linkHint);
+            if (linkHint) {
+                this.handleHotkey(heldShiftKey, linkHint);
+            }
             this.removePopovers(linkHintHtmlElements);
             contentElement.removeEventListener('keydown', handleKeyDown, { capture: true });
         };
@@ -836,7 +787,7 @@ class JumpToLink extends obsidian.Plugin {
      * This is the same approach taken by the obsidian-vimrc-plugin
      */
     watchForSelectionChange() {
-        const updateSelection = this.updateSelection.bind(this);
+        const updateSelection = (editor) => this.updateSelection(editor);
         const watchForChanges = () => {
             var _a, _b;
             const editor = (_a = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView)) === null || _a === void 0 ? void 0 : _a.editor;
@@ -864,72 +815,76 @@ class SettingTab extends obsidian.PluginSettingTab {
         super(app, plugin);
         this.plugin = plugin;
     }
-    display() {
-        let { containerEl } = this;
-        containerEl.empty();
-        containerEl.createEl('h2', { text: 'Settings for Jump To Link.' });
-        new obsidian.Setting(containerEl)
-            .setName('Characters used for link hints')
-            .setDesc('The characters placed next to each link after enter link-hint mode.')
-            .addText(cb => {
-            cb.setValue(this.plugin.settings.letters)
-                .onChange((value) => {
-                this.plugin.settings.letters = value;
-                this.plugin.saveData(this.plugin.settings);
-            });
-        });
-        new obsidian.Setting(containerEl)
-            .setName('Jump To Anywhere')
-            .setDesc("Regex based navigating in editor mode")
-            .addText((text) => text
-            .setPlaceholder('Custom Regex')
-            .setValue(this.plugin.settings.jumpToAnywhereRegex)
-            .onChange((value) => __awaiter(this, void 0, void 0, function* () {
-            this.plugin.settings.jumpToAnywhereRegex = value;
-            yield this.plugin.saveData(this.plugin.settings);
-        })));
-        new obsidian.Setting(containerEl)
-            .setName('Lightspeed regex case sensitivity')
-            .setDesc('If enabled, the regex for matching will be case sensitive.')
-            .addToggle((toggle) => {
-            toggle.setValue(this.plugin.settings.lightspeedCaseSensitive)
-                .onChange((state) => __awaiter(this, void 0, void 0, function* () {
-                this.plugin.settings.lightspeedCaseSensitive = state;
-                yield this.plugin.saveData(this.plugin.settings);
-            }));
-        });
-        new obsidian.Setting(containerEl)
-            .setName('Jump to Link If Only One Link In Page')
-            .setDesc('If enabled, auto jump to link if there is only one link in page')
-            .addToggle((toggle) => {
-            toggle.setValue(this.plugin.settings.jumpToLinkIfOneLinkOnly)
-                .onChange((state) => __awaiter(this, void 0, void 0, function* () {
-                this.plugin.settings.jumpToLinkIfOneLinkOnly = state;
-                yield this.plugin.saveData(this.plugin.settings);
-            }));
-        });
-        new obsidian.Setting(containerEl)
-            .setName('Lightspeed only jumps to start of words')
-            .setDesc('If enabled, lightspeed jumps will only target characters occuring at the start of words.')
-            .addToggle((toggle) => {
-            toggle.setValue(this.plugin.settings.lightspeedJumpToStartOfWord)
-                .onChange((state) => __awaiter(this, void 0, void 0, function* () {
-                this.plugin.settings.lightspeedJumpToStartOfWord = state;
-                yield this.plugin.saveData(this.plugin.settings);
-            }));
-        });
-        new obsidian.Setting(containerEl)
-            .setName('Number of characters for Lightspeed jump')
-            .setDesc('Determines how many characters you need to type to perform a Lightspeed jump.')
-            .addText((text) => (text
-            .setValue(String(this.plugin.settings.lightspeedCharacterCount))
-            .onChange((value) => __awaiter(this, void 0, void 0, function* () {
-            const num = Number(value);
-            if (!isNaN(num)) {
-                this.plugin.settings.lightspeedCharacterCount = num;
-                yield this.plugin.saveData(this.plugin.settings);
+    /**
+     * The declarative settings API (Obsidian 1.13+). Obsidian renders the tab
+     * from these definitions and indexes every setting for the settings search,
+     * which is why there is no `display()`.
+     */
+    getSettingDefinitions() {
+        const defaults = new Settings();
+        return [
+            {
+                name: 'Characters used for link hints',
+                desc: 'The characters placed next to each link after enter link-hint mode.',
+                control: { type: 'text', key: 'letters', defaultValue: defaults.letters }
+            },
+            {
+                name: 'Jump to anywhere',
+                desc: 'Regex based navigating in editor mode',
+                control: {
+                    type: 'text',
+                    key: 'jumpToAnywhereRegex',
+                    placeholder: 'Custom regex',
+                    defaultValue: defaults.jumpToAnywhereRegex
+                }
+            },
+            {
+                name: 'Lightspeed regex case sensitivity',
+                desc: 'If enabled, the regex for matching will be case sensitive.',
+                control: {
+                    type: 'toggle',
+                    key: 'lightspeedCaseSensitive',
+                    defaultValue: defaults.lightspeedCaseSensitive
+                }
+            },
+            {
+                name: 'Jump to link if only one link in page',
+                desc: 'If enabled, auto jump to link if there is only one link in page',
+                control: {
+                    type: 'toggle',
+                    key: 'jumpToLinkIfOneLinkOnly',
+                    defaultValue: defaults.jumpToLinkIfOneLinkOnly
+                }
+            },
+            {
+                name: 'Lightspeed only jumps to start of words',
+                desc: 'If enabled, lightspeed jumps will only target characters occuring at the start of words.',
+                control: {
+                    type: 'toggle',
+                    key: 'lightspeedJumpToStartOfWord',
+                    defaultValue: defaults.lightspeedJumpToStartOfWord
+                }
+            },
+            {
+                name: 'Number of characters for lightspeed jump',
+                desc: 'Determines how many characters you need to type to perform a lightspeed jump.',
+                control: {
+                    type: 'number',
+                    key: 'lightspeedCharacterCount',
+                    min: 1,
+                    max: 5,
+                    defaultValue: defaults.lightspeedCharacterCount
+                }
             }
-        })).inputEl.type = "number"));
+        ];
+    }
+    getControlValue(key) {
+        return this.plugin.settings[key];
+    }
+    /** Persists through `saveData`, the store the settings are loaded from. */
+    setControlValue(key, value) {
+        this.plugin.settings[key] = value;
+        return this.plugin.saveData(this.plugin.settings);
     }
 }
 

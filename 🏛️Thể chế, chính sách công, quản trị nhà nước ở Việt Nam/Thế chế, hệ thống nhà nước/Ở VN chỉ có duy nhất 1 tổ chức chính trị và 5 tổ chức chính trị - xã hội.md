@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-15T01:35
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: 
 Theo Hiến pháp 2013, các tổ chức chính trị - xã hội tại Việt Nam bao gồm: 

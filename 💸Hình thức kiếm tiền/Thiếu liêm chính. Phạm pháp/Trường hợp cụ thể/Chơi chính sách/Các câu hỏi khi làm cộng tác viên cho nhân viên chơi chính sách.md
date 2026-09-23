@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2026-07-07T12:59
+updated: 2026-07-27T02:26
 ---
-Đây là giải thích chi tiết cho công việc [[Giữ tiền hộ]].
+Đây là giải thích chi tiết cho công việc [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ]].
 
 ## Sao lại cần tài khoản đứng tên của tôi?
 Ví dụ như ở các sàn thương mại điện tử, nhân viên thị trường được áp đặt chỉ tiêu tạo khách hàng mới mỗi tháng. Các tài khoản khách hàng này cần phải được hoạt động, và sau khi hoạt động thì sẽ có tiền. Họ không thể chuyển tiền tất cả các tài khoản khách này vào tài khoản của mình vì sẽ bị nghi ngờ gian lận, nên cần những tài khoản ngân hàng có tên khác để nhận giùm rồi chuyển lại cho họ.
@@ -17,7 +17,7 @@ Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|L
 
 [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]]. Các công việc dưới đây tuy có cảm giác giống giống như thuê mượn tài khoản ngân hàng, nhưng thật ra không phải vì bạn vẫn giữ đăng nhập tài khoản trên máy bạn chứ không đưa cho ai đăng nhập trên máy của họ cả
 
-Nếu bạn sợ lừa đảo thì xem [[Cảnh giác lừa đảo]]
+Nếu bạn sợ lừa đảo thì xem [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Lừa đảo]]
 
 ## Đây là thiếu liêm chính
 Đúng vậy, [[Thiếu liêm chính. Phạm pháp]]. [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]

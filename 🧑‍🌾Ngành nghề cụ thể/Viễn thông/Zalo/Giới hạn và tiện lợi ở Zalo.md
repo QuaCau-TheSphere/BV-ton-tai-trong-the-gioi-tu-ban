@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-03T16:17
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 aliases:
   - Chủ sđt đăng ký Zalo và chủ cccd để xác thực không cần phải trùng nhau
   - Có thể tự đổi tên tài khoản Zalo mà không bị lưu lịch sử
@@ -24,4 +24,4 @@ aliases:
 | Không biết được SĐT từ tài khoản                                       |                                                                                                                                 |
  
 [[Zalo có 23% cổ phần là Tencent]]
-[[Tạo các nhóm Zalo]]
+[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Tạo các nhóm Zalo]]

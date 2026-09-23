@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-17T15:23
+updated: 2026-07-27T02:26
 created: 2025-11-12T09:29
 ---
-Khái niệm:: [[Lừa đảo]]
+Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]
 Đang tìm cách câu kéo dài thời gian để mình rút tiền được nên viện đủ lý do, ngu nhất là ko nhất quán,
 - Ngân hàng bảo trì nên việc chuyển tiền gặp trục trặc bảo đợi trong khi rút 2 3 bên ngân hàng ko đc, mà bên nào thì chuyển khoản cũng bình thường hết
 - Do mình trục lợi bằng việc chỉ điểm danh lụm tiền chứ ko bỏ tiền vào hợp tác

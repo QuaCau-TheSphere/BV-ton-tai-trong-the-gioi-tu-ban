@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-03T15:19
-updated: 2026-07-07T13:00
+updated: 2026-08-05T16:43
 ---
 [[Tiền là một động lực ngoại sinh cực kỳ tốt]]
 [[Công ty thấy việc trả tiền là đã đủ để nhân viên phải cống hiến cho mình]]
@@ -17,3 +17,4 @@ tạo tiền đề để họ không ở trong trạng thái nỗ lực tối đ
 
 [[Các mối quan hệ không thể cho đủ tiền lúc cần kíp nhất]]
 [[Từ thiện và những thứ có vẻ giống như nó]]
+[[Không bao giờ cho không thứ gì]]

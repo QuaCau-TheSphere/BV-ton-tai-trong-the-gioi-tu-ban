@@ -1,12 +1,14 @@
 ---
 share: true
 created: 2025-04-04T22:48
-updated: 2026-07-06T21:09
+updated: 2026-08-12T00:03
+blog: done
 aliases:
+  - về quê hoặc không sống ở thành phố lớn
   - ra khỏi thành phố sống
+  - không sống ở đô thị
 ---
 - [[❓Câu hỏi cho việc bỏ phố về quê]]
-
 ## Lý do không về quê
 - Ông bà chửi thề, không tốt cho con cái
 - Ông bà xem thường mình vì không làm ra tiền

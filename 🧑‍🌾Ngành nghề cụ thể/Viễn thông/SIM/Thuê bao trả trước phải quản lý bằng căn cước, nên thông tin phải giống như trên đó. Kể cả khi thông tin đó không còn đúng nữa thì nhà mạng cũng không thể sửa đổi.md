@@ -1,8 +1,8 @@
 ---
 share: true
-updated: 2026-07-07T13:00
+updated: 2026-07-29T21:31
 created: 2026-06-25T15:04
 ---
-Khái niệm:: 
+Khái niệm:: [[Số điện thoại|Thuê bao]]
 [[Thuê bao trả sau là do tỉnh quản lý. Nên nhà mạng có thể thay đổi thông tin]]
 Nguồn:: Nhân viên vinaphone

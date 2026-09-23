@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T13:17
+updated: 2026-07-27T02:26
 created: 2025-09-12T20:18
 ---
 | Chỉ số tài chính                                 | Ý nghĩa                                                                 | Cách tính                                                                           | Kết quả |

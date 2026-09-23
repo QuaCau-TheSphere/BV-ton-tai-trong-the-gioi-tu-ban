@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-07T13:00
+updated: 2026-08-17T15:44
 ---
 Tên thương hiệu:: VDB
 Phân loại:: [[Ngân hàng chính sách]]

@@ -6,11 +6,18 @@
   "phoneFooterSafeAreaPadding": false,
   "tabletFooterSafeAreaPadding": false,
   "folder": "Ξ Thiết lập/Ảnh/Excalidraw/",
+  "libraryFolderPath": "Excalidraw/Libraries",
+  "libraryFileName": "local-library",
+  "libraryStorageMode": "data-json",
+  "libraryMigrationStatus": "later",
+  "libraryMigrationSnoozeUntil": 1787923150172,
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
+  "allowJavaScriptFiles": false,
+  "storeScriptFilesAsJavaScript": false,
   "fontAssetsPath": "Excalidraw/CJK Fonts",
   "loadChineseFonts": false,
   "loadJapaneseFonts": false,
@@ -18,8 +25,6 @@
   "compress": true,
   "decompressForMDView": true,
   "onceOffCompressFlagReset": true,
-  "onceOffGPTVersionReset": true,
-  "autosave": true,
   "autosaveIntervalDesktop": 30000,
   "autosaveIntervalMobile": 20000,
   "drawingFilenamePrefix": "Drawing ",
@@ -121,7 +126,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.26.4",
     "libraryItems": [
       {
         "id": "xb5vN_VtjKLZuMnWTb6Wk",
@@ -160,7 +165,8 @@
             ],
             "updated": 1735724981457,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "5K7cbzMb",
@@ -198,7 +204,8 @@
             "containerId": "UVfmq50EACeeiEjx3q5Dn",
             "originalText": "Gốc",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1735725042470
@@ -212,9 +219,36 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
+  "markdownImageSettings": {
+    "defaults": {
+      "width": 500,
+      "paddingBottom": 10,
+      "fontFamily": "Virgil",
+      "fontColor": "Black",
+      "border": {
+        "enabled": false,
+        "color": "Black"
+      },
+      "css": "",
+      "transclusion": {
+        "enabled": false,
+        "fontFamily": "Cascadia",
+        "fontColor": "Black",
+        "border": {
+          "enabled": false,
+          "color": "Black"
+        },
+        "css": ""
+      }
+    }
+  },
+  "markdownImageDeletionPreference": "ask",
   "scriptEngineSettings": {},
-  "previousRelease": "2.25.3",
+  "autostartScripts": {},
+  "autostartScriptFailures": {},
+  "previousRelease": "2.27.3",
   "showReleaseNotes": true,
+  "useDeclarativeSettings": true,
   "excalidrawMasteryPromoCollapsed": false,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -840,6 +874,7 @@
     }
   },
   "aiDefaultTextModel": "gpt-3.5-turbo-1106",
+  "aiDefaultMultimodalModel": "gpt-5-mini",
   "aiDefaultImageGenerationModel": "dall-e-3",
   "aiDefaultMaxOutgoingTokens": 0,
   "aiDefaultMaxResponseTokens": 4096,
@@ -1090,7 +1125,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"
@@ -1164,6 +1199,8 @@
     "margin": "normal"
   },
   "disableContextMenu": false,
+  "onceOffGPTVersionReset": true,
+  "autosave": true,
   "isDebugMode": false,
   "defaultTrayMode": true,
   "compactModeOnTablets": true

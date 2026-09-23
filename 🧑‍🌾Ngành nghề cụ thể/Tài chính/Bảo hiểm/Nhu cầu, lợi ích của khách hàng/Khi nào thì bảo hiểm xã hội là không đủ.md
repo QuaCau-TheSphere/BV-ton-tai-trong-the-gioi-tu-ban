@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-02-14T11:51
-updated: 2026-07-18T20:24
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Bảo hiểm xã hội]]
 ## Bảo hiểm xã hội tự nguyện

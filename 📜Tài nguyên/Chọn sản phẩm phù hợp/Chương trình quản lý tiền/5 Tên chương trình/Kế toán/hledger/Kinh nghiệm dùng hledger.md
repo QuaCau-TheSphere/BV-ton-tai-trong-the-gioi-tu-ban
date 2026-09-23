@@ -1,8 +1,9 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-08-22T13:05
 created: 2025-10-06T15:13
 ---
+[[Chương trình kế toán]]
 [[Danh mục tài khoản và ý nghĩa bảng cân đối của quỹ]]
 
 | Trường được dùng | Thông tin                       | Cách phân loại            |

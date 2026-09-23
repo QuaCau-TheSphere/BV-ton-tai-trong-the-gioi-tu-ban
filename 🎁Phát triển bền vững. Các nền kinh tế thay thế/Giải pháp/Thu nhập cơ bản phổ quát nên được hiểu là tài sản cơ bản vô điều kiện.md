@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-08T20:51
+updated: 2026-07-27T02:26
 created: 2026-01-27T14:38
 ---
 Khái niệm:: [[Thu nhập thụ động]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-08T12:00
-updated: 2026-07-18T21:28
+updated: 2026-07-27T02:26
 ---
 Khái niệm:: [[Thương lượng tập thể]], [[Thoả ước tập thể]]
 [[Một thoả ước tập thể có lợi cho người lao động là thoả ước tuân thủ quy trình thương lượng và chứa các thoả thuận có lợi hơn so với mức quy định của luật]]

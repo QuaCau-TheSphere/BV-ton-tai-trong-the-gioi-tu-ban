@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-24T22:02
-updated: 2026-07-07T13:00
+updated: 2026-07-27T02:27
 ---
 ![Các công cụ tài chính cơ bản trong 13 phút (bằng hoạt hình) - YouTube](https://youtu.be/4U4SyvWCff4?si=Ub5G7RGVsDZ-O97e)
 

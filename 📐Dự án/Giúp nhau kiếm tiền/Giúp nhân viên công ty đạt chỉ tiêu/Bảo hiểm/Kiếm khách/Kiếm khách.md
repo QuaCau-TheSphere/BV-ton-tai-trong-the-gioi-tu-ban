@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2026-07-19T08:28
+updated: 2026-08-04T21:55
 aliases:
   - bán bảo hiểm
   - thu hút khách hàng
@@ -25,7 +25,7 @@ Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong s
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu
 - Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
-- Các buổi [[Tổ chức các buổi thuyết trình]] để đáp ứng nhu cầu công việc và nhu cầu công nghệ, như:
+- Các buổi [[Tổ chức các buổi thảo luận, giới thiệu ý tưởng]] để đáp ứng nhu cầu công việc và nhu cầu công nghệ, như:
     - Xây dựng hệ thống quản lý kiến thức 
     - Nhập sự kiện tự động và hàng loạt vào Google Calendar
     - Phân loại chi tiêu bằng tiếng Việt tự nhiên để đạt kỷ luật tài chính một cách ít nhức đầu nhất

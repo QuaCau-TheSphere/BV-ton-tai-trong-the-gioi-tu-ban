@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-07T12:59
+updated: 2026-08-17T22:10
 created: 2026-06-22T13:00
 ---
 Khái niệm:: [[Sở hữu]]
