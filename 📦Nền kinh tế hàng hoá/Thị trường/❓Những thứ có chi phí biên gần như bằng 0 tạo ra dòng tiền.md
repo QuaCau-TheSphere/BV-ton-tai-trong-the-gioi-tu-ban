@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-09-26T16:16
 created: 2025-12-20T15:31
 ---
 Khái niệm:: [[Chi phí biên]], [[Dòng tiền]]

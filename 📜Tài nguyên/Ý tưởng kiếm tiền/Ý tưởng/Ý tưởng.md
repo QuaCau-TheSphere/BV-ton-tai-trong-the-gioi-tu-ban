@@ -1,27 +1,17 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-07-27T15:56
+updated: 2026-10-07T15:06
 aliases:
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---
-Đầu tiên phải tự hỏi vì sao mình cần tiền:
-- Để không chết đói? [[Việt Nam không ai chết đói, chỉ có nghèo đa chiều|Việt Nam không ai chết đói]]
-- Để có cuộc sống thoải mái? 
-
-Sau đó xây dựng [[Kế hoạch tài chính]]
-
-Đọc chi tiết ở các bài sau:
-- [[Kiếm tiền nhanh|Các công việc kiếm tiền nhanh]]
-- [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư|Các ý tưởng kinh doanh, đầu tư]]
-
-Đọc thêm:
-- [[Review công ty]]
-- [[Các nơi giới thiệu việc làm]]
-- [How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
+Tuy nhiên, khi bạn cần tiền, điều đầu tiên cần hỏi không phải là kiếm tiền thế nào, mà là xây dựng [[Kế hoạch tài chính]]. Sau khi đã trả lời rồi, lúc đó bạn có thể chọn hình thức kiếm tiền phù hợp với bạn:
+- [[Kiếm tiền nhanh]]
+- [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư|Tự kinh doanh, đầu tư]]
+- [[Việc chính thức trong công ty|Làm nhân viên chính thức trong công ty]]
 
 ## Nhìn toàn cảnh
 Đây là một phần của dự án [[giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 

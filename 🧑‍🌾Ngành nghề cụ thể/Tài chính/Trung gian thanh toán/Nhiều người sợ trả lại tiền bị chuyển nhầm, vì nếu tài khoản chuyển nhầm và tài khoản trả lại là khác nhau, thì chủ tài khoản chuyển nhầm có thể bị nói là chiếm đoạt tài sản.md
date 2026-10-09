@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-08-18T22:40
-updated: 2026-08-20T01:27
+updated: 2026-10-02T13:59
 ---
 Giả sử một khách hàng đến cửa hàng của bạn mua một món đồ giá 30k nhưng bấm nhầm thành 30tr. Bạn vui vẻ trả lại số tiền họ chuyển nhầm. Ngày hôm sau ngân hàng gọi điện xuống nói với bạn là có một người chuyển nhầm 30tr vào tài khoản của bạn và đề nghị bạn trả lại. Bạn kiểm tra lại thì thấy tài khoản chuyển tiền vào khác với tài khoản bạn chuyển trả lại. Tức là dưới phương diện pháp luật, người chuyển tiền vào chưa nhận được tiền trả lại, và bạn vẫn còn đang cầm tiền họ chuyển nhầm. 
 
@@ -15,4 +15,4 @@ Cách giải quyết an toàn nhất là cùng với người đó lên ngân h�
 
 thì đã đủ an toàn chưa?
 
-Khái niệm:: [[Thanh toán không tiền mặt]], [[Lừa đảo]]
+Khái niệm:: [[Thanh toán không tiền mặt]], [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]

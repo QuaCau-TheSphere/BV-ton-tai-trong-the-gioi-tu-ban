@@ -5,3 +5,6 @@ updated: 2026-07-27T02:26
 aliases:
   - Quản lý hoạt động
 ---
+Khái niệm:: 
+
+Nguồn:: 

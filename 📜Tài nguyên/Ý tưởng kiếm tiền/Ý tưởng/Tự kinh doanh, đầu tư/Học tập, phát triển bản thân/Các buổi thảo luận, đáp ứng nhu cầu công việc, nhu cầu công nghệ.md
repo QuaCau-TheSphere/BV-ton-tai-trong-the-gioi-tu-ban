@@ -1,17 +1,17 @@
 ---
 share: true
-updated: 2026-09-21T14:15
+updated: 2026-10-08T21:37
 created: 2026-06-05T18:29
 ---
 ## Vấn đề đang giải quyết
 Tri thức là sức mạnh, nhưng nhiều người khi muốn có tri thức thì:
 - Hoang mang khi không biết mình cần phải bắt đầu từ đâu
 - Ngộp bởi quá nhiều thuật ngữ khi tự tìm hiểu
-- Không thấy LLM đáng tin
+- Không thấy việc sử dụng LLM đem lại hiệu quả
 - Không tìm được người có kỹ năng làm, đáng tin tưởng và chịu nhận làm. Không phải lúc nào cũng có tiền để thuê người làm
 
 ## Giải pháp
-Tổ chức các buổi thảo luận, chia sẻ, huấn luyện, khai vấn, đào tạo. Bài chi tiết: [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](https://doi-thoai.fly.dev/1IA.7W.1)
+Tổ chức các buổi thảo luận, chia sẻ, huấn luyện, khai vấn, đào tạo. Bài chi tiết: [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](https://doi-thoai.fly.dev/Us.7Y.1)
 
 Xem thêm: [Các bản ghi hình một số buổi nói chuyện đã diễn ra](https://www.youtube.com/playlist?list=PLJHpgh0M58TkKw-kM8bgvUjRP_Xnkw_PO)
 
@@ -22,12 +22,12 @@ Xem thêm: [Các bản ghi hình một số buổi nói chuyện đã diễn ra]
 Chuyên môn và chức vụ của một số người đã tham gia: vận tải (chủ doanh nghiệp), kế toán (CFO), công nghệ sinh học (giảng viên), điện ảnh (nghiên cứu sinh cao học), thiết kế đô thị, kỹ thuật phần mềm.
 
 ### Sự thay đổi hành vi ở người thụ hưởng (thành quả)
-Một vài phản hồi từ người tham gia được Nhật nhớ lại:
-- Thấy cách học này hơi mới. Lúc đầu cũng có khoảng thời gian để làm quen. Thấy nó hay ở điểm là người học phải tự đi tìm thông tin và câu hỏi, và chất lượng phụ thuộc vào câu hỏi của chị chứ ko phải kiến thức em đưa cho chị. Đến cuối thì vẫn thấy vẫn hơi mông lung vì chưa kết nối được các khái niệm, nhưng nó lại giúp chị có khả năng tự tìm hiểu 
+Một phản hồi từ một người tham gia:
+> Thấy cách học này hơi mới. Lúc đầu cũng có khoảng thời gian để làm quen. Thấy nó hay ở điểm là người học phải tự đi tìm thông tin và câu hỏi, và chất lượng phụ thuộc vào câu hỏi của chị chứ không phải kiến thức em đưa cho chị. Đến cuối thì vẫn thấy vẫn hơi mông lung vì chưa kết nối được các khái niệm, nhưng nó lại giúp chị có khả năng tự tìm hiểu 
+
+Một vài phản hồi khác được Nhật nhớ lại:
 - Ngồi với anh em mới biết tới những thứ em không biết là em không biết
 - Ngồi với anh lúc nào em cũng biết được điều mới. Bữa sau em rủ thằng em của em lên luôn
-
-Chưa biết được những cái kiến thức được chia sẻ biến thành năng lực mới trong bản thân họ thế nào.
 
 ## Giá trị mà người thụ hưởng không tìm ra ở nơi khác
 - Có thể chỉ ra được những thứ mà Google hay LLM cũng không kiếm ra
@@ -36,6 +36,7 @@ Chưa biết được những cái kiến thức được chia sẻ biến thàn
 - Đem thứ tốt nhất mà người thụ hưởng cần mà người hướng dẫn biết đến cho họ, không phải để chọn giải pháp dễ. Có những chướng ngại họ cần vượt qua, và người hướng dẫn ngồi đó để sự vượt qua dễ dàng hơn
 - Cá nhân hóa
 - Nên nghe được trực tiếp nhu cầu của họ sẽ tốt hơn là em mường tượng nhu cầu của họ. Sau đó có thông tin rồi thì việc tổng hợp sẽ dễ dàng hơn
+
 ## Lợi thế cạnh tranh không dễ bị sao chép hay mua lại
 - **Những khái niệm thiết yếu trong việc xây dựng mô hình tư duy (mental model), đặc biệt là:**
     - Những khái niệm cơ bản mà nếu không được giải thích thì không thể tự đoán ra được. Công việc ta cần làm đòi hỏi ta phải làm theo những hướng dẫn mặc định rằng ta đã hiểu được chúng rồi, và không cung cấp thêm lời giải thích hoặc xây dựng đủ bối cảnh để ta có thể đoán ý nghĩa của nó. Thường để hiểu được các khái niệm cơ bản này ta sẽ phải quay lại học bài bản, nhưng lúc đó việc học bài bản lại phân tán sự tập trung của ta khỏi công việc cần làm
@@ -51,8 +52,11 @@ Chúng là những thứ mà bạn ước rằng ngày xưa có ai nói với m�
 
 ## Con đường tiếp cận khách hàng
 Thông qua việc tham gia vào các nhóm, mạng lưới hướng tới việc học tập, kết nối lẫn nhau. Nếu có hỗ trợ việc truyền thông cho người tham gia thì càng tốt. VD:
-- HCM Thành phố học tập
-- ABG Alumni
+- HCM Thành phố học tập, ABG Alumni, Quả Cầu
+- Các trang kết nối cố vấn: [Mentori](https://mentori.vn/), [Vietnam Solo Expert](https://www.soloexpert.vn), [OnAir](https://onair.today/) 
+- Các nhóm trên Facebook
+
+Xem thêm:: [[Mở rộng mối quan hệ|Các buổi gặp mặt giao lưu, mở rộng mối quan hệ]]
 
 ## Phân khúc khách hàng
 Những người muốn hiểu cách tư duy của người làm chuyên nghiệp và cách hệ thống vận hành. Họ không cần phải hiểu hết những kỹ thuật để làm được công việc của người họ thuê, nhưng cần phải hiểu đủ để có thể tự xử lý những thứ nhỏ. Họ cần kiếm nguồn thực sự hiểu chứ không có xác suất sai, hoặc cần biết công cụ tốt để không phải mất thời gian học công cụ phổ biến rồi nhận ra là nó có nhiều vấn đề về sau.

@@ -552,5 +552,13 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-editor-shortcuts:toggleCase": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

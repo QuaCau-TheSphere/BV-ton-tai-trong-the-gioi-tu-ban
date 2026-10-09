@@ -1,7 +1,6 @@
 ---
 share: true
 created: 2025-11-01T10:12
-updated: 2026-09-19T22:14
 aliases:
   - Các hình thức của sự tệ
   - Tư bản
@@ -17,24 +16,24 @@ aliases:
 Cơ bản cũng gần giống với định tội
 Đứng tên giùm thì không biết có tính là thiếu liêm chính hay không. Chắc là tùy người. Cơ bản là có hại ai hay không.
 
-| Tên gọi                                                                     | Được dùng khi                                                                                               | Có sự đồng thuận của nạn nhân?                                                                                         | Có hợp pháp? |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Tư bản                                                                      | Dùng tiền để tạo ra thêm tiền, chứ không phải để đổi công với người khác                                    | Có, nhưng là do không biết còn lựa chọn nào tốt hơn                                                                    | Có           |
-| Bóc lột                                                                     | Lấy giá trị thặng dư từ lao động của người khác                                                             | Có, nhưng là do không biết còn lựa chọn nào tốt hơn                                                                    | Tùy          |
-| [[Thao túng]]                                                               | Tận dụng sự tin tưởng người khác trao cho mình để khiến họ tự nguyện đưa tài sản cho mình một cách hợp pháp | Có, nhưng sự đồng thuận này chỉ đến từ tự trị cục bộ (local autonomy), không phải là tự trị tổng thể (global autonomy) | Có           |
-| [[Trục lợi]]                                                                | Lợi dụng kẽ hở của chính sách hoặc bộ phận kiểm tra                                                         | Không                                                                                                                  | Không        |
-| [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo\|Lừa đảo]] | Tận dụng sự tin tưởng người khác trao cho mình rồi vi phạm cam kết                                          | Không                                                                                                                  | Tùy          |
-| Gian lận                                                                    | Làm ngược lại quy định chung                                                                                | Không                                                                                                                  | Tùy          |
-| [[Lách luật]]                                                               |                                                                                                             | Không                                                                                                                  |              |
-| Lạm quyền                                                                   |                                                                                                             | Không                                                                                                                  |              |
-| Tham nhũng                                                                  |                                                                                                             |                                                                                                                        |              |
-| Nói dối/thiếu trung thực                                                    | Tạo ra sự tin tưởng sai lầm ở người khác                                                                    | Không                                                                                                                  | Tùy          |
-| Gây áp lực tâm lý                                                           |                                                                                                             |                                                                                                                        |              |
+| Tên gọi                                                                                                      | Được dùng khi                                                                                               | Có sự đồng thuận của nạn nhân?                                                                                         | Có hợp pháp? |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Tư bản                                                                                                       | Dùng tiền để tạo ra thêm tiền, chứ không phải để đổi công với người khác                                    | Có, nhưng là do không biết còn lựa chọn nào tốt hơn                                                                    | Có           |
+| Bóc lột                                                                                                      | Lấy giá trị thặng dư từ lao động của người khác                                                             | Có, nhưng là do không biết còn lựa chọn nào tốt hơn                                                                    | Tùy          |
+| [[Thao túng]]                                                                                                | Tận dụng sự tin tưởng người khác trao cho mình để khiến họ tự nguyện đưa tài sản cho mình một cách hợp pháp | Có, nhưng sự đồng thuận này chỉ đến từ tự trị cục bộ (local autonomy), không phải là tự trị tổng thể (global autonomy) | Có           |
+| [[Trục lợi]]                                                                                                 | Lợi dụng kẽ hở của chính sách hoặc bộ phận kiểm tra                                                         | Không                                                                                                                  | Không        |
+| [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Cách thực hiện/Lừa đảo/Lừa đảo\|Lừa đảo]] | Tận dụng sự tin tưởng người khác trao cho mình rồi vi phạm cam kết                                          | Không                                                                                                                  | Tùy          |
+| Gian lận                                                                                                     | Làm ngược lại quy định chung                                                                                | Không                                                                                                                  | Tùy          |
+| [[Lách luật]]                                                                                                |                                                                                                             | Không                                                                                                                  |              |
+| Lạm quyền                                                                                                    |                                                                                                             | Không                                                                                                                  |              |
+| Tham nhũng                                                                                                   |                                                                                                             |                                                                                                                        |              |
+| Nói dối/thiếu trung thực                                                                                     | Tạo ra sự tin tưởng sai lầm ở người khác                                                                    | Không                                                                                                                  | Tùy          |
+| Gây áp lực tâm lý                                                                                            |                                                                                                             |                                                                                                                        |              |
 [[Khai thác điểm yếu con người]]
 
 Người này thấy lừa đảo, người kia thấy không?
 
-Xem thêm:: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Lừa đảo]], [[Các bẫy trong điều khoản hợp đồng]]
+Xem thêm:: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Cách thực hiện/Lừa đảo/Lừa đảo]], [[Các bẫy trong điều khoản hợp đồng]]
 
 
 - Tự bản thân thấy có vấn đề, nhưng vì các lợi ích khác mà chấp nhận thỏa hiệp
@@ -57,6 +56,71 @@ Mặt khách thể:
 - Chủ trương truy quét
 - Hình phạt (thống kê tư pháp)
 - Có đủ yếu tố cấu thành vi phạm hay không?
+
+## Cường độ tệ 
+### Từ ngoài nhìn vào
+1. Cố ý gây hậu quả nghiêm trọng
+### Của người thực hiện tự nhìn mình
+1. Cố ý, gây hậu quả nghiêm trọng với mình và với người vô tội, vì lợi ích của bản thân
+2. 
+Thấy điều đi ngược lại niềm tin của mình tạo ra được thứ mình cần
+Phần rủi ro không được ghi rõ ngay từ đầu
+Phần rủi ro được ghi rõ ngay từ đầu
+
+Nhượng bộ để có sự hợp tác mình cần
+
+- Nói thiếu
+- Nhầm lẫn
+- Có cách hiểu khác
+- Luật chưa làm rõ hoặc tự mâu thuẫn
+- Không có thỏa thuận cụ thể hoặc phát sinh ngoài thỏa thuận
+- Luật bất thành văn. Không biết luật
+- Luật không đáp ứng thực tế hoặc tạo khe hở cho việc nhũng nhiễu
+- Hiệu ứng mạng lưới
+- Quảng cáo
+- Nể nang, ngại va chạm
+-
+
+[[Những thứ từ tệ đến tốt]]
+
+## Tên gọi hành vi
+Cố ý trực tiếp, dễ chứng minh:
+ - Bóc lột
+ - [[Thao túng]]
+ - [[Trục lợi]]
+ - [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Cách thực hiện/Lừa đảo/Lừa đảo\|Lừa đảo]]
+ - Gian lận
+ - [[Lách luật]]
+ - Lạm quyền
+ - Tham nhũng
+ - Nói dối/thiếu trung thực
+ - Gây áp lực tâm lý
+
+Cố ý trực tiếp, khó chứng minh:
+- [[Khai thác điểm yếu con người]]
+
+Cố ý gián tiếp
+Vô ý do quá tự tin
+Vô ý do bất cẩn
+Tranh chấp
+
+Không rõ là phân loại vào đâu:
+
+## Được, mất với bản thân
+Mất: tâm lý, hình phạt
+
+## Được, mất với người có liên quan
+- Công ty mất doanh thu
+	- Tỉ lệ doanh thu lớn
+	- Tỉ lệ doanh thu nhỏ
+- Cá nhân có nguy cơ bị mất thêm tiềnn
+- Cá nhân bị phiền phức:
+	- Bị mất tập trung
+
+## Quan điểm
+- Không làm mất quyền lợi của người tử tế
+- Nếu thiệt hại có xác suất thấp thì chấp nhận rủi ro được
+
 
 [[Các dịch vụ đáo rút hoạt động công khai]]
 [[Vấn đề đạo đức trong việc lừa dối cấp trên]]

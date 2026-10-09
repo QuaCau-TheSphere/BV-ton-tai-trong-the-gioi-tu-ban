@@ -1,5 +1,5 @@
 {
-  "version": "4.1.1",
+  "version": "4.2.1",
   "templates": {
     "common": {
       "main": "title",
@@ -32,7 +32,7 @@
       }
     },
     "explorer": {
-      "enabled": true,
+      "enabled": false,
       "sort": false,
       "templates": {
         "main": "",
@@ -40,14 +40,14 @@
       }
     },
     "tab": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
       }
     },
     "header": {
-      "enabled": true,
+      "enabled": false,
       "templates": {
         "main": "",
         "fallback": ""
@@ -61,7 +61,7 @@
       }
     },
     "bookmarks": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
@@ -103,7 +103,7 @@
       }
     },
     "windowFrame": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""

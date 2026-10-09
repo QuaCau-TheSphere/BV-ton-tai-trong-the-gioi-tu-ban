@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-08-17T22:10
+updated: 2026-10-05T20:52
 created: 2026-06-22T13:00
 ---
-Khái niệm:: [[Sở hữu]]
+Khái niệm:: [[Chiếm hữu, sở hữu]]
 [[Pháp luật các nước không coi quyền chiếm hữu là một phần của quyền sở hữu như trong luật Việt Nam]]
 Nguồn:: ![PCD - Buổi 4 - Các ngành luật trong hệ thống pháp luật việt nam - YouTube](https://youtu.be/Kuh03LmY58g?si=Zm7aDKqH_Vc-ck5f&t=2413)
 

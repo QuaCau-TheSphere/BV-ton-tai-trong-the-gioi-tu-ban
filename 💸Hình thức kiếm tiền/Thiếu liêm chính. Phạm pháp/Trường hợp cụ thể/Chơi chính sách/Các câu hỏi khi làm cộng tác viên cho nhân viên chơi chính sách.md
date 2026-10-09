@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-23T17:44
-updated: 2026-07-27T02:26
+updated: 2026-10-02T13:59
 ---
 Đây là giải thích chi tiết cho công việc [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ]].
 
@@ -17,7 +17,7 @@ Xem thêm:: [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|L
 
 [[Phạt từ 40tr khi cho thuê, mượn tài khoản thanh toán|Luật phạt từ 40tr khi cho thuê, mượn tài khoản ngân hàng]]. Các công việc dưới đây tuy có cảm giác giống giống như thuê mượn tài khoản ngân hàng, nhưng thật ra không phải vì bạn vẫn giữ đăng nhập tài khoản trên máy bạn chứ không đưa cho ai đăng nhập trên máy của họ cả
 
-Nếu bạn sợ lừa đảo thì xem [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo/Lừa đảo]]
+Nếu bạn sợ lừa đảo thì xem [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Cách thực hiện/Lừa đảo/Lừa đảo]]
 
 ## Đây là thiếu liêm chính
 Đúng vậy, [[Thiếu liêm chính. Phạm pháp]]. [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]

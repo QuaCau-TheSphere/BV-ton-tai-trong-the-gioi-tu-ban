@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2025-03-22T16:43
-updated: 2026-08-04T21:57
+updated: 2026-10-07T08:45
 aliases:
   - Giúp nhau mở rộng mối quan hệ
   - Các buổi gặp mặt giao lưu
@@ -33,7 +33,7 @@ Khái niệm:: [[Mối quan hệ]]
 
 ```dataview
 LIST 
-FROM "📐Dự án/Mạng kết nối nhu cầu/Mở rộng mối quan hệ"
+FROM "📐Dự án/Mở rộng mối quan hệ"
 WHERE file.name != this.file.name
 ```
 [[Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình]]

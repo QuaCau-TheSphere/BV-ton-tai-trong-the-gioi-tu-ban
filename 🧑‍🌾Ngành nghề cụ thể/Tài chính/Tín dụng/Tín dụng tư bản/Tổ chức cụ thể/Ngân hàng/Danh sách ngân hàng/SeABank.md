@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-08-17T17:03
+updated: 2026-10-01T15:46
 ---
 Tên thương hiệu:: SeABank
 Phân loại:: [[Thương mại Cổ phần]]
@@ -45,6 +45,6 @@ Hoàn tiền trực tiếp vào thẻ luôn. Khi nào đóng thẻ rồi thì m�
 - Không chụp màn hình được
 - Quay chậm
 - Đăng nhập bằng vân tay dễ
-- Vừa thoát app là bắt đăng nhập lại
+- Vừa chuyển sang app khác là bắt đăng nhập lại
 
 [[Seabank hạn cuối hay chặn POS]]

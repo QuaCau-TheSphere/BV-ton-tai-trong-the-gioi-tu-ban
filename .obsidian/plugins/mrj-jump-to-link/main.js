@@ -574,6 +574,12 @@ class JumpToLink extends obsidian.Plugin {
             case VIEW_MODE.LIVE_PREVIEW:
             case VIEW_MODE.SOURCE:
                 this.cmEditor = currentView.editor.cm;
+                if (this.currentCursor.vimMode !== 'visual' && this.currentCursor.vimMode !== 'visual block') {
+                    this.cursorBeforeJump = {
+                        ...this.currentCursor,
+                        anchor: this.cmEditor.state.selection.main.anchor,
+                    };
+                }
                 break;
         }
         switch (type) {

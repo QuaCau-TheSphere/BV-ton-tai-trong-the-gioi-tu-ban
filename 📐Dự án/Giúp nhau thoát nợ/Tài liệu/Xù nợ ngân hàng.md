@@ -1,10 +1,11 @@
 ---
 share: true
 description: Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-updated: 2026-09-16T20:32
+updated: 2026-09-24T14:29
 aliases:
   - Chuyện gì sẽ xảy ra khi bị liệt là nợ xấu?
-  - Lý do không muốn bị mất điểm tín dụng
+  - Các lý do không muốn bị mất điểm tín dụng
+  - Các lý do việc mất điểm tín dụng không đáng sợ đến thế
   - mất điểm tín dụng
   - bùng, quịt, mất khả năng trả nợ, vỡ nợ
 created: 2026-07-25T15:28
@@ -117,9 +118,9 @@ Bất kể việc giúp đỡ mọi người là một sở thích cá nhân hay
 > [!attention] Nội dung trong phần này chỉ có giá trị giáo dục, không phải là tư vấn luật
 > Cũng như LLM, chúng tôi có thể sai.
 
-Luật không định nghĩa các khái niệm như bùng, quịt, xù, vỡ nợ, mà chỉ phân biệt là có hành vi lừa đảo hay lạm dụng tín nhiệm chiếm đoạt tài sản hay không. Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không trả **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bị chứng minh là:
-- có ý định vay để xù ngay từ đầu thì sẽ phạm tội "lừa đảo chiếm đoạt tài sản" (Điều 174 Bộ luật Hình sự)
-- có điều kiện để trả mà không trả thì sẽ phạm tội "lạm dụng tín nhiệm chiếm đoạt tài sản" (Điều 175 Bộ luật Hình sự) 
+Luật không định nghĩa các khái niệm như bùng, quịt, xù nợ, mà chỉ phân biệt là có hành vi lừa đảo hay lạm dụng tín nhiệm chiếm đoạt tài sản hay không. Tuy trả nợ khi đến hạn là nghĩa vụ bắt buộc của người đi vay, nhưng nếu bên vay không trả **vì lý do bất đắc dĩ** như phá sản, làm ăn thua lỗ, v.v. thì sẽ **không bị truy cứu trách nhiệm hình sự**. Nhưng nếu bị chứng minh là:
+- có ý định vay để không trả ngay từ đầu thì sẽ phạm tội "lừa đảo chiếm đoạt tài sản" (Điều 174 Bộ luật Hình sự)
+- có điều kiện, khả năng để trả nhưng cố tình không trả, hoặc dùng cho mục đích bất hợp pháp dẫn đến mất khả năng trả, thì sẽ phạm tội "lạm dụng tín nhiệm chiếm đoạt tài sản" (Điều 175 Bộ luật Hình sự) 
 
 [Làm ăn thua lỗ, không trả được nợ có phải đi tù không?](https://luatvietnam.vn/tin-phap-luat/lam-an-thua-lo-khong-tra-duoc-no-co-phai-di-tu-khong-230-34052-article.html)
 

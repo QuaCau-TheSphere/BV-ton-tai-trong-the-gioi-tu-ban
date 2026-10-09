@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-07T12:56
-updated: 2026-07-27T02:26
+updated: 2026-10-07T11:22
 ---
 Khái niệm:: 
 ![Nhìn lại hoạt động năm 2025 của Câu lạc bộ Doanh nghiệp Dẫn đầu - LBC - YouTube](https://www.youtube.com/watch?v=rcvmpxN5iUM)

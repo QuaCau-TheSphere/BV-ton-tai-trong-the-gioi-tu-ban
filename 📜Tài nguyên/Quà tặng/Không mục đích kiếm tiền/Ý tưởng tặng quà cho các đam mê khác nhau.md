@@ -30,7 +30,7 @@ xkcd, Veritasium, Vsauce, 3Blue1Brown, Kurgze, NASA, Wikipedia, rationalwiki, wa
 ## Phát triển
 Unesco
 
-## Nghệ thuật
+## Nghệ thuật, văn hóa đại chúng
 Tùy vào cuốn sách, 
 - Âm nhạc: 
 - Phim ảnh
@@ -47,7 +47,7 @@ thiền
 ## Thể thao, trò chơi
 - Bóng đá
 - Cờ
-Game
+- Game
 
 ## Khác
 Pokémon 

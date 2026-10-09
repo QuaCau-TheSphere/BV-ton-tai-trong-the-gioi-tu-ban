@@ -1,10 +1,8 @@
 ---
 share: true
 created: 2024-12-24T21:45
-updated: 2026-07-27T02:26
+updated: 2026-10-09T20:03
 ---
-Chuyện gì sẽ xảy ra nếu bạn có tất cả tiền trên thế giới? 
-![What if you literally had all the money in the world? - YouTube](https://youtu.be/saj7b5C6TCM?si=JXfCIhLP3YaJxx4t)
 
 ```dataview
 LIST rows.file.link

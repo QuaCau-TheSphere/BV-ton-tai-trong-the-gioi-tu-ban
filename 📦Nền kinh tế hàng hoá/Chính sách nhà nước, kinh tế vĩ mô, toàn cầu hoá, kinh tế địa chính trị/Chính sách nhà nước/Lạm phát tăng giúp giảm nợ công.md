@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-10-09T20:08
 created: 2026-02-16T14:37
 ---
 Khái niệm:: [[Lạm phát]], [[Nợ công]]
@@ -11,3 +11,5 @@ Khối lượng tiền tệ được nâng cao, tiền mất giá, nợ quốc g
 Lạm phát trong bản chất là một hình thức móc túi. Kẻ cầm trong tay 100 đồng, khi tiền mất giá 10%, chỉ còn 90 đồng. Dùng lạm phát để hóa giải công nợ không khác gì bắt toàn thể dân chúng và những người sử dụng tiền tệ của mình trên thế giới, phải đóng góp cho việc trả nợ quốc gia.
 
 Nguồn:: [Nguyễn Hoài Vân - Chính Trị - Lịch Sử: Vòng xoáy nợ nần](https://chinh-tri-lich-su.blogspot.com/2015/12/vong-xoay-no-nan.html)
+
+[[Việt Nam muốn hy sinh lạm phát cho tăng trưởng]]

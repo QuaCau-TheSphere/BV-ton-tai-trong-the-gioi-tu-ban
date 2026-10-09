@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-07-27T02:26
+updated: 2026-09-23T20:16
 ---
 [[Biến đổi công nghệ, biến đổi khí hậu, thay đổi nhân khẩu học, chính trị là các yếu tố tạo ra kinh tế mới]]
 

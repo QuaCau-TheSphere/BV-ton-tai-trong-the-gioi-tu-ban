@@ -16,6 +16,8 @@ updated: 2026-08-08T15:39
 
 ## Lợi thế cạnh tranh không dễ bị sao chép hay mua lại
 
+## Đối tác và người thụ hưởng
+
 ## Con đường tiếp cận người thụ hưởng
 
 ## Phân khúc người thụ hưởng

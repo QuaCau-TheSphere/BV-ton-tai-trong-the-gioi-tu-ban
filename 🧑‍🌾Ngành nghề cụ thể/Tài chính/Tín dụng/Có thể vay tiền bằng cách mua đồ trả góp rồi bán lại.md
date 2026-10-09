@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-10T20:01
-updated: 2026-07-27T02:27
+updated: 2026-09-29T14:37
 ---
 Khái niệm:: [[Trả góp]]
 

@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:27
+updated: 2026-10-07T14:19
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -44,3 +44,15 @@ Nền kinh tế vừa đủ
 ## [[📐Dự án]]
 
 Tuy nhiên nếu có thể kết hợp nó thành động cơ của bên liên quan thì sẽ cố gắng chuyển đổi
+
+| Thư mục                                                      | Người lao động | Khách hàng | Chủ doanh nghiệp | Chính phủ |
+| ------------------------------------------------------------ | -------------- | ---------- | ---------------- | --------- |
+| [[⚡Hiểu biết sâu]]                                          |                |            |                  |           |
+| [[🎁Phát triển bền vững. Các nền kinh tế thay thế]]          | ✔              | ✔          |                  |           |
+| [[🏢Vận hành doanh nghiệp]]                                  | ✔              |            | ✔                |           |
+| [[💸Hình thức kiếm tiền]]                                    | ✔              |            |                  |           |
+| [[📐Dự án]]                                                  | ✔              | ✔          |                  |           |
+| [[📜Tài nguyên]]                                             | ✔              | ✔          |                  |           |
+| [[📦Nền kinh tế hàng hoá]]                                   |                |            |                  |           |
+| [[🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam]] | ✔              | ✔          | ✔                | ✔         |
+| [[🧑‍🌾Ngành nghề cụ thể]]                                   | ✔              | ✔          | ✔                | ✔         |

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:26
+updated: 2026-10-05T19:46
 ---
 Tính năng:: [[Nhập liệu được trên Google Keep]]
 Tính năng:: [[Nhập liệu được bằng file text]]
@@ -24,7 +24,7 @@ Tính năng:: [[Là phần mềm tự do]]
 
 Loại chương trình: `=filter(this.file.inlinks, (i)=>contains(i.file.folder, "Loại chương trình"))`
 
-Làm sao để đưa VNPAY vào luồng hoạt động của cửa hàng?: https://doi-thoai.deno.dev/VNPAY.discordQC#c2.1
+Làm sao để đưa VNPAY vào luồng hoạt động của cửa hàng?
 
 Xem thêm:: [[Trấn Kỳ]]
 

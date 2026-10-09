@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-08-31T11:15
-updated: 2026-07-27T02:26
+updated: 2026-10-01T15:40
 ---
 Tên thương hiệu:: Vietbank
 Phân loại:: [[Thương mại Cổ phần]]

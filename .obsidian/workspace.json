@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1c5d88f884e269a",
+            "id": "8e77d164502037c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Hệ thống luật pháp/Dân sự/Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng, quyền định đoạt.md",
-                "mode": "source",
+                "file": "📐Dự án/Mở rộng mối quan hệ/Tài liệu/Những nơi giúp mở rộng mối quan hệ với doanh nghiệp.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng, quyền định đoạt"
+              "title": "Những nơi giúp mở rộng mối quan hệ với doanh nghiệp"
             }
           },
           {
-            "id": "c79b7b2853a8f27e",
+            "id": "dd7023812327df5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Các xu thế kinh tế mới.md",
+                "file": "🏢Vận hành doanh nghiệp/Pháp nhân/Pháp nhân.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Các xu thế kinh tế mới"
-            }
-          },
-          {
-            "id": "d52f588a34a744d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Nền kinh tế chăm sóc nói về những dịch vụ chăm sóc cho những người không thể tự chăm sóc bản thân.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nền kinh tế chăm sóc nói về những dịch vụ chăm sóc cho những người không thể tự chăm sóc bản thân"
+              "title": "Pháp nhân"
             }
           }
         ],
@@ -139,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0040512084961,
-    "collapsed": true
+    "width": 299.0040512084961
   },
   "right": {
     "id": "058d2be84526927e",
@@ -156,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜Tài nguyên/Mở rộng mối quan hệ/Tổ chức các buổi OPP.md",
+                "file": "🧑‍🌾Ngành nghề cụ thể/Khu vực 2/Vận tải, giao thông/Những cách app giao hàng bóc lột tài xế.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tổ chức các buổi OPP"
+              "title": "Backlinks"
             }
           },
           {
@@ -210,16 +185,6 @@
               "icon": "lucide-list",
               "title": "Outline of Cộng đồng có chủ đích"
             }
-          },
-          {
-            "id": "b15b822df19f8af0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
           }
         ]
       }
@@ -235,64 +200,63 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c79b7b2853a8f27e",
+  "active": "dd7023812327df5c",
   "lastOpenFiles": [
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Nguyên lý, bản chất hành vi/Vi phạm quy định/Xâm phạm quan hệ sở hữu/Chiếm đoạt tài sản.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Nền kinh tế chăm sóc nói về những dịch vụ chăm sóc cho những người không thể tự chăm sóc bản thân.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Chưa có một lý thuyết chắc chắn nào về nền kinh tế chăm sóc.md",
-    "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Biến đổi công nghệ, biến đổi khí hậu, thay đổi nhân khẩu học, chính trị là các yếu tố tạo ra kinh tế mới.md",
-    "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/ABG Open Special 2023.md",
-    "📦Nền kinh tế hàng hoá/Các xu thế kinh tế mới/Các xu thế kinh tế mới.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Ấn Độ không tham gia các hiệp ước về sở hữu trí tuệ trong ngành dược để có thể sản xuất thuốc generic một cách nhanh nhất.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Lợi nhuận ngành dược chỉ sau súng đạn và ma túy.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế/Cấp cứu thì mới không cần xin giấy chuyển viện, còn không thì vẫn phải có.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Y tế",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Với sự phát triển của AI, các ngành về chăm sóc sẽ trở thành lợi thế.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Việc nâng tầm lao động thành đạo đức khiến cho nó trở thành vô hình.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Tính trung bình, phụ nữ làm công việc chăm sóc không được trả lương nhiều hơn ít nhất hai lần rưỡi so với nam giới.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Sự khác biệt giữa nền kinh tế chăm sóc và các ngành dịch vụ là nó tập trung vào người yếu thế, và hệ thống hoá các khái niệm.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Nhiều thảo luận về nền kinh tế chăm sóc chỉ nói đến lợi nhuận tiềm năng của nó, chứ không để ý vào các bất bình đẳng xã hội từ việc thiếu để ý và quan tâm đến các công việc chăm sóc.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Khi việc chăm sóc bị gán cho phụ nữ, thì đàn ông không biết tự chăm sóc.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Dân số già vừa là áp lực cho an sinh xã hội, vừa là cơ hội cho công nghiệp y tế.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Công việc chăm sóc không lương được gán cho là không có giá trị về kinh tế bất chấp một thực tế về những đóng góp to lớn của công việc này cho nền kinh tế và xã hội.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Công việc chăm sóc không lương thường vô hình trong các chính sách và ngân sách bởi vì nó không nằm trong định nghĩa và đo lường theo cách truyền thống của nền kinh tế.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc/Các công việc nấu nướng, dọn dẹp, chăm sóc trẻ em, người già và người bệnh tại gia đình thường được hiểu là công việc chăm sóc không lương.md",
-    "🧑‍🌾Ngành nghề cụ thể/Chăm sóc",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/New/Nền kinh tế chăm sóc.md",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/Nhiều thảo luận về nền kinh tế chăm sóc chỉ nói đến lợi nhuận tiềm năng của nó, chứ không để ý vào các bất bình đẳng xã hội từ việc thiếu để ý và quan tâm đến các công việc chăm sóc.md",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/Các công việc nấu nướng, dọn dẹp, chăm sóc trẻ em, người già và người bệnh tại gia đình thường được hiểu là công việc chăm sóc không lương.md",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/Nền kinh tế chăm sóc.md",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/Việc nâng tầm lao động thành đạo đức khiến cho nó trở thành vô hình.md",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/Sự khác biệt giữa nền kinh tế chăm sóc và các ngành dịch vụ là nó tập trung vào người yếu thế, và hệ thống hoá các khái niệm.md",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/Y tế",
-    "🧑‍🌾Ngành nghề cụ thể/Y tế/New",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Nguyên lý, bản chất hành vi/Vi phạm quy định/Xâm phạm quan hệ sở hữu",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách quan/Hậu quả",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Trộm, cướp tài sản",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Rửa tiền, trốn thuế",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Làm giả giấy tờ",
-    "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Mặt khách thể, mặt chủ quan/Động cơ thực hiện. Điều bị phá vỡ/Mất/Quan hệ xã hội/Luật hình sự/Không làm đúng trách nhiệm",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Lịch sử 5000 năm của nền văn minh nhân loại là sự luân phiên giữa hai hình thức thanh toán chủ đạo là ghi nợ và tiền hiện kim.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Tiền chính là một dạng nợ.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền, nợ, bản vị.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Bằng chứng khảo cổ cho thấy nợ xuất hiện trước, rồi đến tiền đúc và hàng đổi hàng.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Những người không cùng cộng đồng kinh tế thì đổi chác. Những người sống trong cùng một cộng đồng thì nhận nợ.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Việc mua chịu cũng là vay nợ, nhưng không phải chịu lãi suất.md",
+    "📐Dự án/Mở rộng mối quan hệ/Tài liệu/Những nơi giúp mở rộng mối quan hệ với doanh nghiệp.md",
+    "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Hệ thống luật pháp/Dân sự/Luật dân sự (civil law) của VN giống như luật tư (private law) của Anh Mỹ.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền/Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền/Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền/Lạm phát làm tiền gửi ngân hàng mất giá trị.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát/Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/❓Ngày xưa tiền xu còn làm giả được, thì việc xử lý tiền giấy giả như thế nào.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Tài chính và kinh tế hiện đại bắt đầu từ tiền giấy.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Tiền được thiết kế sao cho cảm giác khi cầm nó lên khác biệt tới mức các kỹ thuật in khác không thể tái tạo lại được.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Tiền được thiết kế sao cho cảm giác khi cầm nó lên khác biệt tới mức các kỹ thuật in khác không thể tái tạo lại được.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát/Lạm phát làm tiền gửi ngân hàng mất giá trị.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát/Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/❓Ngày xưa tiền xu còn làm giả được, thì việc xử lý tiền giấy giả như thế nào.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Tài chính và kinh tế hiện đại bắt đầu từ tiền giấy.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu.md",
+    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy",
+    "Ξ Thiết lập/Ảnh/Mạng lưới đổi mới sáng tạo Việt Nam.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20261009145407.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20261009145340.png",
+    "📐Dự án/Mở rộng mối quan hệ/Tài liệu/Email sinh viên.csv",
+    "💸Hình thức kiếm tiền/Làm công ăn lương/Công đoàn",
+    "🏢Vận hành doanh nghiệp/Nhân sự/Phúc lợi",
+    "💸Hình thức kiếm tiền/Kinh doanh/Khởi nghiệp",
+    "🏢Vận hành doanh nghiệp/Pháp nhân/Tổ chức phi lợi nhuận",
+    "🏢Vận hành doanh nghiệp/Pháp nhân/Doanh nghiệp",
+    "Ξ Thiết lập/Ảnh/Nhật/HDBank Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Nhật/NCB Nhật.jpg",
     "Ξ Thiết lập/Ảnh/Nhật/VIB Nhật.jpg",
     "Ξ Thiết lập/Ảnh/Pasted image 20260916220409.png",
     "Ξ Thiết lập/Ảnh/Nhật/Sacombank Nhật.png",
     "Ξ Thiết lập/Ảnh/Nhật/VietinBank Nhật.jpg",
     "Ξ Thiết lập/Ảnh/Nhật/VPBank Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/MSB Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Nhật/Vietcombank Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Nhật/MSB Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Nhật/SeABank Nhật.jpeg",
-    "Ξ Thiết lập/Ảnh/Nhật/Shinhan Nhật.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

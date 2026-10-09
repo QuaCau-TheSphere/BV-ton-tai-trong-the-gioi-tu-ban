@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-27T15:06
+updated: 2026-10-05T20:52
 created: 2026-07-27T14:53
 ---
-Khái niệm:: [[Tài sản]], [[Sở hữu]]
+Khái niệm:: [[Tài sản]], [[Chiếm hữu, sở hữu]]
 
 Nguồn:: [Asset - Wikipedia](https://en.wikipedia.org/wiki/Asset)
 [[Quyền sở hữu là một bó quyền gồm 11 quyền nhỏ]]

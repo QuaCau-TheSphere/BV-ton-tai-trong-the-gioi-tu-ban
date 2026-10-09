@@ -1,0 +1,14 @@
+{
+  "pluginFilterRegexes": [
+    "hot-reload",
+    "obsidian-divide-and-conquer",
+    "Front Matter Title"
+  ],
+  "snippetFilterRegexes": [],
+  "filterUsingDisplayName": true,
+  "filterUsingAuthor": false,
+  "filterUsingDescription": false,
+  "initializeAfterPluginChanges": false,
+  "reloadAfterPluginChanges": false,
+  "bisectSessions": {}
+}
