@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2026-01-14T14:22
 ---
-Bài này giả định rằng bạn đã đọc bài [[Xù nợ ngân hàng]], và thấy rằng vẫn muốn giữ điểm tín dụng vì lý do 2 (không muốn người thân bị làm phiền) hoặc 6 (muốn lợi dụng hệ thống tư bản) vẫn còn đủ mạnh.
+Bài này giả định rằng bạn đã đọc bài [[Mất điểm tín dụng]], và thấy rằng vẫn muốn giữ điểm tín dụng vì lý do 2 (không muốn người thân bị làm phiền) hoặc 6 (muốn lợi dụng hệ thống tư bản) vẫn còn đủ mạnh.
 
 Khi bị rơi vào vòng xoáy nợ nần thì ai cũng muốn có tiền nhanh, nhiều, ít lãi. Nhưng kiếm một khoản vay như vậy thì cũng giống ngon bổ rẻ, chỉ chọn được 2. 
 

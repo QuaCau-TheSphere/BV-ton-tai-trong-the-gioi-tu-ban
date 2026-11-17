@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-23T13:11
+updated: 2026-10-29T21:49
 aliases:
   - Làm tư vấn viên bảo hiểm ảo
 title: Làm đại lý bảo hiểm ảo
 ---
 Đại lý ảo tức là có đại lý thật khác đẩy doanh số cho bạn, như thể bạn là người tạo ra doanh số đó. Hay nói cách khác thì bạn sẽ làm một danh tính khác của họ. Làm như vậy thì họ sẽ có thêm chỉ tiêu về tuyển dụng mới. Công ty bảo hiểm sẽ trả tiền cho bạn để khuyến khích bạn đi học, và bạn được hưởng toàn bộ quyền lợi như một người làm thật khi doanh số của bạn đạt (vốn là do đại lý thật đẩy cho), như được tặng gói bảo hiểm (không phải bảo hiểm xã hội), vé đi du lịch, v.v.
 
-Bài chi tiết:: [[Làm nhân sự ảo|Làm nhân viên ảo là làm gì?]]
+Bài chi tiết:: [[Làm nhân sự ảo cho nhân sự thật|Làm nhân viên ảo là làm gì?]]
 
 Một số công ty có đại lý thật muốn tuyển đại lý ảo:
 - [[Học làm đại lý Bảo Việt|Học làm đại lý Bảo Việt]]
@@ -21,12 +21,14 @@ Một số công ty có đại lý thật muốn tuyển đại lý ảo:
 > Khi đăng ký làm đại lý bạn sẽ được Bộ Tài chính cấp một mã số đại lý. Mã số này gắn liền với công ty bạn đăng ký. Khi muốn làm đại lý cho công ty khác thì phải cắt mã số ở công ty cũ. Muốn có mã số mới thì phải đi học lại và thi lại.
 
 ## Thi chứng chỉ
-Điểm đậu: 30/40. Thời gian thi: 60 phút. Làm chậm thì 30 phút là xong. Thuộc hết đề rồi thì chỉ 10 phút là xong.
+Bài thi có 40 câu, làm đúng 30 câu là đậu. Thời gian thi là 60 phút. Nếu làm chậm thì 30 phút là xong, còn thuộc hết đề rồi thì chỉ 10 phút là xong.
 
 - [Trang thi thử chính thức](https://olt-exam.mof.gov.vn/Portal.IU.Exam/DoTest.aspx?key=ktfmo)
 - Cơ quan tổ chức thi: [Viện Phát triển Bảo hiểm Việt Nam](https://vidi-e.mof.gov.vn/index.html "Trang chủ | VIDI")
 
-Công ty sẽ không dám ăn gian cục. Nếu bị phát hiện thì cả công ty sẽ bị cấm tuyển dụng từ 1 tháng đến 3 tháng. 
+Công ty sẽ không dám ăn gian cục. Nếu bị phát hiện thì cả công ty sẽ bị cấm tuyển dụng từ 1 đến 3 tháng. 
+
+![[Chứng chỉ đại lý bảo hiểm.png]]
 
 > [!important] Nhìn toàn cảnh
 > Công việc này là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác

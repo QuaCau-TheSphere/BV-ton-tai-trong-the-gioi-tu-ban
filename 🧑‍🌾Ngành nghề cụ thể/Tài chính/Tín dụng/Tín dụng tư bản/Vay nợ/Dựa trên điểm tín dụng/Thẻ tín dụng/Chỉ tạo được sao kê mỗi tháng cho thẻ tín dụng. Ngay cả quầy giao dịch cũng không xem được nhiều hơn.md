@@ -3,6 +3,6 @@ share: true
 updated: 2026-08-06T00:36
 created: 2025-09-20T20:52
 ---
-Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Tín dụng/Vay, nợ/Thẻ tín dụng]]
+Khái niệm:: [[Ξ Meta/Khái niệm/Tín dụng/Vay, nợ/Thẻ tín dụng]]
 [[Không biết được thẻ được tạo và hủy lúc nào]]
 Nguồn:: 

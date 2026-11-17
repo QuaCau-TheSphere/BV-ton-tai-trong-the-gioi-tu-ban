@@ -13,4 +13,4 @@ updated: 2026-07-27T02:26
 | Thành quả mong muốn                         | Giả thiết                                       | Công việc               |
 | ------------------------------------------- | ----------------------------------------------- | ----------------------- |
 | Thu hút được 1 nhà đầu tư quan tâm mỗi tuần | Có người hỏi                                    |                         |
-| [[Một khoản đầu tư 120tr cho 3 tháng]]      | Đến lúc có được điều này thì Kendy vẫn còn sống | [[⚡Hiểu biết sâu/Ξ Khái niệm/Quỹ\|Kêu gọi đầu tư]] |
+| [[Một khoản đầu tư 120tr cho 3 tháng]]      | Đến lúc có được điều này thì Kendy vẫn còn sống | [[Ξ Meta/Khái niệm/Quỹ\|Kêu gọi đầu tư]] |

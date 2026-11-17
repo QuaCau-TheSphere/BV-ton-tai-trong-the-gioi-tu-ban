@@ -44,4 +44,4 @@ Thời điểm trả tiền::
 ![[Pasted image 20250531132835.png]]
 
 
-Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]
+Khái niệm:: [[Ξ Meta/Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]

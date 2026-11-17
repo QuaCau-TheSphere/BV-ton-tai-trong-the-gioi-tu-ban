@@ -4,11 +4,12 @@
   "createdPropertyName": "created",
   "modifiedPropertyName": "updated",
   "dateFormat": "yyyy-MM-DDTHH:mm",
-  "allowNonEmptyNewFile": false,
+  "allowNonEmptyNewFile": true,
   "delayAddingTimestamps": 1000,
   "delayModifiedUpdate": 1000,
   "excludedFolders": [
-    "Ξ Thiết lập"
+    "Ξ Thiết lập", 
+    "Ξ Meta/Bản mẫu"
   ],
   "customCommand": "",
   "debug": false

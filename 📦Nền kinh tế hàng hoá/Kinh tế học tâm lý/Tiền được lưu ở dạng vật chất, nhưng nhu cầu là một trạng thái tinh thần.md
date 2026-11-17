@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-07-27T02:26
+updated: 2026-10-22T23:19
 ---
-Khái niệm:: [[Tiền]], [[⚡⚡Hiểu biết sâu/Ξ Khái niệm/Xây dựng dự án/Quản lý dự án/Nhu cầu]]
+Khái niệm:: [[Tiền]], [[Nhu cầu]]
 [[Tiền có nhiệm vụ làm trung gian cho việc trao đổi nhu cầu]]. [[Tiền đơn giản hoá quá trình đáp ứng nhu cầu]]
-[[Tiền tạo ra những cam kết phải đáp ứng mà nhiều khi mình không còn nhu cầu nữa]] 
+[[❓Tiền tạo ra những cam kết phải đáp ứng mà nhiều khi mình không còn nhu cầu nữa]] 
 [[Tiền là một động lực ngoại sinh cực kỳ tốt]] 

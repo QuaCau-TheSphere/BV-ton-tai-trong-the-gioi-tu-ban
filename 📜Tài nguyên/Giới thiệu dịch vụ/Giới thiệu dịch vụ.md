@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-10-07T15:34
-updated: 2026-10-08T21:59
+updated: 2026-10-28T18:14
 title: Giúp nhau quảng cáo, giới thiệu dịch vụ
 ---
 Nếu bạn đang có một mặt hàng, dịch vụ cần rao bán, bạn có thể đề xuất để được quảng cáo giùm ở đây. Nếu bạn cần tuyển dụng thì xem ở bài [[Giúp nhau tuyển dụng]].
@@ -31,3 +31,4 @@ WHERE file.name != this.file.name
 | Bảo vệ quyền lợi trước tư bản    | [[Xây dựng công đoàn]]                                                                          |
 | Thoát nợ                         | [[Quỹ tín dụng Quả Cầu\|Giúp nhau thoát nợ]]                                                    |
 | Vay nợ                           | [[Vay tín chấp\|Các dịch vụ vay tín chấp]]                                                      |
+| 

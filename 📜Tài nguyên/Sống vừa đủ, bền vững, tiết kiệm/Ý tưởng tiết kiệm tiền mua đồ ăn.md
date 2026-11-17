@@ -1,12 +1,13 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+created: 2025-08-31T16:23
+updated: 2026-10-25T00:51
 aliases:
   - Mua đồ ăn giá rẻ
   - Kiếm đồ ăn miễn phí
   - Tìm nơi tặng đồ ăn
-created: 2025-08-31T16:23
 ---
+![TIÊN ĐẠO NHẬP MÔN: CÔNG ÁN CÁI TỦ LẠNH - YouTube](https://youtu.be/Ui9RKzeJoJg?si=tl5tZqV3OCAbiMPD)
 ## Mua đồ ăn rẻ 
 - Mua đồ ăn ở chợ đầu mối
 - Tham gia các [[📐Dự án/Xây dựng hệ thống kinh tế mới/Nhóm mua chung, câu lạc bộ tiêu dùng]]
@@ -25,4 +26,4 @@ Trước đây có [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham) n
 ## Dành cho người không biết nhục
 - Đến mấy cửa hàng bán đồ ăn nhanh ăn đồ người ta bỏ lại. Nếu mạnh dạn hơn có thể lục thùng rác cũng được. Đồ ăn trong thùng rác luôn là đồ ăn mới nên không sợ bị hư
 - Lẻn vào các tiệc cưới, tiệc công ty, hội thảo có tổ chức ăn uống. Có thể đóng hộp đồ ăn thừa
-- [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả]]
+- [[Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả]]

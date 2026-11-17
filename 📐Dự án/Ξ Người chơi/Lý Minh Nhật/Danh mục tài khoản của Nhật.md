@@ -1,9 +1,8 @@
 ---
 share: true
-updated: 2026-08-22T12:27
+updated: 2026-11-05T18:44
 created: 2025-10-09T15:40
 ---
-Khái niệm:: 
 Nhật là người nắm giữ tiền và trực tiếp chi tiêu cho các nhu cầu của Nhật. Một trong các nhu cầu đó là giúp mọi người và lập quỹ chung. Các giao dịch có sự có mặt của Nhật sẽ phải được xem dưới góc độ nào đây?
 - **Chi phí cho cuộc sống của Nhật là của Nhật (egocentricism)**: Phân biệt thu nhập, chi tiêu cho mọi người. 
 - **Chi phí cho cuộc sống của Nhật là một phần chi phí của mạng lưới các cá nhân (networkcentricism)**: Tất cả các nơi lưu tiền của mọi người đều được xem là tài sản. Chỉ là sự chuyển tiền giữa các tài khoản với nhau, dù đó là giữa nhiều người. Bán hàng thì cũng thế

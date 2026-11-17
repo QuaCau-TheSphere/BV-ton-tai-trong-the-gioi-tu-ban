@@ -1,16 +1,14 @@
 ---
 share: true
-updated: 2026-07-27T16:32
+created: 2026-06-05T15:13
+updated: 2026-10-25T16:13
 title: Các ý tưởng kinh doanh, đầu tư
 aliases:
   - Đầu tư kinh doanh bán hàng
   - Tạo sinh kế, thu nhập, dòng tiền
   - Tạo lợi nhuận
-created: 2026-06-05T15:13
 ---
 Ở đây tổng hợp tất cả các ý tưởng kinh doanh từng được đề xuất với [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]. Bấm vào từng ý tưởng để đọc bản đề xuất của nó. Đa số chúng chưa được điền đầy đủ, do Nhật cần thêm thảo luận của mọi người để có thêm ý để bổ sung. Một số đã có bản nháp chi tiết về lý do ra đời của ý tưởng. Bạn cũng có thể điền thêm ý tưởng của mình vào đây.
-
-Xem thêm:: [[Làm sao để gọi vốn|Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?]]
 
 ## Kết nối, hợp tác
 ```dataview
@@ -33,6 +31,8 @@ FROM "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đ
 ```
 
 ## Xem thêm
+- [[Làm sao để gọi vốn|Làm sao để gọi vốn cho ý tưởng kinh doanh của mình?]]
+- [[Làm sao để kiếm tiền từ các tài nguyên không mất đi khi đưa cho người khác|Làm sao để kiếm tiền từ các tài nguyên có tổng lớn hơn 0?]]
 - [[Mô hình hoạt động]]
 - [[Đầu tư thì có khả năng mất trắng. Còn kinh doanh thì có thể lỗ nhưng không đến nỗi mất sạch]]
 - [[Chủ nghĩa tư bản không chỉ phụ thuộc vào việc tạo ra tình trạng bất an trên diện rộng mà còn tái tạo tình trạng bất an này trong chính huyết mạch của nó]]

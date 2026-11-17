@@ -1,10 +1,13 @@
 ---
 share: true
 created: 2024-09-20T13:26
-updated: 2026-07-27T02:26
+updated: 2026-11-01T11:07
 ---
 Chính vì như vậy, nên [[Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu khách hàng]]
 
 [[Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu]]
 
 Xem việc người thân mua ủng hộ là
+
+[[Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp]]
+[[Phí ban đầu đúng ra nên gọi là phí bán hàng]]

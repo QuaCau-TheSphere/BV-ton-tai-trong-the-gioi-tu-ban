@@ -28,7 +28,7 @@ Tại sao lại bảo hết tháng 11 không được thì phải về?
 ❓Có thật là con xa ba mẹ thì ảnh hưởng tiêu cực đến con không? 
 ❓Vì sao không tin tưởng được vào sự hôn nhân? 
 
-Tại sao lúc đó không chấp nhận [[Xù nợ ngân hàng]]? Không làm ăn được thì có vấn đề gì? 
+Tại sao lúc đó không chấp nhận [[Mất điểm tín dụng]]? Không làm ăn được thì có vấn đề gì? 
 Nếu là người chịu trách nhiệm như vậy thì sao lại không chịu trách nhiệm cho việc đó?
 Bao nhiêu người cũng vậy và họ đều cố gắng trả nợ bằng việc đi làm 
 Sợ bị đi tù là sao?

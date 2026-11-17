@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-10-26T19:39
 aliases:
   - làng sinh thái ở Việt Nam
 created: 2025-12-25T16:42
@@ -34,15 +34,15 @@ Sứ mệnh của VCIL hướng tới việc [[Địa phương hóa]], xóa bỏ
 - [Vcil Travel School](https://www.vciltravelschool.com/)
 - [XomTour - Conscious Travel, Local Impact \| Da Nang \| Facebook](https://www.facebook.com/XomTour/)
 
-( VCIL có chính sách hoa hồng cho người giới thiệu. Nếu bạn nói với họ là do mình giới thiệu thì mình sẽ trả lại tiền hoa hồng đó cho các bạn. Xem bài chi tiết: [[📜Tài nguyên/Giới thiệu dịch vụ/Giới thiệu dịch vụ]])
-
 ### Khác biệt giữa các nhóm
  - Xanh Shop: tập trung vào vườn rừng: kỹ thuật, triết lý 
  - Kulavietnam: tập trung vào tính giai cấp: bất bình đẳng giữa đô thị và nông thôn
  - VCIL: tập trung vào tính kết nối giữa các bên: hợp tác xã, chuỗi cung ứng
  
+Trường hợp chị Trang
 ## Nông nghiệp sinh thái và nông nghiệp công nghệ cao
 Dù nông nghiệp sinh thái dựa vào tri thức bản địa kết hợp với quan sát, bản chất nó cũng là một thực hành khoa học, dù nó không hướng đến sự chính xác cao như người làm khoa học chuyên nghiệp. Điều đó khiến cho nông nghiệp sinh thái không khác mấy với nông nghiệp công nghiệp (sử dụng phân bón, thuốc trừ sâu để kích thích tăng trưởng) và nông nghiệp công nghệ cao. Điều khác biệt ở chỗ người thực hành nông nghiệp sinh thái cho rằng không thể có tăng trưởng vô hạn trên hành tinh hữu hạn, rằng không thể xem kinh tế, xã hội và sinh thái là đồng đẳng với nhau, mà sinh thái phải lớn hơn hẳn. [[Tăng trưởng xanh đến nay vẫn chỉ là giấc mơ của mô hình tiêu thụ vô hạn trong một thế giới hữu hạn]].
 
 Khái niệm:: [[Nông nghiệp, nông thôn]], [[Sinh thái]]
-[[Làm sao để kiếm dòng tiền từ tài sản vô hình]]
+[[Làm sao để không phải đòi hỏi người tiếp cận các tài nguyên của mình phải trả tiền mà vẫn đủ sống]]
+

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T10:16
-updated: 2026-07-27T02:26
+updated: 2026-10-29T21:26
 ---
 Khái niệm:: 
 [[Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình]]
@@ -9,4 +9,5 @@ Khái niệm::
 
 Bởi vì [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]], nên [[Người ngoài mới thấy mình cần bảo hiểm hơn mình tự thấy]]. Điều đó khiến cho [[Thuyết phục một người mua bảo hiểm để tặng có lẽ là dễ hơn việc thuyết phục họ tự mua cho bản thân]]. Tuy nhiên, [[Các sản phẩm bảo hiểm thường được nhấn mạnh như là một món quà cho người thân, đóng góp điều ý nghĩa cho xã hội. Nhưng chúng không được đưa vào KPI]]
 
+[[Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp]]
 Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]

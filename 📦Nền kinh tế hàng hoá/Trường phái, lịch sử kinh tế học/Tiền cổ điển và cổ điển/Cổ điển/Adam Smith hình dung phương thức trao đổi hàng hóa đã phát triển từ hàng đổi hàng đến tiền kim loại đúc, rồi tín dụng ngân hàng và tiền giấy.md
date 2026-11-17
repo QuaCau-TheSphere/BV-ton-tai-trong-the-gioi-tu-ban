@@ -1,9 +1,9 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-10-25T14:38
 created: 2026-07-13T12:41
 ---
-Khái niệm:: [[Nợ]]
+Khái niệm:: [[Nợ]], [[Hàng hoá]]
 Trong khi đó, [[Bằng chứng khảo cổ cho thấy nợ xuất hiện trước, rồi đến tiền đúc và hàng đổi hàng]]
 
 Nguồn:: [Trả nợ có phải là nghĩa vụ đạo đức tuyệt đối?](https://tiasang.com.vn/tra-no-co-phai-la-nghia-vu-dao-duc-tuyet-doi-5096077.html)

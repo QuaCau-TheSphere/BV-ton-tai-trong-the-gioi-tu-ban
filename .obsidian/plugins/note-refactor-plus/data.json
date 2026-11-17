@@ -1,0 +1,36 @@
+{
+  "profiles": [
+    {
+      "id": "default",
+      "name": "Default",
+      "icon": "scissors",
+      "description": "Plain extraction into the same folder as the source note.",
+      "templatePath": "Ξ Meta/Bản mẫu/Ghi chú được trích.md",
+      "destination": {
+        "mode": "same-as-source"
+      },
+      "filenameRule": {
+        "mode": "first-line"
+      },
+      "sourceReplacement": "link",
+      "extractMode": "move",
+      "afterExtract": "open",
+      "target": {
+        "mode": "new-note"
+      },
+      "conflictPolicy": "increment",
+      "runTemplaterAfter": true,
+      "noteLinkTemplate": "",
+      "excludeFirstLine": false,
+      "firstLineAsHeading": "none",
+      "normalizeHeadings": false
+    }
+  ],
+  "defaultProfileId": "default",
+  "showContextMenu": true,
+  "contextMenuTopN": 3,
+  "usageCount": {
+    "default": 6
+  },
+  "settingsVersion": 1
+}

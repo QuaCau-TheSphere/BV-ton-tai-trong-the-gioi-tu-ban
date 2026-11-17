@@ -38,7 +38,7 @@ Liên minh những người nằm vùng
 
 Với người nhận, nó không khác gì một nhóm giới thiệu việc làm. tư vấn kiếm tiền
 Không phải sản phẩm nào cũng có thể được đánh giá bởi một tiêu chí. Bởi vì nó nhiều chức năng và ưu đãi khác nhau.
-- [[📜Tài nguyên/Chọn sản phẩm phù hợp/Bảo hiểm/Bảo hiểm|review hợp đồng bảo hiểm]]
+- [[Bảo hiểm nhân thọ|review hợp đồng bảo hiểm]]
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng kiếm tiền|Ý tưởng kiếm tiền]]
 - [[Giúp nhau kiếm tiền|Nhóm giúp nhau kiếm tiền]]
 - [[Xây dựng công đoàn]]
@@ -61,7 +61,7 @@ Chỉ những nhân viên bán hàng không nghĩ rằng mình có thể thay đ
 
 
 
-[[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình]]
+[[An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính cũng có tác dụng như các tài sản vô hình, nhưng không được kinh tế chủ lưu để ý tới]]
 Cộng sinh, ký sinh
 Dòng vốn
 Cộng sản là tư bản sinh thái

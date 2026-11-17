@@ -11,7 +11,7 @@ Có nhiều công việc có thể làm chung với nhau, nhưng một người 
 [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
 Muốn làm tốt hơn thì tạo thành một nhóm cung cấp dịch vụ (agency). 
 
-Cũng có thể hiểu là một dạng [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ|bán việc cho nhau]]
+Cũng có thể hiểu là một dạng [[Nếu xem kết quả công việc là thứ duy nhất quan trọng, thì nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, nhân sự bán việc đều không khác gì nhau|bán việc cho nhau]]
 
 ## Đối tượng phục vụ 
 ## Hiểu biết sâu

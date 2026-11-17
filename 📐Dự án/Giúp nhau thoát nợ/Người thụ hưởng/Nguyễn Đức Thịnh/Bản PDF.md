@@ -144,7 +144,7 @@ Thịnh đã viết những bài sau về Quả Cầu:
 - 
 
 ## Nhật có thể trả nợ giúp Thịnh khi Thịnh mất khả năng trả không? Nếu có thì là bao nhiêu và lúc nào? 
-Nhật chưa thấy điểm tín dụng có gì quá giá trị với mình, nên sẵn sàng vay tiếp cho mọi người rồi [[Xù nợ ngân hàng]]. Xem thêm:: [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)]]
+Nhật chưa thấy điểm tín dụng có gì quá giá trị với mình, nên sẵn sàng vay tiếp cho mọi người rồi [[Mất điểm tín dụng]]. Xem thêm:: [[Quỹ tín dụng Lý Minh Nhật]]
 
 ## Điều gì khiến Nhật tin rằng Thịnh sẽ trả được nợ? 
 Thấy vay điên đảo, nhưng chưa biết những chi tiêu của Thịnh là quá giới hạn.

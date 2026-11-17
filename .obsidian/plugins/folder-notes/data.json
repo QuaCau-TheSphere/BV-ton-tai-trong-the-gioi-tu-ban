@@ -3,7 +3,7 @@
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
-  "templatePath": "",
+  "templatePath": "Ξ Meat/Bản mẫu/Ghi chú thư mục.md",
   "autoCreate": false,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
@@ -52,7 +52,7 @@
     "hideFolderOverview": false,
     "useActualLinks": false,
     "fmtpIntegration": false,
-    "titleSize": 1,
+    "titleSize": 2,
     "isInCallout": false,
     "useWikilinks": true
   },
@@ -61,12 +61,11 @@
   "frontMatterTitle": {
     "enabled": true,
     "explorer": true,
-    "path": true
+    "path": false
   },
   "settingsTab": "path",
   "supportedFileTypes": [
-    "md",
-    "canvas"
+    "md"
   ],
   "boldName": false,
   "boldNameInPath": false,

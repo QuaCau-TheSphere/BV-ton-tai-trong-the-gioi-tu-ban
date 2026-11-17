@@ -3,7 +3,7 @@ share: true
 created: 2025-08-29T08:30
 updated: 2026-09-23T13:12
 ---
-Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]], [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]
+Khái niệm:: [[Chạy ảo, làm ảo, nhân sự ảo]], [[Ξ Meta/Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]
 Việc tố cáo sẽ làm mình:
 - Mất tiền
 - Bị phát hiện là phạm luật

@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2026-10-07T15:06
+updated: 2026-10-28T15:50
 aliases:
   - Các ý tưởng kiếm tiền
   - Danh sách tổng hợp một số ý tưởng kiếm tiền
 description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
 ---
-Tuy nhiên, khi bạn cần tiền, điều đầu tiên cần hỏi không phải là kiếm tiền thế nào, mà là xây dựng [[Kế hoạch tài chính]]. Sau khi đã trả lời rồi, lúc đó bạn có thể chọn hình thức kiếm tiền phù hợp với bạn:
+Trước khi hỏi kiếm tiền thế nào, hãy hỏi [[Tại sao phải đi kiếm tiền|Tại sao phải đi kiếm tiền?]], sau đó là xây dựng [[Kế hoạch tài chính]]. Sau khi đã trả lời rồi, lúc đó bạn có thể chọn hình thức kiếm tiền phù hợp với bạn:
 - [[Kiếm tiền nhanh]]
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư/Tự kinh doanh, đầu tư|Tự kinh doanh, đầu tư]]
 - [[Việc chính thức trong công ty|Làm nhân viên chính thức trong công ty]]

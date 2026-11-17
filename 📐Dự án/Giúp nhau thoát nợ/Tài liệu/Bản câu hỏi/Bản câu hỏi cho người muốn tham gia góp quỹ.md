@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-27T02:26
+updated: 2026-11-01T21:25
 ---
 Mục tiêu bạn muốn tham gia?
-- [ ] Kiếm lãi
+- [ ] Kiếm lời
 - [ ] Giúp đỡ
 - [ ] Khác:
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-08-12T09:56
+updated: 2026-11-01T22:17
 ---
 ## Tình hình chung
 - Tại sao bạn bị nợ? 
@@ -24,6 +24,7 @@ updated: 2026-08-12T09:56
 | 2026-03             |      |             |             |             |     |
 | ...                 |      |             |             |             |     |
 
+Các công thức:
 $$\text{Số tiền thực nhận} = \text{Gốc vay} - \text{Chi phí vay}$$
 $$\text{Lãi suất} = \frac{\text{Tổng phải trả} - \text{Số tiền thực nhận}}{\text{Số tiền thực nhận}} $$
 $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng phải trả}} $$
@@ -49,8 +50,7 @@ $$\text{Lãi suất theo tháng} = \frac{\text{Lãi suất}}{\text{Số tháng p
 - Bạn đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 - Bạn nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
 - Bạn đã dùng tới dịch vụ [[vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
-- Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
-	- Vì sao bạn không thể [[Xù nợ ngân hàng|chấp nhận mất điểm tín dụng]]?
+- Bạn có chấp nhận [[Mất điểm tín dụng]], [[xù nợ vay nóng]] không? Vì sao?
 	- Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
 - Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn|về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
 - Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 

@@ -65,5 +65,5 @@ em nghĩ không cần phải độc lập với tư bản đâu ạ, vì căn b�
 Để shift sang một new economy thì không đơn thuần chỉ là biết về nó là đủ, nó cần sự chuyển hoá bên trong (worldview, value), và cần sự nuôi dưỡng và mọi người cần unlearn những cái được dạy ở trường. Ví dụ người ta được dạy phải maximize profit, hay cái narrative về chủ nghĩa cá nhân và các thiết kế xã hội thúc đẩy sự cạnh tranh... thì ngừoi ta quen và tin vào cái đó rồi. Biết về những cái alternative khác thì người hông tin. Thậm chí được immerse vào môi trường mới nhưng họ vẫn giữ khư khư cái cũ thì họ cũng sẽ tự out thôi.
 
 [[Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế|Khi nào thì việc giúp một người sẽ có lợi cho mục tiêu xây dựng các nền kinh tế thay thế?]]
-[[Xù nợ ngân hàng]]
+[[Mất điểm tín dụng]]
 [[❓Điều gì khiến một người có tiền nhiều tới mức đầu tư cũng ko hết vẫn ko muốn cho tiền？Tại sao việc đáp ứng nhu cầu người khác lại không mạnh hơn việc tối đa hoá tiền？]]

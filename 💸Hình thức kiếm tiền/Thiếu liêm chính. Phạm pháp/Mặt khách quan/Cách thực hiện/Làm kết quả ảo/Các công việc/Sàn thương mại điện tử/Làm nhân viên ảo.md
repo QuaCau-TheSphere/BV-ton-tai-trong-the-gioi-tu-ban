@@ -8,7 +8,7 @@ Mô tả công việc:: Họp online hoặc lên văn phòng chơi
 Số tiền kiếm được:: Tối thiểu 600k, hoặc 1tr5/tháng
 
 ## Mô tả chi tiết
-Đọc bài chi tiết [[Làm nhân sự ảo|Làm nhân viên ảo là làm gì?]] để hiểu về công việc này cũng như các quyền lợi và rủi ro.
+Đọc bài chi tiết [[Làm nhân sự ảo cho nhân sự thật|Làm nhân viên ảo là làm gì?]] để hiểu về công việc này cũng như các quyền lợi và rủi ro.
 
 - Ngày đầu lên văn phòng phỏng vấn xin việc: 250k/2 tiếng
 - 8h30 sáng một số ngày trong tuần họp online: 50k/30 phút

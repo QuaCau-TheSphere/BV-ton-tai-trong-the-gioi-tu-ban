@@ -11,3 +11,5 @@ SWIFT:: SGTTVNVX
 Website:: [sacombank.com.vn](sacombank.com.vn)
 Ngày thành lập:: 21/12/1991
 Vốn điều lệ (tỷ đồng):: 18,852.00
+
+Chỉ cho xem giao dịch cũ trong 30 ngày 

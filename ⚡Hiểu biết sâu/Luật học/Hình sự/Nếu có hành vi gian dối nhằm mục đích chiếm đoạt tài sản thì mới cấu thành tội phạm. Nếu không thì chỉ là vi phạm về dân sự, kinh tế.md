@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-09-25T16:08
+updated: 2026-10-26T14:02
 created: 2026-06-03T15:45
 ---
 Khái niệm:: 
@@ -12,5 +12,6 @@ Như vậy, về mặt khách quan, hành vi gian dối là dấu hiệu chung c
 Nguồn:: [Đi tìm nguyên nhân những vụ doanh nhân bị hình sự hóa](https://plo.vn/di-tim-nguyen-nhan-nhung-vu-doanh-nhan-bi-hinh-su-hoa-post852905.html)
 
 [[Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự]]
-[[Xù nợ ngân hàng]]
+[[Mất điểm tín dụng]]
 [[Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự]]
+[[Gian dối để vi phạm nghĩa vụ hợp đồng thì không phải là tội hình sự]]

@@ -24,5 +24,5 @@ Triết gia Harry Frankfurt đưa ra sự phân biệt giữa người nói dố
 
 [[❓Không dễ kiếm công việc sinh nghiệp mà đáp ứng được các nhu cầu cho cuộc sống đầy đủ (không phải là dư thừa)]]
 [[Làm nhân viên của nhiều công ty cho làm việc từ xa cùng lúc]]
-[[Làm nhân sự ảo]]
+[[Làm nhân sự ảo cho nhân sự thật]]
 [[Tư duy thị trường hấp dẫn ở chỗ nó không phán xét]]

@@ -1,10 +1,10 @@
 ---
 share: true
 description: "Số tiền kiếm được: "
-updated: 2026-09-23T13:11
+updated: 2026-10-28T16:28
 aliases:
   - Làm đáp viên cho phỏng vấn, khảo sát. Làm khán giả cho sự kiện
-created: 2025-04-27T19:16
+created: 2026-10-28T16:28
 ---
 Mô tả công việc:: 
 Số tiền kiếm được:: 

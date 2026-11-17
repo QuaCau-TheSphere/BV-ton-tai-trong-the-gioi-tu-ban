@@ -28,7 +28,7 @@ WHERE file.name != this.file.name
 WHERE !contains(file.folder, "Gian lận công ty")
 ```
 
-- [[Làm nhân sự ảo]]
+- [[Làm nhân sự ảo cho nhân sự thật]]
 - Gia sư, dạy tiếng Việt cho người nước ngoài
 - Shipper, telesale, trợ lý giám đốc, lễ tân, bồi bàn
 

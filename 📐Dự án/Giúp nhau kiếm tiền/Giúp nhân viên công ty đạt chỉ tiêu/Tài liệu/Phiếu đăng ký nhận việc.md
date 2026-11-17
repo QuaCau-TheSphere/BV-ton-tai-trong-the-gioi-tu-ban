@@ -7,7 +7,7 @@ aliases:
   - săn nhân sự
 ---
 Tạo phiếu đăng ký để được nhận suất khảo sát sẽ khiến họ thấy mình xứng đáng có nó, nhưng mình lại có dữ liệu để lọc
-[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả]]
+[[Săn phỏng vấn, khảo sát cần tìm đáp viên, sự kiện cần lấp khán giả]]
 Mua nhóm zalo
 Chạy quảng cáo
 

@@ -1,7 +1,9 @@
 ---
 share: true
 created: 2024-11-04T14:06
-updated: 2026-07-27T02:26
+updated: 2026-11-04T19:18
+aliases:
+  - Để đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối bồi thường, có thể nhờ đến các bên cung cấp dịch vụ phụ trợ bảo hiểm
 ---
 Khái niệm:: 
 Thực tế có những doanh nghiệp cố tình làm khó để duy trì tỷ lệ bồi thường thấp hoặc theo kế hoạch. Đây là một câu hỏi khi mà tỷ lệ bồi thường trung bình của bảo hiểm phi nhân thọ ở Việt Nam năm 2022 chỉ khoảng 35%, tỷ lệ bồi thường cao nhất là ở mảng xe cơ giới (49,8%) và thấp nhất là bảo hiểm cháy nổ (22,3%).

@@ -30,7 +30,7 @@ WHERE file.name != this.file.name
 WHERE !contains(file.name, "VNPAY" )
 ```
 
-### Công việc [[Làm nhân sự ảo]] khác
+### Công việc [[Làm nhân sự ảo cho nhân sự thật]] khác
 - [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh/Gian lận công ty/Bảo hiểm/Bảo hiểm|Làm đại lý bảo hiểm ảo]]
 - [[Làm nhân viên ảo FE Credit]]
 

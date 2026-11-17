@@ -56,7 +56,7 @@ Người cần Trấn Kỳ là những người bị dày vò hằng ngày khi t
 
 Để hỗ trợ người sử dụng Trấn Kỳ cũng như thu hút sự quan tâm của cộng đồng, [[Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc]] sẽ được tổ chức. Những người cần có các buổi đó (bao gồm cả những người cần có Trấn Kỳ nhưng không có khả năng chi tiền) sẽ tham gia vào việc tổ chức chúng. Việc này đảm bảo rằng các buổi này sẽ diễn ra vào thời gian họ rảnh với nội dung được cá nhân hoá cho họ và ứng dụng được ngay vào dự án của họ. Những người tham gia các buổi này ngoài việc được đáp ứng các nhu cầu trước mắt sẽ có thêm cơ hội mở rộng mối quan hệ, kiến thức, trải nghiệm và các cơ hội khác.
 
-Bài chi tiết: [[Mô hình kinh doanh Trấn Kỳ#Mô hình hoạt động là gì?|Hỏi đáp về việc bán Trấn Kỳ]]{ .md-button .md-button--primary } [[⚡⚡Hiểu biết sâu/Ξ Khái niệm/Kế hoạch|Các bản kế hoạch]]{ .md-button .md-button--primary }
+Bài chi tiết: [[Mô hình kinh doanh Trấn Kỳ#Mô hình hoạt động là gì?|Hỏi đáp về việc bán Trấn Kỳ]]{ .md-button .md-button--primary } [[⚡Ξ Meta/Khái niệm/Kế hoạch|Các bản kế hoạch]]{ .md-button .md-button--primary }
 
 Đây là những hoạt động mà một người bạn sẽ làm. Startup này chỉ chuyên nghiệp hoá chúng lên để đạt hiệu quả cao nhất mà thôi.
 # Số tiền thu được sẽ dùng làm gì?

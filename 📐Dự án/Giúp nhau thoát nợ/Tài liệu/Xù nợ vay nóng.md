@@ -20,7 +20,7 @@ Hoặc có thể giải thích với mọi người rằng mình bị tai bay v�
 [[❓App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu]]
 [[❓App đen không cần biết thông tin người thân của mình vì có thể mua từ các công ty tài chính tiêu dùng]]
 
-Xem thêm:: [[Xù nợ ngân hàng]], [[Thương lượng với chủ nợ]]
+Xem thêm:: [[Mất điểm tín dụng]], [[Thảo luận với chủ nợ để tìm cách thức cho vay dễ thở hơn với người vay]]
 
 Ngân hàng cũng chẳng muốn lấy nhà, xã hội đen cũng chẳng muốn giết, chỉ hù thôi chứ nếu biết nói chuyện thì họ cũng nương. Xã hội đen dễ chơi hơn ngân hàng. Khi thoả thuận thì lập giấy.
 

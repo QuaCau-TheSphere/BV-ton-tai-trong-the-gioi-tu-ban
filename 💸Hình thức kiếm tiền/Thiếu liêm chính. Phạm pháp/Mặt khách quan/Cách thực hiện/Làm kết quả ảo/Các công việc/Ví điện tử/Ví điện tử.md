@@ -23,7 +23,7 @@ WHERE file.name != this.file.name
 ### Bị công ty phát hiện thì sao?
 Chỉ có những ai làm nhân viên thì mới phải chịu trách nhiệm, cùng lắm là bị đuổi việc. Còn những người khác thì sẽ không vấn đề gì.
 
-Xem thêm:: [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]
+Xem thêm:: [[Nếu xem kết quả công việc là thứ duy nhất quan trọng, thì nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, nhân sự bán việc đều không khác gì nhau]]
 
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:

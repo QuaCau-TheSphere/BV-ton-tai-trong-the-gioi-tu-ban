@@ -9,6 +9,7 @@ aliases:
   - Trục lợi
   - Lừa đảo
   - Gian lận
+updated: 2026-10-27T16:19
 ---
 [[Tư duy thị trường hấp dẫn ở chỗ nó không phán xét]]
 
@@ -56,7 +57,10 @@ Mặt khách thể:
 - Chủ trương truy quét
 - Hình phạt (thống kê tư pháp)
 - Có đủ yếu tố cấu thành vi phạm hay không?
-
+## Bên thấy tệ
+- Nhà quản lý 
+- Khách hàng
+- 
 ## Cường độ tệ 
 ### Từ ngoài nhìn vào
 1. Cố ý gây hậu quả nghiêm trọng
@@ -67,7 +71,6 @@ Thấy điều đi ngược lại niềm tin của mình tạo ra được thứ
 Phần rủi ro không được ghi rõ ngay từ đầu
 Phần rủi ro được ghi rõ ngay từ đầu
 
-Nhượng bộ để có sự hợp tác mình cần
 
 - Nói thiếu
 - Nhầm lẫn
@@ -79,9 +82,14 @@ Nhượng bộ để có sự hợp tác mình cần
 - Hiệu ứng mạng lưới
 - Quảng cáo
 - Nể nang, ngại va chạm
--
-
-[[Những thứ từ tệ đến tốt]]
+- Trường hợp bất khả kháng
+- Vì một lợi ích lớn hơn
+- Nhượng bộ để có sự hợp tác mình cần
+- Con người phải tin thì mới làm
+- Không có thời gian để giải thích 
+- Nói dối vô hại
+- Phải nói dối
+[[Những thứ từ tệ đến tốt cho doanh nghiệp]]
 
 ## Tên gọi hành vi
 Cố ý trực tiếp, dễ chứng minh:
@@ -125,7 +133,7 @@ Mất: tâm lý, hình phạt
 [[Các dịch vụ đáo rút hoạt động công khai]]
 [[Vấn đề đạo đức trong việc lừa dối cấp trên]]
 [[Các câu hỏi khi làm cộng tác viên cho nhân viên chơi chính sách]]
-[[Những thứ từ tệ đến tốt]]
+[[Những thứ từ tệ đến tốt cho doanh nghiệp]]
 
 [[Nếu không có dấu hiệu gian dối, chiếm đoạt hoặc xâm phạm trật tự quản lý kinh tế một cách nghiêm trọng thì không nên bị xử lý bằng biện pháp hình sự]]. [[Khi thiếu cơ sở pháp lý cụ thể để nhận diện bản chất hành vi, các quan hệ dân sự có thể bị xem xét và xử lý theo hướng hình sự]]
 [[Nếu có hành vi gian dối nhằm mục đích chiếm đoạt tài sản thì mới cấu thành tội phạm. Nếu không thì chỉ là vi phạm về dân sự, kinh tế]]

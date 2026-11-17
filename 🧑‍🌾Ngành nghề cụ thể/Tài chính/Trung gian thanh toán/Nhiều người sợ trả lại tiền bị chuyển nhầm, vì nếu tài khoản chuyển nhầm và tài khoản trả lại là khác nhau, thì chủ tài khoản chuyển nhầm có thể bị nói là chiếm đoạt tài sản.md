@@ -15,4 +15,4 @@ Cách giải quyết an toàn nhất là cùng với người đó lên ngân h�
 
 thì đã đủ an toàn chưa?
 
-Khái niệm:: [[Thanh toán không tiền mặt]], [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]
+Khái niệm:: [[Thanh toán không tiền mặt]], [[Ξ Meta/Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]]

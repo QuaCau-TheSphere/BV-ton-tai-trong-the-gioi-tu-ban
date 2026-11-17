@@ -5,8 +5,8 @@
   "baseFontSize": 18,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "style-importer",
     "MCL Wide Views"
   ],
-  "autoFullScreen": true
+  "autoFullScreen": true,
+  "showRibbon": true
 }

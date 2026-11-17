@@ -3,7 +3,7 @@ share: true
 updated: 2026-07-27T02:26
 created: 2025-11-11T18:31
 ---
-Khái niệm:: [[Tư bản]]
+Khái niệm:: [[Ξ Meta/Khái niệm/Kinh tế học/Tư bản]]
 Hôm nay, một người em trong nhóm chia sẻ với tôi là bạn ấy thấy một bài viết trên mạng xã hội với luận điểm: "Chủ nghĩa tư bản lợi dụng các phong trào xã hội (môi trường, giới,...)".
 
 Tôi cho rằng cách diễn đạt là "LỢI DỤNG" có những hạn chế nghiêm trọng về mặt khái niệm và lý thuyết, bởi nó che giấu bản chất thực sự của chủ nghĩa tư bản và dẫn đến những hiểu lầm về cách thức hệ thống này vận hành.

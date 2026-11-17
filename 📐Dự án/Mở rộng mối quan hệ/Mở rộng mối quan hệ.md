@@ -8,7 +8,7 @@ aliases:
   - Các buổi gặp mặt giao lưu
 title: Các buổi gặp mặt giao lưu, mở rộng mối quan hệ
 ---
-[[Muốn bán hàng tốt cần có mối quan hệ]]. Đây là một loại tài sản. [[❓An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính là các tài sản vô hình]]. [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]. [[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài sản khi dùng là mất. Các loại tài sản còn lại khi dùng là có thêm]]. 
+[[Muốn bán hàng tốt cần có mối quan hệ]]. Đây là một loại tài sản. [[An sinh xã hội, mối quan hệ với thiên nhiên, các loại vốn phi tài chính cũng có tác dụng như các tài sản vô hình, nhưng không được kinh tế chủ lưu để ý tới]]. [[Tài sản vô hình nói chung là không nhất thiết phải chịu đựng những thất bại điển hình của thị trường là không cạnh tranh và không thể loại trừ]]. [[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài nguyên khi dùng là mất. Các loại tài nguyên còn lại khi dùng là có thêm]]. 
 
 Như vậy trước hết là phải bắt đầu bằng các buổi gặp mặt giao lưu, để mọi người không chỉ biết đến nhau, mà còn tin được nhau. Lý do dễ nhất để một người đến với buổi đó là vì họ thân thiết với một người đến với buổi đó, và khi được rủ thì sẵn sàng dành thời gian đi cùng. Nói cách khác, đây là các buổi chia sẻ mối quan hệ với nhau. Bạn chia sẻ mối quan hệ của mình cho người khác, bạn sẽ nhận lại được mối quan hệ mới, đồng thời cũng không bị mất đi mối quan hệ cũ. Tức là bạn càng dùng nó, càng cho đi, thì bạn lại càng có thêm. Đây là cách [[Nền kinh tế quà tặng]] hoạt động. Điều này trái ngược với cách tiền bạc hoạt động: bạn dùng tiền hoặc cho tiền là bạn mất tiền.
 
@@ -16,7 +16,7 @@ Làm sao để tin được nhau?
 ![](https://hbr.org/resources/images/article_assets/2020/04/R2003H_FREI_TRIANGLE.png)
 
 ## Tổ chức sự kiện
-Đầu tiên có lẽ là có những thứ để cùng làm chung với nhau. [[Tổ chức các buổi OPP]]. [[Tổ chức các buổi giao lưu]]
+Đầu tiên có lẽ là có những thứ để cùng làm chung với nhau. [[Tổ chức các buổi tương tác với khách hàng tiềm năng]]. [[Tổ chức các buổi giao lưu]]
 [[Tổ chức các buổi thảo luận, giới thiệu ý tưởng]]
 
 ## Tạo hoạt động để cùng làm với nhau. Xây dựng cộng đồng

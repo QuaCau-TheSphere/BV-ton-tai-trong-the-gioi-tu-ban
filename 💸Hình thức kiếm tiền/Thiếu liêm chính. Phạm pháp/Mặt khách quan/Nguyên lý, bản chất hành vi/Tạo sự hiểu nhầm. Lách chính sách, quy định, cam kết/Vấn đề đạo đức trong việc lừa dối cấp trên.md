@@ -6,7 +6,7 @@ aliases:
   - Vấn đề đạo đức khi làm nhân viên ảo
 ---
 ## Tôi thấy việc lừa dối người khác là điều không nên
-Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Đối với công ty, nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, bán việc là những cái tên khác nhau cho cùng một thứ]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
+Thực ra miễn là số liệu của bạn được làm một cách hữu cơ thì bạn nói cho cả công ty biết cũng chẳng vấn đề gì. [[Làm nhân sự ảo khác với làm kết quả ảo]]. [[Nếu xem kết quả công việc là thứ duy nhất quan trọng, thì nhân sự có cộng tác viên riêng, nhân sự ảo, người đại diện nhóm cung cấp dịch vụ, nhân sự bán việc đều không khác gì nhau]]. Nên câu hỏi đặt ra không phải là bạn có làm nhân sự ảo hay không, mà là bạn có tạo kết quả ảo hay không? 
 
 [[Việc khai thác điểm yếu của con người đem lại lợi nhuận]]. Trước việc các tổ chức tư bản lợi dụng điểm yếu của chúng ta và được pháp luật bảo vệ, có lẽ sẽ có hai quan điểm chính:
 - Hướng đến sự công bằng: nếu họ được phép làm thế với tôi thì tôi cũng được phép làm thế với họ
@@ -36,5 +36,5 @@ Khi [[Xây dựng công đoàn|lập được công đoàn có tiếng nói]], �
 - [[Công việc vô nghĩa, tổ chức vô lý]]
 - [[Góc nhìn chủ nghĩa xã hội về nhóm chạy chỉ tiêu]]
 - [[Vấn đề đạo đức khi tự động hoá việc đăng bài trên MXH]]
-- [[Những thứ từ tệ đến tốt]]
+- [[Những thứ từ tệ đến tốt cho doanh nghiệp]]
 - 

@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2025-12-15
-updated: 2026-07-27T02:26
+updated: 2026-10-26T20:04
 aliases:
   - Sự giàu có đích thực là gì?
 ---
 # Sự giàu có đích thực là gì?
-### Nhìn lại trải nghiệm từ chương trình "Triết lý kinh tế vừa đủ"
+## Nhìn lại trải nghiệm từ chương trình "Triết lý kinh tế vừa đủ"
 
 ![](https://substackcdn.com/image/fetch/$s_!E7Fp!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbeb07a0-0d6a-493b-9079-ae9af7684ecf_1200x1005.png)
 
@@ -62,4 +62,6 @@ Nguồn:: [Sự giàu có đích thực là gì? - Vcil Community’s Newsletter
 [[❓Có hình thức kinh tế nào hoạt động tốt ở đô thị không, hay toàn chỉ ở nông thôn]]
 [[Sống vừa đủ, bền vững, tiết kiệm]]
 [[Đừng bỏ việc thành phố ngay lập tức. Hãy giữ công việc cũ trong giai đoạn đầu. Cuối tuần về quê làm, tích lũy kinh nghiệm]]
+[[Các cộng đồng tự cung tự cấp không nghĩ là mình nghèo. Chỉ đến khi có sự tiếp xúc với bên ngoài mới nghĩ là mình nghèo]]
+
 

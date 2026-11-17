@@ -3,7 +3,7 @@ share: true
 created: 2025-03-23T17:44
 updated: 2026-10-02T13:59
 ---
-Đây là giải thích chi tiết cho công việc [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ]].
+Đây là giải thích chi tiết cho công việc [[Giữ tiền hộ]].
 
 ## Sao lại cần tài khoản đứng tên của tôi?
 Ví dụ như ở các sàn thương mại điện tử, nhân viên thị trường được áp đặt chỉ tiêu tạo khách hàng mới mỗi tháng. Các tài khoản khách hàng này cần phải được hoạt động, và sau khi hoạt động thì sẽ có tiền. Họ không thể chuyển tiền tất cả các tài khoản khách này vào tài khoản của mình vì sẽ bị nghi ngờ gian lận, nên cần những tài khoản ngân hàng có tên khác để nhận giùm rồi chuyển lại cho họ.

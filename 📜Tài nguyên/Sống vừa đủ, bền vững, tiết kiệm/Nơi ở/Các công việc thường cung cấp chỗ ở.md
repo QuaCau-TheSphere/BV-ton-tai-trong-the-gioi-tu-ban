@@ -5,7 +5,6 @@ aliases:
 updated: 2026-07-27T02:26
 created: 2025-10-22T08:32
 ---
-Lên chùa tu
 ## Bảo vệ ca đêm
 ## Nông trại
 Xem thêm:: [[Ý tưởng tìm nhà ở giá rẻ]]
@@ -31,7 +30,8 @@ Lao động tỉnh, kỹ thuật viên
 Thích môi trường quốc tế, thích di chuyển
 
 ## [[Bao nuôi]]
-
+## Đi lính 
+## Đi tu
 Xem thêm:: [[Các loại hình nhà ở cho mục đích phát triển bền vững]]
 
 [The end of Couchsurfing](https://brenontheroad.com/the-end-of-couchsurfing/)

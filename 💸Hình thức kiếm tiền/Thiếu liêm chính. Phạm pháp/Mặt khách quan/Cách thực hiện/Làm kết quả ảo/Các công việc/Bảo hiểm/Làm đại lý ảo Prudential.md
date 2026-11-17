@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2024-09-12T22:24
-updated: 2026-09-23T13:11
+created: 2026-10-28T16:29
+updated: 2026-10-28T16:29
 ---
 ## Học
 - [ ] Học cơ bản: 5 buổi trong 3 ngày

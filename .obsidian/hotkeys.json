@@ -560,5 +560,13 @@
       ],
       "key": "C"
     }
+  ],
+  "note-refactor-plus:extract-with-default-profile": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }

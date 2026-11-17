@@ -1,13 +1,14 @@
 ---
 share: true
 created: 2024-09-13T13:49
-updated: 2026-07-27T02:26
+updated: 2026-10-29T21:39
 ---
-| Công ty  |                                         |                              |
-| -------- | --------------------------------------- | ---------------------------- |
-| Bảo Việt | Hướng tới việc bán hợp đồng cá nhân lớn | Hướng tới tuyển đại lý       |
-| Cathay   | Hướng tới việc bán hợp đồng cá nhân nhỏ | Hướng tới việc tuyển quản lý |
+| Công ty  | Thị trường muốn hướng tới | Loại nhân sự muốn hướng tới |
+| -------- | ------------------------- | --------------------------- |
+| Bảo Việt | Hợp đồng cá nhân lớn      | đại lý                      |
+| Cathay   | Hợp đồng cá nhân nhỏ      | quản lý                     |
 
+## Thị trường 
 | Dấu hiệu                      | Hướng tới việc bán hợp đồng cá nhân lớn                                                               | Hướng tới việc bán hợp đồng cá nhân nhỏ                                                 |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Chăm sóc khách hàng tiềm năng | <li>Mời đi ăn trưa ở nhà hàng, khách sạn lớn</li><li>Tổ chức các buổi tầm soát sức khoẻ miễn phí</li> | Mời đi xem phim, ăn uống, hoạt động xã hội                                              |
@@ -15,6 +16,7 @@ updated: 2026-07-27T02:26
 | Phương thức thu phí           | Đóng phí theo tháng bị thu thêm phí                                                                   | Đóng phí theo tháng không mất tiền                                                      |
 | Thưởng                        | Các hợp đồng đóng theo năm sẽ được thưởng                                                             |                                                                                         |
 
+## Nhân sự
 | Dấu hiệu                  | Hướng tới tuyển đại lý | Hướng tới việc tuyển quản lý  |
 | ------------------------- | ---------------------- | ----------------------------- |
 | Tiền hỗ trợ thi           | Trả ngay sau khi đậu   | Trả sau khi làm hết tháng đầu |
@@ -23,9 +25,7 @@ updated: 2026-07-27T02:26
 
 Cathay dù nhân viên được định hướng làm quản lý thì vẫn phải bán hàng trong thời gian đầu
 
-Hợp đồng lớn là hợp đồng doanh nghiệp, được đính kèm nhiều người phụ thuộc. Ex 1 chủ doanh nghiệp là bên mua bảo hiểm, và 20 người phụ thuộc trong 1 hợp đồng → hạn mức cho 1 hợp đồng thế này thường từ 30tr trở lê, nên mới gọi là hđ lớn
-
-Tất cả người bán hàng đều muốn có hợp đồng lớn là hợp đồng doanh nghiệp, vì chỉ cần 1 cái gật đầu của doanh nghiệp là có thể là top sales của cả năm đó và ko phải bận tâm quá nhiều về việc doanh số nữa.
+Hợp đồng lớn thường là từ 30tr trở lên. Chúng thường là hợp đồng doanh nghiệp, được đính kèm nhiều người phụ thuộc. VD: một chủ doanh nghiệp là bên mua bảo hiểm, có 20 người phụ thuộc trong 1 hợp đồng. Tất cả người bán hàng đều muốn có hợp đồng lớn là hợp đồng doanh nghiệp, vì chỉ cần 1 cái gật đầu của doanh nghiệp là có thể là top sales của cả năm đó và ko phải bận tâm quá nhiều về việc doanh số nữa.
 
 Còn ở quy mô cá nhân, việc bắt cá lớn khó, nên đa phần người ta chuyển dịch sang bắt cá nhỏ với sản lượng nhỏ, chỉ đi câu chứ ko thể chài lưới, nên việc chấp nhận có hợp đồng cũng ko phải là tệ dù hợp đồng mệnh giá thấp.
 

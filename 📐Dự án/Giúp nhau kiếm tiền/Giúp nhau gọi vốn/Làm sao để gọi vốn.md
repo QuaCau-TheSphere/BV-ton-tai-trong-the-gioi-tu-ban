@@ -1,7 +1,7 @@
 ---
 share: true
 blog: working
-updated: 2026-10-09T14:22
+updated: 2026-10-25T15:30
 created: 2026-07-27T14:38
 title: Làm sao để kêu gọi mọi người đầu tư vào mình?
 aliases:
@@ -23,7 +23,8 @@ Xa hơn là xây dựng [[Tổ chức tài chính vi mô|quỹ tín dụng vi m�
 
 [nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf](https://nic.gov.vn/img/wpuploads/2023/04/BC-huy-dong-nguon-von.pdf)
 [Vay vốn doanh nghiệp vừa và nhỏ Tín chấp - Validus Việt Nam](https://validus.vn/#)
-[[Làm sao để kiếm dòng tiền từ tài sản vô hình]]
+[[Làm sao để không phải đòi hỏi người tiếp cận các tài nguyên của mình phải trả tiền mà vẫn đủ sống|Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?]]
+[[Làm sao để kiếm tiền từ các tài nguyên không mất đi khi đưa cho người khác|Làm sao để kiếm tiền từ các tài nguyên có tổng lớn hơn 0?]]
 
 Đây là một phần của dự án [[giúp nhau kiếm tiền]]. Đọc bài đó để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. 
 

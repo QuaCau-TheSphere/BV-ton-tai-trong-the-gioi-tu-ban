@@ -10,7 +10,7 @@ Khái niệm:: [[Bất động sản]]
 [[Swiss Co-ops|A ‘Third Way’ Between Buying or Renting? Swiss Co-ops Say They’ve Found It.]]
 [[Các công ty bất động sản thà bỏ thêm tiền để giải toả hẳn khu tái định cư, vì để ở kế bên thì làm mất giá]]
 [[Cộng đồng có chủ đích]]
-[[Tìm người ở ghép ở TP.HCM]]
+[[Lập nhóm sống chung nhà]]
 [[❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị]]
 Xem thêm:: [[Các công việc thường cung cấp chỗ ở]]
 ![The Non-capitalist Solution to the Housing Crisis - YouTube](https://youtu.be/sKudSeqHSJk?si=sWjTnOpf2QizPgSr)

@@ -2,10 +2,11 @@
 share: true
 blog: working
 created: 2025-12-13T12:14
+updated: 2026-11-01T22:13
 aliases:
   - gọi vốn tập thể
+  - Sàn gây quỹ đám đông
   - crowdfunding
-updated: 2026-08-23T14:21
 ---
 [[Làm sao để gọi vốn|Làm sao để kêu gọi mọi người đầu tư vào mình?]] Một trong những cách đó là gây quỹ đám đông.
 
@@ -109,7 +110,7 @@ Vườn ươm:
 
 ## Công việc
 [[Tổ chức các buổi giao lưu]]
-[[Tổ chức các buổi OPP]]
+[[Tổ chức các buổi tương tác với khách hàng tiềm năng]]
 
 ## Các hình thức hỗ trợ tương tự
 Đây là những hình thức có thể kết hợp làm chung, hoặc khởi đầu từ đó rồi lấn sân qua đây. Về cơ bản thì các hình thức này cũng là những cách để đáp ứng nhu cầu huy động vốn.
@@ -126,6 +127,5 @@ Tất cả những cái này là một phần của dự án [[Giúp nhau kiếm
 
 cần pilot, chỉ xây dựng bộ  khung, chưa có mang tính thực thi  rõ ràng. Muốn trong thời gian  sớm nhất thì xây dựng website  cụ thể hơn. Những dự án tham gia cần có  sự giải trình rõ ràng.
 
-Một người tin vào kỹ năng của một người nhưng không có nghĩa là tin  vào kỹ năng quản trị của họ
-["Crowd trước Fund sau"](https://duocmoi.vn/)
- là quyển sách đầy đủ nhất Việt Nam về gọi vốn cộng đồng. Không chỉ nói về quá trình gọi vốn cộng đồng, mà còn cả trước và sau, là toàn cảnh của việc vận hành một dự án, từ ý tưởng tới khi kết thúc.
+Một người tin vào kỹ năng của một người nhưng không có nghĩa là tin vào kỹ năng quản trị của họ
+["Crowd trước Fund sau"](https://duocmoi.vn/) là quyển sách đầy đủ nhất Việt Nam về gọi vốn cộng đồng. Không chỉ nói về quá trình gọi vốn cộng đồng, mà còn cả trước và sau, là toàn cảnh của việc vận hành một dự án, từ ý tưởng tới khi kết thúc.

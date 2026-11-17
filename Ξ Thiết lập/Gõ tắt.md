@@ -35,6 +35,8 @@ Tên chương trình:: 		tct
 Tính năng:: 		tn
 
 Hình thức:: 		ht
+
+[[Luật Việt Nam]] 		lvn
 ## Code nhanh
 ### Bảng
 | Thành quả mong muốn | Giả thiết | Công việc |\n| ------------------- | --------- | --------- |		tqmm

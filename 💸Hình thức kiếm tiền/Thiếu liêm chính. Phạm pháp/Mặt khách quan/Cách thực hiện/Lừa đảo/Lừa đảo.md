@@ -4,7 +4,7 @@ created: 2026-10-02T13:58
 updated: 2026-10-02T13:59
 title: Cảnh giác lừa đảo
 ---
-Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]], [[Khai thác điểm yếu con người]]
+Khái niệm:: [[Ξ Meta/Khái niệm/Kiếm tiền/Không liêm chính/Lừa đảo]], [[Khai thác điểm yếu con người]]
 ```dataview
 LIST rows.file.link
 FROM "💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Lừa đảo"
@@ -35,4 +35,4 @@ https://www.dauhieuluadao.com/
 
 [[Làm sao cho vay mà không bị xù]]
 [[Thiếu liêm chính. Phạm pháp]]
-[[Những thứ từ tệ đến tốt]]
+[[Những thứ từ tệ đến tốt cho doanh nghiệp]]

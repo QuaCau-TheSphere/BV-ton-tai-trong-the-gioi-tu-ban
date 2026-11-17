@@ -17,7 +17,7 @@ Chính vì vậy, mình đề xuất một quỹ tài chính vi mô với sứ m
 - [[Quỹ giúp nhau giữ tài sản thế chấp ngân hàng]]
 - [[Quỹ tín dụng Quả Cầu]]
 
-[[Xù nợ ngân hàng]]
+[[Mất điểm tín dụng]]
 
 ## Nơi thảo luận
 ![](https://imagizer.imageshack.com/a/img923/1273/jQAnX6.png)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-04T21:47
-updated: 2026-07-27T02:26
+updated: 2026-11-04T14:59
 ---
 Bảo hiểm y tế, bảo hiểm thất nghiệp. bảo hiểm xã hội
 
@@ -13,3 +13,4 @@ Bảo vệ có xứng đáng?
 [[Các lý do từ chối mua thường gặp]]
 
 Khi nào thì cần tới tư bản? 
+[[Bảo hiểm nhân thọ|Có những cách có lợi nào để mua bảo hiểm nhân thọ?]]

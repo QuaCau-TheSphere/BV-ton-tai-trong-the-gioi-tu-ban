@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-19T15:21
+updated: 2026-10-24T22:06
 blog: working
 aliases:
   - Sự khác biệt giữa từ thiện, kinh tế quà tặng, trả cho người sau, làm việc vừa sức, dựa vào cộng đồng, gọi vốn cộng đồng, ưu tiên việc khẩn cấp, giúp người không tự giúp mình được, thu nhập cơ bản vô điều kiện
@@ -9,7 +9,7 @@ aliases:
 cssClasses:
   - wide-table
 ---
-Khái niệm:: [[⚡Hiểu biết sâu/Ξ Khái niệm/Kiếm tiền/Quà tặng|Quà tặng]], [[Từ thiện]], 
+Khái niệm:: [[Ξ Meta/Khái niệm/Kiếm tiền/Quà tặng|Quà tặng]], [[Từ thiện]]
 Nếu xét theo hướng công bằng xã hội, đạo đức cá nhân, thì dù có thiếu bền vững đến mấy cũng phải làm. Và đó không phải là cảm tính
 
 [[Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng]]
@@ -29,7 +29,7 @@ Nếu chưa phân biệt được rõ ràng, thì kể cả khi thừa nhận l�
 | Trả tùy tâm, cho tự định giá sức lao động                                                                     |                             | ✔                       | ✔                              | ✔                  |                                 |                                            | ✔                |                   |                                           |                                             |                                                               |
 | Giảm giá, cho miễn phí                                                                                        |                             |                         |                                |                    |                                 |                                            |                  |                   |                                           |                                             |                                                               |
 | [[Gây quỹ đám đông]]                                                                                          |                             |                         |                                |                    |                                 | ✔                                          |                  |                   | Ít                                        | Nhiều                                       |                                                               |
-| [[Thu nhập cơ bản vô điều kiện không bằng đáp ứng nhu cầu cơ bản vô điều kiện\|Thu nhập cơ bản vô điều kiện]] |                             |                         |                                |                    |                                 |                                            | ✔                | ✔                 | Ít                                        | Ít                                          |                                                               |
+| [[Thu nhập cơ bản vô điều kiện không bằng đáp ứng các nhu cầu cơ bản vô điều kiện\|Thu nhập cơ bản vô điều kiện]] |                             |                         |                                |                    |                                 |                                            | ✔                | ✔                 | Ít                                        | Ít                                          |                                                               |
 | [[Nền kinh tế quà tặng]]                                                                                      |                             |                         | ✔                              | ✔                  |                                 |                                            |                  |                   | Ít                                        | Ít                                          |                                                               |
 | Nghĩa vụ đạo đức                                                                                              |                             |                         |                                |                    |                                 |                                            | ✔                |                   |                                           |                                             |                                                               |
 | Hình thức                                                                                                     | Thấy người nhận đáng thương | Muốn làm người nhận vui | Thấy cảm hứng bởi sự hào phóng | Tin vào sự trù phú | Xây dựng nội lực của người nhận | Thấy người nhận đang làm điều mình muốn có | Công bằng xã hội | Thay đổi hệ thống | Công sức người cho phải bỏ ra để cho được | Công sức người nhận phải bỏ ra để nhận được | Theo dõi sát sao và rút dần hỗ trợ khi đã cải thiện tình hình |
@@ -54,6 +54,7 @@ Hành động dựa trên thống kê
  [[Ý tưởng tặng quà cho các đam mê khác nhau]]
 
 [[Việc tham gia vào nền kinh tế quà tặng sẽ giúp xây dựng thương hiệu]]
+[[Làm sao để không phải đòi hỏi người tiếp cận các tài nguyên của mình phải trả tiền mà vẫn đủ sống|Làm sao để không phải đòi hỏi người tiếp cận các nguồn lực của mình phải trả tiền?]]
 
 Là cách đơn giản nhất để giúp người không tự giúp mình được và không đáp ứng nhu cầu cộng đồng một cách nhanh nhất và dễ vừa sức
 Y học, CTXH là việc giúp người không thể tự giúp mình
@@ -69,7 +70,7 @@ Mua đồ bán hàng từ thiện, thì là họ đang muốn tự đứng trên
 
 - Nhìn theo hướng tăng tính tự lực của sinh viên thì tui biết có quỹ Đồng Hành của nhóm Kulavietnam không làm từ thiện mà chỉ cho vay lại với lãi suất hợp lý và xây dựng thói quen tiết kiệm. Mô hình của bên này là học từ mô hình VSLA cho nông dân vay làm ăn. Trường mình cũng có người vay từ quỹ này, bên khoa cũng mấy người biết. Tui cũng có chơi với bên này, và cũng có tham gia thảo luận với đội ngũ làm web cho nó. [https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic)
 
-[[Mô hình kinh doanh của các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc|Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?]]
+[[Khi nào thì chiến lược định giá trả tuỳ tâm đạt được sự bền vững|Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?]]
 Khái niệm:: [[Giá trị]], [[Giá cả]]
 ## Miễn phí
 Phản đối:
@@ -101,11 +102,11 @@ Phản đối:
 4. A strong relationship between buyer and seller
 5. A very competitive marketplace
 
-1. Chi phí biên thấp
-2. Khách hàng có ý định sòng phẳng
-3. Sản phẩm có thể bán được ở nhiều mức giá khác nhau (VD: người mua $3, $10 hay $20 đều có cái lý của họ) 
-4. Người mua và người bán có mối quan hệ tốt
-5. Thị trường rất cạnh tranh
+6. Chi phí biên thấp
+7. Khách hàng có ý định sòng phẳng
+8. Sản phẩm có thể bán được ở nhiều mức giá khác nhau (VD: người mua $3, $10 hay $20 đều có cái lý của họ) 
+9. Người mua và người bán có mối quan hệ tốt
+10. Thị trường rất cạnh tranh
 ![TEDxStLouis - Ron Shaich - Panera Cares Cafe - YouTube](https://youtu.be/1ju8-agpCAQ?si=gH4N6nhv10oHHMy3)
 
 Phiên bản
@@ -146,4 +147,3 @@ Ownership on their labour would increase their *intrinsic motivation* to volunte
 
 [Chinese Restaurant Adopts "Pay What You Want" Policy, Loses 15000 in a Week](https://www.odditycentral.com/news/chinese-restaurant-adopts-pay-what-you-want-policy-loses-15000-in-a-week.html)
 [microeconomics - What stops the pay-what-you-want pricing strategy from being more popular? - Economics Stack Exchange](https://economics.stackexchange.com/q/57273/45941)
-

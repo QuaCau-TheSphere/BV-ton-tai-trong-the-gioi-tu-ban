@@ -26,4 +26,4 @@ Số CCCD: 079092007133
 
 ## Thông tin tài chính
 
-[[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)]]
+[[Quỹ tín dụng Lý Minh Nhật]]

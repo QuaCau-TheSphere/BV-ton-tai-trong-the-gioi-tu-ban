@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-27T02:26
+updated: 2026-11-06T20:21
 created: 2026-05-24T23:02
 ---
 
@@ -55,3 +55,4 @@ Mình ghi dài vì mình thấy cần phân tích kỹ những quan niệm mà c
 
 Những đánh giá tự động có xác suất dương tính giả, âm tính giả
 Có thể hệ thống của các bạn đã bị tấn công rồi mà các bạn chưa biết.
+Bất kỳ thiết kế phần mềm nào không giả định rằng kẻ địch không nắm được mã nguồn đều không đáng tin ngay từ đầu

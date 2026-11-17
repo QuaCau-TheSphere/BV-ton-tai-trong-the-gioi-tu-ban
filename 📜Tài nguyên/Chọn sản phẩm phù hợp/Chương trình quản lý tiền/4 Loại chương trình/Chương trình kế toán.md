@@ -7,7 +7,7 @@ cssclasses:
 description: Điểm giống và khác nhau giữa các chương trình kế toán
 ---
 Tên chương trình:: [[Misa]], [[Beancount, hledger]]
-Xem thêm:: [[🧑‍🌾Ngành nghề cụ thể/Tài chính/Kế toán/Kế toán|Kế toán]]
+Xem thêm:: [[🏢Vận hành doanh nghiệp/Kế toán/Kế toán|Kế toán]]
 [Firefly III — A free and open source personal finance manager](https://www.firefly-iii.org/)
 ```dataview
 table 

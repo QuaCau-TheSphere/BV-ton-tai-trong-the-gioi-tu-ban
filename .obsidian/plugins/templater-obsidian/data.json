@@ -1,41 +1,41 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "Ξ Thiết lập/Templates",
+  "templates_folder": "Ξ Meta/Bản mẫu",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "folder",
   "auto_jump_to_cursor": true,
   "jump_to_cursor_after_file_name": false,
   "shell_path": "",
-  "user_scripts_folder": "Ξ Thiết lập/Templates",
+  "user_scripts_folder": "Ξ Thiết lập/Scripts",
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Ξ Thiết lập/Templates/Ghi chú chung chung.md"
+      "template": "Ξ Meta/Bản mẫu/Ghi chú chung chung.md"
     },
     {
       "folder": "📜Tài nguyên/Nhu cầu công việc",
-      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
+      "template": "Ξ Meta/Bản mẫu/Nhu cầu công việc.md"
     },
     {
       "folder": "📜Tài nguyên/Nhu cầu công nghệ",
-      "template": "Ξ Thiết lập/Templates/Nhu cầu công nghệ.md"
+      "template": "Ξ Meta/Bản mẫu/Nhu cầu công nghệ.md"
     },
     {
-      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm",
-      "template": "Ξ Thiết lập/Templates/Khái niệm.md"
+      "folder": "Ξ Meta/Khái niệm",
+      "template": "Ξ Meta/Bản mẫu/Khái niệm.md"
     },
     {
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Kiếm tiền nhanh",
-      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/Công việc thời vụ.md"
+      "template": "Ξ Meta/Bản mẫu/Ý tưởng kiếm tiền/Công việc thời vụ.md"
     },
     {
       "folder": "📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Tự kinh doanh, đầu tư",
-      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/Ý tưởng kinh doanh.md"
+      "template": "Ξ Meta/Bản mẫu/Ý tưởng kiếm tiền/Ý tưởng kinh doanh.md"
     },
     {
       "folder": "📜Tài nguyên/Giới thiệu dịch vụ",
-      "template": "Ξ Thiết lập/Templates/Giới thiệu dịch vụ.md"
+      "template": "Ξ Meta/Bản mẫu/Giới thiệu dịch vụ.md"
     }
   ],
   "file_templates": [],

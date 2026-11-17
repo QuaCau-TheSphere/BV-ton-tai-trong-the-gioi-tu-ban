@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-18
-updated: 2026-07-27T02:26
+updated: 2026-11-12T15:49
 published: 2024-12-27
 description: TTCT - Nạn nhân bị bắn chết giữa phố thì không được thương tiếc, trong khi tay súng tình nghi trở thành người hùng trong dân gian. Những phi lý trong vụ sát hại CEO hãng bảo hiểm UnitedHealthcare Brian Thompson vẫn chưa dừng lại.
 ---
@@ -16,7 +16,7 @@ Luigi Mangione, 26 tuổi, người Mỹ gốc Ý, bị bắt ở quê nhà Penn
 
 Nhiều người đã "ăn mừng" cái chết của Thompson, xuất phát từ nỗi hờn căm với chuyện ngành bảo hiểm liên tục từ chối thanh toán. Và khi Mangione - một thanh niên da trắng thuộc dạng "con nhà người ta: điển trai (bụng sáu múi), nhà giàu (ông nội là đại gia bất động sản), học giỏi (có bằng cử nhân và thạc sĩ tại Đại học Pennsylvania thuộc nhóm Ivy League) - bị bắt, người ta lại thêm phát cuồng.
 
-### **Đời thay đổi khi ta đau lưng**
+### Đời thay đổi khi ta đau lưng
 
 Năm 2023, Mangione từng công khai chia sẻ mình bị trượt đốt sống thắt lưng (spondylolisthesis), một chứng đau lưng hiếm gặp, làm ảnh hưởng cả chuyện chơi thể thao lẫn hẹn hò yêu đương. Tháng 7-2023, Mangione viết trên Reddit rằng mình đã quyết định phẫu thuật. Những bài tiếp theo cho thấy ca phẫu thuật đã thành công.
 
@@ -30,7 +30,7 @@ Gia đình báo cáo Mangione mất tích với cơ quan chức năng vào thán
 
 Theo chuyên gia, cơn đau lưng mạn tính cũng có thể ảnh hưởng nghiêm trọng đến sức khỏe tinh thần nếu có sẵn các vấn đề về tâm lý như lo âu hay trầm cảm. Không có nhiều thông tin về tình trạng tinh thần của Mangione trong những tháng gần đây.
 
-### **Kỷ nguyên mới của sự** **tôn sùng kẻ ác**
+### Kỷ nguyên mới của sự tôn sùng kẻ ác
 
 Ngay sau khi Thompson bị bắn chết, cộng đồng mạng đã bắt đầu thần thánh hóa nghi phạm, tôn vinh và ca ngợi Mangione như một kiểu "anh hùng dân gian". Trên TikTok, người ta chia sẻ các video về tour du lịch "tham quan vụ ám sát CEO" quanh New York. Trên Spotify, các danh sách nhạc phát dành riêng cho Mangione cũng bắt đầu xuất hiện. Trang bán hàng Etsy tràn ngập các sản phẩm quần áo có hình y.
 
@@ -52,7 +52,7 @@ Người ta còn gây quỹ cộng đồng (crowdfund) để đòi tự do cho M
 
 Felipe Rodriguez, một cựu sĩ quan điều tra của Sở Cảnh sát New York, bày tỏ sự thất vọng trước phản ứng của dư luận. "Họ biến hắn thành một biểu tượng tử vì đạo cho tất cả những rắc rối mà người dân gặp phải với các công ty bảo hiểm - Rodriguez, hiện là giảng viên thỉnh giảng tại Trường Tư pháp hình sự John Jay, nói với Reuters - Ai mà chưa từng có rắc rối với bảo hiểm của mình? Nhưng hắn là một kẻ sát nhân máu lạnh".
 
-### **Có thật là phản anh hùng?**
+### Có thật là phản anh hùng?
 
 Vụ án mạng của Brian Thompson không chỉ phơi bày tâm lý bất mãn của người Mỹ với ngành y tế và bảo hiểm, mà còn nhắc thế giới nhớ người Mỹ thích [thần tượng hóa](https://cuoituan.tuoitre.vn/chan-dung-to-hong-cua-nhung-ke-sat-nhan-1651746.htm "thần tượng hóa") những kẻ sát nhân thế nào. Những tội phạm giết người khét tiếng của Mỹ như Ted Bundy hay Jeffrey Dahmer đều có hàng tá sản phẩm khắc họa chân dung, kể chuyện cuộc đời với đủ hình thức (podcast, phim, sách)\*
 

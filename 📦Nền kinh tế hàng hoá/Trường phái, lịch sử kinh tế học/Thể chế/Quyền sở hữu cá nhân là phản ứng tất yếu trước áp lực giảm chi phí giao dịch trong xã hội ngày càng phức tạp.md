@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2025-09-03T09:46
-updated: 2026-10-05T20:52
+updated: 2026-10-24T18:11
 ---
-Khái niệm:: [[Chiếm hữu, sở hữu]], [[Chi phí giao dịch]]
+Khái niệm:: [[Chiếm hữu, sở hữu, quyền tài sản]], [[Chi phí giao dịch]]
 
 Nguồn:: [Kinh tế học thể chế mới là gì? - Linh’s Substack](https://vhlinh.substack.com/p/kinh-te-hoc-the-che-moi-la-gi)
 
 [[Kinh tế học chỉ quan tâm đến sự sở hữu, ở đó chủ thể có khả năng sử dụng tài sản. Còn pháp luật quan tâm đến quyền sở hữu, ở đó cần có được sự công nhận của nhà nước và xã hội]]
 [[Quyền sở hữu là một bó quyền gồm 11 quyền nhỏ]]
+[[Tiền đơn giản hoá quá trình đáp ứng nhu cầu]]. [[Hàng hóa khiến ta không thấy các mối quan hệ xã hội đằng sau nó]]

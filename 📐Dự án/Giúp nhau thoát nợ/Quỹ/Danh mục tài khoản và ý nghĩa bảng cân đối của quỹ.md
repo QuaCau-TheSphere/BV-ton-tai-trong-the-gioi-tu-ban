@@ -87,7 +87,7 @@ Dấu của giao dịch:
 	- Chi phí cho việc giúp khi họ chưa trả
 - 0:
 	- Mình trả nợ giùm (nợ của họ với người khác thành nợ của họ với mình)
-	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ|Nhận tiền hộ]]
+	- Mình chuyển tiền giùm, và mục đích của việc chuyển không phải là để trả nợ. VD: [[Giữ tiền hộ|Nhận tiền hộ]]
 	- Chi phí cho việc giúp (VD: cà phê, đáo) và họ trả tại chỗ 
 - Dương:
 	- Tiền ủng hộ của mọi người

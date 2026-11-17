@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd13c4d5f99491af",
+        "id": "ee57d9e3774dcb74",
         "type": "tabs",
         "children": [
           {
-            "id": "8e77d164502037c8",
+            "id": "5b2301e1a359c044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐Dự án/Mở rộng mối quan hệ/Tài liệu/Những nơi giúp mở rộng mối quan hệ với doanh nghiệp.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Những nơi giúp mở rộng mối quan hệ với doanh nghiệp"
-            }
-          },
-          {
-            "id": "dd7023812327df5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏢Vận hành doanh nghiệp/Pháp nhân/Pháp nhân.md",
+                "file": "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Hệ thống luật pháp/Dân sự/Quan hệ nhân thân không tính được thành tiền và không thể chuyển giao, nhưng một số quan hệ nhân thân gắn với tài sản hoặc được luật cho phép chuyển giao.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pháp nhân"
+              "title": "Quan hệ nhân thân không tính được thành tiền và không thể chuyển giao, nhưng một số quan hệ nhân thân gắn với tài sản hoặc được luật cho phép chuyển giao"
+            }
+          },
+          {
+            "id": "6891f56973706e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Chọn sản phẩm phù hợp/Bảo hiểm nhân thọ/Bảo hiểm nhân thọ.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bảo hiểm nhân thọ"
+            }
+          },
+          {
+            "id": "f7a8383fde4bfa81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ξ Meta/Bản mẫu/Ghi chú chung chung.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ghi chú chung chung"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +100,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "à không cần nhập PIN khi đưa qua máy POS. Hiếm có thẻ nào phải nhập PIN mới dùng được. Nên nếu như không xác định được đó có phải là chính chủ hay không mà vẫn cho rút, thì lỡ tiền đó là tiền do phạm tội hay giao dịch trái phép mà thành, thì không chỉ",
+                "query": "\"hệ quả luận\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧑‍🌾Ngành nghề cụ thể/Khu vực 2/Vận tải, giao thông/Những cách app giao hàng bóc lột tài xế.md",
+                "file": "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Hệ thống luật pháp/Dân sự/Nhặt được đồ không xác định được chủ/Người chiếm hữu không có căn cứ pháp luật nhưng ngay tình, công khai trong nhiều năm thì có thể trở thành chủ sở hữu. Nhưng nếu có căn cứ pháp luật thì không.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +210,32 @@
               "icon": "lucide-list",
               "title": "Outline of Cộng đồng có chủ đích"
             }
+          },
+          {
+            "id": "32a1c2ee2f5736c2",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Người có tư duy tổng bằng 0 cao hơn thường ủng hộ các cơ chế phân phối lại thu nhập, chính sách ưu đãi theo chủng tộc/Người có tư duy tổng bằng 0 cao hơn thường ủng hộ các cơ chế phân phối lại thu nhập, chính sách ưu đãi theo chủng tộc hoặc giới, và chính sách hạn chế nhập cư.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "6d8fde17f2319ab4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -195,68 +246,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": true,
+      "daily-notes:Open today's daily note": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
       "hledger-notes:Add hledger entry": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
-      "vscode-editor:Create Code File": false,
-      "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "schema-refactor:Open Schema Refactor": false,
+      "templater-obsidian:Templater": true,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "dd7023812327df5c",
+  "active": "f7a8383fde4bfa81",
   "lastOpenFiles": [
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Lịch sử 5000 năm của nền văn minh nhân loại là sự luân phiên giữa hai hình thức thanh toán chủ đạo là ghi nợ và tiền hiện kim.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Tiền chính là một dạng nợ.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền, nợ, bản vị.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Bằng chứng khảo cổ cho thấy nợ xuất hiện trước, rồi đến tiền đúc và hàng đổi hàng.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Những người không cùng cộng đồng kinh tế thì đổi chác. Những người sống trong cùng một cộng đồng thì nhận nợ.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Vay, nợ/Việc mua chịu cũng là vay nợ, nhưng không phải chịu lãi suất.md",
-    "📐Dự án/Mở rộng mối quan hệ/Tài liệu/Những nơi giúp mở rộng mối quan hệ với doanh nghiệp.md",
-    "🏛️Thể chế, chính sách công, quản trị nhà nước ở Việt Nam/Hệ thống luật pháp/Dân sự/Luật dân sự (civil law) của VN giống như luật tư (private law) của Anh Mỹ.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền/Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền/Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền/Lạm phát làm tiền gửi ngân hàng mất giá trị.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Giá trị của tiền",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát/Đồng tiền yếu (mất giá) có lợi cho xuất khẩu hơn. Đồng tiền mạnh (có giá) có lợi cho nhập khẩu hơn.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/❓Ngày xưa tiền xu còn làm giả được, thì việc xử lý tiền giấy giả như thế nào.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Tài chính và kinh tế hiện đại bắt đầu từ tiền giấy.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Tiền được thiết kế sao cho cảm giác khi cầm nó lên khác biệt tới mức các kỹ thuật in khác không thể tái tạo lại được.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt/Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền mặt",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Tiền được thiết kế sao cho cảm giác khi cầm nó lên khác biệt tới mức các kỹ thuật in khác không thể tái tạo lại được.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát/Lạm phát làm tiền gửi ngân hàng mất giá trị.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát/Nơi trữ tiền càng an toàn càng bị rủi ro bởi lạm phát.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Lạm phát",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/❓Ngày xưa tiền xu còn làm giả được, thì việc xử lý tiền giấy giả như thế nào.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Từ lúc con người nhận ra rằng giấy có thể in ra được mà kim loại thì không, tiền được lưu thông trong thị trường có thể nhiều hơn lượng đang dự trữ thực có.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Tài chính và kinh tế hiện đại bắt đầu từ tiền giấy.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy/Nếu không còn tiền giấy thì ngân hàng trung ương kiểm soát lượng cung tiền bằng các công cụ như là tỷ lệ dự trữ bắt buộc, lãi suất liên ngân hàng và mua bán trái phiếu.md",
-    "📦Nền kinh tế hàng hoá/Tiền, nợ, bản vị/Tiền giấy",
-    "Ξ Thiết lập/Ảnh/Mạng lưới đổi mới sáng tạo Việt Nam.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20261009145407.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20261009145340.png",
-    "📐Dự án/Mở rộng mối quan hệ/Tài liệu/Email sinh viên.csv",
-    "💸Hình thức kiếm tiền/Làm công ăn lương/Công đoàn",
-    "🏢Vận hành doanh nghiệp/Nhân sự/Phúc lợi",
-    "💸Hình thức kiếm tiền/Kinh doanh/Khởi nghiệp",
-    "🏢Vận hành doanh nghiệp/Pháp nhân/Tổ chức phi lợi nhuận",
-    "🏢Vận hành doanh nghiệp/Pháp nhân/Doanh nghiệp",
-    "Ξ Thiết lập/Ảnh/Nhật/HDBank Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Nhật/NCB Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Nhật/VIB Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20260916220409.png",
-    "Ξ Thiết lập/Ảnh/Nhật/Sacombank Nhật.png",
-    "Ξ Thiết lập/Ảnh/Nhật/VietinBank Nhật.jpg",
-    "Ξ Thiết lập/Ảnh/Nhật/VPBank Nhật.jpg",
+    "Ξ Meta/Bản mẫu/Ghi chú được trích.md",
+    "Ξ Meta/Bản mẫu/Ghi chú thư mục.md",
+    "Ξ Meta/Bản mẫu/Khái niệm.md",
+    "Ξ Meta/Khái niệm/Giai cấp. Phát triển bền vững/Công đoàn.md",
+    "Ξ Meta/Bản mẫu/Ghi chú chung chung.md",
+    "Ξ Meta/Bản mẫu/Ý tưởng kiếm tiền/Ý tưởng kinh doanh.md",
+    "Ξ Meta/Bản mẫu/Ý tưởng kiếm tiền/Công việc thời vụ.md",
+    "Ξ Meta/Bản mẫu/Quang cảnh thị trường/5 Tên chương trình.md",
+    "Ξ Meta/Bản mẫu/Quang cảnh thị trường/4 Loại chương trình.md",
+    "Ξ Meta/Bản mẫu/Quang cảnh thị trường/3 Tính năng.md",
+    "Ξ Meta/Bản mẫu/Quang cảnh thị trường/2 Yêu cầu đầu vào.md",
+    "Ξ Meta/Bản mẫu/Quang cảnh thị trường/1 Nhu cầu người dùng.md",
+    "Ξ Meta/Bản mẫu/Dự án/Phiếu phỏng vấn.md",
+    "Ξ Meta/Bản mẫu/Dự án/Mục tiêu và câu hỏi phỏng vấn.md",
+    "Ξ Meta/Bản mẫu/Dịch vụ/Ngân hàng cụ thể.md",
+    "Ξ Meta/Bản mẫu/Dịch vụ/Giới thiệu dịch vụ.md",
+    "🧑‍🌾Ngành nghề cụ thể/Tài chính/Sinh trắc học giúp cho nhà nước kiểm soát tài sản của người dân tốt hơn.md",
+    "📦Nền kinh tế hàng hoá/Kinh tế học tâm lý/Người có tư duy tổng bằng 0 cao hơn thường ủng hộ các cơ chế phân phối lại thu nhập, chính sách ưu đãi theo chủng tộc hoặc giới, và chính sách hạn chế nhập cư.md",
+    "Ξ Meta/Bản mẫu/Dịch vụ/Tài khoản ngân hàng.md",
+    "Ξ Thiết lập/Danh sách tất cả các tag.md",
+    "Ξ Meta/Nguồn/Nguồn.md",
+    "Ξ Meta/Danh sách bài viết.md",
+    "Ξ Meta/Sửa gần đây.md",
+    "Ξ Thiết lập/Tất cả các ảnh.base",
+    "Ξ Meta/vault-stats.json",
+    "Ξ Meta/Khái niệm/Tín dụng/Vay, nợ/Thẻ tín dụng.md",
+    "Ξ Meta/Khái niệm/Tín dụng/Vay, nợ/Đáo, rút thẻ tín dụng.md",
+    "Ξ Meta/Khái niệm/Tín dụng/Vay, nợ/Thế chấp.md",
+    "Ξ Meta/Khái niệm/Tín dụng/Vay, nợ",
+    "Ξ Meta/Khái niệm/Nhà nước/Luật",
+    "Ξ Meta/Khái niệm/Kiếm tiền/Không liêm chính",
+    "Ξ Meta/Khái niệm/Kinh tế học/Kinh tế vĩ mô",
+    "Ξ Meta/Khái niệm/Tâm lý",
+    "Ξ Meta/Khái niệm/Tài sản",
+    "Ξ Meta/Khái niệm/Tín dụng",
+    "Ξ Meta/Khái niệm/Nhà nước",
+    "Ξ Thiết lập/Ảnh/Nhật/Bảo hỉểm/Chứng chỉ đại lý bảo hiểm.png",
+    "Ξ Thiết lập/Ảnh/Công ty/Bảo hiểm/Hợp đồng FWD (tóm tắt).png",
+    "Ξ Thiết lập/Ảnh/Nhật/Ngân hàng/HDBank Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Nhật/Ngân hàng/SeABank Nhật.jpeg",
+    "Ξ Thiết lập/Ảnh/Nhật/Ngân hàng/NCB Nhật.jpg",
+    "Ξ Thiết lập/Ảnh/Pasted image 20261028123308.png",
+    "Ξ Thiết lập/Ảnh/Nhật/Bảo hỉểm/Pasted image 20261028123256.png",
+    "Ξ Thiết lập/Ảnh/Nhật/Bảo hỉểm/Pasted image 20261028123308.png",
+    "Ξ Thiết lập/Ảnh/Nhật/Bảo hỉểm/Pasted image 20261028123204.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20261028123256.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

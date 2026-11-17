@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2026-07-27T02:26
+updated: 2026-11-04T19:19
 aliases:
   - Lý do trì hoãn
   - lý do chưa muốn mua bảo hiểm
@@ -11,10 +11,15 @@ aliases:
 > [!question] Thấy còn khoẻ
 
 > [!question] Thấy mình sẽ chẳng bị tai nạn hay ung thư bất chợt cả
+> [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]]
 
 > [!question] Đã có BHXH, BHYT, bảo hiểm tai nạn rồi
 
 > [!question] Đã có sổ tiết kiệm trong ngân hàng rồi
+> Mua ít được nhiều
+
+> [!question] Không có lời bằng việc đầu tư
+> Đầu tư là chấp nhận rủi ro. Còn mua bảo hiểm thì chắc chắn 
 
 > [!question] Đã mua của công ty khác rồi
 > Có thể mua cho người khác
@@ -35,9 +40,9 @@ aliases:
 
 ## Không tin
 > [!question] Thủ tục phức tạp, bỏ vào dễ lấy ra khó
-> Vậy vấn đề không phải là không tham gia bảo hiểm, mà là chọn bên nào không làm khó mình. [[Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối]].
+> Vậy vấn đề không phải là không tham gia bảo hiểm, mà là chọn bên nào không làm khó mình. [[Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối|Để đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối bồi thường, có thể nhờ đến các bên cung cấp dịch vụ phụ trợ bảo hiểm]].
 
-> [!question] Không có lời bằng việc đầu tư
+
 
 
 [[Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân]]
@@ -54,3 +59,5 @@ aliases:
 
 Xem thêm:: [Chuyên gia khuyên nên kiên quyết từ chối khi bị ép mua bảo hiểm](https://laodong.vn/kinh-doanh/chuyen-gia-khuyen-nen-kien-quyet-tu-choi-khi-bi-ep-mua-bao-hiem-1152356.ldo)
 [[Người muốn phòng hờ rủi ro sẽ cần mua bảo hiểm, nhưng chỉ người có tiền và có sức khoẻ mới được mua]]
+[[Khi nào mới thực sự cần bảo hiểm]]
+[[Bảo hiểm nhân thọ|Có những cách có lợi nào để mua bảo hiểm nhân thọ?]]

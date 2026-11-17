@@ -13,5 +13,5 @@ Theo mình hiểu thì có những cách sau để lừa người ta lấy KYC m
 
 [⚠️ Hiện đã bắt đầu phát hiện các tổ... - Thông tin Chính phủ \| Facebook](https://www.facebook.com/thongtinchinhphu/posts/pfbid035qhAFddkvSgeKypbAvbuKLRuKhgEsQq7VfweT3PHVyVz2ov83YskiFh9qAwnq8sNl)
 
-[[Fake cam, KYC]]
+[[Làm giả camera, KYC]]
 [[Chỉ cần ảnh mặt trước CCCD và SĐT của một người là có thể truy cập được vào tài khoản ngân hàng của họ]]

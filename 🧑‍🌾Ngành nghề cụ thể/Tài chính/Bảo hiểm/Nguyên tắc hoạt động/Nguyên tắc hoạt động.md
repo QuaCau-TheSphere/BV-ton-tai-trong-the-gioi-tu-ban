@@ -1,7 +1,6 @@
 ---
 share: true
 created: 2024-09-06T14:31
-updated: 2026-07-27T02:26
 title: Nguyên tắc hoạt động của bảo hiểm
 ---
 - [[Để một rủi ro được bảo hiểm, nó cần ngẫu nhiên, định lượng bằng tiền được và có số lớn]]
@@ -10,3 +9,10 @@ title: Nguyên tắc hoạt động của bảo hiểm
 - Thế quyền: chuyển giao quyền đòi bồi thường cho công ty
 
 ![[Các nguyên tắc được áp dụng cho từng loại hình bảo hiểm.excalidraw]]
+
+```dataview
+LIST rows.file.link
+FROM "🧑‍🌾Ngành nghề cụ thể/Tài chính/Bảo hiểm/Nguyên tắc hoạt động"
+GROUP BY split(file.folder, "/")[4]
+WHERE file.name != this.file.name
+```

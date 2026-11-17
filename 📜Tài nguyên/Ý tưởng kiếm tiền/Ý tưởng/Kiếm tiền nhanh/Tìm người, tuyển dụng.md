@@ -1,18 +1,17 @@
 ---
 share: true
-description: "Số tiền kiếm được: 5% doanh số lương của người tuyển đc hoặc 1 tr hoa hồng sau khi họ làm việc 2 tuần"
-updated: 2026-07-27T02:26
+updated: 2026-10-28T16:49
 created: 2025-10-07T17:12
 ---
 
-| Vị trí cần tuyển                                             | Số tiền kiếm được                                                          | Tài nguyên                                                                                                                                                                                                                               |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Đại lý Bảo Việt                                              | 200k/người                                                                 | [[Học làm đại lý Bảo Việt]]                                                                                                                                                                                                              |
-| CTV tư vấn sản phẩm                                          | 5% doanh số lương của người tuyển được hoặc 1tr sau khi họ làm việc 2 tuần | [[Trả lời tin nhắn, tư vấn sản phẩm, dịch vụ]]                                                                                                                                                                                           |
-| Đáp viên, khách thể cho khảo sát, phỏng vấn                  | 100k/người                                                                 | [[Kiếm người sẵn sàng cho mình hỏi\|Làm sao để kiếm người nhận làm phỏng vấn?]]                                                                                                                                                          |
-| Người thuê nhà                                               |                                                                            | [[Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM]]                                                                                                                                                                                           |
-| Người muốn được đáp ứng nhu cầu công việc                    | 100% doanh thu                                                             | [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.4M.2) |
-| Người muốn được giúp kiếm tiền, kiếm khách, tuyển dụng, v.v. | 100% doanh thu                                                             | [[Giúp nhau kiếm tiền\|Nhóm giúp nhau kiếm tiền]]                                                                                                                                                                                        |
+| Vị trí cần tuyển                                             | Số tiền kiếm được                                                          | Nội dung chi tiết                                                               |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Đại lý Bảo Việt                                              | 200k/người                                                                 | [[Học làm đại lý Bảo Việt]]                                                     |
+| CTV tư vấn sản phẩm                                          | 5% doanh số lương của người tuyển được hoặc 1tr sau khi họ làm việc 2 tuần | [[Trả lời tin nhắn, tư vấn sản phẩm, dịch vụ]]                                  |
+| Đáp viên, khách thể cho khảo sát, phỏng vấn                  | 100k/người                                                                 | [[Kiếm người sẵn sàng cho mình hỏi\|Làm sao để kiếm người nhận làm phỏng vấn?]] |
+| Người thuê nhà                                               |                                                                            | [[Cho thuê căn 117 Xô Viết Nghệ Tĩnh, TP.HCM]]                                  |
+| Người muốn được đáp ứng nhu cầu công việc                    | 100% doanh thu                                                             | [[Các buổi đáp ứng nhu cầu học lập trình]]                                      |
+| Người muốn được giúp kiếm tiền, kiếm khách, tuyển dụng, v.v. | 100% doanh thu                                                             | [[Giúp nhau kiếm tiền\|Nhóm giúp nhau kiếm tiền]]                               |
 
 ## Thông tin thêm
 Số tiền đầu tư:: 0

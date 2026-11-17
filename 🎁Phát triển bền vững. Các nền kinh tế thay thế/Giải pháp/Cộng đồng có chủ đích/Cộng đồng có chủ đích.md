@@ -1,17 +1,17 @@
 ---
 share: true
-updated: 2026-08-05T21:22
+updated: 2026-10-28T18:19
+created: 2025-10-20T09:52
 aliases:
   - đồng cư, hợp tác xã nhà ở, quỹ nhà ở vi mô
   - làng sinh thái, công xã
   - intentional community
   - Cộng đồng địa phương, offline
 description: Khái niệm, phân loại, nguồn lực, hướng dẫn ghé thăm, dự án xây dựng một cộng đồng như vậy, và các phản ví dụ
-created: 2025-10-20T09:52
 ---
 ![What is an Intentional Community? - YouTube](https://youtu.be/PfAsblgWXtg?si=HRFiWadJ1c9AS0pC)
 
-[[Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống đủ gần nhau để thực hành một lối sống chung và để đạt được mục đích chung]]. Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
+[[Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống đủ gần nhau để thực hành một lối sống chung và để đạt được mục đích chung|Cộng đồng có chủ đích được hình thành khi một nhóm người quyết định sống cùng nhau hoặc đủ gần nhau để thực hành một lối sống chung, bên trong một văn hóa chung, để đạt được một mục đích chung]]. Đây là một số mục đích cơ bản mà cộng đồng nào cũng có:
 - Tiết kiệm chi phí sinh hoạt
 - Có thêm các mối quan hệ thân mật
 - Thử nghiệm các cách tổ chức xã hội phi chủ lưu
@@ -72,17 +72,10 @@ Về các cộng đồng có chủ đích ở Việt Nam thì đọc bài chi ti
 
 Xem thêm:: [[❓Các câu hỏi về cộng đồng có chủ đích bên ngoài đô thị]]
 
-## Xây dựng cộng đồng có chủ đích ở đô thị
-Ý tưởng xây dựng cộng đồng sống chung nhà:
-- Gom nhóm 4, 5 người cùng thuê một căn hộ chung cư
-- Gom nhóm 10 người trở lên cùng thuê một căn nhà nhiều tầng
-
-Bài chi tiết:: [[Tìm người ở ghép ở TP.HCM|Xây dựng cộng đồng có chủ đích ở TP.HCM]]
-
-Nhà của một gia đình thông thường chỉ có một nhà bếp và các nhà vệ sinh ở các tầng. Điều này cũng phù hợp với cách sinh hoạt của cộng đồng có chủ đích. Tuy nhiên, vì khó kiếm khách thuê nhà nguyên căn hơn khách tầng hoặc thuê phòng, nên chủ nhà có xu hướng muốn tách căn nhà thành nhiều phòng nhỏ có bếp và nhà vệ sinh riêng. Cộng đồng vào những căn nhà này sẽ bị giảm diện tích sinh hoạt tối ưu.
-
-Ý tưởng xây dựng hợp tác xã nhà ở:
-- Thuyết phục chủ chung cư mini bán cổ phần cho người thuê
+## Xây dựng cộng đồng có chủ đích ở đô thị cho người không có nhiều tiền
+Một số ý tưởng để triển khai:
+- [[Lập nhóm sống chung nhà]]
+- Xây dựng hợp tác xã nhà ở: thuyết phục chủ chung cư mini bán cổ phần cho người thuê
 
 ## Cộng đồng có chủ đích không phải là gì?
 Không phải cứ đến sống chung với nhau là trở thành một cộng đồng có chủ đích. Những người sống ở ghép nhưng mỗi người có cuộc sống riêng, không chia sẻ một lối sống chung, thì dù cũng có cùng mục tiêu là tiết kiệm tiền nhà, cũng không phải là cộng đồng có chủ đích.
@@ -94,4 +87,3 @@ Không phải cứ đến sống chung và gắn bó với nhau là trở thành
 Các đoàn diễn lưu động, đoàn thám hiểm, trại nghiên cứu, toán quân du kích có nhiều nét giống cộng đồng có chủ đích hơn, khi họ phải sống chung với nhau, chia sẻ một lối sống chung và có tiếng nói với nhau. [[Công việc nhiều rủi ro thì tổ chức thường ngang hàng. Công việc nhiều an toàn thì tổ chức thường phân cấp]]. Ở những nhóm này, nếu các thành viên không đồng ý với người lãnh đạo thì họ có thể chọn ra một người mới mà người cũ không làm được gì, vì người lãnh đạo chỉ là thiểu số. Tuy nhiên có thể người cũ đã được chỉ định bởi một thiết chế bên ngoài nào đó, và họ phải chịu phản ứng của thiết chế đó cho quyết định của mình. Họ có những lúc có được sự tự trị, nhưng không chắc là luôn luôn.
 
 Nếu họ chỉ phải chịu trách nhiệm cho những quyết định của mình, giống như [băng hải tặc mũ rơm](https://youtu.be/5SzMEPJBHzE?si=JLWCE2EXcnLzz40o), thì có thể xem họ là cộng đồng có chủ đích. Điểm khác biệt duy nhất với các cộng đồng có chủ đích điển hình là ở điểm kết thúc của nó. Các mục tiêu như sống gần nhau, giảm chi phí sinh hoạt, nuôi con, dưỡng già, kết nối tâm linh có thể nói là không bao giờ hoàn thành. Các cộng đồng như này tồn tại vì các thành viên muốn có một cộng đồng như này tồn tại. Còn với các sứ mệnh như nghiên cứu học thuật, thực hành nghệ thuật, v.v., khi hoàn thành thì cộng đồng sẽ tan rã, hoặc phải bổ sung thêm mục tiêu khác để duy trì.
-

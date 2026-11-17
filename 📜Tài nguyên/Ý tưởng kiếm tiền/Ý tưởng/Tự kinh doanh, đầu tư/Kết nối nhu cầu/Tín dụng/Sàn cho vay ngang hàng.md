@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-08-23T19:09
+updated: 2026-11-01T21:30
 created: 2026-07-26T21:45
 ---
 [[Vay ngang hàng|Sàn cho vay ngang hàng]]

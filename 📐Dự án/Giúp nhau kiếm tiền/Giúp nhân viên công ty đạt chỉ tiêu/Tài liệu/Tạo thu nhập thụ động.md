@@ -23,4 +23,4 @@ Nếu không có thì chắc chỉ là bào lại tiền của tư bản? Nó qu
 [[Thu nhập thụ động thì không theo phần trăm. Dòng tiền thì có thể có]]
 [[Thu nhập thụ động có hàm ý đã biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền thì không]]
 [[Thu nhập cơ bản phổ quát nên được hiểu là tài sản cơ bản vô điều kiện]]
-[[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài sản khi dùng là mất. Các loại tài sản còn lại khi dùng là có thêm]]
+[[❓Các loại tài sản hữu hình, thời gian, công sức, sự chú ý là các loại tài nguyên khi dùng là mất. Các loại tài nguyên còn lại khi dùng là có thêm]]

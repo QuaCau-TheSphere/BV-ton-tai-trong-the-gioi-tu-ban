@@ -15,4 +15,4 @@ Nguồn:: [Nam Nguyen - Cập nhật dự án từ thiện "đưa nước về b
 
 [[Giúp đỡ sẽ tạo ra sự lệ thuộc]]
 [[Từ thiện có thể gây ra việc lệ thuộc ở người nhận, và ganh tị ở người không được nhận, từ đó phá vỡ cộng đồng]]
-Khái niệm:: [[Từ thiện]], [[Quà tặng]]
+Khái niệm:: [[Từ thiện]], [[📜Tài nguyên/Quà tặng/Quà tặng]]

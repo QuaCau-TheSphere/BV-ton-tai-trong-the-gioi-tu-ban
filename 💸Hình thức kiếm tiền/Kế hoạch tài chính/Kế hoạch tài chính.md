@@ -1,14 +1,14 @@
 ---
 share: true
-updated: 2026-10-07T14:59
+updated: 2026-10-28T13:52
 created: 2025-09-12T20:18
 ---
-| Chỉ số tài chính                                 | Ý nghĩa                                                                 | Cách tính                                                                           | Kết quả |
+| Chỉ số tài chính                                 | Giải thích                                                              | Cách tính                                                                           | Kết quả |
 | ------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------- |
-| Hệ số thanh khoản (Liquidity ratio)              | Khả năng chi trả cho mức sống tiêu chuẩn trong trường hợp rủi ro xảy ra | Tiền mặt (hoặc tổng các khoản tương đương tiền mặt) / Chi phí tiêu chuẩn hằng tháng |         |
-| Hệ số nợ trên tổng tài sản (Debt to asset ratio) | Mức độ rủi ro và tỷ lệ sử dụng đòn bẩy tài chính                        | Tổng nợ / Tổng tài sản                                                              |         |
-| Hệ số khả năng trả nợ (Debt servicing ratio)     | Khả năng trả nợ                                                         | Nợ phải trả hằng tháng / Tổng thu nhập khả dụng hằng tháng                          |         |
-| Tỷ lệ tiết kiệm (Savings ratio)                  | Mức độ tiết kiệm tiền hằng tháng để phục vụ cho mục tiêu lâu dài        | Tiền tiết kiệm / Tổng thu nhập khả dụng hằng tháng                                  |         |
+| Hệ số thanh khoản (Liquidity ratio)              | Khả năng chi trả cho mức sống tiêu chuẩn trong trường hợp rủi ro xảy ra | Tiền mặt (hoặc tổng các khoản tương đương tiền mặt) ÷ Chi phí tiêu chuẩn hằng tháng |         |
+| Hệ số nợ trên tổng tài sản (Debt to asset ratio) | Mức độ rủi ro và tỷ lệ sử dụng đòn bẩy tài chính                        | Tổng nợ ÷ Tổng tài sản                                                              |         |
+| Hệ số khả năng trả nợ (Debt servicing ratio)     | Khả năng trả nợ                                                         | Nợ phải trả hằng tháng ÷ Tổng thu nhập khả dụng hằng tháng                          |         |
+| Tỷ lệ tiết kiệm (Savings ratio)                  | Mức độ tiết kiệm tiền hằng tháng để phục vụ cho mục tiêu lâu dài        | Tiền tiết kiệm ÷ Tổng thu nhập khả dụng hằng tháng                                  |         |
 
 Đánh giá hiện trạng bản thân:
 - Bạn có thực hiện thiết kế lộ trình nghề nghiệp qua các năm? 

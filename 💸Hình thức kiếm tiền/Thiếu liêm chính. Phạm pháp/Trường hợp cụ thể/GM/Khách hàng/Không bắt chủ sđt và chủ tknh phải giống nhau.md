@@ -22,4 +22,4 @@ nhưng:
 - vẫn là ý trên, nhưng giao dịch đó phải thực sự có vấn đề lớn và nghiêm trọng, giả sử như nhận tiền từ số tk bẩn bị bcao lừa đảo nhiều => có thể điều tra, vấn đề là e dùng để làm app này thôi
 
 Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]
-[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ]]
+[[Giữ tiền hộ]]

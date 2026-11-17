@@ -1,10 +1,10 @@
 ---
 share: true
-updated: 2026-09-23T13:11
+updated: 2026-10-28T16:28
 description: "Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác. Số tiền kiếm được: 60k/stk ngân hàng"
 aliases:
   - Nhận tiền hộ
-created: 2025-08-16T22:23
+created: 2026-10-28T16:26
 ---
 Mô tả công việc:: Chuyển dùm tiền được gửi về tài khoản ngân hàng của bạn sang tài khoản khác
 Số tiền kiếm được:: 60k/stk ngân hàng
@@ -25,12 +25,12 @@ Bài chi tiết:: [[Đặt đơn ảo, đơn khống]]
 ## Thông tin thêm
 - Được chọn ngày bạn muốn làm
 - Một tài khoản ngân hàng có thể có nhiều stk khác nhau. Hầu hết ngân hàng đều mở được tối thiểu 2 stk từ cùng một tài khoản. Với MBBank thì được 3 cái, TPBank được 4 cái.
-- [[Công việc nhận tiền hộ không phải là thuê tài khoản, vì không phải đăng nhập vào tài khoản người dùng]]
+- [[Việc nhận tiền hộ không phải là thuê tài khoản, vì không phải đăng nhập vào tài khoản người dùng]]
 
 Số tiền đầu tư:: 
 Số tiền đặt cọc:: 
 Số người cần tuyển:: 0
-Hình thức công v[[Làm thuê không có hợp đồng]]khác]]
+Hình thức công việc:: [[Làm thuê không có hợp đồng]]
 Kiến thức, kỹ năng cần có sẵn::
 Tài nguyên, vật dụng cần có sẵn::  [[Có sẵn tài khoản ngân hàng]]
 Môi trường làm việc:: [[Làm qua mạng]]
@@ -44,6 +44,3 @@ Tên khác::
 ## Nơi thảo luận
 Vào Discord Quả Cầu, kênh "Kiếm tiền nhanh" để thảo luận:
 ![](https://i.imgur.com/PffcLkI.png)
-
-> [!important] Nhìn toàn cảnh
-> Công việc này là một phần của [[Sàn thương mại điện tử|Nhóm bào tiền sàn thương mại điện tử]], vốn là một phần của dự án [[Giúp nhau kiếm tiền]]. Đọc bài đầu tiên để được giải đáp các thắc mắc như độ an toàn của công việc, cách vận hành nhóm, cách thức tham gia, v.v. Đọc bài thứ hai để hiểu thêm về mục tiêu dài hạn của dự án cũng như các lợi ích khác của bạn. Ngoài ra, bạn cũng có thể tham khảo thêm [[Kiếm tiền nhanh|các công việc kiếm tiền nhanh]] khác.

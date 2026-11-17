@@ -9,4 +9,4 @@ Như nhóm này xây được cả căn nhà 2 tỉ: [Thủ đoạn chiếm đo�
 
 Mâu thuẫn với:: [[Sàn không cố gắng cấm triệt để việc người dùng dùng công cụ để ăn gian chính sách vì bên chịu thiệt là nhà bán hàng chứ không phải sàn]]
 
-[[💸Hình thức kiếm tiền/Thiếu liêm chính. Phạm pháp/Cách thực hiện/Làm kết quả ảo/Các công việc/Sàn thương mại điện tử/Giữ tiền hộ|Nhận tiền hộ]]
+[[Giữ tiền hộ|Nhận tiền hộ]]

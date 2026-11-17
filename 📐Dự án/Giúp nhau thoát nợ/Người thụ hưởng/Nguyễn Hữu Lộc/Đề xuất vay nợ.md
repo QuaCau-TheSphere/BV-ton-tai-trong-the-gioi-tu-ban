@@ -32,8 +32,8 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 ### Bạn đã thử tham gia vào [[📜Tài nguyên/Ý tưởng kiếm tiền/Ý tưởng/Ý tưởng|các ý tưởng kiếm tiền]] nào? Độ hiệu quả của chúng thế nào?
 ### Bạn nghĩ gì về [[Sống vừa đủ, bền vững, tiết kiệm|các ý tưởng tiết kiệm]] này?
 ### Bạn đã dùng tới [[Vay tín chấp]] nào? Vì sao chúng không phù hợp với bạn?
-### Bạn có chấp nhận [[xù nợ ngân hàng]], [[xù nợ vay nóng]] không? Vì sao?
-#### Vì sao bạn không thể [[Xù nợ ngân hàng|chấp nhận mất điểm tín dụng]]?
+### Bạn có chấp nhận [[Mất điểm tín dụng]], [[xù nợ vay nóng]] không? Vì sao?
+#### Vì sao bạn không thể [[Mất điểm tín dụng|chấp nhận mất điểm tín dụng]]?
 #### Giả sử như bạn chấp nhận mất, thì lý do đó có thể là gì?
 ### Bạn có chấp nhận [[Các lý do để không về quê hoặc không sống ở thành phố lớn]] không? Vì sao?
 ### Đã có bao nhiêu người biết tình hình của bạn rồi? Thái độ của họ thế nào? 
@@ -62,7 +62,7 @@ Thấy mình cầm đằng chuôi của GM nên nhảy vào. Ai ngờ nó cao ta
 | Hoạt động                                                                        | Thành phẩm                                                                                           |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Tạo ra [[Kiếm tiền nhanh\| các công việc "việc nhẹ lương cao"]] | Tầm 10 người tham gia                                                                                |
-| [[Bao nuôi]], [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Các khoản tài sản và khoản nợ Nhật đứng tên (phiên bản cho bạn bè)\|điểm tín dụng hạng 2]] |
+| [[Bao nuôi]], [[Tìm nguồn cho mượn tiền qua đêm]]                                                 | Nhật có [[Quỹ tín dụng Lý Minh Nhật\|điểm tín dụng hạng 2]] |
 | [[Kiếm tiền trực tuyến (MMO)\|Làm MMO]]                                          | [[Tài nguyên làm MMO]]                                                                           |
 | Đối thoại về cách Nhật tin, chú ý và ghi nhớ                                     | Ý tưởng về một câu chuyện mang tên *Hành trình đến với chữ "à"*                                      |
 

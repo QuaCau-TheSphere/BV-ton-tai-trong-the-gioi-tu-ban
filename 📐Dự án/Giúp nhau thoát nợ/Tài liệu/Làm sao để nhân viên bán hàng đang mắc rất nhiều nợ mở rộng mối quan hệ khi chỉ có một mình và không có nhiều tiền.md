@@ -11,7 +11,7 @@ a["Làm quen xã giao"]-->b["Giữ cho mối quan hệ không nguội lạnh"]--
 ```
 
 Do [[Các công ty ép chỉ tiêu khiến cho việc đi chào hàng không giúp phát triển một mối quan hệ chất lượng]], nên những người bán hàng cần phải có một cách thức để tăng số lượng mối quan hệ mà không tốn quá nhiều thời gian. Mặt khác, các công ty cũng không hỗ trợ nhân viên xây dựng thương hiệu, dù nó có lợi cho chính công ty 
-Sự hỗ trợ của các công ty chính là việc [[Các buổi sự kiện mời khách công ty (OPP) không chỉ để dễ chốt hợp đồng, mà còn để đánh giá đại lý và tập cho họ khả năng tự tổ chức các buổi của riêng mình|tổ chức các buổi OPP]], nhưng không phải lúc nào cũng đủ. Còn việc xây dựng hệ thống như thế này thì họ xem đây là lợi thế cạnh tranh của mỗi người, nên mỗi người cần tự lo cho mình
+Sự hỗ trợ của các công ty chính là việc [[Các buổi OPP không chỉ để dễ chốt hợp đồng, mà còn để đánh giá đại lý và tập cho họ khả năng tự tổ chức các buổi của riêng mình|tổ chức các buổi OPP]], nhưng không phải lúc nào cũng đủ. Còn việc xây dựng hệ thống như thế này thì họ xem đây là lợi thế cạnh tranh của mỗi người, nên mỗi người cần tự lo cho mình
 
 Đã có một bài viết riêng cho giai đoạn [[Mở rộng mối quan hệ|làm quen xã giao]]. Ở bài này sẽ giả định rằng bạn đã có một lượng người theo dõi mạng xã hội của bạn rồi, và công việc của chúng ta là giữ các liên kết đó không bị nguội lạnh, để khi họ có nhu cầu tới sản phẩm thì sẽ nhớ tới mình đầu tiên.
 

@@ -3,7 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2026-09-18T18:19
 ---
-[[Mô hình kinh doanh của các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc|Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?]]
+[[Khi nào thì chiến lược định giá trả tuỳ tâm đạt được sự bền vững|Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?]]
 # Miễn phí
 Phản đối:
 - Cho miễn phí thì chỉ là tò mò

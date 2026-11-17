@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-08-14T13:50
+updated: 2026-10-26T19:59
 created: 2026-04-24T23:19
 ---
 ## Vcil gửi 23/4/2026
@@ -350,4 +350,9 @@ Nó tạo ra cảm giác không công bằng.
 Những gì các bạn giải thích không có gì mâu thuẫn với những lời mình nói cả.
 việc không minh bạch là thứ gây ra sự thiếu đoàn kết
 
+Dừng ở việc tìm hiểu pháp luật là đc rồi. Không muốn tìm hiểu thêm về sự trượt nghĩa
 
+Không nghĩ là nên hỗ trợ những nơi không minh bạch và không thấy mình có nghĩa vụ hay trách nhiệm hỏi lại trước khi phán xét người khác.
+
+Các bạn hay nói về sở hữu chung. Nay tại sao lại nói là của riêng các bạn?
+[[Sở hữu chung không phải là sở hữu riêng và cũng không phải là sở hữu công]]

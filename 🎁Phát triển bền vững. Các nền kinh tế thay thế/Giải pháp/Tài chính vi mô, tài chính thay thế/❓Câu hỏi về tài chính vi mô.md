@@ -34,7 +34,7 @@ kỹ năng sống + âm tiền: R&D + chuyên môn hóa?
 Giải trình, minh bạch cản trở việc giải ngân. [[Khả năng tiếp cận vốn quan trọng hơn giá vốn]]
 
 
-## [[Tìm người ở ghép ở TP.HCM]]
-[[Tìm người ở ghép ở TP.HCM]]
+## [[Lập nhóm sống chung nhà]]
+[[Lập nhóm sống chung nhà]]
 
 cơ chế lừa là gì. Trước đó vẫn đi đổi đc
